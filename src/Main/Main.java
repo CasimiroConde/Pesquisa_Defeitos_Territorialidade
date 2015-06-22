@@ -31,7 +31,7 @@ public class Main {
 
 	public static void main(String[] args) throws IOException {
 		GitHubClient client = new GitHubClient();
-		client.setCredentials("CasimiroConde", "m4m9s6vi");
+		client.setCredentials("CasimiroConde", "mestrado15");
 		
 		int openIssue = 0;
 		int closedIssue = 0;
@@ -43,8 +43,8 @@ public class Main {
 		IssueService issueService = new IssueService(client);
 		CommitService commitService = new CommitService(client);
 		
-
-		for(Collection<Issue> issue : issueService.pageIssues(repoId)){
+		//consigo paginar os issues, porém apenas os abertos, não consegui encontrar os fechados.
+		/*for(Collection<Issue> issue : issueService.pageIssues(repoId)){
 			for(Issue i : issue){
 				System.out.println(i.getTitle() + " " + i.getState() + " " + i.getNumber());
 				
@@ -54,8 +54,9 @@ public class Main {
 				if(i.getState().equalsIgnoreCase("closed"))
 					closedIssue++;
 			}
-		}
+		}*/
 		
+		//Consigo achar abertos e fechados, mas por causa da paginação, acho apenas 10.
 		/*for(SearchIssue search : issueService.searchIssues(repoId, "all", " ")){
 			System.out.println(search.getTitle() + " " + search.getState() + " " + search.getNumber());
 			
@@ -68,39 +69,62 @@ public class Main {
 		}*/
 		
 		System.out.println(openIssue + " " + closedIssue);
-		/*
+		
+		
+		//Encontro os commits feitos que fecharam um issue
+		
 		for(RepositoryCommit c : commitService.getCommits(repoId)){
 			if(contemPalavraChave(c.getCommit().getMessage())){
 				String[] palavras = c.getCommit().getMessage().split(" ");
 				for(String palavra : palavras){
-					if(contemPalavraChave(palavra)){
-						contadorDefeitosCorrigidos++;
+					if(ePalavraChave(palavra)){
+						contadorDefeitosCorrigidosCommits++;
+						System.out.println(palavra);
 					}
 				}
-
 			}
-		*/
+		}
 		
-}
+		System.out.println(contadorDefeitosCorrigidosCommits);
+	}
 	
-	public static boolean contemPalavraChave(String mensagem){
+	public static boolean ePalavraChave(String mensagem){
 		mensagem = mensagem.toLowerCase();
 		
-		if(mensagem.contains(" close ") || 
-			mensagem.contains(" closes ") || 
-			mensagem.contains(" closed ") || 
-			mensagem.contains(" fix ") || 
-			mensagem.contains(" fixes ") || 
-			mensagem.contains(" fixed ") || 
-			mensagem.contains(" resole ") || 
-			mensagem.contains(" resolves ") || 
-			mensagem.contains(" resolved ")){
+		if(mensagem.equals("close") || 
+			mensagem.equals("closes") || 
+			mensagem.equals("closed") || 
+			mensagem.equals("fix") || 
+			mensagem.equals("fixes") || 
+			mensagem.equals("fixed") || 
+			mensagem.equals("resole") || 
+			mensagem.equals("resolves") || 
+			mensagem.equals("resolved")){
 			return true;
 		}
 		
 		return false;
 		
-	};
+	}
+	
+	public static boolean contemPalavraChave(String mensagem){
+		mensagem = mensagem.toLowerCase();
+		
+		if(mensagem.contains("close") || 
+			mensagem.contains("closes") || 
+			mensagem.contains("closed") || 
+			mensagem.contains("fix") || 
+			mensagem.contains("fixes") || 
+			mensagem.contains("fixed") || 
+			mensagem.contains("resole") || 
+			mensagem.contains("resolves") || 
+			mensagem.contains("resolved")){
+			return true;
+		}
+		
+		return false;
+		
+	}
 	
 	
 	
