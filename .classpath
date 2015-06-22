@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Casimiro/Downloads/Ferramentas/Eclipse/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Casimiro/Downloads/Ferramentas/Eclipse/org.eclipse.egit.github.core-2.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Casimiro/Downloads/Ferramentas/Eclipse/eclipse-jee-luna-R-win32-x86_64/eclipse/lombok.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/gson"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
