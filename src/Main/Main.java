@@ -2,6 +2,11 @@ package Main;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.HashMap;
+import java.util.Map;
+
+import javax.naming.directory.SearchControls;
+import javax.swing.text.html.HTMLDocument.Iterator;
 
 import org.eclipse.egit.github.core.Commit;
 import org.eclipse.egit.github.core.IRepositoryIdProvider;
@@ -11,10 +16,14 @@ import org.eclipse.egit.github.core.RepositoryCommit;
 import org.eclipse.egit.github.core.RepositoryId;
 import org.eclipse.egit.github.core.RepositoryIssue;
 import org.eclipse.egit.github.core.SearchIssue;
+import org.eclipse.egit.github.core.SearchRepository;
 import org.eclipse.egit.github.core.client.GitHubClient;
+import org.eclipse.egit.github.core.client.PageIterator;
 import org.eclipse.egit.github.core.service.CommitService;
 import org.eclipse.egit.github.core.service.IssueService;
 import org.eclipse.egit.github.core.service.RepositoryService;
+
+import com.sun.org.apache.bcel.internal.generic.ISUB;
 
 
 public class Main {
@@ -43,30 +52,33 @@ public class Main {
 		IssueService issueService = new IssueService(client);
 		CommitService commitService = new CommitService(client);
 		
-		//consigo paginar os issues, porém apenas os abertos, não consegui encontrar os fechados.
-		/*for(Collection<Issue> issue : issueService.pageIssues(repoId)){
-			for(Issue i : issue){
-				System.out.println(i.getTitle() + " " + i.getState() + " " + i.getNumber());
-				
-				if(i.getState().equalsIgnoreCase("open"))
+		
+		
+		Map<String, String> params = new HashMap<String, String>();
+	    params.put(IssueService.FILTER_STATE, "all");
+	    PageIterator<Issue> iterator = issueService.pageIssues(repoId,
+		            params, 10);
+		
+	    
+	    
+	    while(iterator.hasNext()){
+	    	Collection<Issue> page = iterator.next();
+	    	System.out.println(page.size());
+	    	java.util.Iterator<Issue> itr = page.iterator(); 
+	    	while(itr.hasNext()){
+	    		Issue issue = itr.next();
+	    		System.out.println(issue.getTitle());
+
+	    		if(issue.getState().equalsIgnoreCase("open"))
 					openIssue++;
 				
-				if(i.getState().equalsIgnoreCase("closed"))
-					closedIssue++;
-			}
-		}*/
+				if(issue.getState().equalsIgnoreCase("closed"))
+					closedIssue++;   		
+	    	}
+	    
+		}
 		
-		//Consigo achar abertos e fechados, mas por causa da paginação, acho apenas 10.
-		/*for(SearchIssue search : issueService.searchIssues(repoId, "all", " ")){
-			System.out.println(search.getTitle() + " " + search.getState() + " " + search.getNumber());
-			
-			if(search.getState().equalsIgnoreCase("open"))
-				openIssue++;
-			
-			if(search.getState().equalsIgnoreCase("closed"))
-				closedIssue++;
-			
-		}*/
+		
 		
 		System.out.println(openIssue + " " + closedIssue);
 		
