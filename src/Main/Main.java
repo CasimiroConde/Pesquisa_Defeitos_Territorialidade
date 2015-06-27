@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 import javax.naming.directory.SearchControls;
@@ -11,6 +12,7 @@ import javax.swing.text.html.HTMLDocument.Iterator;
 import org.eclipse.egit.github.core.Commit;
 import org.eclipse.egit.github.core.IRepositoryIdProvider;
 import org.eclipse.egit.github.core.Issue;
+import org.eclipse.egit.github.core.Label;
 import org.eclipse.egit.github.core.Repository;
 import org.eclipse.egit.github.core.RepositoryCommit;
 import org.eclipse.egit.github.core.RepositoryId;
@@ -44,10 +46,12 @@ public class Main {
 		
 		int openIssue = 0;
 		int closedIssue = 0;
+		int openIssueBug = 0;
+		int closedIssueBug = 0;
 		int contadorDefeitosCorrigidosCommits = 0;
 		
 		RepositoryService repositoryService = new RepositoryService(client);
-		IRepositoryIdProvider repoId = new RepositoryId("purifycss","purifycss");
+		IRepositoryIdProvider repoId = new RepositoryId("CasimiroConde","Responsive_Web_Page");
 	    
 		IssueService issueService = new IssueService(client);
 		CommitService commitService = new CommitService(client);
@@ -60,7 +64,8 @@ public class Main {
 		            params, 10);
 		
 	    
-	    
+	    //Conta Issues
+	    //Conta Issues com Label de Bug
 	    while(iterator.hasNext()){
 	    	Collection<Issue> page = iterator.next();
 	    	System.out.println(page.size());
@@ -69,11 +74,20 @@ public class Main {
 	    		Issue issue = itr.next();
 	    		System.out.println(issue.getTitle());
 
-	    		if(issue.getState().equalsIgnoreCase("open"))
-					openIssue++;
-				
+	    		List<Label> labels = issue.getLabels();
+	    		if(eBug(labels)){
+	    			if(issue.getState().equalsIgnoreCase("open"))
+						openIssueBug++;
+					
+					if(issue.getState().equalsIgnoreCase("closed"))
+						closedIssueBug++;   
+	    		} 
+		    	if(issue.getState().equalsIgnoreCase("open"))
+						openIssue++;
+					
 				if(issue.getState().equalsIgnoreCase("closed"))
-					closedIssue++;   		
+						closedIssue++;   		
+	    		
 	    	}
 	    
 		}
@@ -81,7 +95,7 @@ public class Main {
 		
 		
 		System.out.println(openIssue + " " + closedIssue);
-		
+		System.out.println(openIssueBug + " " + closedIssueBug);
 		
 		//Encontro os commits feitos que fecharam um issue
 		
@@ -136,6 +150,16 @@ public class Main {
 		
 		return false;
 		
+	}
+	
+	public static boolean eBug(List<Label> labels){
+		
+		for(Label l : labels){
+			if(l.getName().equals("bug"))
+				return true;
+		}
+		
+		return false;
 	}
 	
 	
