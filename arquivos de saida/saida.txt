@@ -1,17 +1,251 @@
-________________||||Repositório: Pesquisa_Defeitos_Territorialidade||||_________________________
-Usuario: CasimiroConde Repositório: Pesquisa_Defeitos_Territorialidade
+________________||||Repositório: javascript-in-one-pic||||_________________________
+Usuario: coodict Repositório: javascript-in-one-pic
 Listas de Issues dentro do Repositório
-Abertos: 0 Fechados: 2
+Abertos: 4 Fechados: 11
 Listas de Issues dentro do Repositório (Marcados como Bug)
-Abertos: 0 Fechados: 2
+Abertos: 0 Fechados: 0
+Issues Encerrados em um Commit: 3
+Issues Bug Encerrados em um Commit: 0
+Porcentual fechado de Issues em um Commit: 27%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): ?%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 0%
+
+________________||||Repositório: purifycss||||_________________________
+Usuario: purifycss Repositório: purifycss
+Listas de Issues dentro do Repositório
+Abertos: 7 Fechados: 63
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 0 Fechados: 0
+Issues Encerrados em um Commit: 5
+Issues Bug Encerrados em um Commit: 0
+Porcentual fechado de Issues em um Commit: 8%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): ?%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 0%
+
+________________||||Repositório: brython||||_________________________
+Usuario: brython-dev Repositório: brython
+Listas de Issues dentro do Repositório
+Abertos: 39 Fechados: 185
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 0 Fechados: 13
+Issues Encerrados em um Commit: 65
+Issues Bug Encerrados em um Commit: 5
+Porcentual fechado de Issues em um Commit: 35%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): 38%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 3%
+
+________________||||Repositório: infer||||_________________________
+Usuario: facebook Repositório: infer
+Listas de Issues dentro do Repositório
+Abertos: 40 Fechados: 75
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 4 Fechados: 1
+Issues Encerrados em um Commit: 0
+Issues Bug Encerrados em um Commit: 0
+Porcentual fechado de Issues em um Commit: 0%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): 0%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 0%
+
+________________||||Repositório: awesome||||_________________________
+Usuario: sindresorhus Repositório: awesome
+Listas de Issues dentro do Repositório
+Abertos: 6 Fechados: 206
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 0 Fechados: 0
+Issues Encerrados em um Commit: 21
+Issues Bug Encerrados em um Commit: 0
+Porcentual fechado de Issues em um Commit: 10%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): ?%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 0%
+
+________________||||Repositório: data-science-ipython-notebooks||||_________________________
+Usuario: donnemartin Repositório: data-science-ipython-notebooks
+Listas de Issues dentro do Repositório
+Abertos: 1 Fechados: 2
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 0 Fechados: 0
 Issues Encerrados em um Commit: 1
+Issues Bug Encerrados em um Commit: 0
 Porcentual fechado de Issues em um Commit: 50%
-Porcentual fechado de Issues (Bug): 50%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): ?%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 0%
+
+________________||||Repositório: nuclide||||_________________________
+Usuario: facebook Repositório: nuclide
+Listas de Issues dentro do Repositório
+Abertos: 54 Fechados: 56
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 2 Fechados: 0
+Issues Encerrados em um Commit: 0
+Issues Bug Encerrados em um Commit: 0
+Porcentual fechado de Issues em um Commit: 0%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): 0%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 0%
+
+________________||||Repositório: butterknife||||_________________________
+Usuario: JakeWharton Repositório: butterknife
+Listas de Issues dentro do Repositório
+Abertos: 27 Fechados: 253
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 0 Fechados: 0
+Issues Encerrados em um Commit: 4
+Issues Bug Encerrados em um Commit: 0
+Porcentual fechado de Issues em um Commit: 2%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): ?%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 0%
+
+________________||||Repositório: Tropos||||_________________________
+Usuario: thoughtbot Repositório: Tropos
+Listas de Issues dentro do Repositório
+Abertos: 8 Fechados: 124
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 0 Fechados: 3
+Issues Encerrados em um Commit: 1
+Issues Bug Encerrados em um Commit: 0
+Porcentual fechado de Issues em um Commit: 1%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): 0%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 0%
+
+________________||||Repositório: material-theme||||_________________________
+Usuario: equinusocio Repositório: material-theme
+Listas de Issues dentro do Repositório
+Abertos: 11 Fechados: 256
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 1 Fechados: 16
+Issues Encerrados em um Commit: 26
+Issues Bug Encerrados em um Commit: 7
+Porcentual fechado de Issues em um Commit: 10%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): 44%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 3%
+
+________________||||Repositório: design||||_________________________
+Usuario: WebAssembly Repositório: design
+Listas de Issues dentro do Repositório
+Abertos: 43 Fechados: 191
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 3 Fechados: 5
+Issues Encerrados em um Commit: 0
+Issues Bug Encerrados em um Commit: 0
+Porcentual fechado de Issues em um Commit: 0%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): 0%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 0%
+
+________________||||Repositório: pdfmake||||_________________________
+Usuario: bpampuch Repositório: pdfmake
+Listas de Issues dentro do Repositório
+Abertos: 92 Fechados: 252
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 26 Fechados: 15
+Issues Encerrados em um Commit: 5
+Issues Bug Encerrados em um Commit: 1
+Porcentual fechado de Issues em um Commit: 2%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): 7%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 0%
+
+________________||||Repositório: Rocket.Chat||||_________________________
+Usuario: RocketChat Repositório: Rocket.Chat
+Listas de Issues dentro do Repositório
+Abertos: 69 Fechados: 176
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 0 Fechados: 0
+Issues Encerrados em um Commit: 17
+Issues Bug Encerrados em um Commit: 0
+Porcentual fechado de Issues em um Commit: 10%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): ?%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 0%
+
+________________||||Repositório: platform||||_________________________
+Usuario: mattermost Repositório: platform
+Listas de Issues dentro do Repositório
+Abertos: 19 Fechados: 72
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 0 Fechados: 0
+Issues Encerrados em um Commit: 0
+Issues Bug Encerrados em um Commit: 0
+Porcentual fechado de Issues em um Commit: 0%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): 0%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 0%
+
+________________||||Repositório: You-Dont-Know-JS||||_________________________
+Usuario: getify Repositório: You-Dont-Know-JS
+Listas de Issues dentro do Repositório
+Abertos: 38 Fechados: 434
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 0 Fechados: 1
+Issues Encerrados em um Commit: 125
+Issues Bug Encerrados em um Commit: 1
+Porcentual fechado de Issues em um Commit: 29%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): 100%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 0%
+
+________________||||Repositório: libextobjc||||_________________________
+Usuario: jspahrsummers Repositório: libextobjc
+Listas de Issues dentro do Repositório
+Abertos: 15 Fechados: 76
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 5 Fechados: 6
+Issues Encerrados em um Commit: 0
+Issues Bug Encerrados em um Commit: 0
+Porcentual fechado de Issues em um Commit: 0%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): 0%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 0%
+
+________________||||Repositório: OHHTTPStubs||||_________________________
+Usuario: AliSoftware Repositório: OHHTTPStubs
+Listas de Issues dentro do Repositório
+Abertos: 4 Fechados: 102
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 0 Fechados: 0
+Issues Encerrados em um Commit: 6
+Issues Bug Encerrados em um Commit: 0
+Porcentual fechado de Issues em um Commit: 6%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): ?%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 0%
+
+________________||||Repositório: Rebel||||_________________________
+Usuario: github Repositório: Rebel
+Listas de Issues dentro do Repositório
+Abertos: 12 Fechados: 139
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 3 Fechados: 11
+Issues Encerrados em um Commit: 1
+Issues Bug Encerrados em um Commit: 1
+Porcentual fechado de Issues em um Commit: 1%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): 9%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 1%
+
+________________||||Repositório: feedbackreporter||||_________________________
+Usuario: tcurdt Repositório: feedbackreporter
+Listas de Issues dentro do Repositório
+Abertos: 16 Fechados: 28
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 6 Fechados: 2
+Issues Encerrados em um Commit: 0
+Issues Bug Encerrados em um Commit: 0
+Porcentual fechado de Issues em um Commit: 0%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): 0%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 0%
+
+________________||||Repositório: KSFileUtilities||||_________________________
+Usuario: karelia Repositório: KSFileUtilities
+Listas de Issues dentro do Repositório
+Abertos: 7 Fechados: 14
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 0 Fechados: 0
+Issues Encerrados em um Commit: 0
+Issues Bug Encerrados em um Commit: 0
+Porcentual fechado de Issues em um Commit: 0%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): 0%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 0%
+
 ____________________||||(Todos os Repositórios)||||______________________
 Listas de Issues
-Abertos: 0 Fechados: 2
+Abertos: 512 Fechados: 2715
 Listas de Issues (Marcados como Bug)
-Abertos: 0 Fechados: 2
-Issues Encerrados em um Commit: 1
-Porcentual fechado de Issues em um Commit: 50%
-Porcentual fechado de Issues (Bug): 50%
+Abertos: 50 Fechados: 73
+Issues Encerrados em um Commit: 280
+Issues Bug Encerrados em um Commit: 15
+Porcentual fechado de Issues em um Commit : 10%
+Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): 21%
+Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): 1%
+

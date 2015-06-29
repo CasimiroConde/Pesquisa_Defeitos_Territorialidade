@@ -30,6 +30,7 @@ public @Data class Repositorio {
 	private int contadorIssuesBugCorrigidosCommits = 0;
 	private double porcentualIssuesFechadosCommit = 0.0;
 	private double porcentualIssuesBugFechadosCommit = 0.0;
+	private double porcentualIssuesBugFechadosCommitTotal = 0.0;
 	
 	public Repositorio(String usuario, String repositorio){
 		this.userName = usuario;
@@ -73,13 +74,16 @@ public @Data class Repositorio {
 				for(int i = 0 ; i < palavras.length ; i++){
 					if(MetodosAuxiliares.ePalavraChave(palavras[i])){
 						if((i + 1) < palavras.length ){
-							if(palavras[i + 1].startsWith("#"))
+							if(palavras[i + 1].startsWith("#")){
 								this.contadorIssuesCorrigidosCommits++;
-								if(issueService.getIssue(this.getRepoId(), palavras[i + 1].substring(1)) != null){
-									if(MetodosAuxiliares.eBug(issueService.getIssue(this.getRepoId(), palavras[i + 1].substring(1)).getLabels())){
+								String numeroIssue = palavras[i + 1].substring(1).replaceAll("[^0-9]", "");	
+								Issue issue = issueService.getIssue(this.repoId, numeroIssue);
+								if(issue != null){
+									if(MetodosAuxiliares.eBug(issue.getLabels())){
 										this.contadorIssuesBugCorrigidosCommits++;
 									}
 								}
+							}
 						}
 					}
 				}
@@ -91,6 +95,8 @@ public @Data class Repositorio {
 		if(this.getContadorIssuesCorrigidosCommits() > 0){
 			this.porcentualIssuesFechadosCommit = (double) (this.getContadorIssuesCorrigidosCommits() * 100) / this.getClosedIssue();
 			this.porcentualIssuesBugFechadosCommit = (double) (this.getContadorIssuesBugCorrigidosCommits() * 100) / this.getClosedIssueBug();
+			this.porcentualIssuesBugFechadosCommitTotal = (double) (this.getContadorIssuesBugCorrigidosCommits() * 100) / this.getClosedIssue();
+			
 		}
 	}
 }

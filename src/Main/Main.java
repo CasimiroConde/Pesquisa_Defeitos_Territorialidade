@@ -9,7 +9,7 @@ import org.eclipse.egit.github.core.service.IssueService;
 
 public class Main {
 	
-	static Repositorio[] r = new Repositorio[1];
+	static Repositorio[] r = new Repositorio[20];
 	static String nomeArquivo =  "C:/Users/Casimiro/git/Territorialidade/arquivos de saida/saida.txt";
 	
 
@@ -23,6 +23,7 @@ public class Main {
 		int totalContadorIssuesBugCorrigidosCommits = 0;
 		double totalPorcentualIssuesFechadosCommit = 0.0;
 		double totalPorcentualIssuesBugFechadosCommit = 0.0;
+		double totalPorcentualIssuesBugFechadosCommitTotal = 0.0;
 		
 		//Autentica Cliente e inicializa serviços
 		GitHubClient client = new GitHubClient();
@@ -58,9 +59,10 @@ public class Main {
 		if(totalContadorIssuesCorrigidosCommits > 0){
 			totalPorcentualIssuesFechadosCommit = (double) (totalContadorIssuesCorrigidosCommits * 100) / totalClosedIssue;
 			totalPorcentualIssuesBugFechadosCommit = (double) (totalContadorIssuesBugCorrigidosCommits * 100) / totalClosedIssueBug;
+			totalPorcentualIssuesBugFechadosCommitTotal = (double) (totalContadorIssuesBugCorrigidosCommits * 100) / totalClosedIssue;
 		}
 		
-		Writer.printConteudoTodosRepositorios(buffer, totalOpenIssue, totalClosedIssue, totalOpenIssueBug, totalClosedIssueBug, totalContadorIssuesCorrigidosCommits, totalPorcentualIssuesFechadosCommit, totalPorcentualIssuesBugFechadosCommit);
+		Writer.printConteudoTodosRepositorios(buffer, totalOpenIssue, totalClosedIssue, totalOpenIssueBug, totalClosedIssueBug, totalContadorIssuesCorrigidosCommits, totalContadorIssuesBugCorrigidosCommits, totalPorcentualIssuesFechadosCommit, totalPorcentualIssuesBugFechadosCommit, totalPorcentualIssuesBugFechadosCommitTotal);
 		
 		Writer.criaArquivo(nomeArquivo, buffer);
 		System.out.println("Arquivo Gravado!");
@@ -68,8 +70,8 @@ public class Main {
 
 
 	private static ArrayList<Repositorio> inicializaListaRepositórios() {
-		r[0] = new Repositorio("CasimiroConde", "Pesquisa_Defeitos_Territorialidade");
-		/*r[1] = new Repositorio("purifycss", "purifycss");
+		r[0] = new Repositorio("coodict", "javascript-in-one-pic");
+		r[1] = new Repositorio("purifycss", "purifycss");
 		r[2] = new Repositorio("brython-dev", "brython");
 		r[3] = new Repositorio("facebook", "infer");
 		r[4] = new Repositorio("sindresorhus", "awesome");
@@ -87,7 +89,7 @@ public class Main {
 		r[16] = new Repositorio("AliSoftware", "OHHTTPStubs");
 		r[17] = new Repositorio("github", "Rebel");
 		r[18] = new Repositorio("tcurdt", "feedbackreporter");
-		r[19] = new Repositorio("karelia", "KSFileUtilities");*/
+		r[19] = new Repositorio("karelia", "KSFileUtilities");
 
 		ArrayList<Repositorio> repositorios = new ArrayList<Repositorio>();
 		

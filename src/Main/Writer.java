@@ -30,12 +30,14 @@ public class Writer {
 		buffer.append("Listas de Issues dentro do Repositório (Marcados como Bug)" + System.getProperty("line.separator"));
 		buffer.append("Abertos: " + repositorio.getOpenIssueBug() + " Fechados: " + repositorio.getClosedIssueBug()+ System.getProperty("line.separator"));
 		buffer.append("Issues Encerrados em um Commit: " + repositorio.getContadorIssuesCorrigidosCommits()+ System.getProperty("line.separator"));
+		buffer.append("Issues Bug Encerrados em um Commit: " + repositorio.getContadorIssuesBugCorrigidosCommits()+ System.getProperty("line.separator"));
 		buffer.append("Porcentual fechado de Issues em um Commit: " + format.format(repositorio.getPorcentualIssuesFechadosCommit()) + "%" + System.getProperty("line.separator"));		
-		buffer.append("Porcentual fechado de Issues (Bug): " + format.format(repositorio.getPorcentualIssuesBugFechadosCommit()) + "%");
+		buffer.append("Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): " + format.format(repositorio.getPorcentualIssuesBugFechadosCommit()) + "%" + System.getProperty("line.separator"));
+		buffer.append("Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): " + format.format(repositorio.getPorcentualIssuesBugFechadosCommitTotal()) + "%" + System.getProperty("line.separator"));
 		buffer.append(System.getProperty("line.separator"));
 	}
 	
-	public static void printConteudoTodosRepositorios(StringBuilder buffer, int totalOpenIssue, int totalClosedIssue, int totalOpenIssueBug, int totalClosedIssueBug, int totalContadorDefeitosCorrigidosCommits, double totalPorcentualIssuesFechadosCommit, double totalPorcentualIssuesBugFechadosCommit){
+	public static void printConteudoTodosRepositorios(StringBuilder buffer, int totalOpenIssue, int totalClosedIssue, int totalOpenIssueBug, int totalClosedIssueBug, int totalContadorIssuesCorrigidosCommits, int totalContadorIssuesBugCorrigidosCommits, double totalPorcentualIssuesFechadosCommit, double totalPorcentualIssuesBugFechadosCommit, double totalPorcentualIssuesBugFechadosCommitTotal){
 		
 		//Informa formato de impressão de Double
 		DecimalFormat format = new DecimalFormat("0");
@@ -45,9 +47,11 @@ public class Writer {
 		buffer.append("Abertos: " + totalOpenIssue + " Fechados: " + totalClosedIssue + System.getProperty("line.separator"));
 		buffer.append("Listas de Issues (Marcados como Bug)" + System.getProperty("line.separator"));
 		buffer.append("Abertos: " + totalOpenIssueBug + " Fechados: " + totalClosedIssueBug + System.getProperty("line.separator"));
-		buffer.append("Issues Encerrados em um Commit: " + totalContadorDefeitosCorrigidosCommits + System.getProperty("line.separator"));
-		buffer.append("Porcentual fechado de Issues em um Commit: " + format.format(totalPorcentualIssuesFechadosCommit) + "%" + System.getProperty("line.separator"));
-		buffer.append("Porcentual fechado de Issues (Bug): " + format.format(totalPorcentualIssuesBugFechadosCommit) + "%");
+		buffer.append("Issues Encerrados em um Commit: " + totalContadorIssuesCorrigidosCommits + System.getProperty("line.separator"));
+		buffer.append("Issues Bug Encerrados em um Commit: " + totalContadorIssuesBugCorrigidosCommits + System.getProperty("line.separator"));
+		buffer.append("Porcentual fechado de Issues em um Commit : " + format.format(totalPorcentualIssuesFechadosCommit) + "%" + System.getProperty("line.separator"));
+		buffer.append("Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): " + format.format(totalPorcentualIssuesBugFechadosCommit) + "%" + System.getProperty("line.separator"));
+		buffer.append("Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): " + format.format(totalPorcentualIssuesBugFechadosCommitTotal) + "%" + System.getProperty("line.separator"));
 		buffer.append(System.getProperty("line.separator"));
 		
 	}
