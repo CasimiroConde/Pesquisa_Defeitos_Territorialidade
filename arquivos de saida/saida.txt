@@ -1,0 +1,17 @@
+________________||||Repositório: Pesquisa_Defeitos_Territorialidade||||_________________________
+Usuario: CasimiroConde Repositório: Pesquisa_Defeitos_Territorialidade
+Listas de Issues dentro do Repositório
+Abertos: 1 Fechados: 0
+Listas de Issues dentro do Repositório (Marcados como Bug)
+Abertos: 1 Fechados: 0
+Issues Encerrados em um Commit: 0
+Porcentual fechado de Issues em um Commit: 0%
+Porcentual fechado de Issues (Bug): 0%
+____________________||||(Todos os Repositórios)||||______________________
+Listas de Issues
+Abertos: 1 Fechados: 0
+Listas de Issues (Marcados como Bug)
+Abertos: 1 Fechados: 0
+Issues Encerrados em um Commit: 0
+Porcentual fechado de Issues em um Commit: 0%
+Porcentual fechado de Issues (Bug): 0%

@@ -1,169 +1,101 @@
 package Main;
+
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
-import javax.naming.directory.SearchControls;
-import javax.swing.text.html.HTMLDocument.Iterator;
-
-import org.eclipse.egit.github.core.Commit;
-import org.eclipse.egit.github.core.IRepositoryIdProvider;
-import org.eclipse.egit.github.core.Issue;
-import org.eclipse.egit.github.core.Label;
-import org.eclipse.egit.github.core.Repository;
-import org.eclipse.egit.github.core.RepositoryCommit;
-import org.eclipse.egit.github.core.RepositoryId;
-import org.eclipse.egit.github.core.RepositoryIssue;
-import org.eclipse.egit.github.core.SearchIssue;
-import org.eclipse.egit.github.core.SearchRepository;
 import org.eclipse.egit.github.core.client.GitHubClient;
-import org.eclipse.egit.github.core.client.PageIterator;
 import org.eclipse.egit.github.core.service.CommitService;
 import org.eclipse.egit.github.core.service.IssueService;
-import org.eclipse.egit.github.core.service.RepositoryService;
-
-import com.sun.org.apache.bcel.internal.generic.ISUB;
 
 
 public class Main {
 	
-	private String[] PALAVRAS_CHAVE = {	"close" , 
-										"closes" , 
-										"closed" , 
-										"fix" ,
-										"fixes" ,
-										"fixed" ,
-										"resolve" ,
-										"resolves" , 
-										"resolved"};
+	static Repositorio[] r = new Repositorio[1];
+	static String nomeArquivo =  "C:/Users/Casimiro/git/Territorialidade/arquivos de saida/saida.txt";
+	
 
 	public static void main(String[] args) throws IOException {
+		
+		int totalOpenIssue = 0;
+		int totalClosedIssue = 0;
+		int totalOpenIssueBug = 0;
+		int totalClosedIssueBug = 0;
+		int totalContadorIssuesCorrigidosCommits = 0;
+		int totalContadorIssuesBugCorrigidosCommits = 0;
+		double totalPorcentualIssuesFechadosCommit = 0.0;
+		double totalPorcentualIssuesBugFechadosCommit = 0.0;
+		
+		//Autentica Cliente e inicializa serviços
 		GitHubClient client = new GitHubClient();
 		client.setCredentials("CasimiroConde", "mestrado15");
-		
-		int openIssue = 0;
-		int closedIssue = 0;
-		int openIssueBug = 0;
-		int closedIssueBug = 0;
-		int contadorDefeitosCorrigidosCommits = 0;
-		
-		RepositoryService repositoryService = new RepositoryService(client);
-		IRepositoryIdProvider repoId = new RepositoryId("CasimiroConde","Responsive_Web_Page");
-	    
 		IssueService issueService = new IssueService(client);
 		CommitService commitService = new CommitService(client);
 		
+		//String de Gravação
+		StringBuilder buffer = new StringBuilder();
 		
+		//Inicializa Repositórios
+		ArrayList<Repositorio> repositorios = inicializaListaRepositórios();
 		
-		Map<String, String> params = new HashMap<String, String>();
-	    params.put(IssueService.FILTER_STATE, "all");
-	    PageIterator<Issue> iterator = issueService.pageIssues(repoId,
-		            params, 10);
-		
-	    
-	    //Conta Issues
-	    //Conta Issues com Label de Bug
-	    while(iterator.hasNext()){
-	    	Collection<Issue> page = iterator.next();
-	    	System.out.println(page.size());
-	    	java.util.Iterator<Issue> itr = page.iterator(); 
-	    	while(itr.hasNext()){
-	    		Issue issue = itr.next();
-	    		System.out.println(issue.getTitle());
-
-	    		List<Label> labels = issue.getLabels();
-	    		if(eBug(labels)){
-	    			if(issue.getState().equalsIgnoreCase("open"))
-						openIssueBug++;
-					
-					if(issue.getState().equalsIgnoreCase("closed"))
-						closedIssueBug++;   
-	    		} 
-		    	if(issue.getState().equalsIgnoreCase("open"))
-						openIssue++;
-					
-				if(issue.getState().equalsIgnoreCase("closed"))
-						closedIssue++;   		
-	    		
-	    	}
-	    
-		}
-		
-		
-		
-		System.out.println(openIssue + " " + closedIssue);
-		System.out.println(openIssueBug + " " + closedIssueBug);
-		
+		//Calculo das Quantidades de Issues
+		for(Repositorio r : repositorios){
+			r.calculaQuantidadesIssues(issueService);
+			totalOpenIssue += r.getOpenIssue();
+			totalClosedIssue += r.getClosedIssue();
+			totalOpenIssueBug += r.getOpenIssueBug();
+			totalClosedIssueBug += r.getClosedIssueBug();
+			
 		//Encontro os commits feitos que fecharam um issue
-		
-		for(RepositoryCommit c : commitService.getCommits(repoId)){
-			if(contemPalavraChave(c.getCommit().getMessage())){
-				String[] palavras = c.getCommit().getMessage().split(" ");
-				for(String palavra : palavras){
-					if(ePalavraChave(palavra)){
-						contadorDefeitosCorrigidosCommits++;
-						System.out.println(palavra);
-					}
-				}
-			}
+			r.defeitosCorrigidosCommit(commitService, issueService);			
+			totalContadorIssuesCorrigidosCommits += r.getContadorIssuesCorrigidosCommits();
+			totalContadorIssuesBugCorrigidosCommits += r.getContadorIssuesBugCorrigidosCommits();
+			
+		//Calcula % de 	issues encerrados atraves de commit em um repositorio
+			r.calculaIssuesFechadosCommit();	
+			Writer.printConteudo(buffer, r);
+			System.out.println("Encerrado Repositório: " + r.getUserName() +"/" + r.getRepositoryName());
 		}
 		
-		System.out.println(contadorDefeitosCorrigidosCommits);
-	}
-	
-	public static boolean ePalavraChave(String mensagem){
-		mensagem = mensagem.toLowerCase();
-		
-		if(mensagem.equals("close") || 
-			mensagem.equals("closes") || 
-			mensagem.equals("closed") || 
-			mensagem.equals("fix") || 
-			mensagem.equals("fixes") || 
-			mensagem.equals("fixed") || 
-			mensagem.equals("resole") || 
-			mensagem.equals("resolves") || 
-			mensagem.equals("resolved")){
-			return true;
+		if(totalContadorIssuesCorrigidosCommits > 0){
+			totalPorcentualIssuesFechadosCommit = (double) (totalContadorIssuesCorrigidosCommits * 100) / totalClosedIssue;
+			totalPorcentualIssuesBugFechadosCommit = (double) (totalContadorIssuesBugCorrigidosCommits * 100) / totalClosedIssueBug;
 		}
 		
-		return false;
+		Writer.printConteudoTodosRepositorios(buffer, totalOpenIssue, totalClosedIssue, totalOpenIssueBug, totalClosedIssueBug, totalContadorIssuesCorrigidosCommits, totalPorcentualIssuesFechadosCommit, totalPorcentualIssuesBugFechadosCommit);
 		
+		Writer.criaArquivo(nomeArquivo, buffer);
+		System.out.println("Arquivo Gravado!");
 	}
-	
-	public static boolean contemPalavraChave(String mensagem){
-		mensagem = mensagem.toLowerCase();
+
+
+	private static ArrayList<Repositorio> inicializaListaRepositórios() {
+		r[0] = new Repositorio("CasimiroConde", "Pesquisa_Defeitos_Territorialidade");
+		/*r[1] = new Repositorio("purifycss", "purifycss");
+		r[2] = new Repositorio("brython-dev", "brython");
+		r[3] = new Repositorio("facebook", "infer");
+		r[4] = new Repositorio("sindresorhus", "awesome");
+		r[5] = new Repositorio("donnemartin", "data-science-ipython-notebooks");
+		r[6] = new Repositorio("facebook", "nuclide");
+		r[7] = new Repositorio("JakeWharton", "butterknife");
+		r[8] = new Repositorio("thoughtbot", "Tropos");
+		r[9] = new Repositorio("equinusocio", "material-theme");
+		r[10] = new Repositorio("WebAssembly", "design");
+		r[11] = new Repositorio("bpampuch", "pdfmake");
+		r[12] = new Repositorio("RocketChat", "Rocket.Chat");
+		r[13] = new Repositorio("mattermost", "platform");
+		r[14] = new Repositorio("getify", "You-Dont-Know-JS");
+		r[15] = new Repositorio("jspahrsummers", "libextobjc");
+		r[16] = new Repositorio("AliSoftware", "OHHTTPStubs");
+		r[17] = new Repositorio("github", "Rebel");
+		r[18] = new Repositorio("tcurdt", "feedbackreporter");
+		r[19] = new Repositorio("karelia", "KSFileUtilities");*/
+
+		ArrayList<Repositorio> repositorios = new ArrayList<Repositorio>();
 		
-		if(mensagem.contains("close") || 
-			mensagem.contains("closes") || 
-			mensagem.contains("closed") || 
-			mensagem.contains("fix") || 
-			mensagem.contains("fixes") || 
-			mensagem.contains("fixed") || 
-			mensagem.contains("resole") || 
-			mensagem.contains("resolves") || 
-			mensagem.contains("resolved")){
-			return true;
+		for(Repositorio rep : r){
+		repositorios.add(rep);
 		}
-		
-		return false;
-		
+		return repositorios;
 	}
-	
-	public static boolean eBug(List<Label> labels){
-		
-		for(Label l : labels){
-			if(l.getName().equals("bug"))
-				return true;
-		}
-		
-		return false;
-	}
-	
-	
-	
 	
 	
 }
