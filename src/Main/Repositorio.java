@@ -68,6 +68,7 @@ public @Data class Repositorio {
 	}
 	
 	public void defeitosCorrigidosCommit(CommitService commitService, IssueService issueService) throws IOException{
+		try{
 		for(RepositoryCommit c : commitService.getCommits(this.getRepoId())){
 			if(MetodosAuxiliares.contemPalavraChave(c.getCommit().getMessage())){
 				String[] palavras = c.getCommit().getMessage().split(" ");
@@ -76,11 +77,14 @@ public @Data class Repositorio {
 						if((i + 1) < palavras.length ){
 							if(palavras[i + 1].startsWith("#")){
 								this.contadorIssuesCorrigidosCommits++;
-								String numeroIssue = palavras[i + 1].substring(1).replaceAll("[^0-9]", "");	
-								Issue issue = issueService.getIssue(this.repoId, numeroIssue);
-								if(issue != null){
-									if(MetodosAuxiliares.eBug(issue.getLabels())){
-										this.contadorIssuesBugCorrigidosCommits++;
+								String numeroIssue = palavras[i + 1].substring(1).replaceAll("[^0-9]", "");
+								if(!numeroIssue.isEmpty()){
+									Issue issue = issueService.getIssue(this.repoId, numeroIssue);
+									if(issue != null){
+										if(MetodosAuxiliares.eBug(issue.getLabels())){
+											this.contadorIssuesBugCorrigidosCommits++;
+										
+										}
 									}
 								}
 							}
@@ -88,6 +92,9 @@ public @Data class Repositorio {
 					}
 				}
 			}
+		}
+		} catch (IOException e){
+			 System.out.println("erro: " + e);
 		}
 	}
 	

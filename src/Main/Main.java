@@ -2,18 +2,32 @@ package Main;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import org.eclipse.egit.github.core.Issue;
+import org.eclipse.egit.github.core.Repository;
+import org.eclipse.egit.github.core.RepositoryCommit;
 import org.eclipse.egit.github.core.client.GitHubClient;
+import org.eclipse.egit.github.core.client.NoSuchPageException;
+import org.eclipse.egit.github.core.client.PageIterator;
+import org.eclipse.egit.github.core.client.RequestException;
 import org.eclipse.egit.github.core.service.CommitService;
 import org.eclipse.egit.github.core.service.IssueService;
+import org.eclipse.egit.github.core.service.RepositoryService;
+import org.eclipse.egit.github.core.service.UserService;
 
 
 public class Main {
 	
 	static Repositorio[] r = new Repositorio[20];
-	static String nomeArquivo =  "C:/Users/Casimiro/git/Territorialidade/arquivos de saida/saida.txt";
+	static String nomeArquivoAnalise =  "C:/Users/Casimiro/git/Territorialidade/arquivos de saida/saida.txt";
+	static String nomeArquivoRepositorios =  "C:/Users/Casimiro/git/Territorialidade/arquivos de saida/saidaRepositorios.txt";
 	
 
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws IOException, RequestException, NoSuchPageException {
 		
 		int totalOpenIssue = 0;
 		int totalClosedIssue = 0;
@@ -27,7 +41,8 @@ public class Main {
 		
 		//Autentica Cliente e inicializa serviços
 		GitHubClient client = new GitHubClient();
-		client.setCredentials("CasimiroConde", "mestrado15");
+		client.setOAuth2Token("9727fe050adb275d94ae6303a2134d1ad421c0d2");
+		
 		IssueService issueService = new IssueService(client);
 		CommitService commitService = new CommitService(client);
 		
@@ -35,7 +50,7 @@ public class Main {
 		StringBuilder buffer = new StringBuilder();
 		
 		//Inicializa Repositórios
-		ArrayList<Repositorio> repositorios = inicializaListaRepositórios();
+		ArrayList<Repositorio> repositorios = inicializaListaRepositórios(client);
 		
 		//Calculo das Quantidades de Issues
 		for(Repositorio r : repositorios){
@@ -64,40 +79,75 @@ public class Main {
 		
 		Writer.printConteudoTodosRepositorios(buffer, totalOpenIssue, totalClosedIssue, totalOpenIssueBug, totalClosedIssueBug, totalContadorIssuesCorrigidosCommits, totalContadorIssuesBugCorrigidosCommits, totalPorcentualIssuesFechadosCommit, totalPorcentualIssuesBugFechadosCommit, totalPorcentualIssuesBugFechadosCommitTotal);
 		
-		Writer.criaArquivo(nomeArquivo, buffer);
+		Writer.criaArquivo(nomeArquivoAnalise, buffer);
 		System.out.println("Arquivo Gravado!");
 	}
 
 
-	private static ArrayList<Repositorio> inicializaListaRepositórios() {
-		r[0] = new Repositorio("coodict", "javascript-in-one-pic");
-		r[1] = new Repositorio("purifycss", "purifycss");
-		r[2] = new Repositorio("brython-dev", "brython");
-		r[3] = new Repositorio("facebook", "infer");
-		r[4] = new Repositorio("sindresorhus", "awesome");
-		r[5] = new Repositorio("donnemartin", "data-science-ipython-notebooks");
-		r[6] = new Repositorio("facebook", "nuclide");
-		r[7] = new Repositorio("JakeWharton", "butterknife");
-		r[8] = new Repositorio("thoughtbot", "Tropos");
-		r[9] = new Repositorio("equinusocio", "material-theme");
-		r[10] = new Repositorio("WebAssembly", "design");
-		r[11] = new Repositorio("bpampuch", "pdfmake");
-		r[12] = new Repositorio("RocketChat", "Rocket.Chat");
-		r[13] = new Repositorio("mattermost", "platform");
-		r[14] = new Repositorio("getify", "You-Dont-Know-JS");
-		r[15] = new Repositorio("jspahrsummers", "libextobjc");
-		r[16] = new Repositorio("AliSoftware", "OHHTTPStubs");
-		r[17] = new Repositorio("github", "Rebel");
-		r[18] = new Repositorio("tcurdt", "feedbackreporter");
-		r[19] = new Repositorio("karelia", "KSFileUtilities");
-
+	private static ArrayList<Repositorio> inicializaListaRepositórios(GitHubClient client) throws IOException, RequestException {
 		ArrayList<Repositorio> repositorios = new ArrayList<Repositorio>();
-		
-		for(Repositorio rep : r){
-		repositorios.add(rep);
+		StringBuilder buffer = new StringBuilder();
+		try{
+			
+			RepositoryService repositoryService = new RepositoryService(client);
+			IssueService issueService = new IssueService(client);
+			CommitService commitService = new CommitService(client);
+			
+			int cont = 0;
+			
+			Map<String, String> params = new HashMap<String, String>();
+		    params.put(RepositoryService.FILTER_TYPE, "public");
+	
+			Map<String, String> paramsIssues = new HashMap<String, String>();
+		    paramsIssues.put(IssueService.FILTER_STATE, "all");
+			    
+			PageIterator<Repository> iterator = repositoryService.pageAllRepositories();
+			
+			while(iterator.hasNext() && cont < 800){
+				Collection<Repository> page = iterator.next();
+		    	java.util.Iterator<Repository> itr = page.iterator(); 
+	    		while(itr.hasNext()){
+			    	Repository repository = itr.next();
+			    	Repositorio repo = new Repositorio(repository.getOwner().getLogin(), repository.getName());
+					if(validaRepositorio(repository, repo, issueService, paramsIssues, commitService)){
+						incluiRepositorio(buffer, repositorios, repo);
+						cont++;
+			    		System.out.println(cont);
+			    		}						
+	    		}
+			}							
+			Writer.criaArquivo(nomeArquivoRepositorios, buffer);
+			System.out.println("Repositórios Inicializados!");
+			return repositorios;		
+		}catch (NoSuchPageException e ){
+			Writer.criaArquivo(nomeArquivoRepositorios, buffer);
+			System.out.println("Repositórios Inicializados!");
+			return repositorios;		
+				
 		}
-		return repositorios;
 	}
 	
+	private static boolean validaRepositorio(Repository repository, Repositorio repo, 
+			IssueService issueService, Map<String, String> paramsIssues, CommitService commitService){
+		if(repository.isPrivate())
+			return false;
+		
+		boolean issuesEmpty;
+		try {
+			issuesEmpty = issueService.getIssues(repo.getRepoId(), paramsIssues).isEmpty();
+			if(issuesEmpty)
+				return false;
+		} catch (IOException e1) {
+			return false;
+		}
+
+		return true;
+	}
+
+	private static void incluiRepositorio(StringBuilder buffer, ArrayList<Repositorio> repositorios, Repositorio repo)
+			throws IOException, RequestException {
+		repositorios.add(repo);
+		Writer.printRepositórios(buffer, repo);
+	}
 	
 }

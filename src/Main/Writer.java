@@ -55,5 +55,13 @@ public class Writer {
 		buffer.append(System.getProperty("line.separator"));
 		
 	}
+	
+public static void printRepositórios(StringBuilder buffer, Repositorio repositorio){
+		
+		//Informa Dados De Repositório
+		buffer.append("USER NAME: " + repositorio.getUserName() + "     REPOSITORY NAME: " + repositorio.getRepositoryName() + System.getProperty("line.separator"));
+		buffer.append(System.getProperty("line.separator"));
+		
+	}
 
 }
