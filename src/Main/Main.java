@@ -23,11 +23,9 @@ import org.eclipse.egit.github.core.service.UserService;
 public class Main {
 	
 	static Repositorio[] r = new Repositorio[20];
-	static String nomeArquivoAnalise =  "C:/Users/Casimiro/git/Territorialidade/arquivos de saida/saida.txt";
-	static String nomeArquivoRepositorios =  "C:/Users/Casimiro/git/Territorialidade/arquivos de saida/saidaRepositorios.txt";
-	
+	static String nomeArquivoAnalise =  "C:/Users/Casimiro/git/Territorialidade/arquivos de saida/saida.txt";	
 
-	public static void main(String[] args) throws IOException, RequestException, NoSuchPageException {
+	public static void main(String[] args) throws IOException, RequestException, NoSuchPageException, InterruptedException {
 		
 		int totalOpenIssue = 0;
 		int totalClosedIssue = 0;
@@ -41,7 +39,7 @@ public class Main {
 		
 		//Autentica Cliente e inicializa serviços
 		GitHubClient client = new GitHubClient();
-		client.setOAuth2Token("9727fe050adb275d94ae6303a2134d1ad421c0d2");
+		client.setOAuth2Token("d1880a21f5b544475a8b57e5ba6431ac9345913b");
 		
 		IssueService issueService = new IssueService(client);
 		CommitService commitService = new CommitService(client);
@@ -50,7 +48,7 @@ public class Main {
 		StringBuilder buffer = new StringBuilder();
 		
 		//Inicializa Repositórios
-		ArrayList<Repositorio> repositorios = inicializaListaRepositórios(client);
+		ArrayList<Repositorio> repositorios = Reader.execute();//inicializaListaRepositórios(client);
 		
 		//Calculo das Quantidades de Issues
 		for(Repositorio r : repositorios){
@@ -84,70 +82,6 @@ public class Main {
 	}
 
 
-	private static ArrayList<Repositorio> inicializaListaRepositórios(GitHubClient client) throws IOException, RequestException {
-		ArrayList<Repositorio> repositorios = new ArrayList<Repositorio>();
-		StringBuilder buffer = new StringBuilder();
-		try{
-			
-			RepositoryService repositoryService = new RepositoryService(client);
-			IssueService issueService = new IssueService(client);
-			CommitService commitService = new CommitService(client);
-			
-			int cont = 0;
-			
-			Map<String, String> params = new HashMap<String, String>();
-		    params.put(RepositoryService.FILTER_TYPE, "public");
-	
-			Map<String, String> paramsIssues = new HashMap<String, String>();
-		    paramsIssues.put(IssueService.FILTER_STATE, "all");
-			    
-			PageIterator<Repository> iterator = repositoryService.pageAllRepositories();
-			
-			while(iterator.hasNext() && cont < 800){
-				Collection<Repository> page = iterator.next();
-		    	java.util.Iterator<Repository> itr = page.iterator(); 
-	    		while(itr.hasNext()){
-			    	Repository repository = itr.next();
-			    	Repositorio repo = new Repositorio(repository.getOwner().getLogin(), repository.getName());
-					if(validaRepositorio(repository, repo, issueService, paramsIssues, commitService)){
-						incluiRepositorio(buffer, repositorios, repo);
-						cont++;
-			    		System.out.println(cont);
-			    		}						
-	    		}
-			}							
-			Writer.criaArquivo(nomeArquivoRepositorios, buffer);
-			System.out.println("Repositórios Inicializados!");
-			return repositorios;		
-		}catch (NoSuchPageException e ){
-			Writer.criaArquivo(nomeArquivoRepositorios, buffer);
-			System.out.println("Repositórios Inicializados!");
-			return repositorios;		
-				
-		}
-	}
-	
-	private static boolean validaRepositorio(Repository repository, Repositorio repo, 
-			IssueService issueService, Map<String, String> paramsIssues, CommitService commitService){
-		if(repository.isPrivate())
-			return false;
-		
-		boolean issuesEmpty;
-		try {
-			issuesEmpty = issueService.getIssues(repo.getRepoId(), paramsIssues).isEmpty();
-			if(issuesEmpty)
-				return false;
-		} catch (IOException e1) {
-			return false;
-		}
 
-		return true;
-	}
-
-	private static void incluiRepositorio(StringBuilder buffer, ArrayList<Repositorio> repositorios, Repositorio repo)
-			throws IOException, RequestException {
-		repositorios.add(repo);
-		Writer.printRepositórios(buffer, repo);
-	}
 	
 }

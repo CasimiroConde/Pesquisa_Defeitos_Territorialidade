@@ -11,6 +11,7 @@ import org.eclipse.egit.github.core.Issue;
 import org.eclipse.egit.github.core.Label;
 import org.eclipse.egit.github.core.RepositoryCommit;
 import org.eclipse.egit.github.core.RepositoryId;
+import org.eclipse.egit.github.core.client.NoSuchPageException;
 import org.eclipse.egit.github.core.client.PageIterator;
 import org.eclipse.egit.github.core.service.CommitService;
 import org.eclipse.egit.github.core.service.IssueService;
@@ -38,52 +39,88 @@ public @Data class Repositorio {
 		this.repoId = new RepositoryId(usuario, repositorio);
 	}
 	
-	public void calculaQuantidadesIssues(IssueService issueService){
-		Map<String, String> params = new HashMap<String, String>();
-	    params.put(IssueService.FILTER_STATE, "all");
-	    PageIterator<Issue> iterator = issueService.pageIssues(this.getRepoId(), params, 10);
+	public void calculaQuantidadesIssues(IssueService issueService) throws InterruptedException{
+		boolean encerrado = false;
+		
+		while(!encerrado){
+			try{
+				Map<String, String> params = new HashMap<String, String>();
+			    params.put(IssueService.FILTER_STATE, "all");
+			    PageIterator<Issue> iterator = issueService.pageIssues(this.getRepoId(), params, 100);
+				
+			    int openIssue1 = 0;
+			    int openIssueBug1 = 0;
+			    int closedIssue1 = 0;
+			    int closedIssueBug1 = 0;
 			    
-	    //Conta Issues
-	    //Conta Issues com Label de Bug
-	    while(iterator.hasNext()){
-	    	Collection<Issue> page = iterator.next();
-	    	java.util.Iterator<Issue> itr = page.iterator(); 
-	    	while(itr.hasNext()){
-	    		Issue issue = itr.next();
-	    		List<Label> labels = issue.getLabels();
-		    	if(issue.getState().equalsIgnoreCase("open")){
-					this.openIssue++;
-					if(MetodosAuxiliares.eBug(labels)){
-						this.openIssueBug++;
-					}
-		    	}
-				if(issue.getState().equalsIgnoreCase("closed")){
-					this.closedIssue++;
-					if(MetodosAuxiliares.eBug(labels)){
-						this.closedIssueBug++;   
-					}
+			    
+			    //Conta Issues
+			    //Conta Issues com Label de Bug
+			    while(iterator.hasNext()){
+			    	Collection<Issue> page = iterator.next();
+			    	java.util.Iterator<Issue> itr = page.iterator(); 
+			    	while(itr.hasNext()){
+			    		Issue issue = itr.next();
+			    		List<Label> labels = issue.getLabels();
+				    	if(issue.getState().equalsIgnoreCase("open")){
+							openIssue1++;
+							if(MetodosAuxiliares.eBug(labels)){
+								openIssueBug1++;
+							}
+				    	}
+						if(issue.getState().equalsIgnoreCase("closed")){
+								closedIssue1++;
+							if(MetodosAuxiliares.eBug(labels)){
+									closedIssueBug1++;   
+							}
+						}
+			    	}
 				}
-	    	}
+			    
+			    this.openIssue = openIssue1;
+			    this.openIssueBug = openIssueBug1;
+			    this.closedIssue = closedIssue1;
+			    this.closedIssueBug = closedIssueBug1;
+			    encerrado = true;
+			} catch (NoSuchPageException e ){
+				//Writer.criaArquivo(criaNome(cont), buffer);
+				System.out.println("Calcula Issues!! Máximo de Requisições Alcançada, tentaremos novamente em 10 min");
+				Thread.sleep(600 * 1000);
+				//return repositorios;		
+					
+			}
 		}
 	}
 	
-	public void defeitosCorrigidosCommit(CommitService commitService, IssueService issueService) throws IOException{
-		try{
-		for(RepositoryCommit c : commitService.getCommits(this.getRepoId())){
-			if(MetodosAuxiliares.contemPalavraChave(c.getCommit().getMessage())){
-				String[] palavras = c.getCommit().getMessage().split(" ");
-				for(int i = 0 ; i < palavras.length ; i++){
-					if(MetodosAuxiliares.ePalavraChave(palavras[i])){
-						if((i + 1) < palavras.length ){
-							if(palavras[i + 1].startsWith("#")){
-								this.contadorIssuesCorrigidosCommits++;
-								String numeroIssue = palavras[i + 1].substring(1).replaceAll("[^0-9]", "");
-								if(!numeroIssue.isEmpty()){
-									Issue issue = issueService.getIssue(this.repoId, numeroIssue);
-									if(issue != null){
-										if(MetodosAuxiliares.eBug(issue.getLabels())){
-											this.contadorIssuesBugCorrigidosCommits++;
-										
+	public void defeitosCorrigidosCommit(CommitService commitService, IssueService issueService) throws IOException, InterruptedException{
+		boolean encerrado = false;
+		Issue issue = null;
+		
+		while(!encerrado){
+			try{
+				int contadorIssuesCorrigidosCommits1 = 0;	
+				int contadorIssuesBugCorrigidosCommits1 = 0;
+				for(RepositoryCommit c : commitService.getCommits(this.getRepoId())){
+					if(MetodosAuxiliares.contemPalavraChave(c.getCommit().getMessage())){
+						String[] palavras = c.getCommit().getMessage().split(" ");
+						for(int i = 0 ; i < palavras.length ; i++){
+							if(MetodosAuxiliares.ePalavraChave(palavras[i])){
+								if((i + 1) < palavras.length ){
+									if(palavras[i + 1].startsWith("#")){
+										contadorIssuesCorrigidosCommits1++;
+										String numeroIssue = palavras[i + 1].substring(1).replaceAll("[^0-9]", "");
+										if(!numeroIssue.isEmpty()){
+											try{
+												issue = issueService.getIssue(this.repoId, numeroIssue);
+											}catch (IOException e) {
+												System.out.println("Não achou Issue: " + numeroIssue);
+												issue = null;
+											}
+											if(issue != null){
+												if(MetodosAuxiliares.eBug(issue.getLabels())){
+													contadorIssuesBugCorrigidosCommits1++;
+												}
+											}
 										}
 									}
 								}
@@ -91,10 +128,17 @@ public @Data class Repositorio {
 						}
 					}
 				}
+				
+				this.contadorIssuesCorrigidosCommits = contadorIssuesCorrigidosCommits1;
+				this.contadorIssuesBugCorrigidosCommits = contadorIssuesBugCorrigidosCommits1;
+				encerrado = true;
+			} catch (NoSuchPageException n){
+				//Writer.criaArquivo(criaNome(cont), buffer);
+				System.out.println("Repositórios Inicializados! Máximo de Requisições Alcançada, tentaremos novamente em 10 min");
+				Thread.sleep(600 * 1000);
+				//return repositorios;		
+			
 			}
-		}
-		} catch (IOException e){
-			 System.out.println("erro: " + e);
 		}
 	}
 	
