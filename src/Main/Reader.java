@@ -19,17 +19,19 @@ import org.eclipse.egit.github.core.service.CommitService;
 import org.eclipse.egit.github.core.service.IssueService;
 import org.eclipse.egit.github.core.service.RepositoryService;
 
+import com.sun.org.apache.xalan.internal.xsltc.compiler.Parser;
+
 
 public class Reader {
 
 	final static String ARQUIVO = "arquivos de saida//saidaRepositorios1000.txt";
-	
+	final static String ARQUIVOCOMPLETO = "arquivos de saida//saida_10-07-2015_01-25.txt";
 
 	/**
 	 * Executa a leitura do arquivo, testando cada uma das tags para identificar 
 	 * qual o tipo de informação que erá lida.
 	 */
-	public static ArrayList<Repositorio> execute() throws FileNotFoundException {
+	public static ArrayList<Repositorio> executeListaSimples() throws FileNotFoundException {
 		Scanner file = new Scanner(new BufferedReader(new FileReader(ARQUIVO)));
 		ArrayList<Repositorio> repositorios = new ArrayList<Repositorio>();
 		
@@ -38,6 +40,29 @@ public class Reader {
 			if(!linha.isEmpty()){
 				String[] linhaDivida = linha.split(" ");
 				Repositorio r = new Repositorio(linhaDivida[2], linhaDivida[9]); 
+				repositorios.add(r);
+			}
+		}
+		return repositorios;
+	}
+	
+	public static ArrayList<Repositorio> executeListaCompleta() throws FileNotFoundException {
+		Scanner file = new Scanner(new BufferedReader(new FileReader(ARQUIVOCOMPLETO)));
+		ArrayList<Repositorio> repositorios = new ArrayList<Repositorio>();
+		
+		while (file.hasNext()) {
+			if(file.nextLine().startsWith("_")){
+				String[][] linhaDividida = new String[7][10];
+				for(int i = 0 ; i < 7 ; i++){
+					linhaDividida[i] = file.nextLine().split(" ");
+				}	
+				Repositorio r = new Repositorio(linhaDividida[0][1], linhaDividida[0][3]); 
+				r.setClosedIssue(Integer.parseInt(linhaDividida[2][3]));
+				r.setOpenIssue(Integer.parseInt(linhaDividida[2][1]));
+				r.setClosedIssueBug(Integer.parseInt(linhaDividida[4][3]));
+				r.setOpenIssueBug(Integer.parseInt(linhaDividida[4][1]));
+				r.setContadorIssuesCorrigidosCommits(Integer.parseInt(linhaDividida[5][5].replaceAll("[^0-9]", "")));
+				r.setContadorIssuesBugCorrigidosCommits(Integer.parseInt(linhaDividida[6][6].replaceAll("[^0-9]", "")));
 				repositorios.add(r);
 			}
 		}

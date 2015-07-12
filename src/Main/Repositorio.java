@@ -13,6 +13,7 @@ import org.eclipse.egit.github.core.RepositoryCommit;
 import org.eclipse.egit.github.core.RepositoryId;
 import org.eclipse.egit.github.core.client.NoSuchPageException;
 import org.eclipse.egit.github.core.client.PageIterator;
+import org.eclipse.egit.github.core.client.RequestException;
 import org.eclipse.egit.github.core.service.CommitService;
 import org.eclipse.egit.github.core.service.IssueService;
 
@@ -39,7 +40,7 @@ public @Data class Repositorio {
 		this.repoId = new RepositoryId(usuario, repositorio);
 	}
 	
-	public void calculaQuantidadesIssues(IssueService issueService) throws InterruptedException{
+	public void calculaQuantidadesIssues(IssueService issueService) throws InterruptedException, RequestException{
 		boolean encerrado = false;
 		
 		while(!encerrado){
@@ -86,8 +87,7 @@ public @Data class Repositorio {
 				//Writer.criaArquivo(criaNome(cont), buffer);
 				System.out.println("Calcula Issues!! Máximo de Requisições Alcançada, tentaremos novamente em 10 min");
 				Thread.sleep(600 * 1000);
-				//return repositorios;		
-					
+				//return repositorios;			
 			}
 		}
 	}
@@ -134,10 +134,13 @@ public @Data class Repositorio {
 				encerrado = true;
 			} catch (NoSuchPageException n){
 				//Writer.criaArquivo(criaNome(cont), buffer);
-				System.out.println("Repositórios Inicializados! Máximo de Requisições Alcançada, tentaremos novamente em 10 min");
+				System.out.println("Defeitos Corrigidos! Máximo de Requisições Alcançada, tentaremos novamente em 10 min");
 				Thread.sleep(600 * 1000);
 				//return repositorios;		
 			
+			}catch(RequestException r){
+				System.out.println("Defeitos Corrigidos! Máximo de Requisições Alcançada, tentaremos novamente em 10 min");
+				Thread.sleep(600 * 1000);
 			}
 		}
 	}

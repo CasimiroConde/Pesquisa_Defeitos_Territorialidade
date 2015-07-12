@@ -8,22 +8,24 @@ import java.text.DecimalFormat;
 
 public class Writer {
 	
-	
+		
 	public static void criaArquivo(String nome, StringBuilder buffer) throws IOException{
 		File arquivo = new File(nome);
-		FileWriter fw = new FileWriter(arquivo);
+		FileWriter fw = new FileWriter(arquivo, true);
 		BufferedWriter bw = new BufferedWriter( fw );
+		bw.newLine();
 		bw.write(buffer.toString());
 		bw.close();
 	}
 	
-	public static void printConteudo(StringBuilder buffer, Repositorio repositorio){
+	public static void printConteudo(String nome, Repositorio repositorio, int cont) throws IOException{
 		
+		StringBuilder buffer = new StringBuilder();
 		//Informa formato de impressão de Double
 		DecimalFormat format = new DecimalFormat("0");
 			    
 		
-		buffer.append("________________||||Repositório: " + repositorio.getRepositoryName() + "||||_________________________" + System.getProperty("line.separator"));
+		buffer.append("________________||||Repositório: " + repositorio.getRepositoryName() + " Cont: " + cont+ "||||_________________________" + System.getProperty("line.separator"));
 		buffer.append("Usuario: " + repositorio.getUserName() + " Repositório: " + repositorio.getRepositoryName() + System.getProperty("line.separator"));
 		buffer.append("Listas de Issues dentro do Repositório" + System.getProperty("line.separator"));
 		buffer.append("Abertos: " + repositorio.getOpenIssue() + " Fechados: " + repositorio.getClosedIssue() + System.getProperty("line.separator"));
@@ -35,9 +37,13 @@ public class Writer {
 		buffer.append("Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): " + format.format(repositorio.getPorcentualIssuesBugFechadosCommit()) + "%" + System.getProperty("line.separator"));
 		buffer.append("Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): " + format.format(repositorio.getPorcentualIssuesBugFechadosCommitTotal()) + "%" + System.getProperty("line.separator"));
 		buffer.append(System.getProperty("line.separator"));
+		
+		criaArquivo(nome, buffer);
+		
 	}
 	
-	public static void printConteudoTodosRepositorios(StringBuilder buffer, int totalOpenIssue, int totalClosedIssue, int totalOpenIssueBug, int totalClosedIssueBug, int totalContadorIssuesCorrigidosCommits, int totalContadorIssuesBugCorrigidosCommits, double totalPorcentualIssuesFechadosCommit, double totalPorcentualIssuesBugFechadosCommit, double totalPorcentualIssuesBugFechadosCommitTotal){
+	public static void printConteudoTodosRepositorios(String nome,  int totalOpenIssue, int totalClosedIssue, int totalOpenIssueBug, int totalClosedIssueBug, int totalContadorIssuesCorrigidosCommits, int totalContadorIssuesBugCorrigidosCommits, double totalPorcentualIssuesFechadosCommit, double totalPorcentualIssuesBugFechadosCommit, double totalPorcentualIssuesBugFechadosCommitTotal) throws IOException{
+		StringBuilder buffer = new StringBuilder();
 		
 		//Informa formato de impressão de Double
 		DecimalFormat format = new DecimalFormat("0");
@@ -53,6 +59,8 @@ public class Writer {
 		buffer.append("Porcentual fechado de Issues Bug em um Commit (Em Relação aos Bugs): " + format.format(totalPorcentualIssuesBugFechadosCommit) + "%" + System.getProperty("line.separator"));
 		buffer.append("Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): " + format.format(totalPorcentualIssuesBugFechadosCommitTotal) + "%" + System.getProperty("line.separator"));
 		buffer.append(System.getProperty("line.separator"));
+		 
+		criaArquivo(nome, buffer); 
 		
 	}
 	
