@@ -1,5 +1,6 @@
 package Main;
 
+import issuesRepositorios.MarcacaoIssue;
 import issuesRepositorios.Repositorio;
 
 import java.io.BufferedWriter;
@@ -39,6 +40,8 @@ public class Main {
 	
 	static Repositorio[] r = new Repositorio[20];
 	static String nomeArquivoAnalise =  "C:/Users/Casimiro/git/Territorialidade/arquivos de saida/saida_10-07-2015_01-25.txt";	
+	static String nomeArquivoMarcacaoAnalitico =  "C:/Users/Casimiro/git/Territorialidade/arquivos de saida/saida_Analise_Marcacao.txt";	
+	static String nomeArquivoMarcacaoConsolidado =  "C:/Users/Casimiro/git/Territorialidade/arquivos de saida/saida_Analise_Marcacao_Consolidado.txt";	
 
 	public static void main(String[] args) throws IOException, RequestException, NoSuchPageException, InterruptedException {
 		
@@ -54,7 +57,7 @@ public class Main {
 		
 		//Autentica Cliente e inicializa serviços
 		GitHubClient client = new GitHubClient();
-		client.setOAuth2Token("039d4e625a156bac96770cab94acf34cd57722a6");
+		client.setOAuth2Token("514038d55145229aeda6c9b35cebd4f01337d0f6");
 		
 		IssueService issueService = new IssueService(client);
 		CommitService commitService = new CommitService(client);
@@ -62,6 +65,7 @@ public class Main {
 	
 		//Inicializa Repositórios
 		ArrayList<Repositorio> repositorios = Reader.executeListaCompleta();
+		ArrayList<MarcacaoIssue> marcacoes = new ArrayList<MarcacaoIssue>();
 				//Reader.executeListaSimples(); 
 				//inicializaListaRepositórios(client);
 		
@@ -69,32 +73,39 @@ public class Main {
 		for(Repositorio r: repositorios){
 		//for(Repositorio r : repositorios){
 			//Repositorio r = repositorios.get(i);
-			//r.calculaQuantidadesIssues(issueService);
-			totalOpenIssue += r.getOpenIssue();
-			totalClosedIssue += r.getClosedIssue();
-			totalOpenIssueBug += r.getOpenIssueBug();
-			totalClosedIssueBug += r.getClosedIssueBug();
+			r.calculaQuantidadesIssues(issueService);
+			//totalOpenIssue += r.getOpenIssue();
+			//totalClosedIssue += r.getClosedIssue();
+			//totalOpenIssueBug += r.getOpenIssueBug();
+			//totalClosedIssueBug += r.getClosedIssueBug();
+			for(MarcacaoIssue m : r.getMarcacaoIssue()){
+				marcacoes.add(m);
+			}
 			
 		//Encontro os commits feitos que fecharam um issue
 			//r.defeitosCorrigidosCommit(commitService, issueService);			
-			totalContadorIssuesCorrigidosCommits += r.getContadorIssuesCorrigidosCommits();
-			totalContadorIssuesBugCorrigidosCommits += r.getContadorIssuesBugCorrigidosCommits();
+			//totalContadorIssuesCorrigidosCommits += r.getContadorIssuesCorrigidosCommits();
+			//totalContadorIssuesBugCorrigidosCommits += r.getContadorIssuesBugCorrigidosCommits();
 			
 		//Calcula % de 	issues encerrados atraves de commit em um repositorio
 			//r.calculaIssuesFechadosCommit();	
 			//cont = i;
 			//Writer.printConteudo(nomeArquivoAnalise ,r, cont);
 			//System.out.println("Encerrado Repositório: " + r.getUserName() +"/" + r.getRepositoryName());
+			Writer.printAnaliseMarcacaoIssue(nomeArquivoMarcacaoAnalitico, r, cont);
+			cont++;
 			
+			if((cont % 100) == 0)
+				Writer.printAnaliseMarcacaoCompleta(nomeArquivoMarcacaoConsolidado, marcacoes);
 		}
 		
-		if(totalContadorIssuesCorrigidosCommits > 0){
+		/*if(totalContadorIssuesCorrigidosCommits > 0){
 			totalPorcentualIssuesFechadosCommit = (double) (totalContadorIssuesCorrigidosCommits * 100) / totalClosedIssue;
 			totalPorcentualIssuesBugFechadosCommit = (double) (totalContadorIssuesBugCorrigidosCommits * 100) / totalClosedIssueBug;
 			totalPorcentualIssuesBugFechadosCommitTotal = (double) (totalContadorIssuesBugCorrigidosCommits * 100) / totalClosedIssue;
-		}
+		}*/
 		
-		Writer.printConteudoTodosRepositorios(nomeArquivoAnalise , totalOpenIssue, totalClosedIssue, totalOpenIssueBug, totalClosedIssueBug, totalContadorIssuesCorrigidosCommits, totalContadorIssuesBugCorrigidosCommits, totalPorcentualIssuesFechadosCommit, totalPorcentualIssuesBugFechadosCommit, totalPorcentualIssuesBugFechadosCommitTotal);
+		//Writer.printConteudoTodosRepositorios(nomeArquivoAnalise , totalOpenIssue, totalClosedIssue, totalOpenIssueBug, totalClosedIssueBug, totalContadorIssuesCorrigidosCommits, totalContadorIssuesBugCorrigidosCommits, totalPorcentualIssuesFechadosCommit, totalPorcentualIssuesBugFechadosCommit, totalPorcentualIssuesBugFechadosCommitTotal);
 
 		System.out.println("Arquivo Gravado!");
 	}

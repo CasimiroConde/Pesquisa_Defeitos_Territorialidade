@@ -88,14 +88,14 @@ public class Writer {
 			buffer.append("Listas de Labels:" + System.getProperty("line.separator"));
 			for(MarcacaoIssue m : repositorio.getMarcacaoIssue()){
 				if(m.getTipo().equals(TipoMarcacao.LABEL)){
-					buffer.append("Nome Label: " + m.getNome() + " Quantidade: " + m.getQuantidade() + System.getProperty("line.separator"));
+					buffer.append("Nome Label: " + m.getNome() + " ; Quantidade: " + m.getQuantidade() + System.getProperty("line.separator"));
 				}
 			}
 			
 			buffer.append("Listas de Milestones:" + System.getProperty("line.separator"));
 			for(MarcacaoIssue m : repositorio.getMarcacaoIssue()){
 				if(m.getTipo().equals(TipoMarcacao.MILESTONE)){
-					buffer.append("Nome Milestone: " + m.getNome() + " Quantidade: " + m.getQuantidade() + System.getProperty("line.separator"));
+					buffer.append("Nome Milestone: " + m.getNome() + " ; Quantidade: " + m.getQuantidade() + System.getProperty("line.separator"));
 				}
 			}	
 		} else { 
@@ -114,14 +114,14 @@ public class Writer {
 		buffer.append("Listas de Labels:" + System.getProperty("line.separator"));
 		for(MarcacaoIssue m : marcacao){
 			if(m.getTipo().equals(TipoMarcacao.LABEL)){
-				buffer.append("Nome Label: " + m.getNome() + " Quantidade: " + m.getQuantidade() + System.getProperty("line.separator"));
+				buffer.append("Nome Label: " + m.getNome() + " ; Quantidade: " + m.getQuantidade() + System.getProperty("line.separator"));
 			}
 		}
 		
 		buffer.append("Listas de Milestones:" + System.getProperty("line.separator"));
 		for(MarcacaoIssue m : marcacao){
 			if(m.getTipo().equals(TipoMarcacao.MILESTONE)){
-				buffer.append("Nome Milestone: " + m.getNome() + " Quantidade: " + m.getQuantidade() + System.getProperty("line.separator"));
+				buffer.append("Nome Milestone: " + m.getNome() + " ; Quantidade: " + m.getQuantidade() + System.getProperty("line.separator"));
 			}
 		}
 		sobreescreveArquivo(nome, buffer); 

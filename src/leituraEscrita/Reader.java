@@ -51,7 +51,7 @@ public class Reader {
 	public static ArrayList<Repositorio> executeListaCompleta() throws FileNotFoundException {
 		Scanner file = new Scanner(new BufferedReader(new FileReader(ARQUIVOCOMPLETO)));
 		ArrayList<Repositorio> repositorios = new ArrayList<Repositorio>();
-		
+		int cont = 0;
 		while (file.hasNext()) {
 			if(file.nextLine().startsWith("_")){
 				String[][] linhaDividida = new String[7][10];
@@ -66,6 +66,8 @@ public class Reader {
 				r.setContadorIssuesCorrigidosCommits(Integer.parseInt(linhaDividida[5][5].replaceAll("[^0-9]", "")));
 				r.setContadorIssuesBugCorrigidosCommits(Integer.parseInt(linhaDividida[6][6].replaceAll("[^0-9]", "")));
 				repositorios.add(r);
+				System.out.println(cont);
+				cont++;
 			}
 		}
 		return repositorios;

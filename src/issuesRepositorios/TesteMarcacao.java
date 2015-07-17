@@ -20,7 +20,7 @@ public class TesteMarcacao {
 	public void test() throws InterruptedException, IOException {
 		
 		GitHubClient client = new GitHubClient();
-		client.setOAuth2Token("56dab9b8758a8ce253f49555e3a38963759033eb");
+		client.setOAuth2Token("514038d55145229aeda6c9b35cebd4f01337d0f6");
 		IssueService issueService = new IssueService(client);
 		
 		Repositorio repositorio = new Repositorio("CasimiroConde", "Pesquisa_Defeitos_Territorialidade");
