@@ -1,0 +1,41 @@
+
+________________||||Repositório: Pesquisa_Defeitos_Territorialidade Cont: 1||||_________________________
+Não existe nenhuma marcação nesse repositório
+
+________________||||Repositório: Pesquisa_Defeitos_Territorialidade Cont: 1||||_________________________
+Não existe nenhuma marcação nesse repositório
+
+________________||||Repositório: Pesquisa_Defeitos_Territorialidade Cont: 1||||_________________________
+Listas de Labels:
+Listas de Milestones:
+Nome Milestone:teste 1 Quantidade: 0
+
+________________||||Repositório: Pesquisa_Defeitos_Territorialidade Cont: 1||||_________________________
+Listas de Labels:
+Listas de Milestones:
+Nome Milestone:teste 1 Quantidade: 1
+
+________________||||Repositório: Pesquisa_Defeitos_Territorialidade Cont: 1||||_________________________
+Listas de Labels:
+Nome Label: bug Quantidade: 2
+Nome Label: duplicate Quantidade: 1
+Nome Label: enhancement Quantidade: 1
+Listas de Milestones:
+Nome Milestone: teste 1 Quantidade: 1
+
+________________||||Repositório: Pesquisa_Defeitos_Territorialidade Cont: 1||||_________________________
+Listas de Labels:
+Nome Label: bug Quantidade: 3
+Nome Label: duplicate Quantidade: 1
+Nome Label: enhancement Quantidade: 1
+Listas de Milestones:
+Nome Milestone: teste 1 Quantidade: 1
+
+________________||||Repositório: Pesquisa_Defeitos_Territorialidade Cont: 1||||_________________________
+Listas de Labels:
+Nome Label: bug Quantidade: 3
+Nome Label: Teste Quantidade: 1
+Nome Label: duplicate Quantidade: 1
+Nome Label: enhancement Quantidade: 1
+Listas de Milestones:
+Nome Milestone: teste 1 Quantidade: 1

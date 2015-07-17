@@ -6,5 +6,6 @@
 	<classpathentry kind="lib" path="C:/Users/Casimiro/Downloads/Ferramentas/Eclipse/org.eclipse.egit.github.core-2.1.5.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Casimiro/Downloads/Ferramentas/Eclipse/eclipse-jee-luna-R-win32-x86_64/eclipse/lombok.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/gson"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

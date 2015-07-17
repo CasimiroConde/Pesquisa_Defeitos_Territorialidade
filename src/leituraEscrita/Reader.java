@@ -1,4 +1,6 @@
-package Main;
+package leituraEscrita;
+
+import issuesRepositorios.Repositorio;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -100,7 +102,7 @@ public class Reader {
 							cont++;
 				    		System.out.println(cont);
 				    	if(cont == 200 || cont == 400 || cont == 600 || cont == 800 || cont == 1000){
-				    			Writer.criaArquivo(criaNome(cont), buffer);
+				    			Writer.escreveArquivo(criaNome(cont), buffer);
 				    			System.out.println("Repositórios Inicializados! Lista de " + cont);
 				    		}
 				    	}						

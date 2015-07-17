@@ -1,6 +1,7 @@
-package Main;
+package issuesRepositorios;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
@@ -9,6 +10,7 @@ import java.util.Map;
 import org.eclipse.egit.github.core.IRepositoryIdProvider;
 import org.eclipse.egit.github.core.Issue;
 import org.eclipse.egit.github.core.Label;
+import org.eclipse.egit.github.core.Milestone;
 import org.eclipse.egit.github.core.RepositoryCommit;
 import org.eclipse.egit.github.core.RepositoryId;
 import org.eclipse.egit.github.core.client.NoSuchPageException;
@@ -33,11 +35,13 @@ public @Data class Repositorio {
 	private double porcentualIssuesFechadosCommit = 0.0;
 	private double porcentualIssuesBugFechadosCommit = 0.0;
 	private double porcentualIssuesBugFechadosCommitTotal = 0.0;
+	private ArrayList<MarcacaoIssue> marcacaoIssue;
 	
 	public Repositorio(String usuario, String repositorio){
 		this.userName = usuario;
 		this.repositoryName = repositorio;
 		this.repoId = new RepositoryId(usuario, repositorio);
+		this.marcacaoIssue = new ArrayList<MarcacaoIssue>();
 	}
 	
 	public void calculaQuantidadesIssues(IssueService issueService) throws InterruptedException, RequestException{
@@ -62,6 +66,7 @@ public @Data class Repositorio {
 			    	java.util.Iterator<Issue> itr = page.iterator(); 
 			    	while(itr.hasNext()){
 			    		Issue issue = itr.next();
+			    		this.insereMarcacoes(issue);
 			    		List<Label> labels = issue.getLabels();
 				    	if(issue.getState().equalsIgnoreCase("open")){
 							openIssue1++;
@@ -145,6 +150,29 @@ public @Data class Repositorio {
 		}
 	}
 	
+	private void insereMarcacoes(Issue issue) {
+		
+		//Analisa Contador de Label
+		if(!issue.getLabels().isEmpty())
+		MetodosAuxiliares.insereMarcacaoLabel(this.marcacaoIssue,issue);	
+		
+		//Analisa Contador de Milestones
+		if(issue.getMilestone() != null)
+		MetodosAuxiliares.insereMarcacaoMilestone(this.marcacaoIssue, issue);
+		
+	}
+
+
+	private boolean existeLabel(String name) {
+		for(MarcacaoIssue m : marcacaoIssue){
+			if(m.getTipo().equals(TipoMarcacao.LABEL)){
+				if(m.getNome().equals(name))
+					return true;
+			}
+		}
+		return false;
+	}
+
 	public void calculaIssuesFechadosCommit(){
 		if(this.getContadorIssuesCorrigidosCommits() > 0){
 			this.porcentualIssuesFechadosCommit = (double) (this.getContadorIssuesCorrigidosCommits() * 100) / this.getClosedIssue();
@@ -153,4 +181,11 @@ public @Data class Repositorio {
 			
 		}
 	}
+	
+	public void addMarcacaoIssue(MarcacaoIssue marcacao){
+		this.marcacaoIssue.add(marcacao);
+	}
+	
+	
+	
 }

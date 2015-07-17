@@ -1,5 +1,7 @@
 package Main;
 
+import issuesRepositorios.Repositorio;
+
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -13,6 +15,9 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
+import leituraEscrita.Reader;
+import leituraEscrita.Writer;
 
 import org.eclipse.egit.github.core.Issue;
 import org.eclipse.egit.github.core.Repository;

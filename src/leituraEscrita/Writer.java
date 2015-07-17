@@ -1,17 +1,31 @@
-package Main;
+package leituraEscrita;
+
+import issuesRepositorios.MarcacaoIssue;
+import issuesRepositorios.Repositorio;
+import issuesRepositorios.TipoMarcacao;
 
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.text.DecimalFormat;
+import java.util.ArrayList;
 
 public class Writer {
 	
 		
-	public static void criaArquivo(String nome, StringBuilder buffer) throws IOException{
+	public static void escreveArquivo(String nome, StringBuilder buffer) throws IOException{
 		File arquivo = new File(nome);
 		FileWriter fw = new FileWriter(arquivo, true);
+		BufferedWriter bw = new BufferedWriter( fw );
+		bw.newLine();
+		bw.write(buffer.toString());
+		bw.close();
+	}
+	
+	public static void sobreescreveArquivo(String nome, StringBuilder buffer) throws IOException{
+		File arquivo = new File(nome);
+		FileWriter fw = new FileWriter(arquivo);
 		BufferedWriter bw = new BufferedWriter( fw );
 		bw.newLine();
 		bw.write(buffer.toString());
@@ -38,7 +52,7 @@ public class Writer {
 		buffer.append("Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): " + format.format(repositorio.getPorcentualIssuesBugFechadosCommitTotal()) + "%" + System.getProperty("line.separator"));
 		buffer.append(System.getProperty("line.separator"));
 		
-		criaArquivo(nome, buffer);
+		escreveArquivo(nome, buffer);
 		
 	}
 	
@@ -60,7 +74,57 @@ public class Writer {
 		buffer.append("Porcentual fechado de Issues Bug em um Commit (Em Relação a todos os Issues): " + format.format(totalPorcentualIssuesBugFechadosCommitTotal) + "%" + System.getProperty("line.separator"));
 		buffer.append(System.getProperty("line.separator"));
 		 
-		criaArquivo(nome, buffer); 
+		escreveArquivo(nome, buffer); 
+		
+	}
+	
+	public static void printAnaliseMarcacaoIssue(String nome, Repositorio repositorio, int cont) throws IOException{
+		StringBuilder buffer = new StringBuilder();
+
+		buffer.append("________________||||Repositório: " + repositorio.getRepositoryName() + " Cont: " + cont+ "||||_________________________" + System.getProperty("line.separator"));
+		
+		if(repositorio.getMarcacaoIssue() != null){
+			
+			buffer.append("Listas de Labels:" + System.getProperty("line.separator"));
+			for(MarcacaoIssue m : repositorio.getMarcacaoIssue()){
+				if(m.getTipo().equals(TipoMarcacao.LABEL)){
+					buffer.append("Nome Label: " + m.getNome() + " Quantidade: " + m.getQuantidade() + System.getProperty("line.separator"));
+				}
+			}
+			
+			buffer.append("Listas de Milestones:" + System.getProperty("line.separator"));
+			for(MarcacaoIssue m : repositorio.getMarcacaoIssue()){
+				if(m.getTipo().equals(TipoMarcacao.MILESTONE)){
+					buffer.append("Nome Milestone: " + m.getNome() + " Quantidade: " + m.getQuantidade() + System.getProperty("line.separator"));
+				}
+			}	
+		} else { 
+			buffer.append("Não existe nenhuma marcação nesse repositório" + System.getProperty("line.separator"));
+		}
+		
+		escreveArquivo(nome, buffer); 
+		
+	}
+	
+	public static void printAnaliseMarcacaoCompleta(String nome, ArrayList<MarcacaoIssue> marcacao) throws IOException{
+		StringBuilder buffer = new StringBuilder();
+			
+		buffer.append("________________||||Todas Marcacoes||||_________________________" + System.getProperty("line.separator"));
+		
+		buffer.append("Listas de Labels:" + System.getProperty("line.separator"));
+		for(MarcacaoIssue m : marcacao){
+			if(m.getTipo().equals(TipoMarcacao.LABEL)){
+				buffer.append("Nome Label: " + m.getNome() + " Quantidade: " + m.getQuantidade() + System.getProperty("line.separator"));
+			}
+		}
+		
+		buffer.append("Listas de Milestones:" + System.getProperty("line.separator"));
+		for(MarcacaoIssue m : marcacao){
+			if(m.getTipo().equals(TipoMarcacao.MILESTONE)){
+				buffer.append("Nome Milestone: " + m.getNome() + " Quantidade: " + m.getQuantidade() + System.getProperty("line.separator"));
+			}
+		}
+		sobreescreveArquivo(nome, buffer); 
 		
 	}
 	
