@@ -1,0 +1,1490 @@
+Nome;Quantidade
+ - Feature Request ;2
+ !high ;9
+ !low ;6
+ !medium ;10
+ #accepted ;106
+ #acknowledged ;26
+ #duplicate ;25
+ #fixed ;630
+ #needs-confirmation ;35
+ #needs-improvement ;8
+ #needs-info ;24
+ #needs-patch ;93
+ #needs-reduction ;32
+ #needs-review ;63
+ #needs-unit-test ;13
+ #new ;93
+ #ready-to-commit ;10
+ #wont-fix ;133
+ #workingonit ;4
+ #works-for-me ;41
+ ? ;1
+ @Ben Johnson ;10
+ @design ;6
+ @mattup ;2
+ @Taylor luk ;14
+ |M| 0•3 release ;11
+ |M| 0•4 ;3
+ |M| 0•5 ;1
+ |S| new ;11
+ |S| new ;2
+ |S| open ;8
+ |S| resolved ;14
+ 0 - Backlog ;4
+ 0.1.0 ;14
+ 0.3 ;49
+ 0.3.1 ;15
+ 0.3.2 ;14
+ 0.4 ;17
+ 0.4 ;3
+ 0.4 ;3
+ 0.5 ;6
+ 0.5 ;5
+ 0.9.1 ;2
+ 1 - Pending ;10
+ 1 - Ready ;2
+ 1 - Ready ;1
+ 1.0 ;23
+ 1.0 ;1
+ 1.0.pre ;1
+ 1.0.x ;2
+ 1.1 ;12
+ 1.1 ;10
+ 1.1.x ;4
+ 1.1.x ;2
+ 1.11 ;1
+ 1.2.2 ;2
+ 1.2.3 ;11
+ 1.2.5 ;1
+ 1.2.5 ;1
+ 1.2.x ;7
+ 1.3.0 ;21
+ 1.3.0 ;14
+ 1.3.0 ;9
+ 1.3.1 ;9
+ 1.3.1 (Released) ;2
+ 1.3.2 (Released) ;1
+ 1.3.3 (Released) ;1
+ 1.3.x ;4
+ 1.4 ;1
+ 1.4.0 ;7
+ 1.4.0 ;4
+ 1.x ;31
+ 2 - Feature/Enhancement ;13
+ 2 - Working ;2
+ 2 - Working ;1
+ 2.0 ;38
+ 2.0 ;8
+ 2.0 ;6
+ 2.0 ;6
+ 2.0 ;4
+ 2.0.x ;6
+ 2.12-release ;3
+ 2.13-release ;2
+ 2.14-release ;6
+ 2.2 ;8
+ 2.x ;28
+ 3 - Done ;1
+ 3 - Low ;19
+ 3.0 ;4
+ 3.0 ;1
+ 3dsecure ;4
+ 4 - High ;19
+ 4-0-stable ;1
+ 5 - Blocker ;5
+ 5.20 compat ;3
+ A Fix is Planned ;3
+ A label ;1
+ aasm4 ;5
+ accept ;1
+ Accepted ;20
+ actionmailer ;104
+ actionpack ;827
+ actionview ;423
+ activejob ;78
+ activemodel ;158
+ activerecord ;2761
+ activerecord ;1
+ activesupport ;603
+ Added ;6
+ address_feedback ;127
+ Admin ;1
+ admin ;1
+ Admin Upgrades ;74
+ Aemon ;1
+ æsthetics ;1
+ affects-1.4 ;1
+ agent ;1
+ Ajax ;1
+ All Screens ;1
+ Allan ;1
+ Already Fixed ;1
+ Andrew ;3
+ animations ;1
+ announcement ;1
+ annoyance ;26
+ annoyance ;6
+ api ;24
+ api ;16
+ api ;9
+ API ;8
+ API ;6
+ API ;4
+ API ;3
+ API ;3
+ api ;1
+ API change ;5
+ api change ;5
+ API conflict ;3
+ AppKit ;482
+ Approval$4 ;1
+ Area - Build System ;18
+ Area - Discovery ;2
+ Area - Documentation ;3
+ Area - Messaging ;16
+ Area - MS AspNet ;6
+ Area - OAuth 1 ;12
+ Area - OAuth2 ;38
+ Area - OpenID ;19
+ Area - Reporting ;1
+ Area - Samples ;14
+ ARM ;3
+ asset pipeline ;161
+ assigned ;2
+ associations ;1
+ a-tosh ;1
+ attached PR ;205
+ auser ;4
+ autocode ;1
+ autoescape ;1
+ avonderluft ;1
+ AWSUM ;3
+ backend ;32
+ backend ;6
+ backlog ;4
+ Backlog$0 ;2
+ backport ;1
+ backwards compatibility ;1
+ Bad Server ;4
+ beatles ;3
+ behavior ;15
+ BEP ;13
+ beta1 ;12
+ binaries ;1
+ bindata ;2
+ bindings ;10
+ Bloat ;22
+ blocked ;4
+ blocked by sass ;5
+ blocker ;52
+ Blocker ;7
+ blocker ;5
+ blocker ;2
+ blocker ;2
+ bounty ;1
+ Bounty/Easy ;46
+ Bounty/Hard ;13
+ Bounty/Medium ;28
+ Bounty/Very easy ;8
+ Bounty/Very hard ;3
+ breaking-change-for-reek-4 ;3
+ BreaksCompatibility ;8
+ Brian ;5
+ BSD ;6
+ bsd ;1
+ bug ;473
+ bug ;169
+ Bug ;168
+ Bug ;130
+ bug ;124
+ bug ;121
+ bug ;121
+ bug ;106
+ bug ;98
+ bug ;78
+ Bug ;71
+ bug ;64
+ bug ;59
+ bug ;52
+ bug ;50
+ bug ;47
+ bug ;45
+ bug ;45
+ Bug ;39
+ bug ;38
+ Bug ;38
+ Bug ;36
+ bug ;32
+ Bug ;32
+ bug ;31
+ bug ;30
+ bug ;29
+ Bug ;29
+ bug ;29
+ bug ;27
+ bug ;27
+ bug ;26
+ bug ;25
+ bug ;24
+ bug ;24
+ bug ;22
+ bug ;22
+ Bug ;21
+ bug ;20
+ Bug ;20
+ bug ;19
+ bug ;19
+ bug ;18
+ Bug ;17
+ bug ;17
+ bug ;16
+ Bug ;13
+ bug ;13
+ bug ;12
+ bug ;12
+ bug ;12
+ Bug ;12
+ bug ;11
+ bug ;11
+ bug ;11
+ bug ;10
+ Bug ;10
+ bug ;10
+ Bug ;10
+ bug ;9
+ bug ;9
+ bug ;9
+ bug ;9
+ bug ;9
+ bug ;9
+ Bug ;9
+ bug ;8
+ bug ;8
+ bug ;7
+ bug ;7
+ bug ;7
+ Bug ;7
+ bug ;7
+ bug ;7
+ bug ;6
+ bug ;6
+ bug ;6
+ bug ;6
+ bug ;6
+ Bug ;6
+ Bug ;5
+ bug ;5
+ bug ;4
+ Bug ;4
+ Bug ;4
+ bug ;4
+ Bug ;4
+ bug ;4
+ bug ;4
+ bug ;4
+ bug ;4
+ bug ;4
+ bug ;4
+ Bug ;3
+ bug ;3
+ bug ;3
+ bug ;3
+ bug ;3
+ bug ;3
+ bug ;3
+ bug ;3
+ bug ;3
+ bug ;3
+ Bug ;3
+ bug ;3
+ bug ;2
+ bug ;2
+ bug ;2
+ bug ;2
+ bug ;2
+ bug ;2
+ bug ;2
+ bug ;2
+ bug ;2
+ Bug ;2
+ bug ;2
+ bug ;2
+ bug ;2
+ bug ;2
+ bug ;2
+ bug ;2
+ Bug ;2
+ Bug ;1
+ bug ;1
+ bug ;1
+ bug ;1
+ bug ;1
+ bug ;1
+ Bug ;1
+ bug ;1
+ bug ;1
+ bug ;1
+ bug ;1
+ bug ;1
+ Bug ;1
+ bug ;1
+ bug ;1
+ bug ;1
+ bug ;1
+ bug ;1
+ bug ;1
+ Bug Report ;39
+ bug!! ;47
+ bug-dev ;1
+ Bugfix ;29
+ bugfix ;7
+ bug-report ;36
+ bugs ;31
+ bugs ;9
+ bugs ;4
+ build ;51
+ build ;5
+ Build system ;7
+ building ;9
+ C API ;83
+ callbacks ;13
+ Cannot Reproduce ;24
+ cannot reproduce ;2
+ cannot reproduce ;1
+ CannotReproduce ;21
+ cannot-reproduce ;3
+ can't reproduce ;1
+ cantfix ;7
+ cantreproduce ;5
+ Cataloging ;1
+ change ;8
+ change-request ;27
+ chore ;18
+ Chrome ;3
+ Chrome ;1
+ CLA: Error;5
+ CLA:Valid ;6
+ classic foundation ;1
+ cleanup ;6
+ clipped ;2
+ closed but still in conversation ;2
+ code ;23
+ Code ;3
+ code ;1
+ code ;1
+ code bug ;23
+ code quality / build system ;36
+ codeclimate ;2
+ Coding Bug ;79
+ Coding Standards ;32
+ Coercion ;3
+ collection ;2
+ command line ;13
+ comments ;3
+ comments ;1
+ commonjs ;5
+ Community ;4
+ community ;4
+ community_support ;4
+ compact ;12
+ compass core ;55
+ compat ;5
+ Compatibility ;34
+ Compatibility ;24
+ compatibility ;17
+ compatibility ;14
+ compatibility ;10
+ compatibility ;8
+ compatibility ;3
+ compatibility ;2
+ Compatibility  ;22
+ compiler ;48
+ Compiler issues ;2
+ conditions ;1
+ Configuration ;14
+ configuration  ;5
+ confirm that it is fixed ;7
+ confirmed ;41
+ Confirmed ;26
+ confirmed ;3
+ confirmed-bug ;32
+ conflict ;7
+ consider ;2
+ context ;20
+ contribution ;7
+ contribution ;3
+ Convert to PR ;26
+ Cooking ;27
+ copy ;1
+ core ;41
+ core ;4
+ core-engine ;1
+ core-nodes ;2
+ Cosmetic ;12
+ crash ;116
+ critical ;1
+ critical ;1
+ Critical error ;2
+ css ;2
+ css ;1
+ css3 ;51
+ css3 ;5
+ curl ;1
+ current work ;7
+ data ;1
+ database ;4
+ database inserter ;7
+ db2 ;15
+ ddfs ;34
+ debt ;14
+ debugger ;8
+ debugging ;1
+ defect ;90
+ defect ;44
+ Defect ;6
+ defect ;5
+ defect ;1
+ deferred ;5
+ Delayed ;5
+ deleted ;3
+ demo ;13
+ dependency ;4
+ dependency defect ;3
+ deployment ;2
+ deprecate ;1
+ deprecation ;5
+ derby ;5
+ design ;13
+ design ;11
+ dev ;4
+ dev ;3
+ Discuss ;12
+ discuss ;4
+ discuss ;2
+ discussion ;16
+ discussion ;15
+ discussion ;10
+ discussion ;4
+ Discussion ;4
+ discussion ;2
+ discussion ;2
+ dns ;1
+ DO IT ;11
+ do it later ;1
+ doc ;5
+ doc ;3
+ doc ;3
+ doc ;3
+ doc ;1
+ doc ;1
+ docco ;2
+ docs ;576
+ docs ;29
+ Docs ;19
+ docs ;12
+ docs ;5
+ docs ;4
+ docs ;4
+ docs ;3
+ docs ;1
+ docs ;1
+ docs ;1
+ docs ;1
+ documentation ;84
+ Documentation ;16
+ documentation ;15
+ Documentation ;15
+ documentation ;15
+ Documentation ;13
+ Documentation ;13
+ documentation ;12
+ documentation ;9
+ Documentation ;9
+ documentation ;7
+ documentation ;5
+ documentation ;5
+ documentation ;4
+ documentation ;4
+ documentation ;3
+ Documentation ;3
+ documentation ;2
+ documentation ;2
+ documentation ;2
+ Documentation ;1
+ Documentation ;1
+ documentation ;1
+ documentation ;1
+ documentation ;1
+ documentation ;1
+ Documentation ;1
+ documentation ;1
+ documentation ;1
+ Documentation ;1
+ documentation ;1
+ Documentation ;1
+ documentation ;1
+ documentation-request ;3
+ dom ;1
+ DOM API ;2
+ Donation Campaigns ;2
+ done ;2
+ DoX ;6
+ drnic-not-using ;3
+ dsl ;4
+ dsl change ;5
+ ducktype ;1
+ duplicate ;38
+ Duplicate ;13
+ duplicate ;6
+ duplicate ;5
+ Duplicate ;4
+ duplicate ;3
+ duplicate ;3
+ duplicate ;2
+ duplicate ;1
+ Duplicate ;1
+ duplicate ;1
+ Duplicate ;1
+ Easy ;8
+ Easy ;6
+ Easy ;4
+ easy ;3
+ Easy to fix ;4
+ EC2 ;3
+ Encoding ;31
+ Encoding ;13
+ encoding ;6
+ Encoding ;3
+ encodings ;3
+ engine ;1
+ engines ;41
+ Enhancement ;125
+ enhancement ;82
+ enhancement ;51
+ enhancement ;33
+ enhancement ;30
+ enhancement ;27
+ enhancement ;27
+ enhancement ;26
+ enhancement ;16
+ enhancement ;15
+ enhancement ;12
+ enhancement ;11
+ enhancement ;10
+ enhancement ;10
+ enhancement ;9
+ Enhancement ;8
+ enhancement ;7
+ enhancement ;6
+ Enhancement ;6
+ enhancement ;5
+ enhancement ;4
+ enhancement ;4
+ enhancement ;4
+ enhancement ;3
+ enhancement ;3
+ enhancement ;2
+ enhancement ;2
+ enhancement ;2
+ enhancement ;1
+ Enhancement ;1
+ Enhancement ;1
+ enhancement ;1
+ enhancement ;1
+ enhancements ;6
+ EnterpriseCustomer ;20
+ enum ;62
+ ENV ;1
+ env.js ;4
+ environ ;1
+ epoll ;2
+ erikku ;18
+ error handling ;1
+ error-reporting ;19
+ errorrrr ;10
+ errors ;1
+ esobchenko ;15
+ Events ;31
+ executor ;1
+ expected_behavior ;4
+ experiment ;3
+ Extension ;1
+ extensions ;1
+ extinct ;18
+ extinct ;2
+ feature ;197
+ Feature ;99
+ feature ;76
+ feature ;60
+ Feature ;46
+ feature ;44
+ feature ;43
+ feature ;30
+ feature ;30
+ feature ;28
+ feature ;26
+ feature ;25
+ feature ;25
+ feature ;25
+ Feature ;25
+ Feature ;24
+ feature ;24
+ feature ;24
+ Feature ;20
+ Feature ;20
+ feature ;18
+ feature ;18
+ feature ;15
+ feature ;14
+ feature ;14
+ feature ;13
+ feature ;12
+ feature ;12
+ feature ;11
+ feature ;11
+ feature ;11
+ feature ;11
+ Feature ;11
+ feature ;10
+ feature ;10
+ feature ;10
+ feature ;10
+ Feature ;8
+ feature ;7
+ feature ;7
+ feature ;7
+ feature ;6
+ feature ;6
+ feature ;5
+ feature ;5
+ feature ;5
+ feature ;5
+ feature ;5
+ feature ;5
+ feature ;5
+ feature ;5
+ feature ;5
+ Feature ;4
+ feature ;4
+ feature ;4
+ feature ;4
+ feature ;4
+ Feature ;4
+ feature ;4
+ feature ;4
+ feature ;4
+ feature ;4
+ feature ;4
+ Feature ;3
+ feature ;3
+ Feature ;3
+ feature ;3
+ feature ;3
+ feature ;3
+ feature ;2
+ feature ;2
+ feature ;2
+ feature ;2
+ feature ;2
+ feature ;2
+ feature ;2
+ feature ;1
+ feature ;1
+ feature ;1
+ feature ;1
+ feature ;1
+ feature ;1
+ feature ;1
+ feature ;1
+ feature ;1
+ Feature Enhancement ;6
+ feature request ;127
+ feature request ;114
+ feature request ;87
+ Feature Request ;37
+ feature request ;33
+ feature request ;32
+ feature request ;28
+ Feature Request ;21
+ Feature Request ;18
+ feature request ;8
+ feature request ;7
+ feature request ;6
+ feature request ;6
+ feature request ;6
+ feature request ;4
+ Feature Request ;4
+ Feature Request ;4
+ Feature Request ;4
+ Feature request ;3
+ feature request ;3
+ feature request ;3
+ Feature Request ;2
+ feature request ;2
+ feature request ;2
+ feature request ;1
+ Feature! ;8
+ feature_request ;20
+ feature-request ;39
+ feature-request ;15
+ feature-request ;9
+ feature-request ;4
+ feature-request ;4
+ feature-request ;1
+ features ;32
+ features ;8
+ features ;4
+ feedback ;11
+ feedback ;10
+ Feedback ;1
+ Feedback Requested ;4
+ Feedback Required ;15
+ feedback-needed ;3
+ feedback-wanted ;6
+ Fil ;2
+ filter ;4
+ FireFox ;6
+ fix ;10
+ fix ;3
+ fix ;2
+ fix ;1
+ Fix needs confirmation ;5
+ fixed ;130
+ Fixed ;17
+ Fixed ;1
+ fixed ;1
+ fix-later ;1
+ fonts ;2
+ forking ;2
+ Foundation ;77
+ FriendlyId 4.0 ;2
+ from-lighthouse ;11
+ from-lighthouse ;10
+ frontend ;100
+ Frontend ;28
+ fsys ;2
+ Future ;9
+ future ;1
+ future idea ;23
+ Future Plan ;3
+ gateway feature ;40
+ gateway fix ;27
+ gateway recurring ;9
+ gateway submission ;50
+ Get Ready ;3
+ gh-bug ;4
+ glorybox ;26
+ Goal ;29
+ google chrome ;1
+ GREENFIELD ;11
+ group ;1
+ grouping ;1
+ GSoC ;10
+ harder ;5
+ headers ;1
+ help ;8
+ help ;1
+ help wanted ;12
+ Help wanted ;10
+ Help Wanted ;7
+ Help Wanted ;5
+ help wanted ;1
+ herestomwiththeweather ;8
+ heroku ;1
+ high ;5
+ high priority ;53
+ High Priority ;6
+ highest priority ;1
+ hold ;21
+ Hold ;2
+ hold ;1
+ Hound ;4
+ html ;5
+ html 5 ;1
+ html_css ;19
+ HTML5 ;1
+ http ;1
+ httpd ;4
+ i18n ;25
+ i18n ;15
+ i18n ;8
+ i18n ;6
+ i18n ;5
+ i18n ;1
+ i18n ;1
+ iconv ;1
+ idea ;14
+ idea ;7
+ idea ;1
+ idea ;1
+ IE ;16
+ IE ;13
+ Important ;20
+ Important ;10
+ Improooooooovement ;6
+ improvement ;77
+ Improvement ;56
+ improvement ;19
+ improvement ;12
+ improvement ;12
+ Improvement ;10
+ Improvement ;10
+ Improvement ;6
+ improvement ;6
+ improvement ;3
+ improvement ;2
+ Improvement ;1
+ in master ;1
+ in progress ;15
+ in progress ;8
+ In progress ;7
+ in progress ;4
+ In progress ;2
+ In Progress ;2
+ in progress ;2
+ in progress ;1
+ in progress ;1
+ incomplete ;15
+ Infrastructure ;4
+ infrastructure ;3
+ Install ;17
+ Installer ;1
+ Insufficient info ;2
+ intermittent ;6
+ internal ;45
+ internal ;6
+ internal ;4
+ internal improvement ;13
+ internationalization ;1
+ invalid ;146
+ invalid ;52
+ Invalid ;35
+ invalid ;17
+ invalid ;11
+ invalid ;5
+ invalid ;5
+ Invalid ;5
+ invalid ;4
+ invalid ;3
+ Invalid ;2
+ invalid ;2
+ invalid ;2
+ Invalid ;2
+ invalid ;1
+ invalid ;1
+ invalid xml handling ;2
+ investigate ;21
+ investigate ;11
+ investigate ;8
+ investigate ;6
+ investigate ;3
+ ipv6 ;5
+ It's not my fault! ;6
+ jarib ;1
+ java ;12
+ javascript ;11
+ javascript ;8
+ jgarber ;7
+ JIT ;22
+ jruby ;130
+ JRuby ;36
+ jruby ;23
+ jruby ;2
+ js ;1
+ json/ext ;3
+ json-parity ;2
+ jump in ;8
+ kernel ;72
+ kqueue ;4
+ Lang/Meteor ;7
+ Lang/Node.js ;15
+ Lang/Python ;4
+ language formats ;5
+ latency ;3
+ Later ;1
+ layout ;1
+ legacy ;2
+ libxml2 ;18
+ libxml2-upstream ;8
+ lighthouse ;28
+ lint ;2
+ localisation ;2
+ Long term ;3
+ Looking for help ;1
+ low priority ;8
+ low-hanging-fruit ;7
+ lstoll ;7
+ LuaTeX ;6
+ M1 ;1
+ M2 ;1
+ M3 ;1
+ mail-system (WON'T FIX:  don't cleanly merge) ;1
+ main window ;2
+ maintenance ;1
+ major ;11
+ major ;7
+ major version change ;1
+ map ;4
+ markup ;15
+ matchers ;53
+ matching ;1
+ maybe ;6
+ maybe bug ;7
+ maybe-some-day ;3
+ Middle term ;3
+ middleware ;1
+ migrated ;17
+ Mild bug ;4
+ Milestone ;3
+ minitest ;5
+ minor ;3
+ minor ;2
+ missing-tests ;1
+ mobile ;1
+ modularization ;1
+ monitor ;3
+ More info needed ;49
+ More information required ;2
+ move to redmine.open-bio.org ;6
+ moved ;2
+ mssql ;54
+ MXMS compat ;4
+ mysql ;21
+ MySQL ;2
+ named argument ;1
+ named_scope ;1
+ namespace-confusion ;5
+ need help ;2
+ need more info ;3
+ need more info ;2
+ Need More Info ;2
+ need_specs ;27
+ needinfo ;15
+ needinfo ;3
+ Needs Documentation ;1
+ needs feedback ;520
+ Needs Feedback ;31
+ Needs feedback ;29
+ needs feedback ;1
+ Needs Fixes ;1
+ needs follow-up ;3
+ needs more info ;23
+ needs more info ;4
+ Needs More Work ;18
+ needs patch ;50
+ needs remote credentials ;2
+ Needs repro ;1
+ needs review ;1
+ Needs tests ;20
+ Needs Tests ;1
+ needs verification ;4
+ needs work ;18
+ Needs Work ;4
+ needs_sass_3.3 ;1
+ needs_tests ;3
+ NeedsFeedback ;44
+ needs-input ;6
+ needs-pr ;3
+ needsreview ;4
+ needs-review ;16
+ needs-verification ;2
+ nerdEd ;2
+ NEW ;4
+ New Behaviour ;16
+ New Feature ;7
+ New feature ;7
+ new feature ;1
+ new generator ;1
+ new_features ;2
+ newbie ;1
+ newspaper ;1
+ next ;11
+ next release ;10
+ nice ;4
+ nice to have ;4
+ nice to have ;1
+ no feedback ;32
+ no_ruby_skills_needed ;14
+ noho-launch ;4
+ nomethoderror ;1
+ non-bug ;5
+ non-core ;4
+ non-issue ;7
+ no-repro ;2
+ Not a Bug ;1
+ Not Implement ;5
+ Not pressing ;1
+ NOT READY ;1
+ not_a_bug ;16
+ not-a-bug ;1
+ notice ;2
+ Objective-J ;37
+ objects ;1
+ old version ;24
+ On Hold ;3
+ on hold ;2
+ One day ;12
+ onhold ;6
+ openacademy ;47
+ optimization ;19
+ oracle ;15
+ order ;3
+ order_by ;1
+ orm ;1
+ OS X ;1
+ OSL ;2
+ osx ;8
+ OSX ;1
+ osx ;1
+ output ;3
+ output ;1
+ packaging ;7
+ parked ;2
+ parser ;22
+ Parser ;12
+ parser ;5
+ parser ;3
+ parser ;1
+ parsing ;37
+ partial-fix ;1
+ patch ;47
+ Patch ;28
+ patch ;23
+ patch ;14
+ patch ;3
+ patch ;1
+ patch ;1
+ patch-needed ;5
+ patch-needed ;3
+ patchwelcome ;2
+ pending feedback ;7
+ pending gem release ;1
+ pending.release ;3
+ pending-reply ;8
+ pending-response ;7
+ Performance ;48
+ Performance ;17
+ performance ;17
+ Performance ;13
+ performance ;5
+ performance ;5
+ performance ;2
+ performance ;1
+ persistence ;11
+ pinned ;45
+ platform ;3
+ poll ;1
+ portability ;4
+ Possibly outdated ;1
+ PossiblyOutdated ;22
+ postgres ;47
+ PostgreSQL ;140
+ PostgreSQL ;1
+ postponed ;1
+ postponed ;1
+ printing ;7
+ Priority/Critical ;115
+ Priority/High ;124
+ Priority/Low ;19
+ Probably Fixed ;2
+ processors ;2
+ proposed ;11
+ protected ;1
+ protocols ;9
+ pull accepted ;13
+ pull reviewed ;4
+ pure ruby ;3
+ pyqt ;8
+ pyqt bug ;5
+ python ;17
+ python3 ;1
+ quality ;27
+ Quality Assurance ;1
+ Query ;3
+ question ;95
+ question ;36
+ Question ;26
+ question ;13
+ Question ;12
+ question ;7
+ question ;4
+ question ;4
+ question ;3
+ question ;3
+ question ;3
+ question ;2
+ question ;1
+ question ;1
+ question ;1
+ Question/Discussion ;9
+ -questions ;1
+ Race ;8
+ rack ;1
+ RAHGRESSION ;7
+ rails ;10
+ rails ;7
+ rails ;3
+ rails 2.3 ;3
+ Rails 4.0 ;2
+ rails3 ;4
+ rails3 ;1
+ rails3 ;1
+ rails31 ;6
+ rails-4.2 ;16
+ rails-4.x ;22
+ rails42 ;1
+ railties ;365
+ rake ;5
+ READ THIS ;2
+ ready ;30
+ ready ;1
+ realworlduse ;4
+ re-assess ;1
+ Rebase required ;6
+ REE ;4
+ reek-3 ;8
+ reek-4 ;6
+ Refactor ;31
+ Refactor ;3
+ refactor ;1
+ refactoring ;11
+ refactoring ;9
+ refactoring ;6
+ refactoring ;3
+ refactoring ;2
+ Refactoring ;1
+ refactoring ;1
+ regex ;3
+ regression ;188
+ regression ;13
+ Regression ;12
+ regression ;12
+ regression ;4
+ regression ;3
+ Rejected ;28
+ Rejected ;1
+ release 1.3.0 ;3
+ release blocker ;22
+ Release Blocker ;2
+ release checklist ;6
+ release-blocker ;4
+ rendering ;16
+ reopened ;2
+ reporting ;11
+ Request ;31
+ request ;2
+ request ;1
+ RequireJS ;11
+ requires investigation ;2
+ requires_ruby_skills ;9
+ Research ;5
+ research ;4
+ research ;3
+ research ;2
+ research ;1
+ resolved ;10
+ resolvers ;1
+ -resources ;1
+ restructure ;18
+ review ;6
+ revisions-needed ;5
+ RFC ;1
+ rfe ;1
+ rhino ;1
+ routing ;32
+ routing ;4
+ rspec ;17
+ rspec-rails-2 ;6
+ rss ;1
+ rt ;1
+ rubinius ;12
+ ruby ;54
+ ruby ;7
+ ruby ;1
+ Ruby 1.9 ;28
+ Ruby 2 Problem ;3
+ Ruby 2.0 ;11
+ Ruby 2.0 ;4
+ Ruby 2.1 ;2
+ Ruby 2.2 ;5
+ ruby19 ;13
+ ruby19 ;4
+ ruby19 ;3
+ ruby19 ;3
+ ruby19 ;1
+ ruby19 ;1
+ Rubydoc.info ;1
+ rubygems ;13
+ ruby-processing-2.6.0 ;1
+ ruby-version-difference ;2
+ Safari ;5
+ safari ;2
+ samples ;1
+ sass-extension ;3
+ saturnflyer ;20
+ sax ;4
+ scalability ;12
+ scheduler ;14
+ screw.unit ;2
+ scripting ;1
+ scss ;6
+ search ;2
+ security ;7
+ security ;4
+ Security ;4
+ security ;4
+ security ;3
+ security ;1
+ security ;1
+ semantic ;13
+ sequel orm layer ;2
+ server ;1
+ Server/Apache ;25
+ Server/Nginx ;22
+ severity: minor;1
+ Short term ;2
+ Skins ;4
+ smell ;27
+ Solaris ;1
+ solaris ;1
+ spec ;21
+ specs ;12
+ specs ;4
+ spinach ;1
+ Spoof related ;19
+ sprites ;47
+ sql ;8
+ sqlite3 ;17
+ ssl ;22
+ stale ;265
+ Stale ;1
+ stalled ;10
+ Stats ;3
+ status — accepted ;35
+ status — feedback required ;6
+ status — rejected ;13
+ stdlib ;31
+ steps ;17
+ stories ;18
+ style ;14
+ Styling Problem ;19
+ SublimeLinter ;13
+ suggestion ;5
+ suggestion ;3
+ suggestion ;2
+ support ;25
+ support ;9
+ Support ;8
+ support ;4
+ support ;4
+ support ;1
+ support ;1
+ Support - Pending Response ;4
+ Support request ;15
+ support scripts ;2
+ system setup ;5
+ table ;8
+ task ;20
+ Task ;10
+ task ;5
+ task ;5
+ task ;2
+ task ;2
+ task ;2
+ task ;1
+ teamdemo ;1
+ Tech/WebSocket ;8
+ techdebt ;2
+ technical debt ;3
+ template ;1
+ templates ;30
+ tenderlove ;63
+ Test ;6
+ test ;1
+ Test after listen integration ;5
+ Testing ;2
+ testing ;2
+ tests ;8
+ tests ;2
+ Tests Need Attention ;14
+ tests needed ;2
+ test-unit ;10
+ testunit2 ;2
+ Theme ;46
+ thinking ;7
+ third party issue ;20
+ Third Party Issue ;2
+ ThirdParty ;18
+ third-party ;4
+ threads ;1
+ timers ;4
+ todo ;36
+ todo ;20
+ todo ;9
+ todo ;5
+ TODO ;4
+ TODO ;4
+ todo ;4
+ todo ;3
+ TODO ;3
+ todo ;2
+ TODO ;2
+ todo ;2
+ todo ;1
+ todo ;1
+ TODO for v 0.0.4 ;3
+ tools ;77
+ Tools ;3
+ trac ;9
+ tracking ;1
+ transaction integrity ;17
+ tutorials ;6
+ tvdb_api ;4
+ tvnamer ;1
+ type — bug ;26
+ type — feature request ;30
+ Types ;8
+ udp ;1
+ ui ;7
+ UI ;2
+ ui ;1
+ ui improvement ;6
+ ULTRA-solved ;4
+ Unassigned ;4
+ unclear ;2
+ unconfirmed ;24
+ unconfirmed ;7
+ unconfirmed ;1
+ uncool ;1
+ uncritical ;2
+ under-investigation ;1
+ unicode ;3
+ UnionStation ;4
+ unverified ;224
+ unverified ;3
+ unverified bug ;8
+ upgrade ;1
+ upstream ;24
+ Upstream ;1
+ URI Templates ;1
+ usability ;34
+ Usability ;34
+ Usability ;22
+ usability ;9
+ usability ;2
+ user story ;1
+ user-error ;5
+ utils ;2
+ ux ;17
+ UX/UI ;139
+ v0.10 ;13
+ v0.6.0 ;4
+ v0.7.0 ;1
+ v0.7.1 ;1
+ v0.8.0 ;2
+ v2 ;3
+ v2.x ;1
+ v2.x.x ;17
+ v3 ;15
+ v3.0.x ;109
+ v3.0.X ;2
+ v3.1.x ;22
+ v3.1.X ;21
+ v3.2.X ;16
+ v3.x ;2
+ variable ;2
+ vc6 ;2
+ verified ;31
+ version ;2
+ view patch ;6
+ Visual design ;1
+ visuals ;3
+ vmware ;1
+ waiting ;14
+ waiting ;4
+ waiting ;1
+ waiting ;1
+ waiting for feedback ;6
+ waiting for feedbacks ;1
+ waiting for more info ;3
+ Waiting for reply ;1
+ waiting on response ;14
+ watir2 ;8
+ waves 0.9.0 ;6
+ wcml ;6
+ web ;6
+ web services ;3
+ WebKit ;1
+ website ;1
+ website ;1
+ Whitespace ;11
+ widgets ;2
+ will-close ;1
+ willfix ;21
+ will-fix ;4
+ win32 ;20
+ win32 ;12
+ windows ;12
+ windows ;10
+ Windows ;6
+ windows ;5
+ windows ;2
+ windows ;1
+ windows ;1
+ windows ;1
+ windows ;1
+ Windows ;1
+ windows ;1
+ windows compatibility ;1
+ windows-specific ;2
+ Winner ;2
+ wip ;2
+ WIP ;2
+ WIP ;1
+ WIP ;1
+ wish ;3
+ Wish ;3
+ wish ;2
+ wish ;1
+ wishlist ;62
+ Wishlist ;14
+ wishlist ;7
+ Wishlist ;2
+ With reproduction steps ;74
+ wkml ;7
+ wont fix ;2
+ won't fix ;62
+ won't fix ;2
+ Won't Fix ;1
+ Won't fix ;1
+ Won't Fix ;1
+ wontfix ;29
+ wontfix ;19
+ WontFix ;18
+ wontfix ;18
+ wontfix ;4
+ wontfix ;4
+ wontfix ;3
+ wontfix ;2
+ wontfix ;2
+ Wontfix ;1
+ wontfix ;1
+ wontfix ;1
+ wontfix ;1
+ wontfix ;1
+ wont-fix ;2
+ wont-fix ;1
+ won-t-fix ;1
+ workaround ;1
+ working as intended ;13
+ working on it ;3
+ works_for_me ;30
+ worksforme ;11
+ wrongtracker ;16
+ wxml ;1
+ x-browser-bug ;6
+ XeTeX ;2
+ zinc ;9
+ zlib ;1
+#NOME?;117

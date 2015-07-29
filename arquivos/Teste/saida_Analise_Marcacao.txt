@@ -1,0 +1,9 @@
+
+________________||||Repositório: Pesquisa_Defeitos_Territorialidade Cont: 1||||_________________________
+Listas de Labels:
+Nome Label: BUG ; Quantidade: 4
+Nome Label: TESTE ; Quantidade: 1
+Nome Label: DUPLICATE ; Quantidade: 1
+Nome Label: ENHANCEMENT ; Quantidade: 1
+Listas de Milestones:
+Nome Milestone: teste 1 ; Quantidade: 1

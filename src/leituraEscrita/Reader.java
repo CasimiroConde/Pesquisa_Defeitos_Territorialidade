@@ -1,8 +1,10 @@
 package leituraEscrita;
 
+import marcacoesIssues.LabelConsolidado;
 import issuesRepositorios.Repositorio;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
@@ -13,6 +15,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 import org.eclipse.egit.github.core.Repository;
+import org.eclipse.egit.github.core.RepositoryCommit;
 import org.eclipse.egit.github.core.client.GitHubClient;
 import org.eclipse.egit.github.core.client.NoSuchPageException;
 import org.eclipse.egit.github.core.client.PageIterator;
@@ -22,12 +25,15 @@ import org.eclipse.egit.github.core.service.IssueService;
 import org.eclipse.egit.github.core.service.RepositoryService;
 
 import com.sun.org.apache.xalan.internal.xsltc.compiler.Parser;
+import com.sun.xml.internal.ws.org.objectweb.asm.Label;
 
 
 public class Reader {
 
-	final static String ARQUIVO = "arquivos de saida//saidaRepositorios1000.txt";
-	final static String ARQUIVOCOMPLETO = "arquivos de saida//saida_10-07-2015_01-25.txt";
+	final static String ARQUIVO = "arquivos//entradaRepositorios//saidaRepositorios1000.txt";
+	final static String ARQUIVOCOMPLETO = "arquivos//saida_10-07-2015_01-25.txt";
+	final static String ARQUIVOLABELS = "arquivos//Marcacoes Consolidadas//consolidado.txt";
+	
 
 	/**
 	 * Executa a leitura do arquivo, testando cada uma das tags para identificar 
@@ -51,7 +57,6 @@ public class Reader {
 	public static ArrayList<Repositorio> executeListaCompleta() throws FileNotFoundException {
 		Scanner file = new Scanner(new BufferedReader(new FileReader(ARQUIVOCOMPLETO)));
 		ArrayList<Repositorio> repositorios = new ArrayList<Repositorio>();
-		int cont = 0;
 		while (file.hasNext()) {
 			if(file.nextLine().startsWith("_")){
 				String[][] linhaDividida = new String[7][10];
@@ -66,8 +71,6 @@ public class Reader {
 				r.setContadorIssuesCorrigidosCommits(Integer.parseInt(linhaDividida[5][5].replaceAll("[^0-9]", "")));
 				r.setContadorIssuesBugCorrigidosCommits(Integer.parseInt(linhaDividida[6][6].replaceAll("[^0-9]", "")));
 				repositorios.add(r);
-				System.out.println(cont);
-				cont++;
 			}
 		}
 		return repositorios;
@@ -154,8 +157,39 @@ public class Reader {
 	}
 	
 	private static String criaNome(int cont){
-		String nomeArquivoRepositorios =  "C:/Users/Casimiro/git/Territorialidade/arquivos de saida/saidaRepositorios" + cont + ".txt";
+		String nomeArquivoRepositorios =  "C:/Users/Casimiro/git/Territorialidade/arquivos/saidaRepositorios" + cont + ".txt";
 		return nomeArquivoRepositorios;
 	}
+	
+	public static String retornaConteudo(File f) throws FileNotFoundException{
+		Scanner content = new Scanner(new BufferedReader(new FileReader(f)));
+		String contentString = "";
+		while(content.hasNext()){
+			contentString = contentString + " " +content.nextLine();	
+		}
+		
+		return contentString;
+	}
+	
+	public static ArrayList<LabelConsolidado> geraListaConsolidadaLabels() throws FileNotFoundException{
+		Scanner file = new Scanner(new BufferedReader(new FileReader(ARQUIVOLABELS)));
+		ArrayList<LabelConsolidado> consolidado = new ArrayList<LabelConsolidado>();
+		
+		while(file.hasNext()){
+			String linha = file.nextLine();
+			LabelConsolidado label;
+			String[] listaPalavras = linha.split(";");
+			ArrayList<String> variacoes = new ArrayList<String>();			
+			for(int i = 1; i < listaPalavras.length ; i++){
+				variacoes.add(listaPalavras[i]);
+			}
+			label = new LabelConsolidado(listaPalavras[0], variacoes);
+			consolidado.add(label);	
+		}
+		return consolidado;
+	}
+	
+
+
 
 }

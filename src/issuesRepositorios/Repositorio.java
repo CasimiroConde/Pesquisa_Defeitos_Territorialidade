@@ -1,5 +1,7 @@
 package issuesRepositorios;
 
+import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
@@ -19,7 +21,12 @@ import org.eclipse.egit.github.core.client.RequestException;
 import org.eclipse.egit.github.core.service.CommitService;
 import org.eclipse.egit.github.core.service.IssueService;
 
+import leituraEscrita.Reader;
+import leituraEscrita.Writer;
 import lombok.Data;
+import marcacoesIssues.LabelConsolidado;
+import marcacoesIssues.TipoMarcacao;
+
 
 public @Data class Repositorio {
 	
@@ -44,7 +51,7 @@ public @Data class Repositorio {
 		this.marcacaoIssue = new ArrayList<MarcacaoIssue>();
 	}
 	
-	public void calculaQuantidadesIssues(IssueService issueService) throws InterruptedException, RequestException{
+	public void calculaQuantidadesIssues(IssueService issueService, ArrayList<LabelConsolidado> labelConsolidado) throws InterruptedException, RequestException{
 		boolean encerrado = false;
 		
 		while(!encerrado){
@@ -66,7 +73,7 @@ public @Data class Repositorio {
 			    	java.util.Iterator<Issue> itr = page.iterator(); 
 			    	while(itr.hasNext()){
 			    		Issue issue = itr.next();
-			    		this.insereMarcacoes(issue);
+			    		this.insereMarcacoes(issue,labelConsolidado);
 			    		List<Label> labels = issue.getLabels();
 				    	if(issue.getState().equalsIgnoreCase("open")){
 							openIssue1++;
@@ -97,9 +104,8 @@ public @Data class Repositorio {
 		}
 	}
 	
-	public void defeitosCorrigidosCommit(CommitService commitService, IssueService issueService) throws IOException, InterruptedException{
+	public void defeitosCorrigidosCommitOrigemWeb(CommitService commitService, IssueService issueService) throws IOException, InterruptedException{
 		boolean encerrado = false;
-		Issue issue = null;
 		
 		while(!encerrado){
 			try{
@@ -112,17 +118,12 @@ public @Data class Repositorio {
 							if(MetodosAuxiliares.ePalavraChave(palavras[i])){
 								if((i + 1) < palavras.length ){
 									if(palavras[i + 1].startsWith("#")){
-										contadorIssuesCorrigidosCommits1++;
 										String numeroIssue = palavras[i + 1].substring(1).replaceAll("[^0-9]", "");
-										if(!numeroIssue.isEmpty()){
-											try{
-												issue = issueService.getIssue(this.repoId, numeroIssue);
-											}catch (IOException e) {
-												System.out.println("Não achou Issue: " + numeroIssue);
-												issue = null;
-											}
-											if(issue != null){
-												if(MetodosAuxiliares.eBug(issue.getLabels())){
+										Issue issue = verificaIssueCommitExiste(issueService, numeroIssue);
+										if(issue != null){
+											if(verificaIssueCommitEstaFechado(issue)){
+												contadorIssuesCorrigidosCommits1++;
+												if(verificaIssueCommitEBug(issue)){
 													contadorIssuesBugCorrigidosCommits1++;
 												}
 											}
@@ -150,15 +151,115 @@ public @Data class Repositorio {
 		}
 	}
 	
-	private void insereMarcacoes(Issue issue) {
+	private boolean verificaIssueCommitEstaFechado(Issue issue) {
+		if(issue.getState().equals("Closed"))
+			return true;
+		return false;
+	}
+
+	public void defeitosCorrigidosCommitOrigemCSV(IssueService issueService) throws IOException, InterruptedException{
+		boolean encerrado = false;
+		
+		String nomePasta = this.userName+"-"+this.repositoryName;
+		
+		String caminhoArmazenamento = "arquivos de saida//Commits//"+nomePasta;
+		
+		File pasta = new File (caminhoArmazenamento);
+		File [] files = pasta.listFiles();
+		
+		while(!encerrado){
+			try{
+				int contadorIssuesCorrigidosCommits1 = 0;	
+				int contadorIssuesBugCorrigidosCommits1 = 0;
+				for(File f : files){
+					if(f.isFile() && f.getName().endsWith(".txt")){
+						String texto = Reader.retornaConteudo(f);
+						if(MetodosAuxiliares.contemPalavraChave(texto)){
+							String[] palavras = texto.split(" ");
+							for(int i = 0 ; i < palavras.length ; i++){
+								if(MetodosAuxiliares.ePalavraChave(palavras[i])){
+									if((i + 1) < palavras.length ){
+										if(palavras[i + 1].startsWith("#")){
+											String numeroIssue = palavras[i + 1].substring(1).replaceAll("[^0-9]", "");
+											Issue issue = verificaIssueCommitExiste(issueService, numeroIssue);
+											if(issue != null){
+												contadorIssuesCorrigidosCommits1++;
+												if(verificaIssueCommitEBug(issue)){
+													contadorIssuesBugCorrigidosCommits1++;
+												}
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+				
+				this.contadorIssuesCorrigidosCommits = contadorIssuesCorrigidosCommits1;
+				this.contadorIssuesBugCorrigidosCommits = contadorIssuesBugCorrigidosCommits1;
+				encerrado = true;
+			} catch (NoSuchPageException n){
+				//Writer.criaArquivo(criaNome(cont), buffer);
+				System.out.println("Defeitos Corrigidos! Máximo de Requisições Alcançada, tentaremos novamente em 10 min");
+				Thread.sleep(600 * 1000);
+				//return repositorios;		
+			
+			}
+		}
+	}
+	
+	private Issue verificaIssueCommitExiste(IssueService issueService,  String numeroIssue) {
+		Issue issue = null;
+		if(!numeroIssue.isEmpty()){
+			try{
+				issue = issueService.getIssue(this.repoId, numeroIssue);
+			}catch (IOException e) {
+				System.out.println("Não achou Issue: " + numeroIssue);
+				issue = null;
+			}
+		}
+		return issue;
+	}
+
+	private boolean verificaIssueCommitEBug(Issue issue) {
+		if(MetodosAuxiliares.eBug(issue.getLabels()))
+			return true;
+		return false;
+	}
+	
+	public void downloadCommits(CommitService commitService) throws IOException, InterruptedException{
+		boolean encerrado = false;
+		Issue issue = null;
+		
+		while(!encerrado){
+			try{
+				for(RepositoryCommit c : commitService.getCommits(this.getRepoId())){
+						Writer.armazenaCommits(this.getUserName(), this.getRepositoryName(), c);
+				}
+				encerrado = true;
+			} catch (NoSuchPageException n){
+				//Writer.criaArquivo(criaNome(cont), buffer);
+				System.out.println("Defeitos Corrigidos! Máximo de Requisições Alcançada, tentaremos novamente em 10 min");
+				Thread.sleep(600 * 1000);
+				//return repositorios;		
+			
+			}catch(RequestException r){
+				System.out.println("Defeitos Corrigidos! Máximo de Requisições Alcançada, tentaremos novamente em 10 min");
+				Thread.sleep(600 * 1000);
+			}
+		}
+	}
+	
+	private void insereMarcacoes(Issue issue, ArrayList<LabelConsolidado> labelConsolidado) {
 		
 		//Analisa Contador de Label
 		if(!issue.getLabels().isEmpty())
-		MetodosAuxiliares.insereMarcacaoLabel(this.marcacaoIssue,issue);	
+		MetodosAuxiliares.insereMarcacaoLabelRepositorio(this.marcacaoIssue,issue, labelConsolidado);	
 		
 		//Analisa Contador de Milestones
 		if(issue.getMilestone() != null)
-		MetodosAuxiliares.insereMarcacaoMilestone(this.marcacaoIssue, issue);
+		MetodosAuxiliares.insereMarcacaoMilestoneRepositorio(this.marcacaoIssue, issue);
 		
 	}
 

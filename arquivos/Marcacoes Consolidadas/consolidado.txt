@@ -1,0 +1,70 @@
+API;api;api;api change;api conflict;c api
+ADMIN;admin;admin upgrades
+BUG;bug;bugs;Bug;bug report;bug!!;bud-dev;bug-fix;bugfix;bug-report;confirmed_bug
+BUILD;build;Build system;building
+CANNOT REPRODUDE;Cannot reproduce;canot reproduce;CannotReproduce;can't reproduce;cantreproduce
+CHANGE;change;change-request;change request
+CODE;code;Code;code bug;code quality / build system;coding bug;coding standart
+COMMUNIT;community;Communit;communit_support
+COMPATIBILITY;Compatibility;compatibility
+COMPILER;compiler;compiler issue
+CONFIRMED;confirmed;Confirmed
+CORE;core_engine;core_nodes;core
+CRITICAL;critical;Critical error
+CSS;css;css3
+DATABASE;database;database inserter
+DEBUGGER;debugger;debbuging
+DEFECT;defect;Defect
+DISCUSS;discuss;Discuss;discussion;Discussion
+DO IT;do it;DO IT;do it later
+DOC;doc;docco;docs;documentation;Documentation;documentation-request
+DOM;dom;dom-api
+DSL;dsl;dsl change
+DUPLICATE;duplicate;Duplicate
+EASY;easy;Easy;Easy to fix;easy to fix
+ENHANCEMENT;enhancement;enhancements
+ENV;env;enviroment
+ERROR;error;errorrrr;errors;error handling;error-reporting
+EXTENSION;extension;extensions
+FEATURE;features;feature;Feature;feature Enhancement;feature request;Feature Request;Feature!;feature_request;feature-request
+FEEDBACK;feedback;Feedback;Feedback Requested;feedback requested;Feedback Required;feedback required;feedback-needed;feedback-wanted
+FIX;fix;fixed;fix-later;Fix needs confirmation
+FUTURE;future;future idea;Future Plan
+GATEWAY;gateway;gateway feature;gateway fix;gateway recurring;gateway submission
+HELP WANTED;Help Wanted;help wanted
+HIGH;high priority;highest priority
+HTML;html;html 5;html_css;HTML5
+IDEA;idea;Idea
+IMPROVEMENT;improvement;improooooooovement;Improvement
+INTERNAL;internal;internal improvement
+INVALID;invalid;invalid xml handling
+JRUBY;jruby;JRuby;Jruby
+NEED MORE INFO;need more info;needinfo;Need More Info;Needs More Info
+NEED FEEDBACK;needs feedback;NeedsFeedback
+ORDER;order;order_by
+PARSER;parser;parsing
+PATCH;patch;patch-needed;patchwelcome
+POSSIBLY OUTDATED;possibly outdated;possiblyOutdated
+POSTGRESQL;postgres;PostgreSQL;postgresql
+QUESTION;question;Question/Discussion;Question;-question
+RAILS;rails;rails 2.3;rails 4.0;rails3;rails31;rails-4.2;rails-4.x;rails42
+REFACTOR;refactor;refactoring
+RELEASE BLOCKER;release blocker;release-blocker
+RESOURCES;-resources
+RUBY;ruby;ruby 2.0;ruby 1.9;ruby 2 problem;ruby 2.1;ruby 2.2;ruby19;rubydoc.info;rubygems;ruby-processing-2.6.0;ruby-version-difference
+SPEC;specs;spec
+SUPPORT;support;Support - Pending Response;Support request;support scripts
+TEST;test;testing;tests;test after listen integration;tests need attention;tests needed;test-unit;testunit2
+THIRD PARTY;third party issue;ThirdParty;third-party
+TODO;todo;TODO;TODO for v 0.0.4
+UI;ui;ui improvement
+UNVERIFIED;unverified;unverified bug
+WATING;waiting for feedback;waiting for feedbacks;waiting for more info;waiting for reply;waiting for response
+WILL FIX;will fix;willfix;will-fix;will-close
+WINDOWS;windows;windows compatibility;windows-specific
+WISH;wish;wishlist
+WONT FIX;wont fix;won't fix;wontfix;wont-fix;won-t-fix
+
+
+
+	

@@ -1,6 +1,7 @@
 package issuesRepositorios;
 
 import lombok.Data;
+import marcacoesIssues.TipoMarcacao;
 
 public @Data class MarcacaoIssue {
 	private String nome;
@@ -17,6 +18,10 @@ public @Data class MarcacaoIssue {
 	
 	public void incrementaContador() {
 		this.quantidade++;
+	}
+	
+	public void acrescentaNumeroContador(int cont){
+		this.quantidade = this.quantidade + cont;
 	}
 
 }
