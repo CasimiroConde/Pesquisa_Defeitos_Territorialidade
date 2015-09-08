@@ -203,7 +203,7 @@ public static void printConteudoTodosRepositoriosCSV(String nome,  int totalOpen
 			
 		for(MarcacaoIssue m : marcacao){
 			if(m.getTipo().equals(TipoMarcacao.LABEL)){
-				buffer.append(m.getNome() + ";" + m.getQuantidade() + System.getProperty("line.separator"));
+				buffer.append(m.getTipo() + ";" + m.getNome() + ";" + m.getQuantidade() + System.getProperty("line.separator"));
 			}
 		}
 		
