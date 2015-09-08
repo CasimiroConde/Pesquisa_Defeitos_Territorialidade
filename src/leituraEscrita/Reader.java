@@ -1,6 +1,7 @@
 package leituraEscrita;
 
 import marcacoesIssues.LabelConsolidado;
+import marcacoesIssues.AgrupadorMarcacao;
 import issuesRepositorios.Repositorio;
 
 import java.io.BufferedReader;
@@ -30,31 +31,37 @@ import com.sun.xml.internal.ws.org.objectweb.asm.Label;
 
 public class Reader {
 
-	final static String ARQUIVO = "arquivos//entradaRepositorios//saidaRepositorios1000.txt";
-	final static String ARQUIVOCOMPLETO = "arquivos//saida_10-07-2015_01-25.txt";
-	final static String ARQUIVOLABELS = "arquivos//Marcacoes Consolidadas//consolidado.txt";
+	final static String ARQUIVO = "arquivos//listaRepositorios//saidaRepositorios1000.txt";
+	final static String ARQUIVOLABELS = "arquivos//Marcacoes Consolidadas//consolidado.csv";
 	
 
 	/**
 	 * Executa a leitura do arquivo, testando cada uma das tags para identificar 
 	 * qual o tipo de informação que erá lida.
+	 * @throws IOException 
+	 * @throws InterruptedException 
 	 */
-	public static ArrayList<Repositorio> executeListaSimples() throws FileNotFoundException {
+	public static ArrayList<Repositorio> executeListaSimples(GitHubClient client, int TAMANHO_AMOSTRA) throws InterruptedException, IOException {
 		Scanner file = new Scanner(new BufferedReader(new FileReader(ARQUIVO)));
 		ArrayList<Repositorio> repositorios = new ArrayList<Repositorio>();
+		RepositoryService repositoryService = new RepositoryService(client);
+		IssueService issueService = new IssueService(client);
+		int cont = 0;         	
 		
-		while (file.hasNext()) {
+		while ((file.hasNext()) && (cont < TAMANHO_AMOSTRA)) {
 			String linha = file.nextLine();
 			if(!linha.isEmpty()){
 				String[] linhaDivida = linha.split(" ");
-				Repositorio r = new Repositorio(linhaDivida[2], linhaDivida[9]); 
+				Repositorio r = new Repositorio(linhaDivida[2], linhaDivida[9], client); 
 				repositorios.add(r);
+				cont++;
+				System.out.println("Carregado Repositorio: " + r.getUserName() + "/" + r.getRepositoryName());
 			}
 		}
 		return repositorios;
 	}
 	
-	public static ArrayList<Repositorio> executeListaCompleta() throws FileNotFoundException {
+	/*public static ArrayList<Repositorio> executeListaCompleta() throws FileNotFoundException {
 		Scanner file = new Scanner(new BufferedReader(new FileReader(ARQUIVOCOMPLETO)));
 		ArrayList<Repositorio> repositorios = new ArrayList<Repositorio>();
 		while (file.hasNext()) {
@@ -74,17 +81,15 @@ public class Reader {
 			}
 		}
 		return repositorios;
-	}
+	}*/
 	
-	private static ArrayList<Repositorio> inicializaListaRepositórios(GitHubClient client) throws IOException, RequestException, InterruptedException {
+	public static ArrayList<Repositorio> inicializaListaRepositórios(GitHubClient client, int TAMANAHO_LISTA) throws IOException, RequestException, InterruptedException {
 		ArrayList<Repositorio> repositorios = new ArrayList<Repositorio>();
 		StringBuilder buffer = new StringBuilder();
-		int cont = 0;
-		
 		RepositoryService repositoryService = new RepositoryService(client);
 		IssueService issueService = new IssueService(client);
 		CommitService commitService = new CommitService(client);
-		
+		int cont = 0;
 		
 		Map<String, String> params = new HashMap<String, String>();
 	    params.put(RepositoryService.FILTER_TYPE, "public");
@@ -94,25 +99,27 @@ public class Reader {
 		    
 		PageIterator<Repository> iterator = repositoryService.pageAllRepositories();
 		
-		while(cont < 1000){
+		while(cont < TAMANAHO_LISTA){
 			try{	
-				while(iterator.hasNext()){
 					Collection<Repository> page = iterator.next();
 			    	java.util.Iterator<Repository> itr = page.iterator(); 
 		    		while(itr.hasNext()){
 				    	Repository repository = itr.next();
-				    	Repositorio repo = new Repositorio(repository.getOwner().getLogin(), repository.getName());
-						if(validaRepositorio(repository, repo, issueService, paramsIssues, commitService)){
-							incluiRepositorio(buffer, repositorios, repo);
-							cont++;
-				    		System.out.println(cont);
-				    	if(cont == 200 || cont == 400 || cont == 600 || cont == 800 || cont == 1000){
+				    	Repositorio repo = new Repositorio(repository.getOwner().getLogin(), repository.getName(), client);
+				    	if(!repo.getRepositoryName().equals("Vazio")){
+					    	if(validaRepositorio(repository, repo, issueService, paramsIssues, commitService)){
+					    		incluiRepositorio(buffer, repositorios, repo);
+								System.out.println(cont);
+								cont++;
+					    	}
+						}
+				    	if((cont % 100) == 0){
 				    			Writer.escreveArquivo(criaNome(cont), buffer);
 				    			System.out.println("Repositórios Inicializados! Lista de " + cont);
-				    		}
-				    	}						
+				    	}
+				    							
 		    		}
-				}									
+													
 			}catch (NoSuchPageException e ){
 				//Writer.criaArquivo(criaNome(cont), buffer);
 				System.out.println("Repositórios Inicializados! Máximo de Requisições Alcançada, tentaremos novamente em 10 min");
@@ -141,7 +148,7 @@ public class Reader {
 		int sizeCommit;
 		try {
 			sizeCommit = commitService.getCommits(repo.getRepoId()).size();
-			if(sizeCommit < 100)
+			if(sizeCommit < 2)
 				return false;
 		} catch (IOException e) {
 			return false;
@@ -157,7 +164,7 @@ public class Reader {
 	}
 	
 	private static String criaNome(int cont){
-		String nomeArquivoRepositorios =  "C:/Users/Casimiro/git/Territorialidade/arquivos/saidaRepositorios" + cont + ".txt";
+		String nomeArquivoRepositorios =  "C:/Users/Casimiro/git/Territorialidade/arquivos/listaRepositorios/saidaRepositorios" + cont + ".txt";
 		return nomeArquivoRepositorios;
 	}
 	
@@ -178,12 +185,14 @@ public class Reader {
 		while(file.hasNext()){
 			String linha = file.nextLine();
 			LabelConsolidado label;
+			AgrupadorMarcacao tipo;
 			String[] listaPalavras = linha.split(";");
 			ArrayList<String> variacoes = new ArrayList<String>();			
-			for(int i = 1; i < listaPalavras.length ; i++){
+			for(int i = 2; i < listaPalavras.length ; i++){
 				variacoes.add(listaPalavras[i]);
 			}
-			label = new LabelConsolidado(listaPalavras[0], variacoes);
+			tipo = AgrupadorMarcacao.get(listaPalavras[1]);
+			label = new LabelConsolidado(listaPalavras[0], tipo, variacoes);
 			consolidado.add(label);	
 		}
 		return consolidado;

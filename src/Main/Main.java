@@ -1,7 +1,8 @@
 package Main;
 
 import marcacoesIssues.LabelConsolidado;
-import issuesRepositorios.MarcacaoIssue;
+import marcacoesIssues.MarcacaoIssue;
+import marcacoesIssues.MetodosAuxiliaresLabel;
 import issuesRepositorios.MetodosAuxiliares;
 import issuesRepositorios.Repositorio;
 
@@ -42,12 +43,15 @@ public class Main {
 	static Calendar cal = Calendar.getInstance();
 	
 	static Repositorio[] r = new Repositorio[20];
-	static String nomeArquivoAnalise =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseCommits/saida_" + dateFormat.format(cal.getTime())+ ".txt";	
-	static String nomeArquivoAnaliseCSV =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseCommits/saida_" + dateFormat.format(cal.getTime())+ ".csv";	
-	static String nomeArquivoAnaliseCSVConsolidado =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseCommits/saida_" + dateFormat.format(cal.getTime())+ "_Consolidado"+ ".csv";	
+	static String nomeArquivoAnalise =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseRepo/saida_" + dateFormat.format(cal.getTime())+ ".txt";	
+	static String nomeArquivoAnaliseCSV =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseRepo/saida_" + dateFormat.format(cal.getTime())+ ".csv";	
+	static String nomeArquivoAnaliseCSVConsolidado =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseRepoConsolidado/saida_" + dateFormat.format(cal.getTime())+ "_Consolidado"+ ".csv";	
 	static String nomeArquivoMarcacaoAnalitico =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseMarcacao/Analise_Marcacao_" + dateFormat.format(cal.getTime())+ ".txt";	
 	static String nomeArquivoMarcacaoConsolidado =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseMarcacao/Consolidado/Analise_Marcacao_Consolidado_"+ dateFormat.format(cal.getTime()) +".txt";	
-
+	static String nomeArquivoListaIssue =  "C:/Users/Casimiro/git/Territorialidade/arquivos/listaIssue/listaIssue"+ dateFormat.format(cal.getTime()) +".txt";	
+	
+	static int TAMANHO_AMOSTRA = 1000;
+	
 	public static void main(String[] args) throws IOException, RequestException, NoSuchPageException, InterruptedException {
 		
 		int totalOpenIssue = 0;
@@ -59,61 +63,65 @@ public class Main {
 		double totalPorcentualIssuesFechadosCommit = 0.0;
 		double totalPorcentualIssuesBugFechadosCommit = 0.0;
 		double totalPorcentualIssuesBugFechadosCommitTotal = 0.0;
+		int cont = 0;
 		
 		//Autentica Cliente e inicializa serviços
 		GitHubClient client = new GitHubClient();
-		client.setOAuth2Token("28d020349395bfc66b826879a2719f1752d561e6");
-		
-		IssueService issueService = new IssueService(client);
+		client.setOAuth2Token("b388326a588cba7c71befbfe31014d05e91e6945");
 		CommitService commitService = new CommitService(client);
-		int cont = 0;
+		
 	
 		ArrayList<LabelConsolidado> consolidadoLabel= Reader.geraListaConsolidadaLabels();
-		
+		System.out.println("Consolidado Inicializado!!!");
 		//Inicializa Repositórios
-		ArrayList<Repositorio> repositorios = Reader.executeListaSimples();
+		//ArrayList<Repositorio> repositorios = Reader.inicializaListaRepositórios(client, TAMANHO_AMOSTRA);
+		ArrayList<Repositorio> repositorios = Reader.executeListaSimples(client, TAMANHO_AMOSTRA);
 		ArrayList<MarcacaoIssue> marcacoes = new ArrayList<MarcacaoIssue>();
 				//Reader.executeListaSimples(); 
-				//inicializaListaRepositórios(client);
+		
+		
 		
 		//Calculo das Quantidades de Issues
+		//for(int cont = 682; cont < 1000 ; cont++){
 		for(Repositorio r: repositorios){
-			//Repositorio r = repositorios.get(i);
-			r.calculaQuantidadesIssues(issueService,consolidadoLabel);
+		//	Repositorio r = repositorios.get(cont);
+			r.downloadCommits(commitService);
+			
+			
+			r.calculaQuantidadesIssues(consolidadoLabel);
 			/*totalOpenIssue += r.getOpenIssue();
 			totalClosedIssue += r.getClosedIssue();
 			totalOpenIssueBug += r.getOpenIssueBug();
 			totalClosedIssueBug += r.getClosedIssueBug();
 			*/
 			
-			MetodosAuxiliares.insereMarcacaoLabelConsolidado(marcacoes, consolidadoLabel,r.getMarcacaoIssue());
+			MetodosAuxiliaresLabel.insereMarcacaoLabelConsolidado(marcacoes, consolidadoLabel,r.getMarcacaoIssue());
 			for(MarcacaoIssue m : r.getMarcacaoIssue()){
 				if(m.getTipo().equals(TipoMarcacao.MILESTONE))
-					MetodosAuxiliares.insereMarcacaoMilestoneConsolidado(marcacoes, m);
+					MetodosAuxiliaresLabel.insereMarcacaoMilestoneConsolidado(marcacoes, m);
 			}
 			
 		//Encontro os commits feitos que fecharam um issue
 			//r.defeitosCorrigidosCommit(commitService, issueService);	
-			/*r.defeitosCorrigidosCommitOrigemCSV(issueService);
-			totalContadorIssuesCorrigidosCommits += r.getContadorIssuesCorrigidosCommits();
+			r.defeitosCorrigidosCommitOrigemCSV();
+			/*totalContadorIssuesCorrigidosCommits += r.getContadorIssuesCorrigidosCommits();
 			totalContadorIssuesBugCorrigidosCommits += r.getContadorIssuesBugCorrigidosCommits();
 			*/
 			
 		// Armazena commits em arquivos
-			//r.downloadCommits(commitService);
 			
 		//Calcula % de 	issues encerrados atraves de commit em um repositorio
-			/*r.calculaIssuesFechadosCommit();	
+			r.calculaIssuesFechadosCommit();	
 			Writer.printConteudoCSV(nomeArquivoAnaliseCSV ,r, cont);
+			Writer.printConteudoRepositorioIssuesCSV(nomeArquivoListaIssue, r, cont, client);
 			System.out.println("Encerrado Repositório: " + r.getUserName() +"/" + r.getRepositoryName());
-			*/
-			Writer.printAnaliseMarcacaoIssue(nomeArquivoMarcacaoAnalitico, r, cont);
+			
+			//Writer.printAnaliseMarcacaoIssue(nomeArquivoMarcacaoAnalitico, r, cont);
 			cont++;
 			
 			if((cont % 100) == 0)
 				Writer.printAnaliseMarcacaoCompleta(nomeArquivoMarcacaoConsolidado, marcacoes);
 		}
-		
 		/*if(totalContadorIssuesCorrigidosCommits > 0){
 			totalPorcentualIssuesFechadosCommit = (double) (totalContadorIssuesCorrigidosCommits * 100) / totalClosedIssue;
 			totalPorcentualIssuesBugFechadosCommit = (double) (totalContadorIssuesBugCorrigidosCommits * 100) / totalClosedIssueBug;

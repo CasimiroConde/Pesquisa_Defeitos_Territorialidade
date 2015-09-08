@@ -1,6 +1,5 @@
 package leituraEscrita;
 
-import issuesRepositorios.MarcacaoIssue;
 import issuesRepositorios.Repositorio;
 
 import java.io.BufferedWriter;
@@ -10,9 +9,15 @@ import java.io.IOException;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 
+import marcacoesIssues.MarcacaoIssue;
 import marcacoesIssues.TipoMarcacao;
 
+import org.eclipse.egit.github.core.Issue;
 import org.eclipse.egit.github.core.RepositoryCommit;
+import org.eclipse.egit.github.core.User;
+import org.eclipse.egit.github.core.client.GitHubClient;
+import org.eclipse.egit.github.core.client.RequestException;
+import org.eclipse.egit.github.core.service.UserService;
 
 public class Writer {
 	
@@ -47,6 +52,9 @@ public class Writer {
 		
 		buffer.append("________________||||Repositório: " + repositorio.getRepositoryName() + " Cont: " + cont+ "||||_________________________" + System.getProperty("line.separator"));
 		buffer.append("Usuario: " + repositorio.getUserName() + " Repositório: " + repositorio.getRepositoryName() + System.getProperty("line.separator"));
+		buffer.append("Seguidores do Owner: " + repositorio.getNumeroFollowersOwner() + "Seguidos pelo Owner:" + repositorio.getNumeroFollowingOwner() + System.getProperty("line.separator"));
+		buffer.append("Forks:" + repositorio.getNumeroForks() + "Watchers" + repositorio.getNumeroWatchers() + System.getProperty("line.separator"));
+		buffer.append("Tamanho (KiloBytes)" + repositorio.getTamanhoRepositorio() + System.getProperty("line.separator"));
 		buffer.append("Listas de Issues dentro do Repositório" + System.getProperty("line.separator"));
 		buffer.append("Abertos: " + repositorio.getOpenIssue() + " Fechados: " + repositorio.getClosedIssue() + System.getProperty("line.separator"));
 		buffer.append("Listas de Issues dentro do Repositório (Marcados como Bug)" + System.getProperty("line.separator"));
@@ -75,6 +83,9 @@ public static void printConteudoCSV(String nome, Repositorio repositorio, int co
 		buffer.append(repositorio.getUserName() + ";" + repositorio.getRepositoryName() + ";");
 		buffer.append(repositorio.getOpenIssue() + ";" + repositorio.getClosedIssue() + ";");
 		buffer.append(repositorio.getOpenIssueBug() + ";" + repositorio.getClosedIssueBug() + ";");
+		buffer.append(repositorio.getNumeroFollowersOwner() + ";" + repositorio.getNumeroFollowingOwner() + ";");
+		buffer.append(repositorio.getNumeroForks() + ";" + repositorio.getNumeroWatchers() +";");
+		buffer.append(repositorio.getTamanhoRepositorio() + ";");
 		buffer.append(repositorio.getContadorIssuesCorrigidosCommits()+ ";");
 		buffer.append(repositorio.getContadorIssuesBugCorrigidosCommits() + ";");
 		buffer.append(format.format(repositorio.getPorcentualIssuesFechadosCommit()) + "%" +";");		
@@ -85,6 +96,35 @@ public static void printConteudoCSV(String nome, Repositorio repositorio, int co
 		escreveArquivo(nome, buffer);
 		
 	}
+
+public static void printConteudoRepositorioIssuesCSV(String nome, Repositorio repositorio, int cont, GitHubClient client) throws IOException{
+	
+	StringBuilder buffer = new StringBuilder();
+	//Informa formato de impressão de Double
+	// User name; Repository Name; State; Owner name; Create at; Closed at; Time-to-fix
+	boolean finished = false;
+	while(!finished){	
+		try{
+			for(Issue i : repositorio.getIssues()){
+				buffer.append(repositorio.getUserName() + ";" + repositorio.getRepositoryName() + ";");
+				buffer.append(i.getState() + ";" );
+				UserService userService = new UserService(client);
+				User user = userService.getUser(i.getUser().getLogin());
+				buffer.append(user.getName() + ";");
+				buffer.append(i.getCreatedAt()+ ";");
+				buffer.append(i.getClosedAt()+ ";");
+				buffer.append(repositorio.calculaTimeToFixIssue(i) + ";");
+				buffer.append(System.getProperty("line.separator"));
+			}
+			finished = true;
+		}catch(RequestException e) {
+			System.out.println("Imprimindo Issue!! Request excedido");
+		
+		}
+	}		
+	escreveArquivo(nome, buffer);
+	
+}
 
 public static void printConteudoTodosRepositoriosCSV(String nome,  int totalOpenIssue, int totalClosedIssue, int totalOpenIssueBug, int totalClosedIssueBug, int totalContadorIssuesCorrigidosCommits, int totalContadorIssuesBugCorrigidosCommits, double totalPorcentualIssuesFechadosCommit, double totalPorcentualIssuesBugFechadosCommit, double totalPorcentualIssuesBugFechadosCommitTotal) throws IOException{
 	StringBuilder buffer = new StringBuilder();
@@ -140,7 +180,7 @@ public static void printConteudoTodosRepositoriosCSV(String nome,  int totalOpen
 			buffer.append("Listas de Labels:" + System.getProperty("line.separator"));
 			for(MarcacaoIssue m : repositorio.getMarcacaoIssue()){
 				if(m.getTipo().equals(TipoMarcacao.LABEL)){
-					buffer.append("Nome Label: " + m.getNome() + " ; Quantidade: " + m.getQuantidade() + System.getProperty("line.separator"));
+					buffer.append("Tipo Marcação" + m.getTipo() + "Nome Label: " + m.getNome() + " ; Quantidade: " + m.getQuantidade() + System.getProperty("line.separator"));
 				}
 			}
 			
@@ -186,13 +226,13 @@ public static void printRepositórios(StringBuilder buffer, Repositorio repositor
 	}
 
 public static void armazenaCommits(String userName, String repositoryName,
-		RepositoryCommit c) throws IOException {
+		String sha, String conteudo) throws IOException {
 	StringBuilder buffer = new StringBuilder();
 	String nomePasta = userName+"-"+repositoryName;
 	
-	String caminhoArmazenamento = "arquivos de saida//Commits//"+nomePasta+"//"+"Commit-"+c.getSha()+".txt";
+	String caminhoArmazenamento = "C://Users//Casimiro//Documents//Casimiro Conde//Aulas//Mestrado//Seminário de Acompanhamento Discente 2//Territorialidade//Commits//"+nomePasta+"//"+"Commit-"+sha+".txt";
 	
-	buffer.append(c.getCommit().getMessage());
+	buffer.append(conteudo);
 	sobreescreveArquivo(caminhoArmazenamento, buffer);
 	
 }

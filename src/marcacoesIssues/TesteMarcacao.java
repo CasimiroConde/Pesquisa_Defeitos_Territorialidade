@@ -27,11 +27,11 @@ public class TesteMarcacao {
 		IssueService issueService = new IssueService(client);
 		ArrayList<LabelConsolidado> consolidadoLabel= Reader.geraListaConsolidadaLabels();
 		
-		Repositorio repositorio = new Repositorio("CasimiroConde", "Pesquisa_Defeitos_Territorialidade");
+	//	Repositorio repositorio = new Repositorio("CasimiroConde", "Pesquisa_Defeitos_Territorialidade");
 		
-		repositorio.calculaQuantidadesIssues(issueService,consolidadoLabel);
+	//	repositorio.calculaQuantidadesIssues(issueService,consolidadoLabel);
 		
-		Writer.printAnaliseMarcacaoIssue(nomeArquivoAnalise, repositorio, 1);	
+		//Writer.printAnaliseMarcacaoIssue(nomeArquivoAnalise, repositorio, 1);	
 }
 
 }

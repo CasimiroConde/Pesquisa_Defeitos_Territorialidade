@@ -1,0 +1,401 @@
+
+USER NAME: mojombo     REPOSITORY NAME: grit
+
+USER NAME: wycats     REPOSITORY NAME: merb-core
+
+USER NAME: rubinius     REPOSITORY NAME: rubinius
+
+USER NAME: mojombo     REPOSITORY NAME: god
+
+USER NAME: vanpelt     REPOSITORY NAME: jsawesome
+
+USER NAME: wycats     REPOSITORY NAME: jspec
+
+USER NAME: defunkt     REPOSITORY NAME: exception_logger
+
+USER NAME: defunkt     REPOSITORY NAME: ambition
+
+USER NAME: technoweenie     REPOSITORY NAME: restful-authentication
+
+USER NAME: technoweenie     REPOSITORY NAME: attachment_fu
+
+USER NAME: topfunky     REPOSITORY NAME: bong
+
+USER NAME: Caged     REPOSITORY NAME: microsis
+
+USER NAME: anotherjesse     REPOSITORY NAME: s3
+
+USER NAME: anotherjesse     REPOSITORY NAME: taboo
+
+USER NAME: anotherjesse     REPOSITORY NAME: foxtracs
+
+USER NAME: anotherjesse     REPOSITORY NAME: fotomatic
+
+USER NAME: mojombo     REPOSITORY NAME: glowstick
+
+USER NAME: defunkt     REPOSITORY NAME: starling
+
+USER NAME: wycats     REPOSITORY NAME: merb-more
+
+USER NAME: macournoyer     REPOSITORY NAME: thin
+
+USER NAME: jamesgolick     REPOSITORY NAME: resource_controller
+
+USER NAME: jamesgolick     REPOSITORY NAME: markaby
+
+USER NAME: jamesgolick     REPOSITORY NAME: enum_field
+
+USER NAME: defunkt     REPOSITORY NAME: subtlety
+
+USER NAME: defunkt     REPOSITORY NAME: zippy
+
+USER NAME: defunkt     REPOSITORY NAME: cache_fu
+
+USER NAME: KirinDave     REPOSITORY NAME: phosphor
+
+USER NAME: bmizerany     REPOSITORY NAME: sinatra
+
+USER NAME: jnewland     REPOSITORY NAME: gsa-prototype
+
+USER NAME: technoweenie     REPOSITORY NAME: duplikate
+
+USER NAME: jnewland     REPOSITORY NAME: lazy_record
+
+USER NAME: jnewland     REPOSITORY NAME: gsa-feeds
+
+USER NAME: jnewland     REPOSITORY NAME: votigoto
+
+USER NAME: defunkt     REPOSITORY NAME: mofo
+
+USER NAME: jnewland     REPOSITORY NAME: xhtmlize
+
+USER NAME: schacon     REPOSITORY NAME: ruby-git
+
+USER NAME: ezmobius     REPOSITORY NAME: bmhsearch
+
+USER NAME: uggedal     REPOSITORY NAME: mofo
+
+USER NAME: mmower     REPOSITORY NAME: simply_versioned
+
+USER NAME: abhay     REPOSITORY NAME: gchart
+
+USER NAME: benburkert     REPOSITORY NAME: schemr
+
+USER NAME: abhay     REPOSITORY NAME: calais
+
+USER NAME: mojombo     REPOSITORY NAME: chronic
+
+USER NAME: sr     REPOSITORY NAME: git-wiki
+
+USER NAME: queso     REPOSITORY NAME: signal-wiki
+
+USER NAME: drnic     REPOSITORY NAME: ruby-on-rails-tmbundle
+
+USER NAME: danwrong     REPOSITORY NAME: low-pro-for-jquery
+
+USER NAME: wayneeseguin     REPOSITORY NAME: merb-core
+
+USER NAME: sr     REPOSITORY NAME: dst
+
+USER NAME: mojombo     REPOSITORY NAME: yaws
+
+USER NAME: KirinDave     REPOSITORY NAME: yaws
+
+USER NAME: sr     REPOSITORY NAME: tasks
+
+USER NAME: mattetti     REPOSITORY NAME: ruby-on-rails-tmbundle
+
+USER NAME: lawrencepit     REPOSITORY NAME: ruby-on-rails-tmbundle
+
+USER NAME: grempe     REPOSITORY NAME: amazon-ec2
+
+USER NAME: wayneeseguin     REPOSITORY NAME: merblogger
+
+USER NAME: wayneeseguin     REPOSITORY NAME: merbtastic
+
+USER NAME: wayneeseguin     REPOSITORY NAME: alogr
+
+USER NAME: wayneeseguin     REPOSITORY NAME: autozest
+
+USER NAME: wayneeseguin     REPOSITORY NAME: rnginx
+
+USER NAME: wayneeseguin     REPOSITORY NAME: sequel
+
+USER NAME: bmizerany     REPOSITORY NAME: simply_versioned
+
+USER NAME: peterc     REPOSITORY NAME: switchpipe
+
+USER NAME: hornbeck     REPOSITORY NAME: arc
+
+USER NAME: up_the_irons     REPOSITORY NAME: ebay4r
+
+USER NAME: wycats     REPOSITORY NAME: merb-plugins
+
+USER NAME: up_the_irons     REPOSITORY NAME: ram
+
+USER NAME: defunkt     REPOSITORY NAME: ambitious_activeldap
+
+USER NAME: atmos     REPOSITORY NAME: fitter_happier
+
+USER NAME: brosner     REPOSITORY NAME: oebfare
+
+USER NAME: up_the_irons     REPOSITORY NAME: credit_card_tools
+
+USER NAME: jnicklas     REPOSITORY NAME: rorem
+
+USER NAME: cristibalan     REPOSITORY NAME: braid
+
+USER NAME: jnicklas     REPOSITORY NAME: uploadcolumn
+
+USER NAME: simonjefford     REPOSITORY NAME: ruby-on-rails-tmbundle
+
+USER NAME: chneukirchen     REPOSITORY NAME: rack-mirror
+
+USER NAME: chneukirchen     REPOSITORY NAME: coset-mirror
+
+USER NAME: drnic     REPOSITORY NAME: javascript-unittest-tmbundle
+
+USER NAME: engineyard     REPOSITORY NAME: eycap
+
+USER NAME: chneukirchen     REPOSITORY NAME: gitsum
+
+USER NAME: wayneeseguin     REPOSITORY NAME: sequel-model
+
+USER NAME: kevinclark     REPOSITORY NAME: god
+
+USER NAME: hornbeck     REPOSITORY NAME: blerb-core
+
+USER NAME: brosner     REPOSITORY NAME: django-mptt
+
+USER NAME: technomancy     REPOSITORY NAME: bus-scheme
+
+USER NAME: Caged     REPOSITORY NAME: javascript-bits
+
+USER NAME: Caged     REPOSITORY NAME: groomlake
+
+USER NAME: sevenwire     REPOSITORY NAME: forgery
+
+USER NAME: technicalpickles     REPOSITORY NAME: ambitious-sphinx
+
+USER NAME: lazyatom     REPOSITORY NAME: soup
+
+USER NAME: josh     REPOSITORY NAME: rails
+
+USER NAME: cdcarter     REPOSITORY NAME: backpacking
+
+USER NAME: jnewland     REPOSITORY NAME: capsize
+
+USER NAME: sr     REPOSITORY NAME: ape
+
+USER NAME: collectiveidea     REPOSITORY NAME: awesomeness
+
+USER NAME: collectiveidea     REPOSITORY NAME: audited
+
+USER NAME: collectiveidea     REPOSITORY NAME: acts_as_geocodable
+
+USER NAME: collectiveidea     REPOSITORY NAME: acts_as_money
+
+USER NAME: collectiveidea     REPOSITORY NAME: calendar_builder
+
+USER NAME: collectiveidea     REPOSITORY NAME: clear_empty_attributes
+
+USER NAME: collectiveidea     REPOSITORY NAME: css_naked_day
+
+USER NAME: collectiveidea     REPOSITORY NAME: imap_authenticatable
+
+USER NAME: collectiveidea     REPOSITORY NAME: random_finders
+
+USER NAME: collectiveidea     REPOSITORY NAME: with_action
+
+USER NAME: collectiveidea     REPOSITORY NAME: graticule
+
+USER NAME: collectiveidea     REPOSITORY NAME: tinder
+
+USER NAME: macournoyer     REPOSITORY NAME: invisible
+
+USER NAME: tommorris     REPOSITORY NAME: pyprofile
+
+USER NAME: adamwiggins     REPOSITORY NAME: rush
+
+USER NAME: defunkt     REPOSITORY NAME: ike
+
+USER NAME: mtodd     REPOSITORY NAME: halcyon
+
+USER NAME: benburkert     REPOSITORY NAME: cruisecontrolrb
+
+USER NAME: tommorris     REPOSITORY NAME: opml-schema
+
+USER NAME: tommorris     REPOSITORY NAME: reddy
+
+USER NAME: shane     REPOSITORY NAME: youtube-g
+
+USER NAME: defunkt     REPOSITORY NAME: facebox
+
+USER NAME: haml     REPOSITORY NAME: haml
+
+USER NAME: lancecarlson     REPOSITORY NAME: kissgen
+
+USER NAME: anotherjesse     REPOSITORY NAME: exception_logger
+
+USER NAME: rsanheim     REPOSITORY NAME: brain_buster
+
+USER NAME: mojombo     REPOSITORY NAME: vanhelsing
+
+USER NAME: bryanl     REPOSITORY NAME: linthicum
+
+USER NAME: adelcambre     REPOSITORY NAME: textilizefu
+
+USER NAME: scharfie     REPOSITORY NAME: slate
+
+USER NAME: halorgium     REPOSITORY NAME: archangel
+
+USER NAME: halorgium     REPOSITORY NAME: god
+
+USER NAME: drnic     REPOSITORY NAME: newjs
+
+USER NAME: sferik     REPOSITORY NAME: twitter
+
+USER NAME: jnunemaker     REPOSITORY NAME: googlebase
+
+USER NAME: jnunemaker     REPOSITORY NAME: googlereader
+
+USER NAME: jnunemaker     REPOSITORY NAME: mirrored
+
+USER NAME: jnunemaker     REPOSITORY NAME: scrobbler
+
+USER NAME: jnunemaker     REPOSITORY NAME: lorem
+
+USER NAME: jnunemaker     REPOSITORY NAME: statwhore
+
+USER NAME: DocSavage     REPOSITORY NAME: rails-authorization-plugin
+
+USER NAME: drnic     REPOSITORY NAME: drnic_js_test_helpers
+
+USER NAME: psq     REPOSITORY NAME: mephisto-erb-templates-plugin
+
+USER NAME: maddox     REPOSITORY NAME: imdb
+
+USER NAME: delynn     REPOSITORY NAME: userstamp
+
+USER NAME: defunkt     REPOSITORY NAME: matzbot
+
+USER NAME: alexvollmer     REPOSITORY NAME: pci4r
+
+USER NAME: marten     REPOSITORY NAME: exposure
+
+USER NAME: gnufied     REPOSITORY NAME: packet
+
+USER NAME: joshuamckenty     REPOSITORY NAME: elderbrowser
+
+USER NAME: willcodeforfoo     REPOSITORY NAME: git-wiki
+
+USER NAME: halorgium     REPOSITORY NAME: merb-core
+
+USER NAME: floydprice     REPOSITORY NAME: testing
+
+USER NAME: imownbey     REPOSITORY NAME: jim
+
+USER NAME: mudge     REPOSITORY NAME: blankable
+
+USER NAME: ivey     REPOSITORY NAME: merb-for-rails
+
+USER NAME: reinh     REPOSITORY NAME: restful_open_id_authentication
+
+USER NAME: halfbyte     REPOSITORY NAME: portmidi-ruby
+
+USER NAME: pjhyett     REPOSITORY NAME: vjot
+
+USER NAME: pjhyett     REPOSITORY NAME: errcount
+
+USER NAME: reinh     REPOSITORY NAME: jquery-autocomplete
+
+USER NAME: anotherjesse     REPOSITORY NAME: finally
+
+USER NAME: cannikin     REPOSITORY NAME: alfred
+
+USER NAME: jnewland     REPOSITORY NAME: github-campfire
+
+USER NAME: jnicklas     REPOSITORY NAME: merb-more
+
+USER NAME: jnicklas     REPOSITORY NAME: merb-core
+
+USER NAME: bigfleet     REPOSITORY NAME: blanket
+
+USER NAME: sr     REPOSITORY NAME: merb-more
+
+USER NAME: chneukirchen     REPOSITORY NAME: rubyports
+
+USER NAME: lypanov     REPOSITORY NAME: wordcram
+
+USER NAME: sr     REPOSITORY NAME: dumbapp
+
+USER NAME: raymorgan     REPOSITORY NAME: merl
+
+USER NAME: zackchandler     REPOSITORY NAME: squawk-micro
+
+USER NAME: cdcarter     REPOSITORY NAME: io
+
+USER NAME: KirinDave     REPOSITORY NAME: fuzed-old
+
+USER NAME: drnic     REPOSITORY NAME: comment_replies
+
+USER NAME: willcodeforfoo     REPOSITORY NAME: tumblr
+
+USER NAME: anildigital     REPOSITORY NAME: codesnippets
+
+USER NAME: toretore     REPOSITORY NAME: barby
+
+USER NAME: kastner     REPOSITORY NAME: sin
+
+USER NAME: drnic     REPOSITORY NAME: jsunittest
+
+USER NAME: tobi     REPOSITORY NAME: delayed_job
+
+USER NAME: halorgium     REPOSITORY NAME: admin_tasks
+
+USER NAME: abhay     REPOSITORY NAME: chronic
+
+USER NAME: nullstyle     REPOSITORY NAME: ruby-satisfaction
+
+USER NAME: jwhitmire     REPOSITORY NAME: llor-nu-legacy
+
+USER NAME: robbyrussell     REPOSITORY NAME: rubyurl
+
+USER NAME: adelcambre     REPOSITORY NAME: rubyurl
+
+USER NAME: francois     REPOSITORY NAME: mor7-google-charts-demo
+
+USER NAME: trevorturk     REPOSITORY NAME: eldorado
+
+USER NAME: crafterm     REPOSITORY NAME: attachment_fu
+
+USER NAME: rsl     REPOSITORY NAME: stringex
+
+USER NAME: james     REPOSITORY NAME: freefall
+
+USER NAME: xraid     REPOSITORY NAME: merb-core
+
+USER NAME: al3x     REPOSITORY NAME: git-wiki
+
+USER NAME: jarkko     REPOSITORY NAME: kroonikko
+
+USER NAME: KirinDave     REPOSITORY NAME: bus-scheme
+
+USER NAME: dgoodlad     REPOSITORY NAME: bindata
+
+USER NAME: caffo-archived     REPOSITORY NAME: bookqueue
+
+USER NAME: yrashk     REPOSITORY NAME: strokedb
+
+USER NAME: jdhuntington     REPOSITORY NAME: bus-scheme
+
+USER NAME: trey     REPOSITORY NAME: yark
+
+USER NAME: nakajima     REPOSITORY NAME: capistrano-bells
+
+USER NAME: nakajima     REPOSITORY NAME: calendar-maker
+
+USER NAME: urubatan     REPOSITORY NAME: mydry
+
+USER NAME: judofyr     REPOSITORY NAME: gemify
+

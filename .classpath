@@ -7,5 +7,7 @@
 	<classpathentry kind="lib" path="C:/Users/Casimiro/Downloads/Ferramentas/Eclipse/eclipse-jee-luna-R-win32-x86_64/eclipse/lombok.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/gson"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Casimiro/Downloads/Ferramentas/SonarQube/sonar-runner-dist-2.4/sonar-runner-2.4/lib/sonar-runner-dist-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Casimiro/Downloads/Ferramentas/Joda Time/joda-time-2.4-dist/joda-time-2.4/joda-time-2.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
