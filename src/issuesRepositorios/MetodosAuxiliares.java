@@ -5,6 +5,7 @@ import java.util.List;
 
 import marcacoesIssues.LabelConsolidado;
 import marcacoesIssues.MarcacaoIssue;
+import marcacoesIssues.MetodosAuxiliaresLabel;
 import marcacoesIssues.TipoMarcacao;
 
 import org.eclipse.egit.github.core.Issue;
@@ -61,6 +62,20 @@ public class MetodosAuxiliares {
 		return false;
 	}
 	
-	} 
+	public static void analiseMarcacao(
+			ArrayList<LabelConsolidado> consolidadoLabel,
+			ArrayList<MarcacaoIssue> marcacoes, Repositorio r) {
+		try{
+			MetodosAuxiliaresLabel.insereMarcacaoLabelConsolidado(marcacoes, consolidadoLabel,r.getMarcacaoIssue());
+			for(MarcacaoIssue m : r.getMarcacaoIssue()){
+				if(m.getTipo().equals(TipoMarcacao.MILESTONE))
+					MetodosAuxiliaresLabel.insereMarcacaoMilestoneConsolidado(marcacoes, m);
+			}
+		} catch (NullPointerException n){
+			System.out.println("Análise de Marcação pulada!");
+		}
+	}
+	
+} 
 
 

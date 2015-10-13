@@ -1,0 +1,1001 @@
+Indice;Login;RepoName;ID;UserName;Create;IdadeDay;Contributors;Nissue;OpenIssue;ClosedIssue;OpenIssueBug;ClosedIssueBug;Followers;Following;Forks;Watchers;KB;MB;IssuesXMB;ContemIssue;IdadeSemana;ReportersIssue;SomaTimeToFix;MediaTimeToFix;Language
+0;mojombo;grit;mojombogrit;Tom Preston-Werner;Mon Oct 29 12:37:16 BRST 2007;2873;48;189;2;187;0;4;18390;11;450;1852;7954;7,767578125;24,33190847;Contem Issue;410,4285714;135;98873;523;Ruby
+1;rubinius;rubinius;rubiniusrubinius;Rubinius;Sat Jan 12 14:46:52 BRST 2008;2798;553;3495;206;3289;0;0;0;0;582;2476;205366;200,5527344;17,42683794;Contem Issue;399,7142857;911;326539;93;Ruby
+2;mojombo;god;mojombogod;Tom Preston-Werner;Sun Jan 13 03:16:23 BRST 2008;2797;82;220;101;119;0;0;18390;11;440;1829;3122;3,048828125;72,15887252;Contem Issue;399,5714286;156;105986;482;Ruby
+3;defunkt;ambition;defunktambition;Chris Wanstrath;Mon Jan 14 04:28:56 BRST 2008;2796;3;2;2;0;0;0;14625;208;13;141;473;0,461914063;4,32980972;Não Contem Issue;399,4285714;2;1194;597;Ruby
+4;technoweenie;restful-authentication;technoweenierestful-authentication;risk danger olson;Mon Jan 14 12:44:23 BRST 2008;2796;39;33;28;5;0;0;2166;17;275;1635;1208;1,1796875;27,97350993;Contem Issue;399,4285714;28;54105;1640;Ruby
+5;technoweenie;attachment_fu;technoweenieattachment_fu;risk danger olson;Mon Jan 14 12:51:56 BRST 2008;2796;36;52;36;16;0;0;2166;17;291;1033;1008;0,984375;52,82539683;Contem Issue;399,4285714;44;62946;1211;Ruby
+6;topfunky;bong;topfunkybong;Geoffrey Grosenbach;Tue Jan 15 03:42:45 BRST 2008;2795;2;2;2;0;0;0;1080;199;4;60;123;0,120117188;16,65040643;Não Contem Issue;399,2857143;2;3816;1908;Ruby
+7;anotherjesse;s3;anotherjesses3;Jesse Andrews;Tue Jan 15 06:09:42 BRST 2008;2795;9;2;2;0;0;0;120;31;6;22;393;0,383789063;5,211195922;Não Contem Issue;399,2857143;2;1195;598;JavaScript
+8;anotherjesse;taboo;anotherjessetaboo;Jesse Andrews;Tue Jan 15 06:13:02 BRST 2008;2795;14;1;1;0;0;0;120;31;9;20;781;0,762695313;1,311139564;Não Contem Issue;399,2857143;1;597;597;JavaScript
+9;anotherjesse;foxtracs;anotherjessefoxtracs;Jesse Andrews;Tue Jan 15 06:18:59 BRST 2008;2795;4;2;2;0;0;0;120;31;0;4;135;0,131835938;15,17037031;Não Contem Issue;399,2857143;2;1195;598;JavaScript
+10;macournoyer;thin;macournoyerthin;Marc-André Cournoyer;Sat Jan 19 03:39:04 BRST 2008;2791;81;278;75;203;0;0;732;51;242;1647;3306;3,228515625;86,107683;Contem Issue;398,7142857;201;69580;250;Ruby
+11;jamesgolick;resource_controller;jamesgolickresource_controller;James Golick;Sat Jan 19 20:55:05 BRST 2008;2791;10;12;11;1;0;0;543;30;91;508;776;0,7578125;15,83505155;Contem Issue;398,7142857;9;20738;1728;Ruby
+12;jamesgolick;enum_field;jamesgolickenum_field;James Golick;Mon Jan 21 23:54:15 BRST 2008;2788;4;3;2;1;0;0;543;30;13;54;131;0,127929688;23,45038159;Não Contem Issue;398,2857143;3;2935;978;Ruby
+13;defunkt;cache_fu;defunktcache_fu;Chris Wanstrath;Tue Jan 22 22:28:10 BRST 2008;2788;8;6;6;0;0;0;14625;208;67;262;105;0,102539063;58,51428543;Contem Issue;398,2857143;6;11679;1947;Ruby
+14;bmizerany;sinatra;bmizeranysinatra;Blake Mizerany;Thu Jan 24 02:49:54 BRST 2008;2786;168;7;2;5;0;0;961;16;1278;890;8111;7,920898438;0,883738133;Contem Issue;398;7;1476;211;Ruby
+15;defunkt;mofo;defunktmofo;Chris Wanstrath;Sun Jan 27 05:06:40 BRST 2008;2783;5;1;0;1;0;0;14625;208;16;88;223;0,217773438;4,591928241;Não Contem Issue;397,5714286;1;0;0;JavaScript
+16;schacon;ruby-git;schaconruby-git;Scott Chacon;Sun Jan 27 15:23:23 BRST 2008;2783;46;243;112;131;0;0;10410;21;307;983;3181;3,106445313;78,22445771;Contem Issue;397,5714286;157;98630;406;Ruby
+17;abhay;calais;abhaycalais;Abhay Kumar;Tue Jan 29 02:10:12 BRST 2008;2781;15;13;6;7;0;0;34;0;50;136;349;0,340820313;38,14326642;Contem Issue;397,2857143;12;7311;562;Ruby
+18;mojombo;chronic;mojombochronic;Tom Preston-Werner;Tue Jan 29 04:48:49 BRST 2008;2781;57;312;90;222;26;26;18390;11;324;2289;1476;1,44140625;216,4552846;Contem Issue;397,2857143;204;65933;211;Ruby
+19;sr;git-wiki;srgit-wiki;Simon Rozet;Tue Jan 29 18:39:42 BRST 2008;2781;8;10;7;3;0;0;426;157;237;518;2301;2,247070313;4,450239026;Contem Issue;397,2857143;8;9252;925;Ruby
+20;queso;signal-wiki;quesosignal-wiki;Josh Owens;Wed Jan 30 17:57:12 BRST 2008;2780;7;2;2;0;0;0;203;21;12;69;3438;3,357421875;0,595695172;Não Contem Issue;397,1428571;1;4346;2173;Ruby
+21;drnic;ruby-on-rails-tmbundle;drnicruby-on-rails-tmbundle;Dr Nic Williams;Wed Jan 30 21:20:38 BRST 2008;2780;32;56;32;24;0;0;1447;13;147;932;2337;2,282226563;24,53744116;Contem Issue;397,1428571;49;51857;926;Ruby
+22;danwrong;low-pro-for-jquery;danwronglow-pro-for-jquery;Dan Webb;Thu Jan 31 12:11:27 BRST 2008;2779;4;2;2;0;0;0;294;31;15;139;350;0,341796875;5,851428571;Não Contem Issue;397;2;3490;1745;JavaScript
+23;mojombo;yaws;mojomboyaws;Tom Preston-Werner;Thu Jan 31 17:10:07 BRST 2008;2779;2;1;1;0;0;0;18390;11;6;37;808;0,7890625;1,267326733;Não Contem Issue;397;1;597;597;Erlang
+24;grempe;amazon-ec2;grempeamazon-ec2;Glenn Rempe;Fri Feb 01 02:27:00 BRST 2008;2778;46;32;17;15;0;0;31;0;111;436;2628;2,56640625;12,46879756;Contem Issue;396,8571429;23;24254;758;Ruby
+25;wayneeseguin;merblogger;wayneeseguinmerblogger;Wayne E. Seguin;Fri Feb 01 14:27:17 BRST 2008;2778;4;1;1;0;0;0;608;16;1;16;6900;6,73828125;0,148405797;Não Contem Issue;396,8571429;1;597;597;JavaScript
+26;wayneeseguin;alogr;wayneeseguinalogr;Wayne E. Seguin;Fri Feb 01 14:36:54 BRST 2008;2778;3;1;1;0;0;0;608;16;0;8;124;0,12109375;8,258064516;Não Contem Issue;396,8571429;1;597;597;Ruby
+27;wayneeseguin;autozest;wayneeseguinautozest;Wayne E. Seguin;Fri Feb 01 14:37:51 BRST 2008;2778;2;1;1;0;0;0;608;16;0;4;276;0,26953125;3,710144928;Não Contem Issue;396,8571429;1;597;597;Ruby
+28;wycats;merb-plugins;wycatsmerb-plugins;Yehuda Katz;Sat Feb 02 09:28:47 BRST 2008;2777;92;2;2;0;0;0;6569;3;63;215;7064;6,8984375;0,289920725;Não Contem Issue;396,7142857;2;1359;680;JavaScript
+29;atmos;fitter_happier;atmosfitter_happier;Corey Donohoe;Sat Feb 02 18:59:44 BRST 2008;2777;4;2;1;1;0;0;928;164;1;3;135;0,131835938;15,17037031;Não Contem Issue;396,7142857;2;1624;812;Ruby
+30;brosner;oebfare;brosneroebfare;Brian Rosner;Sat Feb 02 20:26:41 BRST 2008;2777;4;1;0;1;0;0;572;109;4;42;2826;2,759765625;0,362349611;Não Contem Issue;396,7142857;1;0;0;JavaScript
+31;cristibalan;braid;cristibalanbraid;Cristi Balan;Sun Feb 03 19:14:46 BRST 2008;2776;14;28;0;28;0;0;65;35;27;366;718;0,701171875;39,93314763;Contem Issue;396,5714286;18;9735;348;Ruby
+32;jnicklas;uploadcolumn;jnicklasuploadcolumn;Jonas Nicklas;Sun Feb 03 19:23:05 BRST 2008;2776;2;1;1;0;0;0;658;7;6;31;1254;1,224609375;0,816586922;Não Contem Issue;396,5714286;1;597;597;Ruby
+33;engineyard;eycap;engineyardeycap;Engine Yard, Inc.;Mon Feb 04 09:37:14 BRST 2008;2775;60;46;4;42;0;0;0;0;54;120;1112;1,0859375;42,35971223;Contem Issue;396,4285714;26;13178;286;Ruby
+34;chneukirchen;gitsum;chneukirchengitsum;Christian Neukirchen;Mon Feb 04 10:17:55 BRST 2008;2775;3;2;1;1;0;0;486;1;11;55;96;0,09375;21,33333333;Não Contem Issue;396,4285714;1;829;415;Emacs Lisp
+35;sevenwire;forgery;sevenwireforgery;Sevenwire;Wed Feb 06 20:33:31 BRST 2008;2773;45;75;10;65;0;0;0;0;88;679;1043;1,018554688;73,63374877;Contem Issue;396,1428571;59;15619;208;Ruby
+36;lazyatom;soup;lazyatomsoup;James Adam;Thu Feb 07 15:04:58 BRST 2008;2772;2;1;0;1;0;0;126;17;6;18;1062;1,037109375;0,964218456;Não Contem Issue;396;1;0;0;Ruby
+37;josh;rails;joshrails;Joshua Peek;Thu Feb 07 21:35:21 BRST 2008;2772;3237;1;0;1;0;0;1528;64;2;29;117608;114,8515625;0,008706891;Não Contem Issue;396;1;0;0;Ruby
+38;cdcarter;backpacking;cdcarterbackpacking;Christian Carter;Fri Feb 08 01:55:18 BRST 2008;2771;3;1;1;0;0;0;9;0;5;41;179;0,174804688;5,720670375;Não Contem Issue;395,8571429;1;422;422;Io
+39;jnewland;capsize;jnewlandcapsize;Jesse Newland;Fri Feb 08 10:12:11 BRST 2008;2771;6;2;1;1;0;0;415;84;10;40;253;0,247070313;8,094861644;Não Contem Issue;395,8571429;2;2162;1081;Ruby
+40;sr;ape;srape;Simon Rozet;Sat Feb 09 11:46:14 BRST 2008;2770;9;1;1;0;0;0;426;157;0;7;368;0,359375;2,782608696;Não Contem Issue;395,7142857;1;597;597;Ruby
+41;collectiveidea;audited;collectiveideaaudited;Collective Idea;Sat Feb 09 14:14:05 BRST 2008;2770;61;229;93;136;1;1;0;0;304;1265;1587;1,549804688;147,7605545;Contem Issue;395,7142857;149;116365;508;Ruby
+42;collectiveidea;acts_as_geocodable;collectiveideaacts_as_geocodable;Collective Idea;Sat Feb 09 14:20:11 BRST 2008;2770;8;33;11;22;0;0;0;0;31;207;790;0,771484375;42,77468354;Contem Issue;395,7142857;22;17918;543;Ruby
+43;collectiveidea;acts_as_money;collectiveideaacts_as_money;Collective Idea;Sat Feb 09 14:22:42 BRST 2008;2770;3;1;1;0;0;0;0;0;15;42;97;0,094726563;10,55670098;Não Contem Issue;395,7142857;1;2291;2291;Ruby
+44;collectiveidea;random_finders;collectiveidearandom_finders;Collective Idea;Sat Feb 09 15:06:35 BRST 2008;2770;2;1;0;1;0;0;0;0;2;12;96;0,09375;10,66666667;Não Contem Issue;395,7142857;1;84;84;Ruby
+45;collectiveidea;with_action;collectiveideawith_action;Collective Idea;Sat Feb 09 15:10:02 BRST 2008;2770;2;2;2;0;0;0;0;0;2;24;431;0,420898438;4,751740134;Não Contem Issue;395,7142857;2;1666;833;Ruby
+46;collectiveidea;graticule;collectiveideagraticule;Collective Idea;Sat Feb 09 15:23:49 BRST 2008;2770;21;47;16;31;0;0;0;0;48;290;921;0,899414063;52,25624318;Contem Issue;395,7142857;27;25825;549;Ruby
+47;collectiveidea;tinder;collectiveideatinder;Collective Idea;Sat Feb 09 16:18:23 BRST 2008;2770;50;75;14;61;0;0;0;0;93;251;780;0,76171875;98,46153846;Contem Issue;395,7142857;65;17898;239;Ruby
+48;macournoyer;invisible;macournoyerinvisible;Marc-André Cournoyer;Sat Feb 09 16:38:52 BRST 2008;2770;2;1;1;0;0;0;732;51;6;49;206;0,201171875;4,970873786;Não Contem Issue;395,7142857;1;597;597;CSS
+49;adamwiggins;rush;adamwigginsrush;Adam Wiggins;Sun Feb 10 18:21:42 BRST 2008;2769;9;21;16;5;0;0;552;16;79;454;1026;1,001953125;20,95906433;Contem Issue;395,5714286;17;21923;1044;Ruby
+50;mtodd;halcyon;mtoddhalcyon;Matt Todd;Mon Feb 11 04:29:57 BRST 2008;2768;6;1;0;1;0;0;343;257;6;61;1274;1,244140625;0,803767661;Não Contem Issue;395,4285714;1;1350;1350;Ruby
+51;tommorris;reddy;tommorrisreddy;Tom Morris;Mon Feb 11 18:33:10 BRST 2008;2768;9;1;1;0;0;0;169;62;3;49;600;0,5859375;1,706666667;Não Contem Issue;395,4285714;1;1412;1412;Ruby
+52;defunkt;facebox;defunktfacebox;Chris Wanstrath;Mon Feb 11 20:49:27 BRST 2008;2768;26;51;28;23;0;0;14625;208;423;1948;1174;1,146484375;44,48381601;Contem Issue;395,4285714;48;38396;753;JavaScript
+53;haml;haml;hamlhaml;Haml;Mon Feb 11 20:55:26 BRST 2008;2768;146;851;44;807;0;0;0;0;451;2796;19774;19,31054688;44,06918174;Contem Issue;395,4285714;517;97146;114;Ruby
+54;rsanheim;brain_buster;rsanheimbrain_buster;Rob Sanheim;Tue Feb 12 03:53:53 BRST 2008;2767;6;2;0;2;0;0;134;30;13;60;208;0,203125;9,846153846;Não Contem Issue;395,2857143;2;6;3;Ruby
+55;mojombo;vanhelsing;mojombovanhelsing;Tom Preston-Werner;Wed Feb 13 06:56:19 BRST 2008;2766;1;1;1;0;0;0;18390;11;3;23;3926;3,833984375;0,260825267;Não Contem Issue;395,1428571;1;2295;2295;Ruby
+56;scharfie;slate;scharfieslate;Chris Scharf;Wed Feb 13 23:23:15 BRST 2008;2766;7;1;1;0;0;0;14;4;7;43;8866;8,658203125;0,115497406;Não Contem Issue;395,1428571;1;2022;2022;Ruby
+57;drnic;newjs;drnicnewjs;Dr Nic Williams;Thu Feb 14 00:14:06 BRST 2008;2765;2;1;1;0;0;0;1447;13;4;19;474;0,462890625;2,160337553;Não Contem Issue;395;1;597;597;Ruby
+58;sferik;twitter;sferiktwitter;Erik Michaels-Ober;Thu Feb 14 00:20:50 BRST 2008;2765;163;725;43;682;0;16;1798;116;832;3327;26870;26,24023438;27,62932638;Contem Issue;395;440;21250;29;Ruby
+59;jnunemaker;googlebase;jnunemakergooglebase;John Nunemaker;Thu Feb 14 00:45:29 BRST 2008;2765;3;1;0;1;0;0;1241;159;3;22;291;0,284179688;3,518900337;Não Contem Issue;395;1;869;869;Ruby
+60;jnunemaker;googlereader;jnunemakergooglereader;John Nunemaker;Thu Feb 14 00:46:49 BRST 2008;2765;2;1;0;1;0;0;1241;159;5;29;145;0,141601563;7,062068941;Não Contem Issue;395;1;0;0;Ruby
+61;jnunemaker;scrobbler;jnunemakerscrobbler;John Nunemaker;Thu Feb 14 00:53:43 BRST 2008;2765;4;2;1;1;0;0;1241;159;52;48;181;0,176757813;11,3149171;Não Contem Issue;395;2;1786;893;Ruby
+62;DocSavage;rails-authorization-plugin;DocSavagerails-authorization-plugin;Bill Katz;Thu Feb 14 02:39:46 BRST 2008;2765;12;5;5;0;0;0;50;15;36;247;651;0,635742188;7,864823343;Contem Issue;395;4;8445;1689;Ruby
+63;delynn;userstamp;delynnuserstamp;DeLynn Berry;Thu Feb 14 05:15:27 BRST 2008;2765;3;24;14;10;0;0;25;12;133;174;198;0,193359375;124,1212121;Contem Issue;395;21;20307;846;Ruby
+64;gnufied;packet;gnufiedpacket;Hemant Kumar;Thu Feb 14 15:57:02 BRST 2008;2765;3;1;0;1;0;0;117;96;5;37;195;0,190429688;5,251282037;Não Contem Issue;395;1;2;2;Ruby
+65;reinh;jquery-autocomplete;reinhjquery-autocomplete;Rein Henrichs;Fri Feb 15 20:48:01 BRST 2008;2764;10;6;5;1;0;0;143;0;19;96;284;0,27734375;21,63380282;Contem Issue;394,8571429;3;8849;1475;JavaScript
+66;KirinDave;fuzed-old;KirinDavefuzed-old;Dave Fayram;Sun Feb 17 02:05:16 BRT 2008;2762;3;1;1;0;0;0;268;8;1;14;492;0,48046875;2,081300813;Não Contem Issue;394,5714286;1;597;597;Ruby
+67;toretore;barby;toretorebarby;Tore Darell;Sun Feb 17 10:40:24 BRT 2008;2762;13;50;3;47;0;0;28;4;92;457;1326;1,294921875;38,61236802;Contem Issue;394,5714286;40;5312;106;Ruby
+68;drnic;jsunittest;drnicjsunittest;Dr Nic Williams;Sun Feb 17 12:15:42 BRT 2008;2762;6;2;2;0;0;0;1447;13;11;48;539;0,526367188;3,799628939;Não Contem Issue;394,5714286;2;2922;1461;JavaScript
+69;tobi;delayed_job;tobidelayed_job;Tobias Lütke;Sun Feb 17 18:00:03 BRT 2008;2762;27;65;47;18;0;0;527;44;1008;2045;4838;4,724609375;13,75775114;Contem Issue;394,5714286;59;87009;1339;Ruby
+70;nullstyle;ruby-satisfaction;nullstyleruby-satisfaction;Scott Fleckenstein;Mon Feb 18 14:10:31 BRT 2008;2761;3;1;0;1;0;0;71;8;3;13;252;0,24609375;4,063492063;Não Contem Issue;394,4285714;1;0;0;Ruby
+71;robbyrussell;rubyurl;robbyrussellrubyurl;Robby Russell;Mon Feb 18 17:00:00 BRT 2008;2761;8;6;4;2;0;0;1013;29;40;201;4160;4,0625;1,476923077;Contem Issue;394,4285714;4;7460;1243;Ruby
+72;trevorturk;eldorado;trevorturkeldorado;Trevor Turk;Tue Feb 19 00:24:35 BRT 2008;2760;14;11;1;10;0;0;271;84;39;237;11954;11,67382813;0,942278735;Contem Issue;394,2857143;8;769;70;Ruby
+73;rsl;stringex;rslstringex;Russell Norris;Tue Feb 19 12:31:07 BRT 2008;2760;57;174;9;165;0;0;50;9;130;882;1837;1,793945313;96,99292322;Contem Issue;394,2857143;103;14792;85;Ruby
+74;caffo-archived;bookqueue;caffo-archivedbookqueue;null;Tue Feb 19 20:02:59 BRT 2008;2760;5;7;0;7;0;0;0;0;10;39;4245;4,145507813;1,688574794;Contem Issue;394,2857143;2;7136;1019;Ruby
+75;judofyr;gemify;judofyrgemify;Magnus Holm;Wed Feb 20 14:17:32 BRT 2008;2759;6;8;4;4;0;0;241;53;2;20;484;0,47265625;16,92561983;Contem Issue;394,1428571;5;7092;887;Ruby
+76;jackdempsey;attachmerb_fu;jackdempseyattachmerb_fu;jack dempsey;Thu Feb 21 03:32:29 BRT 2008;2758;2;1;1;0;0;0;64;5;4;18;123;0,120117188;8,325203217;Não Contem Issue;394;1;597;597;Ruby
+77;anotherjesse;elasticfox;anotherjesseelasticfox;Jesse Andrews;Thu Feb 21 07:02:53 BRT 2008;2758;1;1;1;0;0;0;120;31;2;9;182;0,177734375;5,626373626;Não Contem Issue;394;1;597;597;JavaScript
+78;collectiveidea;awesome_nested_set;collectiveideaawesome_nested_set;Collective Idea;Thu Feb 21 13:03:25 BRT 2008;2758;90;315;66;249;0;0;0;0;381;1643;1770;1,728515625;182,2372881;Contem Issue;394;183;72907;231;Ruby
+79;kevinansfield;viper;kevinansfieldviper;Kevin Ansfield;Thu Feb 21 14:49:20 BRT 2008;2758;1;1;1;0;0;0;14;0;0;2;4440;4,3359375;0,230630631;Não Contem Issue;394;1;113;113;Ruby
+80;lachie;logeye;lachielogeye;Lachie Cox;Thu Feb 21 18:04:31 BRT 2008;2758;1;1;1;0;0;0;55;28;0;5;231;0,225585938;4,432900423;Não Contem Issue;394;1;597;597;Ruby
+81;pfig;yeti;pfigyeti;Pedro Figueiredo;Thu Feb 21 18:48:57 BRT 2008;2758;4;1;1;0;0;0;37;25;0;2;380;0,37109375;2,694736842;Não Contem Issue;394;1;597;597;Perl
+82;stevedekorte;io;stevedekorteio;Steve Dekorte;Fri Feb 22 05:41:30 BRT 2008;2757;164;305;75;230;0;0;446;12;202;1327;30241;29,53222656;10,3277008;Contem Issue;393,8571429;132;107869;354;C
+83;andykent;jquery-humanize-messages-plugin;andykentjquery-humanize-messages-plugin;Andy Kent;Fri Feb 22 22:36:31 BRT 2008;2757;2;2;1;1;0;0;62;1;4;29;83;0,081054688;24,67469864;Não Contem Issue;393,8571429;2;2242;1121;null
+84;stevedekorte;vertexdb;stevedekortevertexdb;Steve Dekorte;Sun Jun 28 22:03:15 BRT 2009;2265;10;17;10;7;0;0;446;12;27;252;2601;2,540039063;6,692810456;Contem Issue;323,5714286;8;18881;1111;C
+85;rtomayko;date-performance;rtomaykodate-performance;Ryan Tomayko;Sat Feb 23 08:34:57 BRT 2008;2756;4;4;3;1;0;0;1793;100;6;77;335;0,327148438;12,22686565;Contem Issue;393,7142857;3;4657;1164;Ruby
+86;churchio;onebody;churchioonebody;Church.IO;Sat Feb 23 12:53:26 BRT 2008;2756;42;532;45;487;4;117;0;0;224;1203;33299;32,51855469;16,35989069;Contem Issue;393,7142857;65;36652;69;Ruby
+87;TekNoLogic;TourGuide;TekNoLogicTourGuide;Tekkub's WoW addons;Sat Feb 23 18:16:20 BRT 2008;2756;32;48;3;45;0;0;0;0;19;13;4097;4,000976563;11,99707103;Contem Issue;393,7142857;11;9204;192;Lua
+88;ELLIOTTCABLE;fora;ELLIOTTCABLEfora;null;Sat Feb 23 19:40:27 BRT 2008;2756;4;2;0;2;0;0;275;683;0;9;160;0,15625;12,8;Não Contem Issue;393,7142857;1;2;1;Ruby
+89;seaofclouds;micro-theme;seaofcloudsmicro-theme;seaofclouds;Sun Feb 24 14:01:43 BRT 2008;2755;1;2;2;0;0;0;126;24;0;5;116;0,11328125;17,65517241;Não Contem Issue;393,5714286;1;1194;597;null
+90;alex;pyelection;alexpyelection;Alex Gaynor;Sun Feb 24 17:45:10 BRT 2008;2755;1;1;1;0;0;0;2095;41;0;2;92;0,08984375;11,13043478;Não Contem Issue;393,5714286;1;33;33;Python
+91;sintaxi;pmpknpi;sintaxipmpknpi;Brock Whitten;Mon Feb 25 15:47:32 BRT 2008;2754;3;1;1;0;0;0;420;45;2;20;463;0,452148438;2,211663065;Não Contem Issue;393,4285714;1;597;597;JavaScript
+92;mislav;will_paginate;mislavwill_paginate;Mislav Marohni?;Mon Feb 25 17:21:40 BRT 2008;2754;51;449;101;348;3;19;1675;20;687;4459;2494;2,435546875;184,3528468;Contem Issue;393,4285714;340;119483;266;Ruby
+93;caius;soco;caiussoco;Caius Durling;Mon Feb 25 20:06:38 BRT 2008;2754;3;1;1;0;0;0;125;135;1;4;470;0,458984375;2,178723404;Não Contem Issue;393,4285714;1;597;597;PHP
+94;lsegal;yard;lsegalyard;Loren Segal;Mon Feb 25 21:01:52 BRT 2008;2754;85;893;63;830;0;0;314;0;184;995;12870;12,56835938;71,05143742;Contem Issue;393,4285714;396;65557;73;Ruby
+95;joseph;castanaut;josephcastanaut;Joseph Pearson;Mon Feb 25 21:05:58 BRT 2008;2754;11;6;4;2;0;0;71;25;16;37;261;0,254882813;23,54022984;Contem Issue;393,4285714;4;7459;1243;Ruby
+96;drnic;ruby-tmbundle;drnicruby-tmbundle;Dr Nic Williams;Mon Feb 25 21:49:22 BRT 2008;2754;32;19;8;11;0;0;1447;13;51;168;1156;1,12890625;16,83044983;Contem Issue;393,4285714;14;12212;643;Ruby
+97;drnic;html-tmbundle;drnichtml-tmbundle;Dr Nic Williams;Tue Feb 26 03:14:11 BRT 2008;2753;18;1;0;1;0;0;1447;13;92;42;626;0,611328125;1,635782748;Não Contem Issue;393,2857143;1;579;579;Ruby
+98;noin;orb;noinorb;Noin Claude;Tue Feb 26 03:41:40 BRT 2008;2753;4;1;1;0;0;0;1;0;0;3;780;0,76171875;1,312820513;Não Contem Issue;393,2857143;1;597;597;Ruby
+99;sprinkle-tool;sprinkle;sprinkle-toolsprinkle;null;Tue Feb 26 09:58:26 BRT 2008;2753;69;200;10;190;0;0;0;0;160;1171;2722;2,658203125;75,238795;Contem Issue;393,2857143;101;28276;141;Ruby
+100;gilesbowkett;utility-belt;gilesbowkettutility-belt;Giles;Tue Feb 26 16:18:03 BRT 2008;2753;5;7;5;2;0;0;371;17;22;90;236;0,23046875;30,37288136;Contem Issue;393,2857143;6;7492;1070;Ruby
+101;dpetersen;ruby-screen;dpetersenruby-screen;Don Petersen;Tue Feb 26 18:37:52 BRT 2008;2753;1;1;1;0;0;0;16;5;0;6;172;0,16796875;5,953488372;Não Contem Issue;393,2857143;1;1332;1332;Ruby
+102;mascarenhas;luaclr;mascarenhasluaclr;Fabio Mascarenhas;Wed Feb 27 02:35:53 BRT 2008;2752;2;1;1;0;0;0;50;13;2;26;370;0,361328125;2,767567568;Não Contem Issue;393,1428571;1;1008;1008;Lua
+103;chuyeow;facon;chuyeowfacon;Cheah Chu Yeow;Wed Feb 27 06:18:51 BRT 2008;2752;6;4;0;4;0;0;90;40;10;37;239;0,233398438;17,13807528;Contem Issue;393,1428571;4;2;1;Ruby
+104;Norgg;rubynomic;Norggrubynomic;John Turner;Wed Feb 27 09:25:53 BRT 2008;2752;2;1;1;0;0;0;22;21;0;4;84;0,08203125;12,19047619;Não Contem Issue;393,1428571;1;2133;2133;Ruby
+105;lukeredpath;clickatell;lukeredpathclickatell;Luke Redpath;Wed Feb 27 11:50:26 BRT 2008;2752;17;12;8;4;0;0;440;7;59;151;327;0,319335938;37,57798159;Contem Issue;393,1428571;10;12642;1054;Ruby
+106;ctran;annotate_models;ctranannotate_models;Cuong Tran;Wed Feb 27 15:04:38 BRT 2008;2752;135;276;23;253;0;39;24;0;254;1848;1791;1,749023438;157,802345;Contem Issue;393,1428571;194;48393;175;Ruby
+107;daly;axiom;dalyaxiom;Timothy Daly;Wed Feb 27 20:58:50 BRT 2008;2752;11;4;3;1;0;0;16;0;9;61;500664;488,9296875;0,008181135;Contem Issue;393,1428571;3;1462;366;PostScript
+108;haberman;gazelle;habermangazelle;Joshua Haberman;Wed Feb 27 21:50:35 BRT 2008;2752;7;2;2;0;0;0;136;2;13;144;830;0,810546875;2,46746988;Não Contem Issue;393,1428571;2;1012;506;Lua
+109;bousquet;tableau;bousquettableau;Robert Bousquet;Thu Feb 28 02:54:12 BRT 2008;2751;3;1;1;0;0;0;18;13;4;16;347;0,338867188;2,951008641;Não Contem Issue;393;1;597;597;Ruby
+110;davemerwin;blue-channel;davemerwinblue-channel;Dave Merwin;Thu Feb 28 03:10:29 BRT 2008;2751;7;1;1;0;0;0;25;29;4;39;8975;8,764648438;0,114094708;Não Contem Issue;393;1;2252;2252;Python
+111;davemerwin;jquery;davemerwinjquery;Dave Merwin;Thu Feb 28 04:46:49 BRT 2008;2751;2;3;3;0;0;0;25;29;5;46;2432;2,375;1,263157895;Não Contem Issue;393;2;2608;869;JavaScript
+112;slim;bazdig;slimbazdig;Slim Amamou;Thu Feb 28 05:26:00 BRT 2008;2751;4;2;1;1;0;0;31;52;2;7;367;0,358398438;5,580381464;Não Contem Issue;393;1;2198;1099;PHP
+113;defunkt;github-gem;defunktgithub-gem;Chris Wanstrath;Thu Feb 28 06:35:34 BRT 2008;2751;44;102;60;42;3;4;14625;208;174;1021;987;0,963867188;105,8237082;Contem Issue;393;79;101630;996;Ruby
+114;pjay;mediabumper;pjaymediabumper;Philippe Jayet;Thu Feb 28 09:24:27 BRT 2008;2751;3;1;1;0;0;0;12;27;1;6;2369;2,313476563;0,432249894;Não Contem Issue;393;1;1359;1359;Ruby
+115;lvaruzza;cl-randist;lvaruzzacl-randist;Leonardo Varuzza;Thu Feb 28 11:08:51 BRT 2008;2751;4;9;2;7;0;0;5;3;4;7;239;0,233398438;38,56066937;Contem Issue;393;3;857;95;Common Lisp
+116;lmarlow;gemedit;lmarlowgemedit;Lee Marlow;Thu Feb 28 15:56:55 BRT 2008;2751;3;8;1;7;0;0;12;36;4;101;217;0,211914063;37,75115198;Contem Issue;393;6;1990;249;Ruby
+117;aasm;aasm;aasmaasm;null;Thu Feb 28 17:40:04 BRT 2008;2751;102;256;40;216;3;28;0;0;305;1983;2671;2,608398438;98,14451514;Contem Issue;393;179;35278;138;Ruby
+118;ebassi;json-glib;ebassijson-glib;Emmanuele Bassi;Thu Feb 28 19:50:21 BRT 2008;2751;92;1;0;1;0;0;44;2;6;26;2166;2,115234375;0,472760849;Não Contem Issue;393;1;200;200;C
+119;scrooloose;vimfiles;scrooloosevimfiles;Martin Grenfell;Thu Feb 28 21:15:49 BRT 2008;2751;8;11;5;6;0;0;842;19;501;601;1973;1,926757813;5,709072477;Contem Issue;393;9;5349;486;VimL
+120;fightinjoe;fightinjoe-merb-blog;fightinjoefightinjoe-merb-blog;Aaron Wheeler;Thu Feb 28 21:51:27 BRT 2008;2751;2;1;1;0;0;0;9;0;0;5;7120;6,953125;0,143820225;Não Contem Issue;393;1;597;597;Ruby
+121;crafterm;capture;craftermcapture;Marcus Crafter;Thu Feb 28 22:13:53 BRT 2008;2751;2;1;1;0;0;0;130;106;2;5;183;0,178710938;5,5956284;Não Contem Issue;393;1;597;597;Ruby
+122;heycarsten;email-veracity;heycarstenemail-veracity;Carsten Nielsen;Fri Feb 29 01:37:30 BRT 2008;2750;4;5;2;3;0;0;86;75;11;133;372;0,36328125;13,76344086;Contem Issue;392,8571429;4;2343;469;Ruby
+123;nathansobo;treetop;nathansobotreetop;Nathan Sobo;Fri Feb 29 15:29:24 BRT 2008;2750;34;39;0;39;0;0;466;2;88;842;4500;4,39453125;8,874666667;Contem Issue;392,8571429;31;2807;72;Ruby
+124;shadoi;puppet;shadoipuppet;Blake Barnett;Fri Feb 29 15:40:40 BRT 2008;2750;42;1;1;0;0;0;16;12;2;16;7727;7,545898438;0,132522324;Não Contem Issue;392,8571429;1;1414;1414;Ruby
+125;Jakobo;snaptest;Jakobosnaptest;Jakob Heuser;Fri Feb 29 16:13:55 BRT 2008;2750;3;8;3;5;0;0;84;42;2;23;1416;1,3828125;5,785310734;Contem Issue;392,8571429;3;4981;623;PHP
+126;dustin;java-memcached-client;dustinjava-memcached-client;Dustin Sallings;Fri Feb 29 18:22:38 BRT 2008;2750;38;29;13;16;0;0;688;19;252;395;9572;9,34765625;3,102381947;Contem Issue;392,8571429;22;11932;411;Java
+127;seaofclouds;good-browser-bad-browser;seaofcloudsgood-browser-bad-browser;seaofclouds;Fri Feb 29 19:26:38 BRT 2008;2750;1;1;1;0;0;0;126;24;0;5;3280;3,203125;0,312195122;Não Contem Issue;392,8571429;1;597;597;Ruby
+128;dustin;buildwatch;dustinbuildwatch;Dustin Sallings;Fri Feb 29 20:16:37 BRT 2008;2750;2;2;1;1;0;0;688;19;4;13;3468;3,38671875;0,590542099;Não Contem Issue;392,8571429;2;1579;790;Objective-C
+129;dchelimsky;rspec;dchelimskyrspec;David Chelimsky;Fri Feb 29 20:32:44 BRT 2008;2750;86;72;17;55;0;0;587;7;175;1789;18518;18,08398438;3,981423479;Contem Issue;392,8571429;63;22499;312;Ruby
+130;tommorris;n3-tmbundle;tommorrisn3-tmbundle;Tom Morris;Fri Feb 29 21:21:17 BRT 2008;2750;2;1;0;1;0;0;169;62;6;6;92;0,08984375;11,13043478;Não Contem Issue;392,8571429;1;0;0;null
+131;osteele;functional-javascript;osteelefunctional-javascript;Oliver Steele;Fri Feb 29 21:29:28 BRT 2008;2750;6;8;1;7;0;0;235;0;31;265;561;0,547851563;14,60249553;Contem Issue;392,8571429;5;1396;175;JavaScript
+132;mephistorb;mephisto;mephistorbmephisto;null;Fri Feb 29 22:48:20 BRT 2008;2750;27;1;0;1;0;0;0;0;108;270;5055;4,936523438;0,202571711;Não Contem Issue;392,8571429;1;647;647;Ruby
+133;nicksieger;stickshift;nicksiegerstickshift;Nick Sieger;Sat Mar 01 01:58:24 BRT 2008;2749;1;1;1;0;0;0;203;14;0;11;124;0,12109375;8,258064516;Não Contem Issue;392,7142857;1;1602;1602;Ruby
+134;benwyrosdick;ruby-awareness-api;benwyrosdickruby-awareness-api;Ben Wyrosdick;Sat Mar 01 02:18:22 BRT 2008;2749;2;2;2;0;0;0;17;8;1;8;123;0,120117188;16,65040643;Não Contem Issue;392,7142857;2;3529;1765;Ruby
+135;ctrochalakis;django-threadedcomments;ctrochalakisdjango-threadedcomments;Christos Trochalakis;Sat Mar 01 06:20:27 BRT 2008;2749;3;1;1;0;0;0;53;23;3;24;236;0,23046875;4,338983051;Não Contem Issue;392,7142857;1;597;597;Python
+136;gnu-lorien;crack-attack;gnu-loriencrack-attack;Andrew Sayman;Sat Mar 01 09:08:01 BRT 2008;2749;5;1;1;0;0;0;2;1;4;11;2324;2,26953125;0,440619621;Não Contem Issue;392,7142857;1;1629;1629;C++
+137;larssg;score-keeper;larssgscore-keeper;Lars G. Sehested;Sat Mar 01 10:11:52 BRT 2008;2749;18;10;2;8;0;0;6;2;4;26;12798;12,49804688;0,800125019;Contem Issue;392,7142857;2;3234;323;Ruby
+138;jnewland;resource_this;jnewlandresource_this;Jesse Newland;Sat Mar 01 11:39:58 BRT 2008;2749;2;1;1;0;0;0;415;84;9;49;270;0,263671875;3,792592593;Não Contem Issue;392,7142857;1;1549;1549;Ruby
+139;jruby;warbler;jrubywarbler;JRuby Team;Sat Mar 01 15:46:46 BRT 2008;2749;60;343;101;242;0;0;0;0;157;674;50531;49,34667969;6,950822267;Contem Issue;392,7142857;198;119984;350;Ruby
+140;calumr;flurry;calumrflurry;null;Sat Mar 01 16:44:21 BRT 2008;2749;2;3;0;3;0;0;0;0;4;10;358;0,349609375;8,581005587;Não Contem Issue;392,7142857;2;2;1;C
+141;ci-reporter;ci_reporter;ci-reporterci_reporter;null;Sat Mar 01 19:38:26 BRT 2008;2749;42;156;7;149;0;0;0;0;113;310;841;0,821289063;189,9453031;Contem Issue;392,7142857;103;39777;255;Ruby
+142;pingswept;pysolar;pingsweptpysolar;Brandon Stafford;Sat Mar 01 20:35:48 BRT 2008;2749;16;35;10;25;0;0;30;37;36;68;4680;4,5703125;7,658119658;Contem Issue;392,7142857;16;1935;55;Python
+143;r38y;ck_fu;r38yck_fu;Randy Schmidt;Sat Mar 01 22:54:27 BRT 2008;2749;4;2;2;0;0;0;40;47;5;67;463;0,452148438;4,423326129;Não Contem Issue;392,7142857;2;3868;1934;Ruby
+144;vito;uploader;vitouploader;Alex Suraci;Sun Mar 02 00:11:46 BRT 2008;2748;2;1;1;0;0;0;152;7;1;7;110;0,107421875;9,309090909;Não Contem Issue;392,5714286;1;597;597;JavaScript
+145;Caged;gitnub;Cagedgitnub;Justin Palmer;Sun Mar 02 03:22:30 BRT 2008;2748;9;11;10;1;0;0;774;33;50;1060;3506;3,423828125;3,212778095;Contem Issue;392,5714286;9;13221;1202;Ruby
+146;seangeo;ratom;seangeoratom;Sean Geoghegan;Sun Mar 02 10:26:19 BRT 2008;2748;25;32;7;25;0;0;15;5;28;94;615;0,600585938;53,28130077;Contem Issue;392,5714286;23;9318;291;Ruby
+147;ELLIOTTCABLE;ruby-svg;ELLIOTTCABLEruby-svg;null;Sun Mar 02 16:17:26 BRT 2008;2748;1;1;0;1;0;0;275;683;2;9;195;0,190429688;5,251282037;Não Contem Issue;392,5714286;1;0;0;Ruby
+148;brynary;webrat;brynarywebrat;Bryan Helmkamp;Sun Mar 02 17:09:28 BRT 2008;2748;100;35;20;15;0;0;488;28;288;1568;58998;57,61523438;0,60747822;Contem Issue;392,5714286;31;31246;893;Ruby
+149;joshknowles;rspec-on-rails-matchers;joshknowlesrspec-on-rails-matchers;Josh Knowles;Sun Mar 02 21:34:31 BRT 2008;2748;4;3;2;1;0;0;85;43;33;174;85;0,083007813;36,14117625;Não Contem Issue;392,5714286;3;4305;1435;Ruby
+150;ozamosi;tomboy-blogposter;ozamositomboy-blogposter;Robin Sonefors;Mon Mar 03 01:15:27 BRT 2008;2747;2;1;1;0;0;0;10;1;3;10;139;0,135742188;7,366906448;Não Contem Issue;392,4285714;1;1975;1975;C#
+151;nickb;yahtzee;nickbyahtzee;null;Mon Mar 03 05:55:23 BRT 2008;2747;2;2;2;0;0;0;1;0;5;2;127;0,124023438;16,12598419;Não Contem Issue;392,4285714;2;340;170;Ruby
+152;ruphy;oxy-cursors;ruphyoxy-cursors;Riccardo Iaconelli;Mon Mar 03 13:55:34 BRT 2008;2747;3;2;2;0;0;0;9;4;0;2;4060;3,96484375;0,504433498;Não Contem Issue;392,4285714;2;1180;590;null
+153;clee;mobilepushr;cleemobilepushr;Chris Lee;Mon Mar 03 20:44:20 BRT 2008;2747;1;1;1;0;0;0;21;37;7;34;376;0,3671875;2,723404255;Não Contem Issue;392,4285714;1;597;597;Objective-C
+154;technoweenie;mephisto;technoweeniemephisto;risk danger olson;Fri Feb 29 22:48:20 BRT 2008;2750;27;1;1;0;0;0;2166;17;37;212;4859;4,745117188;0,210742951;Não Contem Issue;392,8571429;1;1534;1534;Ruby
+155;bruce;keyword_search;brucekeyword_search;Bruce Williams;Mon Mar 03 21:13:05 BRT 2008;2747;6;4;0;4;0;0;118;15;17;92;193;0,188476563;21,22279787;Contem Issue;392,4285714;4;532;133;Ruby
+156;ActsAsParanoid;acts_as_paranoid;ActsAsParanoidacts_as_paranoid;null;Tue Mar 04 01:48:18 BRT 2008;2746;41;35;15;20;0;0;0;0;99;539;739;0,721679688;48,4979702;Contem Issue;392,2857143;24;19127;546;Ruby
+157;technoweenie;acts_as_versioned;technoweenieacts_as_versioned;risk danger olson;Tue Mar 04 01:49:32 BRT 2008;2746;19;21;17;4;0;0;2166;17;147;412;505;0,493164063;42,58217817;Contem Issue;392,2857143;18;26438;1259;Ruby
+158;technoweenie;permalink_fu;technoweeniepermalink_fu;risk danger olson;Tue Mar 04 01:51:04 BRT 2008;2746;8;2;0;2;0;0;2166;17;75;279;160;0,15625;12,8;Não Contem Issue;392,2857143;2;735;368;Ruby
+159;technoweenie;viking;technoweenieviking;risk danger olson;Tue Mar 04 01:54:24 BRT 2008;2746;4;1;0;1;0;0;2166;17;5;53;131;0,127929688;7,816793863;Não Contem Issue;392,2857143;1;2;2;Ruby
+160;yuri;sputnik;yurisputnik;Yuri Takhteyev;Tue Mar 04 05:49:43 BRT 2008;2746;10;11;6;5;0;0;44;1;11;57;4690;4,580078125;2,401705757;Contem Issue;392,2857143;5;5223;475;Lua
+161;kerryb;jquery_spike;kerrybjquery_spike;Kerry Buckley;Tue Mar 04 10:14:48 BRT 2008;2746;1;1;1;0;0;0;41;14;0;2;204;0,19921875;5,019607843;Não Contem Issue;392,2857143;1;597;597;JavaScript
+162;sunny;daylist;sunnydaylist;Sunny Ripert;Tue Mar 04 12:42:13 BRT 2008;2746;3;1;0;1;0;0;89;75;2;9;125;0,122070313;8,191999966;Não Contem Issue;392,2857143;1;4;4;Ruby
+163;ruphy;tagua;ruphytagua;Riccardo Iaconelli;Tue Mar 04 12:45:59 BRT 2008;2746;13;1;1;0;0;0;9;4;1;4;9940;9,70703125;0,103018109;Não Contem Issue;392,2857143;1;369;369;C++
+164;patmaddox;no-peeping-toms;patmaddoxno-peeping-toms;Pat Maddox;Tue Mar 04 13:09:25 BRT 2008;2746;12;28;6;22;0;0;137;3;37;134;228;0,22265625;125,754386;Contem Issue;392,2857143;25;9889;353;Ruby
+165;patmaddox;rspec-plugin-generator;patmaddoxrspec-plugin-generator;Pat Maddox;Tue Mar 04 13:13:06 BRT 2008;2746;4;2;2;0;0;0;137;3;4;51;407;0,397460938;5,031941026;Não Contem Issue;392,2857143;2;3412;1706;Ruby
+166;bfolkens;hostipfox-firefox-plugin;bfolkenshostipfox-firefox-plugin;Brad Folkens;Tue Mar 04 15:59:11 BRT 2008;2746;3;1;1;0;0;0;4;13;0;4;280;0,2734375;3,657142857;Não Contem Issue;392,2857143;1;597;597;JavaScript
+167;simonpk;j2me-oauth;simonpkj2me-oauth;null;Tue Mar 04 16:08:18 BRT 2008;2746;5;2;2;0;0;0;4;0;18;29;167;0,163085938;12,26347302;Não Contem Issue;392,2857143;2;3168;1584;Java
+168;JackDanger;immutable_attributes;JackDangerimmutable_attributes;Jack Danger Canty;Tue Mar 04 16:28:40 BRT 2008;2746;4;4;3;1;0;0;293;102;6;19;386;0,376953125;10,61139896;Contem Issue;392,2857143;3;5224;1306;Ruby
+169;JackDanger;permanent_records;JackDangerpermanent_records;Jack Danger Canty;Tue Mar 04 16:30:54 BRT 2008;2746;20;51;4;47;0;0;293;102;42;185;1553;1,516601563;33,62781712;Contem Issue;392,2857143;38;4082;80;Ruby
+170;Fudge;gltrail;Fudgegltrail;Erlend Simonsen;Tue Mar 04 16:44:27 BRT 2008;2746;2;1;1;0;0;0;21;0;7;36;151;0,147460938;6,781456931;Não Contem Issue;392,2857143;1;1644;1644;C++
+171;virtuoso;koowaldah;virtuosokoowaldah;Alexander Shishkin;Tue Mar 04 16:47:00 BRT 2008;2746;5;8;5;3;0;0;9;7;0;9;1938;1,892578125;4,227038184;Contem Issue;392,2857143;2;8744;1093;C
+172;drnic;rubigen;drnicrubigen;Dr Nic Williams;Tue Mar 04 19:45:35 BRT 2008;2746;11;17;6;11;0;0;1447;13;20;73;509;0,497070313;34,20039289;Contem Issue;392,2857143;15;8497;500;Ruby
+173;drnic;newgem;drnicnewgem;Dr Nic Williams;Tue Mar 04 19:58:07 BRT 2008;2746;11;19;11;8;1;1;1447;13;18;126;1241;1,211914063;15,67767928;Contem Issue;392,2857143;15;20188;1063;Ruby
+174;composite-primary-keys;composite_primary_keys;composite-primary-keyscomposite_primary_keys;null;Tue Mar 04 19:58:40 BRT 2008;2746;85;324;31;293;0;0;0;0;199;455;3078;3,005859375;107,7894737;Contem Issue;392,2857143;148;37405;115;Ruby
+175;spejman;rails-generator-generator;spejmanrails-generator-generator;Sergio Espeja;Wed Mar 05 09:56:24 BRT 2008;2745;2;1;0;1;0;0;46;39;1;13;77;0,075195313;13,29870121;Não Contem Issue;392,1428571;1;0;0;Ruby
+176;gregwebs;jquery-uitableedit;gregwebsjquery-uitableedit;Greg Weber;Wed Mar 05 12:34:28 BRT 2008;2745;4;2;1;1;0;0;92;2;8;19;324;0,31640625;6,320987654;Não Contem Issue;392,1428571;1;1506;753;JavaScript
+177;gregwebs;jquery-uitablefilter;gregwebsjquery-uitablefilter;Greg Weber;Wed Mar 05 12:40:30 BRT 2008;2745;6;12;4;8;0;0;92;2;19;53;243;0,237304688;50,56790113;Contem Issue;392,1428571;9;3961;330;JavaScript
+178;pcapriotti;skema;pcapriottiskema;Paolo Capriotti;Wed Mar 05 13:32:47 BRT 2008;2745;2;1;1;0;0;0;45;0;1;3;124;0,12109375;8,258064516;Não Contem Issue;392,1428571;1;597;597;Ruby
+179;timburks;nu;timburksnu;Tim Burks;Wed Mar 05 15:55:38 BRT 2008;2745;41;75;26;49;0;0;362;16;228;1896;5107;4,987304688;15,03818288;Contem Issue;392,1428571;32;34788;464;Objective-C
+180;dwillis;fumblerooski;dwillisfumblerooski;Derek Willis;Wed Mar 05 15:59:36 BRT 2008;2745;20;1;1;0;0;0;365;99;3;34;5112;4,9921875;0,200312989;Não Contem Issue;392,1428571;1;1411;1411;Python
+181;jonner;agave2;jonneragave2;null;Wed Mar 05 19:41:39 BRT 2008;2745;1;1;0;1;0;0;0;0;0;2;352;0,34375;2,909090909;Não Contem Issue;392,1428571;1;98;98;C++
+182;sbecker;asset_packager;sbeckerasset_packager;Scott Becker;Wed Mar 05 21:33:09 BRT 2008;2745;4;29;27;2;0;0;40;23;93;544;4441;4,336914063;6,686782255;Contem Issue;392,1428571;23;50235;1732;Ruby
+183;minimagick;minimagick;minimagickminimagick;null;Wed Mar 05 22:35:38 BRT 2008;2745;70;330;5;325;0;11;0;0;221;1544;4167;4,069335938;81,09431245;Contem Issue;392,1428571;213;24889;75;Ruby
+184;jrun;rstack;jrunrstack;Jeremy Burks;Wed Mar 05 23:33:35 BRT 2008;2745;2;2;2;0;0;0;14;10;0;6;412;0,40234375;4,970873786;Não Contem Issue;392,1428571;1;4612;2306;Ruby
+185;kemayo;maphilight;kemayomaphilight;David Lynch;Thu Mar 06 01:10:02 BRT 2008;2744;9;60;39;21;0;0;128;6;138;261;925;0,903320313;66,42162158;Contem Issue;392;40;31469;524;JavaScript
+186;andykent;polypage;andykentpolypage;Andy Kent;Thu Mar 06 08:46:38 BRT 2008;2744;2;11;9;2;1;1;62;1;16;211;282;0,275390625;39,94326241;Contem Issue;392;8;16947;1541;JavaScript
+187;scharfie;gabby;scharfiegabby;Chris Scharf;Thu Mar 06 16:53:35 BRT 2008;2744;2;1;1;0;0;0;14;4;0;4;1332;1,30078125;0,768768769;Não Contem Issue;392;1;597;597;Ruby
+188;jonmagic;optik;jonmagicoptik;Jonathan Hoyt;Thu Mar 06 18:12:11 BRT 2008;2744;4;1;0;1;0;0;149;38;1;3;2370;2,314453125;0,432067511;Não Contem Issue;392;1;0;0;JavaScript
+189;nakajima;aintablog;nakajimaaintablog;Pat Nakajima;Fri Mar 07 04:02:22 BRT 2008;2743;5;2;2;0;1;0;568;115;18;129;4193;4,094726563;0,488433103;Não Contem Issue;391,8571429;1;4738;2369;Ruby
+190;mig;gedit-themes;miggedit-themes;Matthew Swasey;Sun Mar 09 17:24:10 BRT 2008;2741;13;15;11;4;0;0;39;6;113;263;368;0,359375;41,73913043;Contem Issue;391,5714286;15;11153;744;Shell
+191;kballard;textmate-bundles;kballardtextmate-bundles;Kevin Ballard;Sun Mar 09 17:46:55 BRT 2008;2741;120;1;0;1;0;0;279;17;22;85;45813;44,73925781;0,022351734;Não Contem Issue;391,5714286;1;0;0;Ruby
+192;github-archive;media;github-archivemedia;GitHub Archive;Sun Mar 09 19:43:49 BRT 2008;2741;5;2;1;1;0;0;0;0;57;276;4484;4,37890625;0,456735058;Não Contem Issue;391,5714286;2;999;500;null
+193;ndarilek;rb-gps;ndarilekrb-gps;Nolan Darilek;Mon Mar 10 01:24:06 BRT 2008;2740;1;1;1;0;0;0;6;0;2;13;146;0,142578125;7,01369863;Não Contem Issue;391,4285714;1;683;683;Ruby
+194;dagbrown;flooterbuck;dagbrownflooterbuck;Dave Brown;Mon Mar 10 03:11:37 BRT 2008;2740;11;2;0;2;0;0;6;3;5;10;757;0,739257813;2,705416114;Não Contem Issue;391,4285714;2;466;233;Perl
+195;gabriel;capitate;gabrielcapitate;Gabriel Handford;Mon Mar 10 03:13:09 BRT 2008;2740;3;4;4;0;0;0;285;37;7;82;453;0,442382813;9,041942595;Contem Issue;391,4285714;3;8051;2013;Ruby
+196;scrooloose;nerdtree;scrooloosenerdtree;Martin Grenfell;Mon Mar 10 04:34:08 BRT 2008;2740;63;481;233;248;10;8;842;19;587;5144;2325;2,270507813;211,8468817;Contem Issue;391,4285714;322;210442;438;VimL
+197;scrooloose;nerdcommenter;scrooloosenerdcommenter;Martin Grenfell;Mon Mar 10 05:19:15 BRT 2008;2740;43;204;112;92;0;0;842;19;219;1600;1307;1,276367188;159,8286151;Contem Issue;391,4285714;147;79208;388;VimL
+198;spree;spree;spreespree;Spree Commerce;Mon Mar 10 11:45:35 BRT 2008;2744;794;6724;180;6544;0;0;0;0;3175;6707;139041;135,7822266;49,52047238;Contem Issue;392;1224;153952;23;Ruby
+199;Ramarren;cl-geometry;Ramarrencl-geometry;Jakub Higersberger;Mon Mar 10 14:03:24 BRT 2008;2740;1;1;0;1;0;0;45;1;5;18;168;0,1640625;6,095238095;Não Contem Issue;391,4285714;1;4;4;Common Lisp
+200;tomtt;emacs-rails;tomttemacs-rails;Tom ten Thij;Mon Mar 10 14:38:56 BRT 2008;2740;5;3;2;1;0;0;18;12;46;64;945;0,922851563;3,250793649;Não Contem Issue;391,4285714;3;4349;1450;Emacs Lisp
+201;dfischer;rspec-haml-scaffold-generator;dfischerrspec-haml-scaffold-generator;Daniel Fischer;Mon Mar 10 19:30:02 BRT 2008;2740;4;1;1;0;0;0;90;28;10;68;213;0,208007813;4,807511726;Não Contem Issue;391,4285714;1;2102;2102;Ruby
+202;radar;rboard;radarrboard;Ryan Bigg;Mon Mar 10 21:41:59 BRT 2008;2740;18;3;0;3;0;0;1143;4;31;309;9535;9,311523438;0,322181437;Não Contem Issue;391,4285714;3;0;0;Ruby
+203;freels;radiant-extensions;freelsradiant-extensions;Matt Freels;Tue Mar 11 01:12:51 BRT 2008;2740;2;1;0;1;0;0;90;45;3;16;245;0,239257813;4,179591828;Não Contem Issue;391,4285714;1;0;0;Ruby
+204;DrMark;ultrasphinx;DrMarkultrasphinx;Mark Lane;Tue Mar 11 04:31:22 BRT 2008;2740;2;1;1;0;0;0;7;2;5;23;3528;3,4453125;0,290249433;Não Contem Issue;391,4285714;1;1645;1645;Ruby
+205;sudara;alonetone;sudaraalonetone;Sudara;Tue Mar 11 08:43:25 BRT 2008;2739;10;127;26;101;4;28;38;1;40;170;53952;52,6875;2,410438909;Contem Issue;391,2857143;10;28627;225;Ruby
+206;matschaffer;mechaflickr;matschaffermechaflickr;Mat Schaffer;Tue Mar 11 15:12:58 BRT 2008;2739;2;1;1;0;0;0;148;10;0;2;144;0,140625;7,111111111;Não Contem Issue;391,2857143;1;597;597;Ruby
+207;mleung;feather;mleungfeather;Michael Leung;Tue Mar 11 15:17:55 BRT 2008;2739;19;1;1;0;0;0;21;2;16;136;2853;2,786132813;0,358920435;Não Contem Issue;391,2857143;1;597;597;Ruby
+208;JackDanger;alphadecimal;JackDangeralphadecimal;Jack Danger Canty;Tue Mar 11 17:18:22 BRT 2008;2739;2;2;1;1;0;0;294;102;6;60;250;0,244140625;8,192;Não Contem Issue;391,2857143;2;1863;932;Ruby
+209;topfunky;gruff;topfunkygruff;Geoffrey Grosenbach;Tue Mar 11 19:06:00 BRT 2008;2739;41;135;47;88;10;20;1081;199;148;744;80410;78,52539063;1,719189155;Contem Issue;391,2857143;63;46650;346;Ruby
+210;topfunky;sparklines;topfunkysparklines;Geoffrey Grosenbach;Tue Mar 11 19:34:07 BRT 2008;2739;5;9;8;1;0;0;1081;199;20;161;286;0,279296875;32,22377622;Contem Issue;391,2857143;5;13563;1507;Ruby
+211;rgrove;thoth;rgrovethoth;Ryan Grove;Wed Mar 12 02:55:44 BRT 2008;2739;3;9;3;6;1;1;422;19;7;70;1897;1,852539063;4,858197152;Contem Issue;391,2857143;5;5931;659;Ruby
+212;defunkt;gibberish;defunktgibberish;Chris Wanstrath;Wed Mar 12 02:58:21 BRT 2008;2739;1;1;1;0;0;0;14629;208;7;34;335;0,327148438;3,056716413;Não Contem Issue;391,2857143;1;1953;1953;Ruby
+213;lukemelia;webrat;lukemeliawebrat;Luke Melia;Sun Mar 02 17:09:28 BRT 2008;2748;6;1;1;0;0;0;143;8;0;3;124;0,12109375;8,258064516;Não Contem Issue;392,5714286;1;2026;2026;Ruby
+214;defunkt;cheat;defunktcheat;Chris Wanstrath;Wed Mar 12 03:09:09 BRT 2008;2739;14;16;3;13;0;0;14629;208;43;216;235;0,229492188;69,71914878;Contem Issue;391,2857143;15;5882;368;Ruby
+215;defunkt;sake;defunktsake;Chris Wanstrath;Wed Mar 12 03:11:44 BRT 2008;2739;6;2;2;0;0;0;14629;208;7;79;229;0,223632813;8,943231421;Não Contem Issue;391,2857143;2;3039;1520;Ruby
+216;defunkt;nginx_config_generator;defunktnginx_config_generator;Chris Wanstrath;Wed Mar 12 03:17:10 BRT 2008;2739;3;2;2;0;0;0;14629;208;23;120;97;0,094726563;21,11340195;Não Contem Issue;391,2857143;2;2554;1277;Ruby
+217;defunkt;acts_as_textiled;defunktacts_as_textiled;Chris Wanstrath;Wed Mar 12 03:20:18 BRT 2008;2739;2;4;4;0;0;0;14629;208;31;117;333;0,325195313;12,30030028;Contem Issue;391,2857143;4;6155;1539;Ruby
+218;jackdempsey;acts_as_commentable;jackdempseyacts_as_commentable;jack dempsey;Wed Mar 12 04:11:22 BRT 2008;2739;28;65;12;53;0;0;64;5;92;732;379;0,370117188;175,6200525;Contem Issue;391,2857143;41;9167;141;Ruby
+219;scrooloose;sokoban;scrooloosesokoban;Martin Grenfell;Wed Mar 12 05:41:20 BRT 2008;2739;2;1;1;0;0;0;842;19;2;5;153;0,149414063;6,692810435;Não Contem Issue;391,2857143;1;1630;1630;Ruby
+220;melo;notification-watcher;melonotification-watcher;Pedro Melo;Wed Mar 12 08:54:45 BRT 2008;2738;1;1;1;0;0;0;206;164;2;5;84;0,08203125;12,19047619;Não Contem Issue;391,1428571;1;296;296;Objective-C
+221;benschwarz;open-uri-memcached;benschwarzopen-uri-memcached;Ben Schwarz;Wed Mar 12 10:45:09 BRT 2008;2738;5;1;1;0;0;0;536;48;4;23;157;0,153320313;6,522292972;Não Contem Issue;391,1428571;1;1771;1771;Ruby
+222;harrisj;qrencoder;harrisjqrencoder;Jacob Harris;Wed Mar 12 12:14:05 BRT 2008;2738;9;13;4;9;0;0;134;4;12;43;192;0,1875;69,33333333;Contem Issue;391,1428571;11;2889;222;Ruby
+223;sunny;wubmail;sunnywubmail;Sunny Ripert;Wed Mar 12 14:26:36 BRT 2008;2738;1;2;0;2;0;0;89;75;0;4;108;0,10546875;18,96296296;Não Contem Issue;391,1428571;1;1316;658;Ruby
+224;francois;piston;francoispiston;François Beausoleil;Wed Mar 12 14:40:27 BRT 2008;2738;19;11;7;4;0;0;72;2;24;119;2855;2,788085938;3,945359019;Contem Issue;391,1428571;8;11486;1044;Ruby
+225;eklitzke;mehfil-scraper;eklitzkemehfil-scraper;Evan Klitzke;Wed Mar 12 14:57:45 BRT 2008;2738;3;2;2;0;0;0;92;103;0;5;76;0,07421875;26,94736842;Não Contem Issue;391,1428571;1;4574;2287;Lua
+226;jm;rails-wiki;jmrails-wiki;Jeremy McAnally;Wed Mar 12 17:07:24 BRT 2008;2738;9;1;1;0;0;0;458;31;2;21;6200;6,0546875;0,16516129;Não Contem Issue;391,1428571;1;161;161;Ruby
+227;sco;fakebook;scofakebook;Scott Raymond;Wed Mar 12 18:41:33 BRT 2008;2738;1;1;1;0;0;0;282;253;3;36;371;0,362304688;2,760107813;Não Contem Issue;391,1428571;1;597;597;JavaScript
+228;mully;redmine_google_calendar;mullyredmine_google_calendar;Jim Mulholland;Wed Mar 12 22:46:54 BRT 2008;2738;1;1;1;0;0;0;13;4;17;25;92;0,08984375;11,13043478;Não Contem Issue;391,1428571;1;2318;2318;Ruby
+229;TekNoLogic;GreedBeacon;TekNoLogicGreedBeacon;Tekkub's WoW addons;Wed Mar 12 23:21:53 BRT 2008;2738;2;8;0;8;0;0;0;0;2;6;269;0,262695313;30,45353154;Contem Issue;391,1428571;2;835;104;Lua
+230;taf2;rb-brill-tagger;taf2rb-brill-tagger;Todd;Thu Mar 13 14:01:38 BRT 2008;2737;7;2;2;0;0;0;81;20;4;40;1095;1,069335938;1,870319634;Não Contem Issue;391;2;2699;1350;C
+231;tablatom;hobo;tablatomhobo;Tom Locke;Thu Mar 13 14:17:53 BRT 2008;2737;56;52;5;47;0;0;68;1;86;258;23544;22,9921875;2,261637785;Contem Issue;391;21;10754;207;Ruby
+232;ryanb;searchify;ryanbsearchify;Ryan Bates;Thu Mar 13 14:36:09 BRT 2008;2737;3;1;1;0;0;0;6352;95;3;39;153;0,149414063;6,692810435;Não Contem Issue;391;1;1808;1808;Ruby
+233;al3x;downforeveryoneorjustme;al3xdownforeveryoneorjustme;Alex Payne;Thu Mar 13 14:53:29 BRT 2008;2737;2;2;2;0;0;0;988;50;9;70;283;0,276367188;7,236749104;Não Contem Issue;391;2;2018;1009;Python
+234;rbriski;asvab;rbriskiasvab;null;Thu Mar 13 18:32:47 BRT 2008;2737;3;1;1;0;0;0;3;0;0;2;124;0,12109375;8,258064516;Não Contem Issue;391;1;597;597;Python
+235;lachie;molly;lachiemolly;Lachie Cox;Thu Mar 13 22:37:37 BRT 2008;2737;4;1;1;0;0;0;55;28;0;2;156;0,15234375;6,564102564;Não Contem Issue;391;1;597;597;JavaScript
+236;seaofclouds;sass-textmate-bundle;seaofcloudssass-textmate-bundle;seaofclouds;Fri Mar 14 07:51:27 BRT 2008;2737;11;21;15;6;0;0;126;24;119;304;628;0,61328125;34,24203822;Contem Issue;391;20;25735;1225;null
+237;maddox;aim_status_helper;maddoxaim_status_helper;Jon Maddox;Fri Mar 14 13:24:19 BRT 2008;2736;1;1;1;0;0;0;456;5;1;5;207;0,202148438;4,946859891;Não Contem Issue;390,8571429;1;597;597;Ruby
+238;arclanguage;anarki;arclanguageanarki;Arc Language Community;Fri Mar 14 17:13:58 BRT 2008;2736;35;24;2;22;0;0;0;0;129;706;4424;4,3203125;5,555153707;Contem Issue;390,8571429;17;1542;64;Arc
+239;segfault;ruby-hl7;segfaultruby-hl7;Mark Guzman;Sat Mar 15 02:47:48 BRT 2008;2736;5;3;2;1;0;0;29;14;69;82;247;0,241210938;12,43724694;Não Contem Issue;390,8571429;3;1522;507;Ruby
+240;psychs;limechat;psychslimechat;Satoshi Nakagawa;Sat Mar 15 14:39:45 BRT 2008;2735;35;272;160;112;0;0;325;49;233;1002;17001;16,60253906;16,38303629;Contem Issue;390,7142857;154;142278;523;Objective-C
+241;kballard;six;kballardsix;Kevin Ballard;Sat Mar 15 16:12:30 BRT 2008;2735;12;1;0;1;0;0;279;17;9;18;216;0,2109375;4,740740741;Não Contem Issue;390,7142857;1;0;0;Ruby
+242;timcharper;calendar_date_select;timcharpercalendar_date_select;Tim Harper;Sat Mar 15 18:57:10 BRT 2008;2735;46;45;13;32;0;0;130;24;178;436;798;0,779296875;57,7443609;Contem Issue;390,7142857;25;23443;521;JavaScript
+243;mudge;python-delicious;mudgepython-delicious;Paul Mucur;Sat Mar 15 20:13:59 BRT 2008;2735;2;1;0;1;0;0;56;15;24;23;113;0,110351563;9,061946862;Não Contem Issue;390,7142857;1;3;3;Python
+244;mudge;collapsing-puzzle;mudgecollapsing-puzzle;Paul Mucur;Sat Mar 15 20:21:38 BRT 2008;2735;1;1;0;1;0;0;56;15;1;3;132;0,12890625;7,757575758;Não Contem Issue;390,7142857;1;1;1;Java
+245;mdarby;restful_acl;mdarbyrestful_acl;Matt Darby;Sat Mar 15 21:39:40 BRT 2008;2735;6;11;1;10;0;0;70;20;15;124;1653;1,614257813;6,81427707;Contem Issue;390,7142857;9;1536;140;Ruby
+246;pjhyett;auto_migrations;pjhyettauto_migrations;PJ Hyett;Sat Mar 15 21:44:24 BRT 2008;2735;9;3;2;1;0;0;8075;34;30;138;118;0,115234375;26,03389831;Não Contem Issue;390,7142857;3;3490;1163;Ruby
+247;mislav;contacts;mislavcontacts;Mislav Marohni?;Sun Mar 16 00:52:46 BRT 2008;2735;5;6;4;2;0;0;1675;20;71;262;593;0,579101563;10,36087689;Contem Issue;390,7142857;5;6953;1159;Ruby
+248;courtenay;can_flag;courtenaycan_flag;C o u r t e n a y;Sun Mar 16 22:35:21 BRT 2008;2734;2;2;2;0;0;0;171;10;9;47;151;0,147460938;13,56291386;Não Contem Issue;390,5714286;2;1071;536;Ruby
+249;jm;dcov;jmdcov;Jeremy McAnally;Sun Mar 16 23:47:54 BRT 2008;2734;1;1;0;1;0;0;458;31;0;7;150;0,146484375;6,826666667;Não Contem Issue;390,5714286;1;527;527;Ruby
+250;carlosbrando;custom_resource_name;carlosbrandocustom_resource_name;Carlos Brando;Mon Mar 17 08:47:57 BRT 2008;2733;3;1;1;0;0;0;509;32;0;24;96;0,09375;10,66666667;Não Contem Issue;390,4285714;1;2223;2223;Ruby
+251;herzi;monkey-bubble;herzimonkey-bubble;Sven Herzberg;Mon Mar 17 09:44:18 BRT 2008;2733;1;1;1;0;0;0;10;2;0;3;5208;5,0859375;0,196620584;Não Contem Issue;390,4285714;1;597;597;C
+252;ianloic;wordpress-svn;ianloicwordpress-svn;Ian McKellar;Mon Mar 17 16:57:23 BRT 2008;2733;16;1;1;0;0;0;93;35;0;9;8469;8,270507813;0,12091156;Não Contem Issue;390,4285714;1;597;597;PHP
+253;nimblemachines;muforth;nimblemachinesmuforth;David Frech;Mon Mar 17 19:34:15 BRT 2008;2733;7;5;2;3;0;0;8;0;8;29;6136;5,9921875;0,834419817;Contem Issue;390,4285714;4;3133;627;Forth
+254;sunny;edith;sunnyedith;Sunny Ripert;Tue Mar 18 05:09:22 BRT 2008;2733;5;23;4;19;0;0;89;75;7;27;3024;2,953125;7,788359788;Contem Issue;390,4285714;3;3733;162;PHP
+255;jicksta;methodphitamine;jickstamethodphitamine;Jay Phillips;Tue Mar 18 16:58:04 BRT 2008;2732;3;7;4;3;0;0;71;9;6;17;162;0,158203125;44,24691358;Contem Issue;390,2857143;5;3785;541;Ruby
+256;schacon;ticgit;schaconticgit;Scott Chacon;Tue Mar 18 20:02:07 BRT 2008;2732;16;18;2;16;0;0;10411;21;79;396;1717;1,676757813;10,73500291;Contem Issue;390,2857143;13;8002;445;Ruby
+257;dwillis;thescoop;dwillisthescoop;Derek Willis;Tue Mar 18 23:17:54 BRT 2008;2732;6;1;1;0;0;0;365;99;0;3;160;0,15625;6,4;Não Contem Issue;390,2857143;1;2282;2282;Python
+258;voodootikigod;quickticket;voodootikigodquickticket;Chris Williams;Tue Mar 18 23:54:03 BRT 2008;2732;2;1;1;0;0;0;491;99;2;4;228;0,22265625;4,49122807;Não Contem Issue;390,2857143;1;597;597;Ruby
+259;astubbs;wicket-contrib-groovy;astubbswicket-contrib-groovy;Antony Stubbs;Wed Mar 19 01:43:12 BRT 2008;2732;7;1;1;0;0;0;22;11;0;3;260;0,25390625;3,938461538;Não Contem Issue;390,2857143;1;597;597;Java
+260;mileszs;dotfiles;mileszsdotfiles;Miles Z. Sterrett;Wed Mar 19 08:57:14 BRT 2008;2731;5;1;1;0;0;0;91;43;5;22;1194;1,166015625;0,857621441;Não Contem Issue;390,1428571;1;597;597;VimL
+261;caring;acts_as_url_param;caringacts_as_url_param;Caring.com Dev Team;Wed Mar 19 10:25:08 BRT 2008;2731;3;1;1;0;0;0;0;0;3;10;281;0,274414063;3,644128107;Não Contem Issue;390,1428571;1;2229;2229;Ruby
+262;norbert;has_uuid;norberthas_uuid;Norbert Crombach;Wed Mar 19 11:35:02 BRT 2008;2731;3;1;0;1;0;0;48;66;6;16;135;0,131835938;7,585185156;Não Contem Issue;390,1428571;1;928;928;Ruby
+263;jchris;couchrest;jchriscouchrest;Chris Anderson;Wed Mar 19 12:55:53 BRT 2008;2731;48;8;7;1;0;0;518;42;207;423;3386;3,306640625;2,419373892;Contem Issue;390,1428571;8;14402;1800;Ruby
+264;TekNoLogic;Ampere;TekNoLogicAmpere;Tekkub's WoW addons;Wed Mar 19 17:34:34 BRT 2008;2731;2;8;0;8;0;0;0;0;1;10;171;0,166992188;47,90643261;Contem Issue;390,1428571;3;0;0;Lua
+265;kneath;hemingway;kneathhemingway;Kyle Neath;Wed Mar 19 18:11:32 BRT 2008;2731;1;2;2;0;0;0;974;36;16;96;238;0,232421875;8,605042017;Não Contem Issue;390,1428571;1;3730;1865;PHP
+266;rgrove;cssmin;rgrovecssmin;Ryan Grove;Thu Mar 20 01:30:58 BRT 2008;2731;3;8;3;5;1;1;422;19;5;39;141;0,137695313;58,09929057;Contem Issue;390,1428571;8;3352;419;Ruby
+267;brendan;webult;brendanwebult;Brendan Baldwin;Thu Mar 20 04:58:10 BRT 2008;2731;1;1;1;0;0;0;29;20;0;2;256;0,25;4;Não Contem Issue;390,1428571;1;597;597;JavaScript
+268;stevenbristol;lovd-by-less;stevenbristollovd-by-less;Steven Bristol;Thu Mar 20 10:09:09 BRT 2008;2730;20;2;1;1;0;0;79;20;117;559;4320;4,21875;0,474074074;Não Contem Issue;390;1;1627;814;Ruby
+269;drd;lumber-mill;drdlumber-mill;Eric O'Connell;Fri Feb 22 13:52:21 BRT 2008;2757;1;1;1;0;0;0;36;27;0;2;136;0,1328125;7,529411765;Não Contem Issue;393,8571429;1;597;597;Ruby
+270;kig;metadata;kigmetadata;Ilmari Heikkinen;Fri Mar 21 05:29:22 BRT 2008;2730;7;2;2;0;0;0;187;1;12;63;410;0,400390625;4,995121951;Não Contem Issue;390;2;3529;1765;Ruby
+271;DotNetOpenAuth;DotNetOpenAuth;DotNetOpenAuthDotNetOpenAuth;DotNetOpenAuth.net;Fri Mar 21 13:25:42 BRT 2008;2729;31;379;75;304;0;0;0;0;550;980;131399;128,3193359;2,953568902;Contem Issue;389,8571429;108;85126;225;C#
+272;jcfischer;make_resourceful;jcfischermake_resourceful;Jens-Christian Fischer;Fri Mar 21 14:23:19 BRT 2008;2729;5;1;1;0;0;0;37;15;4;40;280;0,2734375;3,657142857;Não Contem Issue;389,8571429;1;1411;1411;Ruby
+273;osteele;cl-spec;osteelecl-spec;Oliver Steele;Fri Mar 21 15:15:56 BRT 2008;2729;1;1;1;0;0;0;235;0;0;13;140;0,13671875;7,314285714;Não Contem Issue;389,8571429;1;369;369;Common Lisp
+274;tarcieri;reia;tarcierireia;Tony Arcieri;Fri Mar 21 15:48:17 BRT 2008;2729;14;22;8;14;0;0;669;22;29;697;11753;11,47753906;1,916787204;Contem Issue;389,8571429;13;16961;771;Erlang
+275;mbleigh;acts-as-taggable-on;mbleighacts-as-taggable-on;Michael Bleigh;Fri Mar 21 16:07:26 BRT 2008;2729;148;682;119;563;0;0;562;32;746;3394;3030;2,958984375;230,4844884;Contem Issue;389,8571429;433;138038;202;Ruby
+276;vlarsen;chinesepoker;vlarsenchinesepoker;Vidar Larsen;Fri Mar 21 16:58:04 BRT 2008;2729;2;1;0;1;0;0;6;12;0;5;1592;1,5546875;0,64321608;Não Contem Issue;389,8571429;1;1;1;JavaScript
+277;herzi;git2dot;herzigit2dot;Sven Herzberg;Fri Mar 21 18:15:54 BRT 2008;2729;3;1;0;1;0;0;10;2;1;4;110;0,107421875;9,309090909;Não Contem Issue;389,8571429;1;0;0;C
+278;jcrosby;cloudkit;jcrosbycloudkit;Jon Crosby;Fri Mar 21 18:36:32 BRT 2008;2729;11;4;2;2;0;0;126;17;23;317;4798;4,685546875;0,853689037;Contem Issue;389,8571429;3;2600;650;Ruby
+279;cardmagic;contacts;cardmagiccontacts;Lucas Carlson;Fri Mar 21 20:40:38 BRT 2008;2729;21;51;33;18;0;0;138;9;220;599;437;0,426757813;119,5057207;Contem Issue;389,8571429;36;52081;1021;Ruby
+280;cardmagic;starfish;cardmagicstarfish;Lucas Carlson;Fri Mar 21 20:51:38 BRT 2008;2729;1;1;1;0;0;0;138;9;6;38;188;0,18359375;5,446808511;Não Contem Issue;389,8571429;1;799;799;Ruby
+281;shayarnett;merbums;shayarnettmerbums;Shay Arnett;Sat Mar 22 00:08:50 BRT 2008;2729;3;1;1;0;0;0;64;30;2;31;147;0,143554688;6,96598637;Não Contem Issue;389,8571429;1;597;597;Ruby
+282;rgrove;jsmin;rgrovejsmin;Ryan Grove;Sat Mar 22 01:22:59 BRT 2008;2729;4;2;0;2;0;0;422;19;7;53;260;0,25390625;7,876923077;Não Contem Issue;389,8571429;1;0;0;JavaScript
+283;aussiegeek;ruby-sass-tmbundle;aussiegeekruby-sass-tmbundle;Alan Harper;Sat Mar 22 05:57:17 BRT 2008;2729;17;5;4;1;0;0;48;11;30;107;201;0,196289063;25,47263675;Contem Issue;389,8571429;5;7960;1592;Ruby
+284;gnosek;nginx-upstream-fair;gnoseknginx-upstream-fair;Grzegorz Nosek;Sat Mar 22 12:51:21 BRT 2008;2728;5;18;11;7;0;0;45;1;49;264;186;0,181640625;99,09677419;Contem Issue;389,7142857;10;7993;444;C
+285;myabc;nbgit;myabcnbgit;Alex Coles;Sat Mar 22 15:13:32 BRT 2008;2728;7;1;1;0;0;0;136;195;9;189;4755;4,643554688;0,215352261;Não Contem Issue;389,7142857;1;1743;1743;Java
+286;captproton;i-like-local;captprotoni-like-local;captproton;Sat Mar 22 18:57:14 BRT 2008;2728;1;1;1;0;0;0;8;22;0;3;3076;3,00390625;0,33289987;Não Contem Issue;389,7142857;1;597;597;Ruby
+287;archaelus;erlirc;archaeluserlirc;Geoff Cant;Sat Mar 22 21:51:59 BRT 2008;2728;2;4;3;1;0;0;154;28;13;43;470;0,458984375;8,714893617;Contem Issue;389,7142857;3;816;204;Erlang
+288;archaelus;errd;archaeluserrd;Geoff Cant;Sat Mar 22 22:07:26 BRT 2008;2728;4;1;0;1;0;0;154;28;10;20;249;0,243164063;4,112449791;Não Contem Issue;389,7142857;1;0;0;Erlang
+289;nathansobo;hyperarchy;nathansobohyperarchy;Nathan Sobo;Sat Mar 22 22:45:20 BRT 2008;2728;4;8;5;3;0;0;467;2;2;12;32628;31,86328125;0,251072698;Contem Issue;389,7142857;6;4942;618;Ruby
+290;queso;sitemap;quesositemap;Josh Owens;Sun Mar 23 02:21:11 BRT 2008;2728;3;1;1;0;0;0;203;21;9;97;431;0,420898438;2,375870067;Não Contem Issue;389,7142857;1;1681;1681;Ruby
+291;TekNoLogic;Cork;TekNoLogicCork;Tekkub's WoW addons;Sun Mar 23 03:21:09 BRT 2008;2728;32;108;13;95;0;0;0;0;23;23;1930;1,884765625;57,3015544;Contem Issue;389,7142857;19;17269;160;Lua
+292;mbleigh;princely;mbleighprincely;Michael Bleigh;Sun Mar 23 11:47:53 BRT 2008;2727;20;43;3;40;0;0;562;32;76;207;446;0,435546875;98,7264574;Contem Issue;389,5714286;28;14132;329;Ruby
+293;lukec;cpan-selenium-rc-perl;lukeccpan-selenium-rc-perl;Luke Closs;Sun Mar 23 16:43:23 BRT 2008;2727;23;10;6;4;0;0;105;18;11;29;462;0,451171875;22,16450216;Contem Issue;389,5714286;9;4858;486;Perl
+294;blynn;pbc;blynnpbc;Ben Lynn;Sun Mar 23 19:39:06 BRT 2008;2727;6;6;5;1;0;0;64;0;9;24;1306;1,275390625;4,704441041;Contem Issue;389,5714286;5;4048;675;C
+295;karl;monket-calendar;karlmonket-calendar;Karl O'Keeffe;Mon Mar 24 08:33:08 BRT 2008;2726;1;1;1;0;0;0;6;0;1;4;864;0,84375;1,185185185;Não Contem Issue;389,4285714;1;597;597;PHP
+296;brennandunn;preference_fu;brennandunnpreference_fu;Brennan Dunn;Mon Mar 24 15:28:50 BRT 2008;2726;3;3;3;0;0;0;51;7;8;47;145;0,141601563;21,18620682;Não Contem Issue;389,4285714;3;5345;1782;Ruby
+297;nickpad;timedcache;nickpadtimedcache;Nick Dainty;Mon Mar 24 17:30:21 BRT 2008;2726;4;1;0;1;0;0;5;2;2;4;213;0,208007813;4,807511726;Não Contem Issue;389,4285714;1;0;0;Ruby
+298;mdarby;scribd_fu;mdarbyscribd_fu;Matt Darby;Mon Mar 24 23:52:31 BRT 2008;2726;18;25;6;19;0;0;70;20;37;78;803;0,784179688;31,8804483;Contem Issue;389,4285714;13;8616;345;Ruby
+299;toolmantim;webjam;toolmantimwebjam;Tim Lucas;Tue Mar 25 03:03:28 BRT 2008;2726;9;1;0;1;0;0;233;61;0;5;7936;7,75;0,129032258;Não Contem Issue;389,4285714;1;0;0;Ruby
+300;denis;capone;deniscapone;Denis Barushev;Tue Mar 25 05:16:26 BRT 2008;2726;2;4;0;4;0;0;25;36;0;5;151;0,147460938;27,12582772;Contem Issue;389,4285714;1;228;57;Ruby
+301;bumi;find_by_param;bumifind_by_param;Michael Bumann;Tue Mar 25 09:26:27 BRT 2008;2725;6;5;0;5;0;0;153;254;9;30;147;0,143554688;34,82993185;Contem Issue;389,2857143;5;405;81;Ruby
+302;ciaran;tm-completion;ciarantm-completion;Ciarán Walsh;Tue Mar 25 11:33:58 BRT 2008;2725;2;4;4;0;0;0;139;2;5;43;102;0,099609375;40,15686275;Contem Issue;389,2857143;3;6690;1673;Ruby
+303;jruby;activerecord-jdbc-adapter;jrubyactiverecord-jdbc-adapter;JRuby Team;Tue Mar 25 12:46:40 BRT 2008;2725;148;685;39;646;0;0;0;0;275;378;113701;111,0361328;6,169162981;Contem Issue;389,2857143;285;63551;93;Ruby
+304;ezmobius;acl_system2;ezmobiusacl_system2;Ezra Zygmuntowicz;Tue Mar 25 16:00:13 BRT 2008;2725;3;2;1;1;0;0;426;13;14;58;113;0,110351563;18,12389372;Não Contem Issue;389,2857143;2;1610;805;Ruby
+305;bborn;communityengine;bborncommunityengine;Bruno Bornsztein;Tue Mar 25 16:55:55 BRT 2008;2725;77;299;9;290;0;0;63;4;338;1119;15991;15,61621094;19,14677006;Contem Issue;389,2857143;76;6852;23;Ruby
+306;collectiveidea;action_mailer_optional_tls;collectiveideaaction_mailer_optional_tls;Collective Idea;Tue Mar 25 18:27:14 BRT 2008;2725;6;2;1;1;0;0;0;0;26;142;131;0,127929688;15,63358773;Não Contem Issue;389,2857143;2;1291;646;Ruby
+307;jamis;net-ssh-gateway;jamisnet-ssh-gateway;Jamis Buck;Wed Mar 26 01:54:14 BRT 2008;2725;1;3;0;3;0;0;746;0;16;23;148;0,14453125;20,75675676;Não Contem Issue;389,2857143;3;659;220;Ruby
+308;schmidt;contextr;schmidtcontextr;Gregor Schmidt;Wed Mar 26 05:58:13 BRT 2008;2725;2;1;1;0;0;0;45;38;3;10;2318;2,263671875;0,441760138;Não Contem Issue;389,2857143;1;1365;1365;Ruby
+309;mmower;platform;mmowerplatform;Matt Mower;Wed Mar 26 07:30:06 BRT 2008;2725;2;2;0;2;0;0;41;0;3;6;124;0,12109375;16,51612903;Não Contem Issue;389,2857143;2;6;3;Ruby
+310;Ramarren;lisa;Ramarrenlisa;Jakub Higersberger;Wed Mar 26 07:45:08 BRT 2008;2725;3;1;1;0;0;0;45;1;0;5;1908;1,86328125;0,536687631;Não Contem Issue;389,2857143;1;355;355;Common Lisp
+311;rory;python-osm;rorypython-osm;Rory McCann;Wed Mar 26 14:51:44 BRT 2008;2724;3;1;0;1;0;0;15;21;21;12;147;0,143554688;6,96598637;Não Contem Issue;389,1428571;1;0;0;Python
+312;JackDanger;simple_memoize;JackDangersimple_memoize;Jack Danger Canty;Wed Mar 26 16:35:46 BRT 2008;2724;4;1;1;0;0;0;294;102;6;22;357;0,348632813;2,868347335;Não Contem Issue;389,1428571;1;1842;1842;Ruby
+313;mmower;mailtrap;mmowermailtrap;Matt Mower;Wed Mar 26 18:14:19 BRT 2008;2724;8;8;2;6;0;0;41;0;12;64;256;0,25;32;Contem Issue;389,1428571;5;5485;686;Ruby
+314;jomz;radiant-site_language-extension;jomzradiant-site_language-extension;Benny Degezelle;Wed Mar 19 20:00:51 BRT 2008;2731;3;1;0;1;0;0;38;12;0;4;522;0,509765625;1,961685824;Não Contem Issue;390,1428571;1;0;0;Ruby
+315;sstephenson;prototype;sstephensonprototype;Sam Stephenson;Wed Mar 26 23:15:03 BRT 2008;2724;43;300;88;212;9;3;2583;24;521;3022;13698;13,37695313;22,42663162;Contem Issue;389,1428571;61;87950;293;JavaScript
+316;sstephenson;sprockets;sstephensonsprockets;Sam Stephenson;Wed Mar 26 23:37:32 BRT 2008;2724;52;702;20;682;0;45;2583;24;19;2728;7275;7,104492188;98,81072164;Contem Issue;389,1428571;420;62742;89;Ruby
+317;dugb;php-solunar;dugbphp-solunar;doug b;Thu Mar 27 14:20:21 BRT 2008;2723;1;3;3;0;0;0;2;0;4;7;528;0,515625;5,818181818;Não Contem Issue;389;3;2079;693;PHP
+318;shibu;pyspec;shibupyspec;shibukawa yoshiki;Thu Mar 27 15:00:45 BRT 2008;2723;2;1;1;0;0;0;1;0;0;5;258;0,251953125;3,968992248;Não Contem Issue;389;1;597;597;Python
+319;openminds;deep_cloning;openmindsdeep_cloning;Openminds;Thu Mar 27 15:55:26 BRT 2008;2723;2;1;1;0;0;0;0;0;15;63;93;0,090820313;11,01075263;Não Contem Issue;389;1;1792;1792;Ruby
+320;trey;site-template;treysite-template;Trey Piepmeier;Thu Mar 27 16:25:11 BRT 2008;2723;1;1;1;0;0;0;92;101;0;23;500;0,48828125;2,048;Não Contem Issue;389;1;1758;1758;JavaScript
+321;phusion;passenger;phusionpassenger;Phusion B.V.;Thu Mar 27 20:40:48 BRT 2008;2723;95;1606;155;1451;0;0;0;0;388;3162;50280;49,1015625;32,70771679;Contem Issue;389;263;75305;47;C++
+322;tsgates;git-emacs;tsgatesgit-emacs;Taesoo Kim;Thu Mar 27 23:37:45 BRT 2008;2723;12;22;14;8;0;0;57;0;42;170;4235;4,135742188;5,319480519;Contem Issue;389;20;18250;830;Emacs Lisp
+323;mattmccray;comatose;mattmccraycomatose;Matt McCray;Fri Mar 28 01:16:58 BRT 2008;2723;8;4;1;3;0;0;22;0;54;201;359;0,350585938;11,40947074;Contem Issue;389;3;1893;473;Ruby
+324;jamis;net-ssh-multi;jamisnet-ssh-multi;Jamis Buck;Fri Mar 28 01:27:37 BRT 2008;2723;1;1;1;0;0;0;746;0;13;39;162;0,158203125;6,320987654;Não Contem Issue;389;1;1780;1780;Ruby
+325;rsl;proxy_attributes;rslproxy_attributes;Russell Norris;Fri Mar 28 09:19:35 BRT 2008;2722;3;1;1;0;0;0;51;9;0;10;468;0,45703125;2,188034188;Não Contem Issue;388,8571429;1;597;597;Ruby
+326;BrianTheCoder;jquery-keyboard-navigation;BrianTheCoderjquery-keyboard-navigation;Brian Smith;Fri Mar 28 15:32:03 BRT 2008;2722;1;2;2;0;0;0;64;33;1;12;86;0,083984375;23,81395349;Não Contem Issue;388,8571429;1;4650;2325;null
+327;timcharper;rubyamp;timcharperrubyamp;Tim Harper;Fri Mar 28 15:37:03 BRT 2008;2722;11;8;2;6;0;0;130;24;10;124;543;0,530273438;15,08655616;Contem Issue;388,8571429;7;2797;350;Ruby
+328;cout;ruby-internal;coutruby-internal;Paul Brannan;Fri Mar 28 20:24:30 BRT 2008;2722;6;6;3;3;0;0;36;18;0;50;1319;1,288085938;4,658074297;Contem Issue;388,8571429;5;4320;720;C
+329;jbarnette;johnson;jbarnettejohnson;John Barnette;Sat Mar 29 23:28:16 BRT 2008;2721;12;44;18;26;0;0;582;72;24;468;3739;3,651367188;12,05028082;Contem Issue;388,7142857;31;38990;886;Ruby
+330;vanpelt;merb_facebooker;vanpeltmerb_facebooker;Chris Van Pelt;Sat Mar 29 23:44:34 BRT 2008;2721;7;1;1;0;0;0;49;13;13;35;114;0,111328125;8,98245614;Não Contem Issue;388,7142857;1;1411;1411;Ruby
+331;TekNoLogic;Blipstick;TekNoLogicBlipstick;Tekkub's WoW addons;Sun Mar 30 01:29:37 BRT 2008;2721;2;8;1;7;0;0;0;0;1;6;569;0,555664063;14,39718804;Contem Issue;388,7142857;3;1371;171;Lua
+332;brendanlim;sms-fu;brendanlimsms-fu;Brendan G. Lim;Sun Mar 30 17:03:02 BRT 2008;2720;11;17;12;5;0;0;125;76;113;302;372;0,36328125;46,79569892;Contem Issue;388,5714286;14;14336;843;Ruby
+333;Squeegy;fleximage;Squeegyfleximage;Alex Wayne;Sun Mar 30 22:29:47 BRT 2008;2720;15;17;9;8;0;0;30;0;49;250;16483;16,09667969;1,056118425;Contem Issue;388,5714286;15;16338;961;Ruby
+334;nkallen;screw-unit;nkallenscrew-unit;Nick Kallen;Sun Mar 09 01:18:52 BRT 2008;2742;7;4;4;0;0;0;360;6;20;268;227;0,221679688;18,04405282;Contem Issue;391,7142857;3;5103;1276;JavaScript
+335;zackchandler;trustcommerce;zackchandlertrustcommerce;Zack Chandler;Mon Mar 31 01:26:50 BRT 2008;2720;1;1;1;0;0;0;12;0;6;14;147;0,143554688;6,96598637;Não Contem Issue;388,5714286;1;1605;1605;Ruby
+336;jeremyevans;sequel;jeremyevanssequel;Jeremy Evans;Mon Mar 31 02:41:15 BRT 2008;2720;236;1075;0;1075;0;0;313;0;418;2172;50867;49,67480469;21,6407494;Contem Issue;388,5714286;389;364;0;Ruby
+337;halfbyte;minitowel;halfbyteminitowel;Jan Krutisch;Mon Mar 31 03:49:56 BRT 2008;2720;1;1;1;0;0;0;120;6;0;3;380;0,37109375;2,694736842;Não Contem Issue;388,5714286;1;597;597;JavaScript
+338;ezmobius;nanite;ezmobiusnanite;Ezra Zygmuntowicz;Mon Mar 31 05:32:08 BRT 2008;2720;43;33;15;18;0;0;426;13;61;760;29179;28,49511719;1,158093149;Contem Issue;388,5714286;21;30722;931;Ruby
+339;mbleigh;ruby-github;mbleighruby-github;Michael Bleigh;Mon Mar 31 11:34:56 BRT 2008;2719;1;3;2;1;0;0;562;32;8;61;272;0,265625;11,29411765;Não Contem Issue;388,4285714;2;3892;1297;Ruby
+340;floere;james;floerejames;Florian R. Hanke;Mon Mar 31 14:15:20 BRT 2008;2719;4;13;3;10;0;0;111;35;16;130;3504;3,421875;3,799086758;Contem Issue;388,4285714;7;4297;331;Ruby
+341;dennisreimann;masquerade;dennisreimannmasquerade;Dennis Reimann;Mon Mar 31 15:37:51 BRT 2008;2719;17;34;1;33;0;8;365;60;40;232;6206;6,060546875;5,610054786;Contem Issue;388,4285714;19;4138;122;Ruby
+342;kr;beanstalkd;krbeanstalkd;Keith Rarick;Mon Mar 31 17:20:41 BRT 2008;2719;40;275;98;177;0;27;625;22;355;2710;2213;2,161132813;127,2480795;Contem Issue;388,4285714;126;92716;337;C
+343;oneup;puituniverse;oneuppuituniverse;Florian Hufsky;Mon Mar 31 19:57:28 BRT 2008;2719;2;1;1;0;0;0;23;14;1;14;2721;2,657226563;0,376332231;Não Contem Issue;388,4285714;1;1994;1994;Python
+344;jmettraux;rufus-verbs;jmettrauxrufus-verbs;John Mettraux;Mon Mar 31 20:29:22 BRT 2008;2719;3;5;1;4;0;0;275;267;2;10;251;0,245117188;20,39840633;Contem Issue;388,4285714;2;2094;419;Ruby
+345;jmettraux;rufus-lru;jmettrauxrufus-lru;John Mettraux;Mon Mar 31 21:53:41 BRT 2008;2719;3;2;0;2;0;0;275;267;4;10;278;0,271484375;7,366906475;Não Contem Issue;388,4285714;2;0;0;Ruby
+346;jmettraux;rufus-scheduler;jmettrauxrufus-scheduler;John Mettraux;Tue Apr 01 01:21:05 BRT 2008;2719;27;165;6;159;0;4;275;267;103;1248;2838;2,771484375;59,53488372;Contem Issue;388,4285714;80;5809;35;Ruby
+347;openminds;ruby-mollom;openmindsruby-mollom;Openminds;Tue Apr 01 09:41:59 BRT 2008;2718;4;3;1;2;0;0;0;0;4;14;323;0,315429688;9,510835898;Não Contem Issue;388,2857143;3;1281;427;Ruby
+348;mbleigh;seed-fu;mbleighseed-fu;Michael Bleigh;Tue Apr 01 10:36:22 BRT 2008;2718;26;97;36;61;0;0;562;32;120;786;636;0,62109375;156,1761006;Contem Issue;388,2857143;73;32305;333;Ruby
+349;madrobby;scriptaculous;madrobbyscriptaculous;Thomas Fuchs;Tue Apr 01 12:18:45 BRT 2008;2718;14;45;33;12;0;0;2060;14;486;2364;2685;2,622070313;17,16201117;Contem Issue;388,2857143;34;53878;1197;HTML
+350;tekkub;wow-ui-source;tekkubwow-ui-source;Tekkub;Tue Apr 01 15:58:52 BRT 2008;2718;4;8;0;8;0;0;5540;91;104;199;24223;23,65527344;0,338190975;Contem Issue;388,2857143;4;41;5;Lua
+351;kassoulet;soundconverter;kassouletsoundconverter;Gautier Portet;Tue Apr 01 17:25:26 BRT 2008;2718;10;11;0;11;0;0;1;1;12;42;4054;3,958984375;2,77849038;Contem Issue;388,2857143;5;94;9;Python
+352;pezra;resourceful;pezraresourceful;Peter Williams;Tue Apr 01 19:17:38 BRT 2008;2718;12;1;0;1;0;0;31;1;11;19;540;0,52734375;1,896296296;Não Contem Issue;388,2857143;1;28;28;Ruby
+353;mmower;bishop;mmowerbishop;Matt Mower;Wed Apr 02 06:37:17 BRT 2008;2718;1;2;2;0;0;0;41;0;6;23;112;0,109375;18,28571429;Não Contem Issue;388,2857143;2;1722;861;Ruby
+354;sprsquish;crypt--xxtea;sprsquishcrypt--xxtea;Jeff Smick;Wed Apr 02 13:11:58 BRT 2008;2717;2;2;2;0;0;0;122;57;4;6;92;0,08984375;22,26086957;Não Contem Issue;388,1428571;2;2580;1290;Ruby
+355;insoshi;insoshi;insoshiinsoshi;insoshi;Wed Apr 02 16:19:05 BRT 2008;2717;17;4;2;2;0;0;72;0;569;1583;25401;24,80566406;0,161253494;Contem Issue;388,1428571;4;1996;499;Ruby
+356;dxoigmn;achilles;dxoigmnachilles;Cory Cornelius;Wed Apr 02 19:29:00 BRT 2008;2717;1;1;1;0;0;0;15;3;2;7;506;0,494140625;2,023715415;Não Contem Issue;388,1428571;1;1361;1361;Ruby
+357;robey;configgy;robeyconfiggy;Robey Pointer;Wed Apr 02 20:21:25 BRT 2008;2717;21;50;8;42;0;0;470;14;28;164;3339;3,260742188;15,33393231;Contem Issue;388,1428571;18;19293;386;Scala
+358;jamesgolick;attribute_fu;jamesgolickattribute_fu;James Golick;Wed Apr 02 21:14:53 BRT 2008;2717;6;5;4;1;0;0;544;30;18;101;185;0,180664063;27,6756756;Contem Issue;388,1428571;5;5330;1066;Ruby
+359;smtlaissezfaire;fixturereplacement;smtlaissezfairefixturereplacement;Scott Taylor;Thu Apr 03 04:20:23 BRT 2008;2717;5;13;8;5;1;0;185;311;3;17;605;0,590820313;22,00330577;Contem Issue;388,1428571;3;17467;1344;Ruby
+360;beastaugh;papertrail;beastaughpapertrail;Benedict Eastaugh;Thu Apr 03 06:23:09 BRT 2008;2717;1;9;4;5;0;3;41;20;0;8;633;0,618164063;14,55924169;Contem Issue;388,1428571;1;9130;1014;Ruby
+361;whomwah;rqrcode;whomwahrqrcode;Duncan Robertson;Thu Apr 03 06:31:15 BRT 2008;2717;20;31;1;30;0;0;89;46;85;497;453;0,442382813;70,07505511;Contem Issue;388,1428571;22;14628;472;Ruby
+362;scrooloose;crondle;scrooloosecrondle;Martin Grenfell;Thu Apr 03 07:06:56 BRT 2008;2717;2;1;1;0;0;0;842;19;2;20;98;0,095703125;10,44897959;Não Contem Issue;388,1428571;1;494;494;Ruby
+363;grundprinzip;slimtimercli;grundprinzipslimtimercli;Martin Grund;Thu Apr 03 10:42:01 BRT 2008;2716;4;3;0;3;0;0;43;16;1;4;194;0,189453125;15,83505155;Não Contem Issue;388;2;43;14;Ruby
+364;lak;puppet-old;lakpuppet-old;Luke Kanies;Thu Apr 03 13:36:34 BRT 2008;2716;156;1;1;0;0;0;125;15;16;91;20582;20,09960938;0,049752211;Não Contem Issue;388;1;1429;1429;Ruby
+365;courtenay;altered_beast;courtenayaltered_beast;C o u r t e n a y;Thu Apr 03 13:57:06 BRT 2008;2716;18;11;9;2;0;0;171;10;126;543;1494;1,458984375;7,539491299;Contem Issue;388;10;18554;1687;Ruby
+366;ryanb;static_actions;ryanbstatic_actions;Ryan Bates;Thu Apr 03 14:29:01 BRT 2008;2716;1;2;2;0;0;0;6352;95;2;39;91;0,088867188;22,50549438;Não Contem Issue;388;1;4482;2241;Ruby
+367;cannikin;validator;cannikinvalidator;Rob Cameron;Thu Apr 03 15:19:07 BRT 2008;2716;1;1;0;1;0;0;17;1;1;3;199;0,194335938;5,14572863;Não Contem Issue;388;1;34;34;JavaScript
+368;alexvollmer;clip;alexvollmerclip;Alex Vollmer;Thu Apr 03 16:05:13 BRT 2008;2716;7;1;1;0;0;0;60;8;2;17;166;0,162109375;6,168674699;Não Contem Issue;388;1;2032;2032;Ruby
+369;dchelimsky;rspec-rails;dchelimskyrspec-rails;David Chelimsky;Thu Apr 03 19:13:52 BRT 2008;2716;61;18;0;18;0;1;588;7;72;778;17022;16,62304688;1,082833979;Contem Issue;388;17;1737;97;Ruby
+370;jochu;clojure-mode;jochuclojure-mode;Jeffrey Chu;Thu Apr 03 21:06:36 BRT 2008;2716;26;3;0;3;0;0;55;0;13;192;867;0,846679688;3,543252593;Não Contem Issue;388;2;4;1;Emacs Lisp
+371;dustin;py-backpack;dustinpy-backpack;Dustin Sallings;Sat Apr 05 16:09:35 BRT 2008;2714;4;2;0;2;0;0;688;19;3;7;271;0,264648438;7,557195558;Não Contem Issue;387,7142857;2;0;0;Python
+372;rsl;acts_as_snook;rslacts_as_snook;Russell Norris;Sat Apr 05 16:38:46 BRT 2008;2714;3;1;1;0;0;0;51;9;8;109;132;0,12890625;7,757575758;Não Contem Issue;387,7142857;1;1829;1829;Ruby
+373;joevandyk;monkeycharger;joevandykmonkeycharger;Joe Van Dyk;Sat Apr 05 16:53:01 BRT 2008;2714;3;1;1;0;0;0;26;1;0;32;3929;3,836914063;0,260626113;Não Contem Issue;387,7142857;1;2335;2335;Ruby
+374;ymendel;flac2mp3;ymendelflac2mp3;Yossef Mendelssohn;Sat Apr 05 17:59:46 BRT 2008;2714;1;1;0;1;0;0;150;1;3;15;210;0,205078125;4,876190476;Não Contem Issue;387,7142857;1;0;0;Ruby
+375;djtal;ludomanager;djtalludomanager;Guillaume;Sat Apr 05 18:10:58 BRT 2008;2714;3;2;0;2;0;0;11;15;0;2;23144;22,6015625;0,088489457;Não Contem Issue;387,7142857;1;3702;1851;Ruby
+376;ap;gtk-chtheme;apgtk-chtheme;Aristotle Pagaltzis;Sat Apr 05 23:20:37 BRT 2008;2714;1;5;5;0;0;0;120;68;1;1;125;0,122070313;40,95999983;Contem Issue;387,7142857;2;8993;1799;C
+377;dgl;cgiirc;dglcgiirc;David Leadbeater;Sun Apr 06 07:39:11 BRT 2008;2714;3;8;4;4;0;0;43;0;6;32;1137;1,110351563;7,204925239;Contem Issue;387,7142857;4;2184;273;Perl
+378;jgm;markdown-peg;jgmmarkdown-peg;John MacFarlane;Sun Apr 06 14:28:29 BRT 2008;2713;1;1;1;0;0;0;745;0;0;18;100;0,09765625;10,24;Não Contem Issue;387,5714286;1;1737;1737;Haskell
+379;vito;chyrp;vitochyrp;Alex Suraci;Sun Apr 06 17:10:32 BRT 2008;2713;19;2;1;1;0;0;152;7;71;214;11619;11,34667969;0,176263017;Não Contem Issue;387,5714286;2;600;300;PHP
+380;jmettraux;rufus-decision;jmettrauxrufus-decision;John Mettraux;Sun Apr 06 23:07:57 BRT 2008;2713;3;16;3;13;0;0;275;267;2;41;375;0,366210938;43,69066661;Contem Issue;387,5714286;6;2460;154;Ruby
+381;halfbyte;bookstr;halfbytebookstr;Jan Krutisch;Mon Apr 07 04:01:45 BRT 2008;2713;1;1;1;0;0;0;120;6;0;3;404;0,39453125;2,534653465;Não Contem Issue;387,5714286;1;597;597;Ruby
+382;dustin;photoupload;dustinphotoupload;Dustin Sallings;Mon Apr 07 04:30:50 BRT 2008;2713;1;6;3;3;0;0;688;19;0;6;1024;1;6;Contem Issue;387,5714286;1;5028;838;Objective-C
+383;IceskYsl;1stlog;IceskYsl1stlog;IceskYsl;Mon Apr 07 04:32:21 BRT 2008;2713;1;1;1;0;0;0;224;22;0;3;1132;1,10546875;0,90459364;Não Contem Issue;387,5714286;1;597;597;JavaScript
+384;atduskgreg;rad;atduskgregrad;Greg Borenstein;Mon Apr 07 07:18:30 BRT 2008;2713;10;7;6;1;0;0;366;39;66;395;2429;2,372070313;2,951008645;Contem Issue;387,5714286;7;8794;1256;Ruby
+385;justinfrench;formtastic;justinfrenchformtastic;Justin French;Mon Apr 07 08:18:11 BRT 2008;2713;203;1165;31;1134;4;117;261;44;575;4722;6654;6,498046875;179,2846408;Contem Issue;387,5714286;533;53996;46;Ruby
+386;mudge;jquery_example;mudgejquery_example;Paul Mucur;Mon Apr 07 09:39:36 BRT 2008;2712;4;15;1;14;0;0;56;15;19;111;586;0,572265625;26,2116041;Contem Issue;387,4285714;7;2155;144;JavaScript
+387;jeremyevans;scaffolding_extensions;jeremyevansscaffolding_extensions;Jeremy Evans;Mon Apr 07 13:19:45 BRT 2008;2712;4;5;0;5;0;0;313;0;6;57;1359;1,327148438;3,767476084;Contem Issue;387,4285714;4;287;57;Ruby
+388;jeremyevans;fixture_dependencies;jeremyevansfixture_dependencies;Jeremy Evans;Mon Apr 07 18:36:19 BRT 2008;2712;7;12;0;12;0;0;313;0;15;28;284;0,27734375;43,26760563;Contem Issue;387,4285714;9;38;3;Ruby
+389;jmettraux;rufus-rtm;jmettrauxrufus-rtm;John Mettraux;Mon Apr 07 20:48:01 BRT 2008;2712;2;3;1;2;0;0;275;267;3;18;186;0,181640625;16,51612903;Não Contem Issue;387,4285714;2;2074;691;Ruby
+390;tobie;pdoc;tobiepdoc;Tobie Langel;Mon Apr 07 21:29:47 BRT 2008;2712;12;7;3;4;0;0;226;70;17;108;698;0,681640625;10,26934097;Contem Issue;387,4285714;7;5152;736;Ruby
+391;napcs;docbook;napcsdocbook;Brian Hogan / New Auburn Personal Computer Services;Mon Apr 07 21:59:26 BRT 2008;2712;5;20;2;18;0;0;86;5;11;58;49345;48,18847656;0,415036985;Contem Issue;387,4285714;9;4415;221;XSLT
+392;greatseth;labeling-form-helper;greatsethlabeling-form-helper;Seth Thomas Rasmussen;Mon Apr 07 22:14:37 BRT 2008;2712;3;3;0;3;0;0;42;26;1;11;281;0,274414063;10,93238432;Não Contem Issue;387,4285714;2;939;313;Ruby
+393;dmeiz;numz;dmeiznumz;Dan Hensgen;Mon Apr 07 22:56:04 BRT 2008;2712;1;1;1;0;0;0;6;1;0;2;160;0,15625;6,4;Não Contem Issue;387,4285714;1;597;597;Ruby
+394;kumpera;dataflow;kumperadataflow;Rodrigo Kumpera;Mon Apr 07 23:17:46 BRT 2008;2712;3;1;1;0;0;0;190;1;1;8;1995;1,948242188;0,513283208;Não Contem Issue;387,4285714;1;1362;1362;C#
+395;acunote;acunote-shortcuts;acunoteacunote-shortcuts;Acunote;Tue Apr 08 01:59:29 BRT 2008;2712;7;1;0;1;0;0;0;0;4;23;191;0,186523438;5,36125653;Não Contem Issue;387,4285714;1;35;35;JavaScript
+396;jkk;eidogo;jkkeidogo;Justin Kramer;Tue Apr 08 05:09:52 BRT 2008;2712;4;28;25;3;0;0;63;7;39;110;2660;2,59765625;10,77894737;Contem Issue;387,4285714;12;14092;503;JavaScript
+397;crossblaim;campfire-theme-for-colloquy;crossblaimcampfire-theme-for-colloquy;Claudio Perez Gamayo;Tue Apr 08 08:56:49 BRT 2008;2711;3;9;1;8;0;0;38;17;17;30;286;0,279296875;32,22377622;Contem Issue;387,2857143;7;3693;410;null
+398;daikini;matlab-ruby;daikinimatlab-ruby;Jonathan Younger;Tue Apr 08 11:05:19 BRT 2008;2711;3;6;2;4;0;0;8;1;9;35;321;0,313476563;19,14018689;Contem Issue;387,2857143;3;2350;392;C
+399;daikini;octave-ruby;daikinioctave-ruby;Jonathan Younger;Tue Apr 08 11:12:13 BRT 2008;2711;2;6;3;3;0;0;8;1;9;45;206;0,201171875;29,82524272;Contem Issue;387,2857143;4;3191;532;Ruby
+400;daikini;paysimple;daikinipaysimple;Jonathan Younger;Tue Apr 08 11:13:30 BRT 2008;2711;1;1;1;0;0;0;8;1;1;6;97;0,094726563;10,55670098;Não Contem Issue;387,2857143;1;1150;1150;Ruby
+401;kangax;protolicious;kangaxprotolicious;Juriy Zaytsev;Tue Apr 08 11:35:53 BRT 2008;2711;14;7;4;3;0;0;1375;17;19;133;277;0,270507813;25,87725627;Contem Issue;387,2857143;6;4936;705;JavaScript
+402;Ramarren;png-read;Ramarrenpng-read;Jakub Higersberger;Tue Apr 08 14:37:00 BRT 2008;2711;5;5;0;5;0;0;45;1;3;15;151;0,147460938;33,90728465;Contem Issue;387,2857143;5;4;1;Common Lisp
+403;kelvie;basket;kelviebasket;Kelvie Wong;Tue Apr 08 15:44:01 BRT 2008;2711;42;18;12;6;0;0;8;4;40;98;17710;17,29492188;1,040767927;Contem Issue;387,2857143;6;16252;903;C++
+404;cyberfox;jbidwatcher;cyberfoxjbidwatcher;Morgan Schweers;Tue Apr 08 19:26:02 BRT 2008;2711;4;2;1;1;0;0;13;15;28;62;105192;102,7265625;0,019469161;Não Contem Issue;387,2857143;2;1072;536;Java
+405;deadprogram;frankie;deadprogramfrankie;Ron Evans;Tue Apr 08 20:07:49 BRT 2008;2711;4;1;1;0;0;0;166;0;20;143;86;0,083984375;11,90697674;Não Contem Issue;387,2857143;1;2093;2093;Ruby
+406;al3x;lyrics;al3xlyrics;Alex Payne;Tue Apr 08 20:23:55 BRT 2008;2711;3;1;1;0;0;0;988;50;1;7;232;0,2265625;4,413793103;Não Contem Issue;387,2857143;1;597;597;JavaScript
+407;justinperkins;us-r32-registry;justinperkinsus-r32-registry;Justin Perkins;Tue Apr 08 21:54:41 BRT 2008;2711;4;3;1;2;0;0;6;5;0;2;2016;1,96875;1,523809524;Não Contem Issue;387,2857143;2;667;222;Ruby
+408;keita;timeoutx;keitatimeoutx;Keita Yamaguchi;Wed Apr 09 05:00:44 BRT 2008;2711;2;1;1;0;0;0;50;9;33;36;380;0,37109375;2,694736842;Não Contem Issue;387,2857143;1;1360;1360;Ruby
+409;ianwhite;resources_controller;ianwhiteresources_controller;Ian White;Wed Apr 09 05:03:01 BRT 2008;2711;12;11;5;6;0;0;79;9;21;83;1311;1,280273438;8,591914566;Contem Issue;387,2857143;10;8305;755;Ruby
+410;slaskis;six3d;slaskissix3d;Robert Sköld;Wed Apr 09 07:42:01 BRT 2008;2711;1;1;1;0;0;0;27;59;0;2;7740;7,55859375;0,132299742;Não Contem Issue;387,2857143;1;597;597;ActionScript
+411;kana;config;kanaconfig;Kana Natsuno;Wed Apr 09 10:13:04 BRT 2008;2710;2;23;12;11;0;0;505;557;3;61;12049;11,76660156;1,954685037;Contem Issue;387,1428571;2;14606;635;HTML
+412;danlucraft;redcar2;danlucraftredcar2;Dan Lucraft;Wed Apr 09 18:15:41 BRT 2008;2710;97;16;3;13;0;0;171;38;167;594;48660;47,51953125;0,336703658;Contem Issue;387,1428571;13;5274;330;Ruby
+413;ascarter;workling;ascarterworkling;Andrew Carter;Wed Apr 09 19:52:48 BRT 2008;2710;2;1;1;0;0;0;33;35;79;5;91;0,088867188;11,25274719;Não Contem Issue;387,1428571;1;265;265;Ruby
+414;mabj;tcc;mabjtcc;Marcos Álvares;Wed Apr 09 21:05:08 BRT 2008;2710;5;1;1;0;0;0;11;0;0;2;5144;5,0234375;0,199066874;Não Contem Issue;387,1428571;1;1487;1487;Ruby
+415;jmettraux;ruote;jmettrauxruote;John Mettraux;Wed Apr 09 23:07:50 BRT 2008;2710;19;95;6;89;2;2;275;267;79;492;15415;15,05371094;6,310736295;Contem Issue;387,1428571;42;7792;82;Ruby
+416;dougal;daemon_generator;dougaldaemon_generator;Douglas F Shearer;Thu Apr 10 07:26:19 BRT 2008;2710;5;8;3;5;0;0;19;3;23;102;125;0,122070313;65,53599973;Contem Issue;387,1428571;6;5155;644;Ruby
+417;joshsmoore;androidmoney;joshsmooreandroidmoney;Josh Moore;Thu Apr 10 01:41:35 BRT 2008;2710;1;1;1;0;0;0;14;0;0;2;100;0,09765625;10,24;Não Contem Issue;387,1428571;1;597;597;Java
+418;keita;ruby-weatherhacks;keitaruby-weatherhacks;Keita Yamaguchi;Thu Apr 10 03:14:33 BRT 2008;2710;1;1;1;0;0;0;50;9;0;2;370;0,361328125;2,767567568;Não Contem Issue;387,1428571;1;1307;1307;Ruby
+419;jarkko;railsecommerce;jarkkorailsecommerce;Jarkko Laine;Thu Apr 10 12:16:31 BRT 2008;2709;2;2;1;1;0;0;16;0;3;7;728;0,7109375;2,813186813;Não Contem Issue;387;2;598;299;Ruby
+420;tomtt;schema-browser;tomttschema-browser;Tom ten Thij;Thu Apr 10 15:10:30 BRT 2008;2709;2;2;2;0;0;0;18;12;1;33;960;0,9375;2,133333333;Não Contem Issue;387;2;996;498;JavaScript
+421;dustin;py-github;dustinpy-github;Dustin Sallings;Thu Apr 10 15:11:11 BRT 2008;2709;25;66;14;52;0;0;688;19;36;137;363;0,354492188;186,1818179;Contem Issue;387;22;30774;466;Python
+422;jmesnil;jmx4r;jmesniljmx4r;Jeff Mesnil;Thu Apr 10 16:17:22 BRT 2008;2709;10;10;3;7;0;0;55;0;11;69;428;0,41796875;23,92523364;Contem Issue;387;10;3101;310;Ruby
+423;russ;gosu-tetris;russgosu-tetris;Russ Smith;Thu Apr 10 16:25:47 BRT 2008;2709;3;1;1;0;0;0;34;12;0;3;987;0,963867188;1,037487335;Não Contem Issue;387;1;597;597;Ruby
+424;thoughtbot;paperclip;thoughtbotpaperclip;thoughtbot, inc.;Thu Apr 10 16:58:20 BRT 2008;2709;343;1998;97;1901;0;0;0;0;1588;7265;10642;10,39257813;192,252584;Contem Issue;387;1187;302783;152;Ruby
+425;fjolnir;DatabaseKit;fjolnirDatabaseKit;Fjölnir Ásgeirsson;Thu Apr 10 18:14:21 BRT 2008;2709;6;14;1;13;0;0;121;41;34;386;10928;10,671875;1,311859444;Contem Issue;387;6;1703;122;Objective-C
+426;toland;app_version;tolandapp_version;Phillip Toland;Thu Apr 10 22:25:51 BRT 2008;2709;11;6;0;6;0;0;54;38;17;36;210;0,205078125;29,25714286;Contem Issue;387;4;91;15;Ruby
+427;rails;rails;railsrails;Ruby on Rails;Thu Apr 10 23:19:47 BRT 2008;2710;3560;21580;905;20675;0;0;0;0;11106;27657;459729;448,9541016;48,06727442;Contem Issue;387,1428571;5546;998258;46;Ruby
+428;cyu;beast_iphone_plugin;cyubeast_iphone_plugin;Calvin Yu;Thu Apr 10 23:35:28 BRT 2008;2710;1;1;1;0;0;0;32;7;1;11;568;0,5546875;1,802816901;Não Contem Issue;387,1428571;1;599;599;JavaScript
+429;OwlManAtt;activephp;OwlManAttactivephp;Nicholas 'OwlManAtt' Evans;Thu Apr 10 23:56:17 BRT 2008;2710;2;1;0;1;0;0;11;10;2;8;286;0,279296875;3,58041958;Não Contem Issue;387,1428571;1;0;0;PHP
+430;relevance;etc;relevanceetc;Relevance;Fri Apr 11 01:36:51 BRT 2008;2710;50;3;0;3;0;0;0;0;13;144;430;0,419921875;7,144186047;Não Contem Issue;387,1428571;3;1611;537;Shell
+431;jchris;appdrop;jchrisappdrop;Chris Anderson;Fri Apr 11 04:58:12 BRT 2008;2710;1;1;1;0;0;0;518;42;3;37;724;0,70703125;1,414364641;Não Contem Issue;387,1428571;1;599;599;Ruby
+432;vboctor;disposable_email_checker;vboctordisposable_email_checker;Victor Boctor;Fri Apr 11 05:23:28 BRT 2008;2710;5;6;1;5;0;0;30;30;10;21;315;0,307617188;19,5047619;Contem Issue;387,1428571;5;60;10;PHP
+433;pilu;radiant-gallery;piluradiant-gallery;Andrea Franz;Fri Apr 11 06:52:43 BRT 2008;2710;7;5;1;4;0;0;140;0;25;72;451;0,440429688;11,35254989;Contem Issue;387,1428571;5;2453;491;Ruby
+434;DAddYE;lipsiadmin;DAddYElipsiadmin;Davide D'Agostino;Fri Apr 11 11:50:52 BRT 2008;2710;6;3;0;3;0;0;167;23;9;110;4692;4,58203125;0,654731458;Não Contem Issue;387,1428571;3;49;16;Ruby
+435;TTimo;dupinanny;TTimodupinanny;"Timothee ""TTimo"" Besset";Fri Apr 11 11:56:20 BRT 2008;2710;9;2;0;2;0;0;419;26;13;38;147;0,143554688;13,93197279;Não Contem Issue;387,1428571;2;4;2;Python
+436;guitsaru;rbvimeo;guitsarurbvimeo;Matt Pruitt;Fri Apr 11 12:07:25 BRT 2008;2710;4;2;0;2;0;0;37;40;5;19;365;0,356445313;5,610958904;Não Contem Issue;387,1428571;2;63;32;Ruby
+437;OwlManAtt;itorrent;OwlManAttitorrent;Nicholas 'OwlManAtt' Evans;Fri Apr 11 13:28:32 BRT 2008;2710;5;1;0;1;0;0;11;10;0;7;456;0,4453125;2,245614035;Não Contem Issue;387,1428571;1;0;0;PHP
+438;icefox;arora;icefoxarora;Benjamin C Meyer;Fri Apr 11 15:38:09 BRT 2008;2710;72;1;1;0;0;0;97;0;118;70;6889;6,727539063;0,148642764;Não Contem Issue;387,1428571;1;1650;1650;C++
+439;zippy;metaform;zippymetaform;Eric Harris-Braun;Fri Apr 11 18:52:29 BRT 2008;2709;4;1;0;1;0;0;26;7;1;13;2008;1,9609375;0,509960159;Não Contem Issue;387;1;0;0;Ruby
+440;ambethia;recaptcha;ambethiarecaptcha;Jason L Perry;Fri Apr 11 20:01:45 BRT 2008;2709;70;139;26;113;0;0;97;50;196;962;927;0,905273438;153,5447681;Contem Issue;387;103;21204;153;Ruby
+441;xaviershay;enki;xaviershayenki;Xavier Shay;Fri Apr 11 20:54:11 BRT 2008;2709;30;98;3;95;0;0;429;13;285;828;13367;13,05371094;7,507443705;Contem Issue;387;39;5199;53;Ruby
+442;nofxx;xxpub;nofxxxxpub;Marcos Piccinini;Fri Apr 11 21:07:37 BRT 2008;2709;4;1;0;1;0;0;94;54;1;2;1518;1,482421875;0,674571805;Não Contem Issue;387;1;0;0;Ruby
+443;ivey;carpark;iveycarpark;Michael D. Ivey;Sat Apr 12 01:50:00 BRT 2008;2709;2;1;1;0;0;0;60;2;2;7;82;0,080078125;12,48780488;Não Contem Issue;387;1;263;263;Ruby
+444;bricooke;tickspot-ruby;bricooketickspot-ruby;Brian Cooke;Sat Apr 12 04:19:12 BRT 2008;2709;3;1;1;0;0;0;30;6;3;7;149;0,145507813;6,872483221;Não Contem Issue;387;1;1679;1679;Ruby
+445;jezdez-archive;django-mobileadmin;jezdez-archivedjango-mobileadmin;jezdez archive;Sat Apr 12 08:05:01 BRT 2008;2709;6;4;4;0;0;0;0;0;13;121;248;0,2421875;16,51612903;Contem Issue;387;4;6560;1640;Python
+446;conanite;rainbow;conaniterainbow;conan dalton;Sat Apr 12 08:55:50 BRT 2008;2709;4;1;1;0;0;0;8;6;1;43;1253;1,223632813;0,817238627;Não Contem Issue;387;1;1776;1776;Arc
+447;ncr;background-fu;ncrbackground-fu;Jacek Becela;Sat Apr 12 11:05:45 BRT 2008;2709;13;4;3;1;0;0;52;59;14;100;192;0,1875;21,33333333;Contem Issue;387;4;5860;1465;Ruby
+448;twpayne;igc2kmz;twpayneigc2kmz;Tom Payne;Sat Apr 12 11:23:56 BRT 2008;2709;4;9;2;7;0;0;63;13;6;16;7883;7,698242188;1,169098059;Contem Issue;387;1;257;29;Python
+449;mbleigh;mash;mbleighmash;Michael Bleigh;Sat Apr 12 13:05:15 BRT 2008;2709;4;3;2;1;0;0;562;32;9;64;309;0,301757813;9,941747573;Não Contem Issue;387;2;4327;1442;Ruby
+450;rowland;fb;rowlandfb;Brent Rowland;Sat Apr 12 15:16:53 BRT 2008;2709;8;44;1;43;0;0;16;2;14;46;443;0,432617188;101,7065463;Contem Issue;387;17;7164;163;Ruby
+451;rowland;fb_adapter;rowlandfb_adapter;Brent Rowland;Sat Apr 12 15:34:30 BRT 2008;2709;3;5;0;5;0;0;16;2;2;23;547;0,534179688;9,360146252;Contem Issue;387;3;1830;366;Ruby
+452;Squeegy;rails-settings;Squeegyrails-settings;Alex Wayne;Sat Apr 12 17:57:04 BRT 2008;2708;4;8;7;1;0;0;30;0;21;222;302;0,294921875;27,12582781;Contem Issue;386,8571429;8;9612;1202;Ruby
+453;mateusza;windowizer;mateuszawindowizer;Mateusz Adamowski;Sat Apr 12 19:48:14 BRT 2008;2708;2;1;0;1;0;0;1;5;1;3;120;0,1171875;8,533333333;Não Contem Issue;386,8571429;1;0;0;Shell
+454;jmettraux;ruote-rest;jmettrauxruote-rest;John Mettraux;Sat Apr 12 23:09:48 BRT 2008;2708;2;6;1;5;0;0;275;267;3;20;652;0,63671875;9,423312883;Contem Issue;386,8571429;1;2228;371;Ruby
+455;tra;spawnling;traspawnling;Tom Anderson;Sun Apr 13 01:21:58 BRT 2008;2708;38;52;5;47;0;0;9;3;90;330;545;0,532226563;97,70275229;Contem Issue;386,8571429;41;18809;362;Ruby
+456;jashkenas;ruby-processing;jashkenasruby-processing;Jeremy Ashkenas;Sun Apr 13 11:39:59 BRT 2008;2708;29;124;1;123;0;0;8184;0;92;1153;122996;120,1132813;1,032358776;Contem Issue;386,8571429;53;12082;97;Ruby
+457;rpheath;navigation_helper;rpheathnavigation_helper;Ryan Heath;Sun Apr 13 12:44:22 BRT 2008;2708;4;3;1;2;0;0;29;3;18;108;164;0,16015625;18,73170732;Não Contem Issue;386,8571429;3;2955;985;Ruby
+458;mattfoster;gnuplot-tmbundle;mattfostergnuplot-tmbundle;Matt Foster;Sun Apr 13 14:46:06 BRT 2008;2708;7;1;0;1;0;0;20;1;10;14;416;0,40625;2,461538462;Não Contem Issue;386,8571429;1;0;0;Ruby
+459;llimllib;pymag-trees;llimllibpymag-trees;Bill Mill;Sun Apr 13 21:18:13 BRT 2008;2707;3;2;0;2;0;0;134;113;6;35;383;0,374023438;5,347258486;Não Contem Issue;386,7142857;2;1;1;Python
+460;pat;thinking-sphinx;patthinking-sphinx;Pat Allan;Sun Apr 13 22:28:12 BRT 2008;2707;39;949;26;923;0;31;336;13;448;1438;8435;8,237304688;115,2075874;Contem Issue;386,7142857;468;37420;39;Ruby
+461;rubiety;jazz_model;rubietyjazz_model;Ben Hughes;Sun Apr 13 23:28:45 BRT 2008;2707;1;3;0;3;0;0;91;30;17;162;971;0,948242188;3,163748713;Não Contem Issue;386,7142857;2;1;0;Ruby
+462;salvator;rc;salvatorrc;null;Mon Apr 14 05:40:37 BRT 2008;2707;2;2;2;0;0;0;1;0;1;3;139;0,135742188;14,73381295;Não Contem Issue;386,7142857;1;50;25;VimL
+463;phpwax;wildfire;phpwaxwildfire;PHP-Wax;Mon Apr 14 07:00:30 BRT 2008;2707;24;157;5;152;0;0;30;0;1;13;15551;15,18652344;10,3381133;Contem Issue;386,7142857;7;97161;619;PHP
+464;thoughtbot;shoulda;thoughtbotshoulda;thoughtbot, inc.;Mon Apr 14 10:27:26 BRT 2008;2707;59;257;10;247;0;47;0;0;185;1829;1998;1,951171875;131,7157157;Contem Issue;386,7142857;164;80234;312;Ruby
+465;steppicrew;rabak;steppicrewrabak;steppicrew;Mon Apr 14 11:02:31 BRT 2008;2707;13;9;7;2;0;0;1;0;0;4;1837;1,793945313;5,01687534;Contem Issue;386,7142857;2;10524;1169;Perl
+466;cardmagic;shipping;cardmagicshipping;Lucas Carlson;Mon Apr 14 16:17:55 BRT 2008;2707;9;3;3;0;0;0;138;9;21;45;184;0,1796875;16,69565217;Não Contem Issue;386,7142857;3;4152;1384;Ruby
+467;jnicklas;feed_me;jnicklasfeed_me;Jonas Nicklas;Mon Apr 14 18:33:55 BRT 2008;2706;4;2;0;2;0;0;658;7;5;42;225;0,219726563;9,102222222;Não Contem Issue;386,5714286;2;6;3;Ruby
+468;thepatrick;cheetahwatch;thepatrickcheetahwatch;Patrick Quinn-Graham;Mon Apr 14 20:05:20 BRT 2008;2706;9;8;1;7;0;0;21;6;20;41;2644;2,58203125;3,098335855;Contem Issue;386,5714286;4;1382;173;Objective-C
+469;medwards;free-library-on-rails;medwardsfree-library-on-rails;Michael Edwards;Mon Apr 14 21:01:45 BRT 2008;2706;7;33;7;26;0;0;11;1;5;10;1645;1,606445313;20,54224924;Contem Issue;386,5714286;4;3665;111;Ruby
+470;pat;riddle;patriddle;Pat Allan;Mon Apr 14 21:46:41 BRT 2008;2706;38;94;1;93;0;0;336;13;62;136;2995;2,924804688;32,13889816;Contem Issue;386,5714286;62;3756;40;PHP
+471;flogic;object_daddy;flogicobject_daddy;Flawed Logic (a wholly pwning ubersidiary of OGC);Mon Apr 14 23:56:52 BRT 2008;2706;8;5;2;3;0;0;0;0;19;113;2444;2,38671875;2,09492635;Contem Issue;386,5714286;4;4374;875;Ruby
+472;tenderlove;icanhasaudio;tenderloveicanhasaudio;Aaron Patterson;Tue Apr 15 02:46:53 BRT 2008;2706;4;2;1;1;0;0;4468;19;7;20;301;0,293945313;6,803986711;Não Contem Issue;386,5714286;2;1669;835;C
+473;flogic;nihilist_bot;flogicnihilist_bot;Flawed Logic (a wholly pwning ubersidiary of OGC);Tue Apr 15 03:21:44 BRT 2008;2706;5;2;1;1;0;0;0;0;5;8;420;0,41015625;4,876190476;Não Contem Issue;386,5714286;2;1658;829;Ruby
+474;joshuar;ephemeral-gentoo-overlay;joshuarephemeral-gentoo-overlay;Joshua Rich;Tue Apr 15 07:55:30 BRT 2008;2706;4;4;1;3;0;0;4;4;1;6;1824;1,78125;2,245614035;Contem Issue;386,5714286;3;679;170;Emacs Lisp
+475;rock-core;autobuild;rock-coreautobuild;The Robot Construction Kit - Core Infrastructure;Tue Apr 15 08:58:38 BRT 2008;2706;12;24;2;22;0;0;0;0;6;7;1860;1,81640625;13,21290323;Contem Issue;386,5714286;7;949;40;Ruby
+476;xforty;flat_filer;xfortyflat_filer;xforty technologies;Tue Apr 15 13:23:57 BRT 2008;2706;4;1;0;1;0;0;0;0;3;6;292;0,28515625;3,506849315;Não Contem Issue;386,5714286;1;0;0;Ruby
+477;evocateur;wp-facebox;evocateurwp-facebox;Daniel Stockman;Tue Apr 15 21:24:58 BRT 2008;2705;3;1;1;0;0;0;28;34;0;3;112;0,109375;9,142857143;Não Contem Issue;386,4285714;1;1617;1617;JavaScript
+478;mynyml;attachment_fu_fixtures;mynymlattachment_fu_fixtures;Martin;Tue Apr 15 23:19:22 BRT 2008;2705;4;1;1;0;0;0;135;71;1;16;108;0,10546875;9,481481481;Não Contem Issue;386,4285714;1;2335;2335;Ruby
+479;sroccaserra;emacs;sroccaserraemacs;sroccaserra;Wed Apr 16 04:45:47 BRT 2008;2705;3;3;0;3;0;0;6;11;2;9;191;0,186523438;16,08376963;Não Contem Issue;386,4285714;3;3;1;Emacs Lisp
+480;assaf;labnotes;assaflabnotes;Assaf Arkin;Wed Apr 16 04:58:17 BRT 2008;2705;2;1;0;1;0;0;322;58;0;7;2372;2,31640625;0,431703204;Não Contem Issue;386,4285714;1;15;15;Ruby
+481;Empact;amazon-associates;Empactamazon-associates;Ben Woosley;Wed Apr 16 05:19:00 BRT 2008;2705;3;1;1;0;0;0;83;53;1;10;331;0,323242188;3,093655589;Não Contem Issue;386,4285714;1;1162;1162;Ruby
+482;drnic;copy-as-rtf-tmbundle;drniccopy-as-rtf-tmbundle;Dr Nic Williams;Wed Apr 16 08:55:55 BRT 2008;2705;2;4;2;2;0;0;1448;13;8;208;113;0,110351563;36,24778761;Contem Issue;386,4285714;4;3464;866;Ruby
+483;markbates;gemstub;markbatesgemstub;Mark Bates;Wed Apr 16 12:01:19 BRT 2008;2705;5;1;0;1;0;0;220;0;1;5;179;0,174804688;5,720670391;Não Contem Issue;386,4285714;1;0;0;Ruby
+484;zargony;activerecord_symbolize;zargonyactiverecord_symbolize;Andreas Neuhaus;Wed Apr 16 12:11:43 BRT 2008;2705;3;1;0;1;0;0;11;6;41;35;145;0,141601563;7,062068966;Não Contem Issue;386,4285714;1;0;0;Ruby
+485;nfirvine;pymanymouse;nfirvinepymanymouse;Nick Irvine;Wed Apr 16 12:39:16 BRT 2008;2705;3;1;1;0;0;0;4;1;0;2;120;0,1171875;8,533333333;Não Contem Issue;386,4285714;1;183;183;Python
+486;fiveruns;data_fabric;fiverunsdata_fabric;FiveRuns Development Team;Wed Apr 16 14:14:47 BRT 2008;2705;3;2;2;0;0;0;67;0;45;211;260;0,25390625;7,876923077;Não Contem Issue;386,4285714;2;2951;1476;Ruby
+487;cucumber;cucumber-ruby;cucumbercucumber-ruby;Cucumber;Thu Apr 17 15:19:13 BRT 2008;2704;365;913;36;877;0;0;0;0;1052;4889;26758;26,13085938;34,9395321;Contem Issue;386,2857143;419;100010;110;Ruby
+488;typus;typus;typustypus;null;Thu Apr 17 19:59:41 BRT 2008;2703;100;506;51;455;0;0;0;0;228;1033;13351;13,03808594;38,80937757;Contem Issue;386,1428571;167;78757;156;Ruby
+489;abedra;mpi-ruby;abedrampi-ruby;Aaron Bedra;Thu Apr 17 22:27:45 BRT 2008;2703;3;4;2;2;0;0;229;1;6;32;378;0,369140625;10,83597884;Contem Issue;386,1428571;4;2823;706;Shell
+490;rpheath;input_css;rpheathinput_css;Ryan Heath;Fri Apr 18 00:37:12 BRT 2008;2703;1;1;0;1;0;0;29;3;3;42;168;0,1640625;6,095238095;Não Contem Issue;386,1428571;1;1003;1003;Ruby
+491;mde;fleegix-js-javascript-toolkit;mdefleegix-js-javascript-toolkit;Matthew Eernisse;Fri Apr 18 01:12:41 BRT 2008;2703;5;1;1;0;0;0;377;10;2;15;1196;1,16796875;0,856187291;Não Contem Issue;386,1428571;1;1743;1743;JavaScript
+492;rmm5t;insert-time.el;rmm5tinsert-time.el;Ryan McGeary;Fri Apr 18 01:58:20 BRT 2008;2703;2;1;0;1;0;0;230;35;2;4;111;0,108398438;9,225225225;Não Contem Issue;386,1428571;1;196;196;Emacs Lisp
+493;rmm5t;maxframe.el;rmm5tmaxframe.el;Ryan McGeary;Fri Apr 18 02:08:40 BRT 2008;2703;8;9;0;9;0;0;230;35;21;40;274;0,267578125;33,6350365;Contem Issue;386,1428571;7;1088;121;Emacs Lisp
+494;TekNoLogic;mountme;TekNoLogicmountme;Tekkub's WoW addons;Fri Apr 18 03:25:36 BRT 2008;2703;1;1;0;1;0;0;0;0;0;2;160;0,15625;6,4;Não Contem Issue;386,1428571;1;4;4;Lua
+495;PeterBengtson;json-rpc-1-1;PeterBengtsonjson-rpc-1-1;Peter Bengtson;Fri Apr 18 05:07:56 BRT 2008;2703;4;4;0;4;0;0;3;3;14;54;236;0,23046875;17,3559322;Contem Issue;386,1428571;4;642;161;Ruby
+496;norman;friendly_id;normanfriendly_id;Norman Clarke;Fri Apr 18 10:16:06 BRT 2008;2703;128;698;19;679;0;0;204;32;407;3661;6168;6,0234375;115,8806744;Contem Issue;386,1428571;420;22447;32;Ruby
+497;ELLIOTTCABLE;git-blog;ELLIOTTCABLEgit-blog;null;Fri Apr 18 10:19:53 BRT 2008;2703;4;5;0;5;0;0;275;683;12;105;250;0,244140625;20,48;Contem Issue;386,1428571;3;108;22;Ruby
+498;sparklemotion;mechanize;sparklemotionmechanize;Sparkle Motion;Fri Apr 18 13:55:10 BRT 2008;2703;99;442;23;419;0;0;0;0;333;2665;4686;4,576171875;96,58728126;Contem Issue;386,1428571;250;32531;74;Ruby
+499;TekNoLogic;Buffet;TekNoLogicBuffet;Tekkub's WoW addons;Fri Apr 18 17:01:36 BRT 2008;2702;7;25;0;25;0;0;0;0;11;13;517;0,504882813;49,51644101;Contem Issue;386;9;675;27;Lua
+500;lazyatom;engines;lazyatomengines;James Adam;Fri Apr 18 17:56:06 BRT 2008;2702;18;1;0;1;0;0;126;17;27;177;695;0,678710938;1,473381295;Não Contem Issue;386;1;0;0;Ruby
+501;TekNoLogic;StealYourCarbon;TekNoLogicStealYourCarbon;Tekkub's WoW addons;Fri Apr 18 18:22:58 BRT 2008;2702;5;13;1;12;0;0;0;0;5;13;248;0,2421875;53,67741935;Contem Issue;386;2;1286;99;Lua
+502;schacon;grit;schacongrit;Scott Chacon;Fri Apr 18 20:14:24 BRT 2008;2702;26;1;1;0;0;0;10415;21;46;149;2796;2,73046875;0,366237482;Não Contem Issue;386;1;170;170;Ruby
+503;paltman;pyvimeo;paltmanpyvimeo;Patrick Altman;Sat Apr 19 01:55:21 BRT 2008;2702;1;1;0;1;0;0;188;69;2;17;97;0,094726563;10,55670103;Não Contem Issue;386;1;0;0;Python
+504;draganbabic;uni-form;draganbabicuni-form;Dragan Babi?;Sat Apr 19 05:57:38 BRT 2008;2702;16;21;3;18;0;0;17;3;67;467;1279;1,249023438;16,81313526;Contem Issue;386;13;2752;131;JavaScript
+505;Empact;validates_email_veracity_of;Empactvalidates_email_veracity_of;Ben Woosley;Sat Apr 19 06:52:47 BRT 2008;2702;4;1;0;1;0;0;83;53;5;52;1733;1,692382813;0,590882862;Não Contem Issue;386;1;13;13;Ruby
+506;deepakjois;gchartrb;deepakjoisgchartrb;Deepak Jois;Sat Apr 19 09:03:38 BRT 2008;2702;6;2;1;1;0;0;44;7;20;110;199;0,194335938;10,29145729;Não Contem Issue;386;2;2050;1025;Ruby
+507;rsim;ruby-plsql;rsimruby-plsql;Raimonds Simanovskis;Sat Apr 19 11:49:12 BRT 2008;2702;18;89;14;75;0;3;107;0;38;95;1116;1,08984375;81,66308244;Contem Issue;386;21;22680;255;Ruby
+508;kjk;tinypy-kjk;kjktinypy-kjk;Krzysztof Kowalczyk;Sat Apr 19 17:32:58 BRT 2008;2701;5;1;0;1;0;0;183;10;2;17;169;0,165039063;6,059171598;Não Contem Issue;385,8571429;1;0;0;Python
+509;infused;retrospect-gds;infusedretrospect-gds;Keith Morrison;Sat Apr 19 18:49:29 BRT 2008;2701;5;2;0;2;0;0;12;4;2;6;7954;7,767578125;0,257480513;Não Contem Issue;385,8571429;1;0;0;PHP
+510;rmcafee;amazon-web-service-manager;rmcafeeamazon-web-service-manager;Rahsun McAfee;Sat Apr 19 19:46:57 BRT 2008;2701;1;1;1;0;0;0;14;10;0;1;556;0,54296875;1,841726619;Não Contem Issue;385,8571429;1;162;162;Ruby
+511;halorgium;nbu2vcard;halorgiumnbu2vcard;Tim Carey-Smith;Sat Apr 19 22:37:06 BRT 2008;2701;1;1;0;1;0;0;140;6;1;4;85;0,083007813;12,04705882;Não Contem Issue;385,8571429;1;671;671;Ruby
+512;TekNoLogic;teksLoot;TekNoLogicteksLoot;Tekkub's WoW addons;Sat Apr 19 23:23:33 BRT 2008;2701;5;22;0;22;0;0;0;0;6;18;229;0,223632813;98,37554585;Contem Issue;385,8571429;6;2013;92;Lua
+513;santana;ruby-informix;santanaruby-informix;Gerardo Santana;Sun Apr 20 00:16:01 BRT 2008;2701;3;1;0;1;0;0;7;0;9;11;376;0,3671875;2,723404255;Não Contem Issue;385,8571429;1;76;76;Ruby
+514;bruce;rtex;brucertex;Bruce Williams;Sun Apr 20 01:09:19 BRT 2008;2701;3;3;2;1;0;0;118;15;25;58;1813;1,770507813;1,694429123;Não Contem Issue;385,8571429;3;3037;1012;Ruby
+515;planetbeing;libdmg-hfsplus;planetbeinglibdmg-hfsplus;null;Sun Apr 20 11:16:43 BRT 2008;2701;5;11;7;4;0;0;536;5;29;60;32496;31,734375;0,346627277;Contem Issue;385,8571429;5;11065;1006;C
+516;mhl;cryptic-crossword-indicators-and-abbreviations;mhlcryptic-crossword-indicators-and-abbreviations;Mark Longair;Sun Apr 20 11:56:27 BRT 2008;2701;4;1;0;1;0;0;50;0;2;9;232;0,2265625;4,413793103;Não Contem Issue;385,8571429;1;19;19;null
+517;hadley;profr;hadleyprofr;Hadley Wickham;Sun Apr 20 12:18:36 BRT 2008;2701;2;13;7;6;0;0;4433;7;5;25;392;0,3828125;33,95918367;Contem Issue;385,8571429;7;8302;639;R
+518;jasonroelofs;rbgccxml;jasonroelofsrbgccxml;Jason Roelofs;Sun Apr 20 18:38:00 BRT 2008;2700;7;15;0;15;0;1;50;13;6;28;583;0,569335938;26,3464837;Contem Issue;385,7142857;9;4780;319;Ruby
+519;jasonroelofs;rbplusplus;jasonroelofsrbplusplus;Jason Roelofs;Sun Apr 20 18:39:26 BRT 2008;2700;6;20;0;20;0;3;50;13;4;51;1151;1,124023438;17,79322328;Contem Issue;385,7142857;9;12076;604;Ruby
+520;sparklemotion;csspool;sparklemotioncsspool;Sparkle Motion;Sun Apr 20 20:02:02 BRT 2008;2700;8;66;4;62;0;3;0;0;12;65;1094;1,068359375;61,77696527;Contem Issue;385,7142857;12;15375;233;Ruby
+521;tapajos;brazilian-rails;tapajosbrazilian-rails;Marcos Tapajós;Sun Apr 20 20:20:20 BRT 2008;2700;49;77;8;69;0;0;550;6;99;297;1633;1,594726563;48,28413962;Contem Issue;385,7142857;56;13085;170;Ruby
+522;joshfrench;rakismet;joshfrenchrakismet;Josh French;Sun Apr 20 21:09:57 BRT 2008;2700;16;39;6;33;0;0;34;7;39;317;578;0,564453125;69,09342561;Contem Issue;385,7142857;29;4851;124;Ruby
+523;stephencelis;timeframe;stephencelistimeframe;Stephen Celis;Sun Apr 20 23:58:58 BRT 2008;2700;4;8;1;7;0;0;212;35;59;290;230;0,224609375;35,6173913;Contem Issue;385,7142857;7;1919;240;JavaScript
+524;xenoterracide;dot_usr;xenoterracidedot_usr;Caleb Cushing;Mon Apr 21 03:43:30 BRT 2008;2700;1;1;0;1;0;0;20;1;0;2;612;0,59765625;1,673202614;Não Contem Issue;385,7142857;1;0;0;VimL
+525;twitter;kestrel;twitterkestrel;Twitter, Inc.;Mon Apr 21 04:19:21 BRT 2008;2700;39;148;37;111;0;0;0;0;289;2663;249382;243,5371094;0,60771026;Contem Issue;385,7142857;71;40518;274;Scala
+526;mojodna;oauth-proxy;mojodnaoauth-proxy;Seth Fitzsimmons;Mon Apr 21 06:35:01 BRT 2008;2700;4;5;1;4;0;0;251;115;10;114;162;0,158203125;31,60493827;Contem Issue;385,7142857;5;2406;481;Python
+527;ayb;chuckslist;aybchuckslist;Alex B.;Mon Apr 21 12:41:11 BRT 2008;2700;2;2;2;0;0;0;7;2;21;71;2221;2,168945313;0,922107159;Não Contem Issue;385,7142857;2;2370;1185;Ruby
+528;breakpointer;ajax-rdoc;breakpointerajax-rdoc;Brian Chamberlain;Mon Apr 21 12:53:34 BRT 2008;2700;4;1;1;0;0;0;71;16;2;55;164;0,16015625;6,243902439;Não Contem Issue;385,7142857;1;1416;1416;Ruby
+529;pengwynn;ujs_sort_helper;pengwynnujs_sort_helper;Wynn Netherland;Mon Apr 21 12:55:02 BRT 2008;2700;3;2;1;1;0;0;880;343;10;11;116;0,11328125;17,65517241;Não Contem Issue;385,7142857;2;2247;1124;JavaScript
+530;grigio;xmp-manager;grigioxmp-manager;Luigi Maselli;Mon Apr 21 13:00:40 BRT 2008;2700;5;1;0;1;0;0;79;241;3;6;718;0,701171875;1,426183844;Não Contem Issue;385,7142857;1;18;18;Ruby
+531;mootools;mootools-core;mootoolsmootools-core;MooTools;Mon Apr 21 13:58:56 BRT 2008;2700;98;824;60;764;7;100;0;0;417;2184;13201;12,89160156;63,917582;Contem Issue;385,7142857;227;104670;127;JavaScript
+532;Shopify;active_shipping;Shopifyactive_shipping;Shopify;Mon Apr 21 15:13:39 BRT 2008;2700;105;313;29;284;4;4;0;0;322;591;6306;6,158203125;50,82651443;Contem Issue;385,7142857;145;33987;109;Ruby
+533;Shopify;cacheable;Shopifycacheable;Shopify;Mon Apr 21 15:25:42 BRT 2008;2700;14;20;5;15;0;0;0;0;8;50;444;0,43359375;46,12612613;Contem Issue;385,7142857;15;2314;116;Ruby
+534;jgarber;redcloth;jgarberredcloth;Jason Garber;Mon Apr 21 17:50:37 BRT 2008;2699;30;20;5;15;0;0;44;3;79;414;2188;2,13671875;9,360146252;Contem Issue;385,5714286;17;4599;230;Ragel in Ruby Host
+535;britt;github-java;brittgithub-java;Britt Crawford;Mon Apr 21 19:57:11 BRT 2008;2699;1;1;0;1;0;0;14;5;0;11;127;0,124023438;8,062992126;Não Contem Issue;385,5714286;1;0;0;Java
+536;jmettraux;ruote-fluo;jmettrauxruote-fluo;John Mettraux;Mon Apr 21 19:57:26 BRT 2008;2699;3;7;0;7;0;2;275;267;5;26;708;0,69140625;10,12429379;Contem Issue;385,5714286;4;1685;241;JavaScript
+537;krobertson;dm-paperclip;krobertsondm-paperclip;Ken Robertson;Mon Apr 21 21:47:07 BRT 2008;2699;22;34;5;29;0;0;53;6;50;102;494;0,482421875;70,47773279;Contem Issue;385,5714286;25;15708;462;Ruby
+538;keita;ruby-iso4217;keitaruby-iso4217;Keita Yamaguchi;Mon Apr 21 23:36:53 BRT 2008;2699;1;1;1;0;0;0;50;9;3;5;90;0,087890625;11,37777778;Não Contem Issue;385,5714286;1;230;230;Ruby
+539;yob;prawn;yobprawn;James Healy;Tue Apr 22 04:49:54 BRT 2008;2699;96;1;1;0;0;0;94;69;4;10;28847;28,17089844;0,035497625;Não Contem Issue;385,5714286;1;681;681;Ruby
+540;speedmax;h2o-php;speedmaxh2o-php;Taylor luk;Tue Apr 22 12:08:19 BRT 2008;2699;19;81;47;34;0;0;41;43;57;285;3814;3,724609375;21,74724698;Contem Issue;385,5714286;37;64891;801;PHP
+541;bickfordb;haskell-taglib;bickfordbhaskell-taglib;Brandon Bickford;Tue Apr 22 13:34:10 BRT 2008;2699;1;2;2;0;0;0;32;32;2;5;98;0,095703125;20,89795918;Não Contem Issue;385,5714286;2;1795;898;Haskell
+542;vitaly;lazyeval;vitalylazyeval;Vitaly Kushner;Tue Apr 22 19:02:13 BRT 2008;2698;3;2;1;1;0;0;21;1;3;7;208;0,203125;9,846153846;Não Contem Issue;385,4285714;2;1380;690;CSS
+543;xjunior;milx;xjuniormilx;Carlos Júnior;Tue Apr 22 20:40:57 BRT 2008;2698;11;1;0;1;0;0;21;10;1;5;871;0,850585938;1,175660161;Não Contem Issue;385,4285714;1;111;111;C++
+544;wfarr;rcirc-notify-el;wfarrrcirc-notify-el;Will Farrington;Wed Apr 23 03:04:14 BRT 2008;2698;3;1;0;1;0;0;249;33;4;5;119;0,116210938;8,605042017;Não Contem Issue;385,4285714;1;135;135;Emacs Lisp
+545;alsemyonov;annotate_models;alsemyonovannotate_models;Alexander Semyonov;Wed Apr 23 07:43:15 BRT 2008;2698;10;1;1;0;0;0;47;146;17;54;148;0,14453125;6,918918919;Não Contem Issue;385,4285714;1;1685;1685;Ruby
+546;herrtreas;rspactor;herrtreasrspactor;Andreas Wolff;Wed Apr 23 09:24:42 BRT 2008;2698;8;4;0;4;0;0;37;11;15;71;42645;41,64550781;0,096048775;Contem Issue;385,4285714;4;1228;307;Ruby
+547;jmazzi;dns-control;jmazzidns-control;Justin Mazzi;Wed Apr 23 10:50:35 BRT 2008;2698;1;1;1;0;0;0;69;49;15;38;1202;1,173828125;0,851913478;Não Contem Issue;385,4285714;1;823;823;PHP
+548;dsabanin;models-to-sql-rails-plugin;dsabaninmodels-to-sql-rails-plugin;Dima Sabanin;Wed Apr 23 21:41:40 BRT 2008;2697;2;1;1;0;0;0;27;24;2;8;87;0,084960938;11,77011494;Não Contem Issue;385,2857143;1;1494;1494;Ruby
+549;felipec;msn-pecan;felipecmsn-pecan;Felipe Contreras;Thu Apr 24 09:36:15 BRT 2008;2697;38;1;0;1;0;0;105;20;7;36;2149;2,098632813;0,476500698;Não Contem Issue;385,2857143;1;26;26;C
+550;jasonroelofs;gccxml_gem;jasonroelofsgccxml_gem;Jason Roelofs;Thu Apr 24 13:17:06 BRT 2008;2697;2;3;0;3;0;0;50;13;3;10;99996;97,65234375;0,030721229;Não Contem Issue;385,2857143;3;1085;362;C
+551;netphase;aaap;netphaseaaap;Netphase.com;Thu Apr 24 14:52:50 BRT 2008;2697;7;2;1;1;0;0;4;3;5;33;144;0,140625;14,22222222;Não Contem Issue;385,2857143;2;2446;1223;Ruby
+552;amikula;promotego-org;amikulapromotego-org;Alf Mikula;Fri Apr 25 00:53:28 BRT 2008;2696;10;4;4;0;0;0;38;29;6;15;4048;3,953125;1,011857708;Contem Issue;385,1428571;1;9280;2320;Ruby
+553;svenax;bagpipemusic;svenaxbagpipemusic;Sven Axelsson;Fri Apr 25 08:37:48 BRT 2008;2696;3;2;0;2;0;0;10;1;4;17;606;0,591796875;3,379537954;Não Contem Issue;385,1428571;2;142;71;LilyPond
+554;jkramer;shell-fm;jkramershell-fm;Jonas Kramer;Fri Apr 25 10:10:55 BRT 2008;2696;41;89;27;62;0;0;42;13;37;218;2111;2,061523438;43,17195642;Contem Issue;385,1428571;46;42741;480;C
+555;pezra;rspec-mode;pezrarspec-mode;Peter Williams;Fri Apr 25 12:06:43 BRT 2008;2696;37;128;6;122;0;0;31;1;74;153;820;0,80078125;159,8439024;Contem Issue;385,1428571;60;14281;112;Emacs Lisp
+556;mattb;identity-matcher;mattbidentity-matcher;Matt Biddulph;Fri Apr 25 13:13:49 BRT 2008;2696;5;1;1;0;0;0;266;153;2;69;113;0,110351563;9,061946903;Não Contem Issue;385,1428571;1;1416;1416;Ruby
+557;ianwhite;garlic;ianwhitegarlic;Ian White;Fri Apr 25 14:01:00 BRT 2008;2696;2;1;1;0;0;0;79;9;2;37;189;0,184570313;5,417989418;Não Contem Issue;385,1428571;1;1813;1813;Ruby
+558;brosner;bosnobot;brosnerbosnobot;Brian Rosner;Fri Apr 25 14:24:04 BRT 2008;2696;2;4;3;1;0;0;572;109;26;54;195;0,190429688;21,00512821;Contem Issue;385,1428571;3;3616;904;Python
+559;kballard;osx-plist;kballardosx-plist;Kevin Ballard;Fri Apr 25 14:40:55 BRT 2008;2696;4;1;0;1;0;0;280;17;4;25;132;0,12890625;7,757575758;Não Contem Issue;385,1428571;1;38;38;Ruby
+560;hadley;crantastic;hadleycrantastic;Hadley Wickham;Fri Apr 25 14:57:07 BRT 2008;2696;5;54;12;42;1;1;4433;7;9;32;6563;6,409179688;8,425415206;Contem Issue;385,1428571;4;25296;468;Ruby
+561;defunkt;choice;defunktchoice;Chris Wanstrath;Fri Apr 25 15:30:30 BRT 2008;2696;5;15;0;15;0;0;14633;208;20;164;446;0,435546875;34,43946188;Contem Issue;385,1428571;9;808;54;Ruby
+562;tominsam;shelf-python;tominsamshelf-python;Tom Insam;Fri Apr 25 15:48:25 BRT 2008;2696;6;2;0;2;0;0;91;5;3;20;1449;1,415039063;1,413388544;Não Contem Issue;385,1428571;2;3;2;Python
+563;rakuto;jrails_in_place_editing;rakutojrails_in_place_editing;Rakuto Furutani;Sat Apr 26 01:12:08 BRT 2008;2695;1;2;2;0;0;0;11;1;20;77;78;0,076171875;26,25641026;Não Contem Issue;385;2;3772;1886;Ruby
+564;hank;life;hanklife;null;Sat Apr 26 01:20:32 BRT 2008;2695;16;2;0;2;0;0;30;6;7;10;5149;5,028320313;0,397747135;Não Contem Issue;385;2;9;5;PHP
+565;drnic;github-badges;drnicgithub-badges;Dr Nic Williams;Sat Apr 26 01:22:38 BRT 2008;2695;4;7;6;1;0;0;1448;13;22;106;278;0,271484375;25,78417266;Contem Issue;385;7;9940;1420;JavaScript
+566;nesquena;cap-recipes;nesquenacap-recipes;Nathan Esquenazi;Sat Apr 26 10:01:03 BRT 2008;2695;6;9;4;5;0;0;476;85;30;381;600;0,5859375;15,36;Contem Issue;385;7;5270;586;Ruby
+567;TekNoLogic;Panda;TekNoLogicPanda;Tekkub's WoW addons;Sat Apr 26 16:01:55 BRT 2008;2695;11;76;3;73;0;0;0;0;16;27;944;0,921875;82,44067797;Contem Issue;385;15;4537;60;Lua
+568;jezdez-archive;limechat-whisper;jezdez-archivelimechat-whisper;jezdez archive;Sat Apr 26 17:25:42 BRT 2008;2694;2;1;0;1;0;0;0;0;9;8;438;0,427734375;2,337899543;Não Contem Issue;384,8571429;1;0;0;null
+569;igorgue;git-sharp;igorguegit-sharp;Igor Guerrero;Sat Apr 26 20:12:35 BRT 2008;2694;6;1;0;1;0;0;71;296;3;12;476;0,46484375;2,151260504;Não Contem Issue;384,8571429;1;0;0;C#
+570;mattetti;googlecharts;mattettigooglecharts;Matt Aimonetti;Sun Apr 27 00:36:44 BRT 2008;2694;33;77;26;51;0;0;705;6;107;679;474;0,462890625;166,3459916;Contem Issue;384,8571429;57;41325;537;Ruby
+571;TekNoLogic;Engravings;TekNoLogicEngravings;Tekkub's WoW addons;Sun Apr 27 01:09:48 BRT 2008;2694;1;10;1;9;0;0;0;0;2;9;9809;9,579101563;1,043939239;Contem Issue;384,8571429;5;791;79;Lua
+572;masatomo;nnn;masatomonnn;Masatomo Nakano;Sun Apr 27 01:37:12 BRT 2008;2694;1;2;0;2;0;0;12;0;0;1;76;0,07421875;26,94736842;Não Contem Issue;384,8571429;1;403;202;Python
+573;beppu;squatting;beppusquatting;John Beppu;Sun Apr 27 01:57:18 BRT 2008;2694;6;4;3;1;0;0;92;206;4;32;1911;1,866210938;2,143380429;Contem Issue;384,8571429;3;5813;1453;Perl
+574;motemen;git-vim;motemengit-vim;Hiroshi SHIBAMURA;Sun Apr 27 04:23:09 BRT 2008;2694;9;27;20;7;0;0;299;137;80;590;146;0,142578125;189,369863;Contem Issue;384,8571429;21;39970;1480;VimL
+575;tim;erlang-beanstalk;timerlang-beanstalk;Tim Fletcher;Sun Apr 27 06:12:25 BRT 2008;2694;4;2;1;1;0;0;77;65;13;26;163;0,159179688;12,56441718;Não Contem Issue;384,8571429;2;912;456;Erlang
+576;thinkerbot;tap;thinkerbottap;Simon Chiang;Sun Apr 27 15:39:38 BRT 2008;2694;9;18;11;7;0;0;13;0;0;19;5192;5,0703125;3,550077042;Contem Issue;384,8571429;2;23372;1298;Ruby
+577;motemen;jusk;motemenjusk;Hiroshi SHIBAMURA;Sun Apr 27 18:29:14 BRT 2008;2693;3;1;0;1;0;0;299;137;0;7;313;0,305664063;3,271565495;Não Contem Issue;384,7142857;1;6;6;Haskell
+578;dustin;memcached;dustinmemcached;Dustin Sallings;Sun Apr 27 20:39:11 BRT 2008;2693;87;1;0;1;0;0;688;19;2;123;9569;9,344726563;0,107012227;Não Contem Issue;384,7142857;1;0;0;C
+579;jmckible;version_fu;jmckibleversion_fu;Jordan McKible;Sun Apr 27 23:12:51 BRT 2008;2693;10;11;2;9;0;0;6;0;19;112;1129;1,102539063;9,976970771;Contem Issue;384,7142857;11;5973;543;Ruby
+580;dan-manges;unit-record;dan-mangesunit-record;Dan Manges;Sun Apr 27 23:48:04 BRT 2008;2693;4;4;3;1;0;0;75;40;5;107;403;0,393554688;10,16377171;Contem Issue;384,7142857;4;5458;1365;Ruby
+581;jedbrown;spectral-petsc;jedbrownspectral-petsc;Jed Brown;Mon Apr 28 05:48:20 BRT 2008;2693;3;1;1;0;0;0;63;0;4;2;223;0,217773438;4,591928251;Não Contem Issue;384,7142857;1;133;133;C++
+582;gaubert;java-balivernes;gaubertjava-balivernes;Guillaume Aubert;Mon Apr 28 11:25:19 BRT 2008;2693;6;1;0;1;0;0;25;16;1;2;10241;10,00097656;0,099990235;Não Contem Issue;384,7142857;1;0;0;Python
+583;thinkerbot;hansen_lab;thinkerbothansen_lab;Simon Chiang;Mon Apr 28 14:21:30 BRT 2008;2693;5;1;1;0;0;0;13;0;0;1;176;0,171875;5,818181818;Não Contem Issue;384,7142857;1;2293;2293;Ruby
+584;TwP;webby;TwPwebby;Tim Pease;Mon Apr 28 17:19:44 BRT 2008;2692;14;10;7;3;0;0;166;8;53;277;1389;1,356445313;7,372210223;Contem Issue;384,5714286;7;10558;1056;Ruby
+585;ianwhite;nested_has_many_through;ianwhitenested_has_many_through;Ian White;Mon Apr 28 18:17:24 BRT 2008;2692;1;6;5;1;0;0;79;9;24;140;326;0,318359375;18,84662577;Contem Issue;384,5714286;6;10069;1678;Ruby
+586;viking;r-yaml;vikingr-yaml;Jeremy Stephens;Mon Apr 28 18:52:03 BRT 2008;2692;2;24;9;15;0;0;19;8;2;19;615;0,600585938;39,96097561;Contem Issue;384,5714286;11;3687;154;C
+587;lifedraft;dhonishow;lifedraftdhonishow;Stanislav;Mon Apr 28 19:00:56 BRT 2008;2692;5;5;0;5;0;0;5;7;1;5;1057;1,032226563;4,843897824;Contem Issue;384,5714286;1;110;22;JavaScript
+588;zodttd;gameboy4iphone;zodttdgameboy4iphone;zodttd;Mon Apr 28 19:35:17 BRT 2008;2692;2;1;1;0;0;0;201;3;11;31;573;0,559570313;1,787085515;Não Contem Issue;384,5714286;1;819;819;C
+589;zodttd;snes4iphone;zodttdsnes4iphone;zodttd;Mon Apr 28 20:02:19 BRT 2008;2692;2;1;1;0;0;0;201;3;8;36;1511;1,475585938;0,677696889;Não Contem Issue;384,5714286;1;992;992;C++
+590;jomz;radiant-wym-editor-filter-extension;jomzradiant-wym-editor-filter-extension;Benny Degezelle;Mon Apr 28 20:07:15 BRT 2008;2692;7;8;1;7;0;0;38;12;10;31;1096;1,0703125;7,474452555;Contem Issue;384,5714286;5;2600;325;JavaScript
+591;pjhyett;github-services;pjhyettgithub-services;PJ Hyett;Mon Apr 28 20:41:21 BRT 2008;2692;46;3;0;3;0;0;8075;34;52;420;2256;2,203125;1,361702128;Não Contem Issue;384,5714286;3;339;113;Ruby
+592;jzting;foodfinder;jztingfoodfinder;Jason Ting;Mon Apr 28 21:17:21 BRT 2008;2692;2;2;0;2;0;0;10;9;0;1;216;0,2109375;9,481481481;Não Contem Issue;384,5714286;1;0;0;JavaScript
+593;royzhu;test;royzhutest;null;Tue Apr 29 04:12:25 BRT 2008;2692;1;1;1;0;0;0;0;0;2;2;113;0,110351563;9,061946903;Não Contem Issue;384,5714286;1;715;715;null
+594;svenfuchs;safemode;svenfuchssafemode;Sven Fuchs;Tue Apr 29 10:36:07 BRT 2008;2692;5;13;3;10;0;0;534;85;10;41;243;0,237304688;54,781893;Contem Issue;384,5714286;5;2375;183;Ruby
+595;commondream;rcov_plugin;commondreamrcov_plugin;Alan Johnson;Tue Apr 29 17:14:51 BRT 2008;2691;13;2;2;0;0;0;86;8;12;29;139;0,135742188;14,73381295;Não Contem Issue;384,4285714;2;3364;1682;Ruby
+596;douglasjarquin;ruby-haml-tmbundle;douglasjarquinruby-haml-tmbundle;Douglas Jarquin;Tue Apr 29 21:24:46 BRT 2008;2691;7;2;0;2;0;0;25;55;13;67;83;0,081054688;24,6746988;Não Contem Issue;384,4285714;2;2596;1298;null
+597;eric;sevenscale-scout-plugins;ericsevenscale-scout-plugins;Eric Lindvall;Wed Apr 30 00:11:39 BRT 2008;2691;1;1;1;0;0;0;178;43;0;5;104;0,1015625;9,846153846;Não Contem Issue;384,4285714;1;2158;2158;Ruby
+598;magnusjonsson;microtracker;magnusjonssonmicrotracker;Magnus Jonsson;Wed Apr 30 00:12:37 BRT 2008;2691;3;3;3;0;0;0;1;1;0;1;184;0,1796875;16,69565217;Não Contem Issue;384,4285714;1;5709;1903;C
+599;typester;www-favicon;typesterwww-favicon;Daisuke Murase;Wed Apr 30 00:16:44 BRT 2008;2691;1;1;1;0;0;0;411;141;1;3;92;0,08984375;11,13043478;Não Contem Issue;384,4285714;1;419;419;Perl
+600;Caged;lighthouse-api;Cagedlighthouse-api;Justin Palmer;Wed Apr 30 02:05:04 BRT 2008;2691;10;15;11;4;0;0;773;33;35;104;208;0,203125;73,84615385;Contem Issue;384,4285714;15;16289;1086;Ruby
+601;timcharper;railswhere;timcharperrailswhere;Tim Harper;Wed Apr 30 03:28:47 BRT 2008;2691;3;1;1;0;0;0;131;24;1;15;153;0,149414063;6,692810458;Não Contem Issue;384,4285714;1;2180;2180;Ruby
+602;madrobby;scripty2;madrobbyscripty2;Thomas Fuchs;Wed Apr 30 06:37:37 BRT 2008;2691;18;39;23;16;0;0;2060;14;57;521;10621;10,37207031;3,760097919;Contem Issue;384,4285714;22;41029;1052;JavaScript
+603;ianwhite;response_for;ianwhiteresponse_for;Ian White;Wed Apr 30 09:22:53 BRT 2008;2691;4;2;0;2;0;0;79;9;1;16;315;0,307617188;6,501587302;Não Contem Issue;384,4285714;1;71;36;Ruby
+604;redinger;validation_reflection;redingervalidation_reflection;Christopher;Wed Apr 30 14:27:09 BRT 2008;2691;7;13;6;7;0;0;58;7;19;314;143;0,139648438;93,09090909;Contem Issue;384,4285714;10;11497;884;Ruby
+605;lak;facter;lakfacter;Luke Kanies;Wed Apr 30 14:38:43 BRT 2008;2691;15;1;0;1;0;0;125;15;6;32;1248;1,21875;0,820512821;Não Contem Issue;384,4285714;1;0;0;Ruby
+606;arya;tm_syntax_highlighting;aryatm_syntax_highlighting;Arya Asemanfar;Wed Apr 30 17:40:25 BRT 2008;2690;1;1;0;1;0;0;106;14;4;62;116;0,11328125;8,827586207;Não Contem Issue;384,2857143;1;69;69;Ruby
+607;weavejester;compojure;weavejestercompojure;James Reeves;Wed Apr 30 21:31:39 BRT 2008;2690;38;143;4;139;1;2;629;6;187;2615;7821;7,637695313;18,72292546;Contem Issue;384,2857143;95;9957;70;Clojure
+608;juanger;rorgate;juangerrorgate;Juan Germán Castañeda Echevarría;Wed Apr 30 23:18:24 BRT 2008;2690;2;1;1;0;0;0;30;28;0;3;5440;5,3125;0,188235294;Não Contem Issue;384,2857143;1;2181;2181;Ruby
+609;TwP;bones;TwPbones;Tim Pease;Thu May 01 01:17:31 BRT 2008;2690;12;45;7;38;0;0;166;8;22;110;773;0,754882813;59,61190168;Contem Issue;384,2857143;20;6678;148;Ruby
+610;osteele;jquery-profile;osteelejquery-profile;Oliver Steele;Thu May 01 08:00:29 BRT 2008;2690;2;3;1;2;0;0;236;0;8;35;353;0,344726563;8,702549575;Não Contem Issue;384,2857143;2;1867;622;JavaScript
+611;Singletoned;wiseguy;Singletonedwiseguy;Ed Singleton;Thu May 01 10:13:14 BRT 2008;2690;1;1;1;0;0;0;16;6;2;1;1470;1,435546875;0,696598639;Não Contem Issue;384,2857143;1;607;607;Python
+612;bert;libdxf;bertlibdxf;Bert Timmerman;Thu May 01 13:58:42 BRT 2008;2690;5;26;8;18;5;4;14;28;6;19;8698;8,494140625;3,060933548;Contem Issue;384,2857143;3;14259;548;C
+613;jvoorhis;lucene_query;jvoorhislucene_query;Jeremy Voorhis;Thu May 01 15:06:34 BRT 2008;2690;4;1;1;0;0;0;65;13;6;13;92;0,08984375;11,13043478;Não Contem Issue;384,2857143;1;134;134;Ruby
+614;collectiveidea;migration_test_helper;collectiveideamigration_test_helper;Collective Idea;Thu May 01 18:05:57 BRT 2008;2689;3;7;7;0;0;0;0;0;5;4;115;0,112304688;62,33043478;Contem Issue;384,1428571;4;10147;1450;Ruby
+615;mheath;adbcj;mheathadbcj;Mike Heath;Thu May 01 21:04:03 BRT 2008;2689;5;3;1;2;0;0;17;0;21;95;1577;1,540039063;1,948002536;Não Contem Issue;384,1428571;2;1607;536;Java
+616;jamtur01;puppet_old;jamtur01puppet_old;James Turnbull;Fri May 02 00:41:15 BRT 2008;2689;152;3;0;3;0;0;487;11;3;22;20440;19,9609375;0,150293542;Não Contem Issue;384,1428571;2;6;2;Ruby
+617;mislav;hanna;mislavhanna;Mislav Marohni?;Fri May 02 02:46:56 BRT 2008;2689;5;32;20;12;1;3;1676;20;31;229;850;0,830078125;38,55058824;Contem Issue;384,1428571;21;40556;1267;Ruby
+618;jmhodges;rfeedparser;jmhodgesrfeedparser;Jeff Hodges;Fri May 02 02:54:07 BRT 2008;2689;6;2;1;1;0;0;242;33;13;59;985;0,961914063;2,079187817;Não Contem Issue;384,1428571;2;2039;1020;Ruby
+619;infused;dbf;infuseddbf;Keith Morrison;Fri May 02 03:44:06 BRT 2008;2689;28;68;5;63;0;2;12;4;49;146;1495;1,459960938;46,57658863;Contem Issue;384,1428571;39;10852;160;Ruby
+620;mallipeddi;django-pipes;mallipeddidjango-pipes;Harish Mallipeddi;Fri May 02 06:35:43 BRT 2008;2689;3;3;3;0;0;0;48;19;6;52;538;0,525390625;5,710037175;Não Contem Issue;384,1428571;2;5196;1732;Python
+621;robmckinnon;twfynz;robmckinnontwfynz;Rob McKinnon;Fri May 02 06:55:36 BRT 2008;2689;2;1;0;1;0;0;69;32;4;7;2209;2,157226563;0,463558171;Não Contem Issue;384,1428571;1;0;0;Ruby
+622;joshuamiller;flotilla;joshuamillerflotilla;Joshua Miller;Fri May 02 12:33:38 BRT 2008;2689;7;1;1;0;0;0;20;0;10;63;128;0,125;8;Não Contem Issue;384,1428571;1;1835;1835;JavaScript
+623;jrray;gotefarm;jrraygotefarm;null;Fri May 02 14:52:01 BRT 2008;2689;2;1;1;0;0;0;0;0;0;2;660;0,64453125;1,551515152;Não Contem Issue;384,1428571;1;2310;2310;Java
+624;TekNoLogic;controlfreak;TekNoLogiccontrolfreak;Tekkub's WoW addons;Fri May 02 16:58:25 BRT 2008;2688;1;3;0;3;0;0;0;0;0;9;332;0,32421875;9,253012048;Não Contem Issue;384;1;28;9;Lua
+625;jmhodges;rchardet;jmhodgesrchardet;Jeff Hodges;Fri May 02 21:21:52 BRT 2008;2688;12;27;4;23;0;0;242;33;54;105;2354;2,298828125;11,7451147;Contem Issue;384;20;5083;188;Ruby
+626;jgm;peg-markdown;jgmpeg-markdown;John MacFarlane;Fri May 02 21:26:12 BRT 2008;2688;9;34;13;21;0;0;745;0;114;447;558;0,544921875;62,39426523;Contem Issue;384;18;11265;331;C
+627;djwonk;method_trails;djwonkmethod_trails;David James;Fri May 02 23:00:08 BRT 2008;2688;2;2;2;0;0;0;12;11;1;6;174;0,169921875;11,77011494;Não Contem Issue;384;2;2131;1066;Ruby
+628;KirinDave;fuzed;KirinDavefuzed;Dave Fayram;Sat May 03 01:49:37 BRT 2008;2688;8;3;3;0;0;0;268;8;20;274;1406;1,373046875;2,184921764;Não Contem Issue;384;2;5774;1925;Erlang
+629;santana;activerecord-informix-adapter;santanaactiverecord-informix-adapter;Gerardo Santana;Sat May 03 02:31:06 BRT 2008;2688;3;5;5;0;0;0;7;0;6;8;129;0,125976563;39,68992248;Contem Issue;384;4;5271;1054;Ruby
+630;topfunky;google-checkout;topfunkygoogle-checkout;Geoffrey Grosenbach;Sat May 03 14:07:50 BRT 2008;2688;5;7;0;7;0;0;1082;199;20;64;299;0,291992188;23,97324415;Contem Issue;384;5;130;19;Ruby
+631;urubatan;gedit_formatter;urubatangedit_formatter;Rodrigo Urubatan Ferreira Jardim;Sat May 03 18:47:24 BRT 2008;2687;1;1;1;0;0;0;104;3;1;16;80;0,078125;12,8;Não Contem Issue;383,8571429;1;1708;1708;Ruby
+632;tjackiw;acts_as_solr;tjackiwacts_as_solr;Thiago Jackiw;Sat May 03 19:33:43 BRT 2008;2687;1;1;1;0;0;0;19;1;64;104;8623;8,420898438;0,118752174;Não Contem Issue;383,8571429;1;1776;1776;Ruby
+633;jqr;has_one_autocreate;jqrhas_one_autocreate;Elijah Miller;Sat May 03 21:05:16 BRT 2008;2687;4;1;1;0;0;0;106;73;5;11;96;0,09375;10,66666667;Não Contem Issue;383,8571429;1;1125;1125;Ruby
+634;mislav;shrubbery;mislavshrubbery;Mislav Marohni?;Sat May 03 23:58:42 BRT 2008;2687;1;1;0;1;0;0;1676;20;0;11;136;0,1328125;7,529411765;Não Contem Issue;383,8571429;1;0;0;JavaScript
+635;jsmecham;CalendarView;jsmechamCalendarView;Justin Mecham;Sun May 04 02:29:41 BRT 2008;2687;3;9;9;0;0;0;33;15;25;57;123;0,120117188;74,92682927;Contem Issue;383,8571429;8;14267;1585;JavaScript
+636;swdyh;autopagerize;swdyhautopagerize;swdyh;Sun May 04 06:49:11 BRT 2008;2687;7;12;4;8;0;0;177;57;16;104;330;0,322265625;37,23636364;Contem Issue;383,8571429;3;5217;435;JavaScript
+637;pehlert;ruby-tilecache;pehlertruby-tilecache;Pascal Ehlert;Sun May 04 07:30:31 BRT 2008;2687;2;4;4;0;0;0;3;3;4;9;148;0,14453125;27,67567568;Contem Issue;383,8571429;2;6777;1694;Ruby
+638;georgious;cakephp-yaml-migrations-and-fixtures;georgiouscakephp-yaml-migrations-and-fixtures;Georgi Momchilov;Sun May 04 08:51:17 BRT 2008;2687;7;2;0;2;0;0;9;2;6;36;152;0,1484375;13,47368421;Não Contem Issue;383,8571429;2;141;71;PHP
+639;arya;simple_nav;aryasimple_nav;Arya Asemanfar;Sun May 04 14:45:51 BRT 2008;2687;1;2;2;0;0;0;106;14;2;15;96;0,09375;21,33333333;Não Contem Issue;383,8571429;2;3166;1583;Ruby
+640;dokai;hexagonit-swfheader;dokaihexagonit-swfheader;Kai Lautaportti;Sun May 04 16:06:49 BRT 2008;2687;2;3;2;1;0;0;13;1;3;3;114;0,111328125;26,94736842;Não Contem Issue;383,8571429;3;990;330;Python
+641;brennandunn;configurator;brennandunnconfigurator;Brennan Dunn;Sun May 04 16:40:22 BRT 2008;2687;6;4;3;1;0;0;51;7;5;20;189;0,184570313;21,67195767;Contem Issue;383,8571429;3;5662;1416;Ruby
+642;spoike;doodle;spoikedoodle;Mikael Brassman;Sun May 04 16:46:25 BRT 2008;2687;1;1;1;0;0;0;112;23;1;3;400;0,390625;2,56;Não Contem Issue;383,8571429;1;1422;1422;Java
+643;rsim;oracle-enhanced;rsimoracle-enhanced;Raimonds Simanovskis;Sun May 04 19:02:14 BRT 2008;2686;76;711;53;658;0;0;107;0;214;405;6881;6,719726563;105,8078768;Contem Issue;383,7142857;179;77173;109;Ruby
+644;dbgrandi;ruby-aws;dbgrandiruby-aws;David Grandinetti;Sun May 04 19:26:43 BRT 2008;2686;2;2;1;1;0;0;45;16;7;13;160;0,15625;12,8;Não Contem Issue;383,7142857;1;1639;820;Ruby
+645;jcoglan;svn2git;jcoglansvn2git;James Coglan;Sun May 04 20:29:38 BRT 2008;2686;2;1;0;1;0;0;797;67;276;54;106;0,103515625;9,660377358;Não Contem Issue;383,7142857;1;0;0;Ruby
+646;purcell;darcs-to-git;purcelldarcs-to-git;Steve Purcell;Mon May 05 04:59:31 BRT 2008;2686;20;22;2;20;0;0;847;26;20;71;244;0,23828125;92,32786885;Contem Issue;383,7142857;17;2367;108;Ruby
+647;purcell;airspeed;purcellairspeed;Steve Purcell;Mon May 05 05:01:37 BRT 2008;2686;10;21;3;18;0;0;847;26;15;13;478;0,466796875;44,9874477;Contem Issue;383,7142857;9;1168;56;Python
+648;arunthampi;activecouch;arunthampiactivecouch;Arun Thampi;Mon May 05 08:22:49 BRT 2008;2686;5;4;4;0;0;0;73;19;9;109;777;0,758789063;5,271557272;Contem Issue;383,7142857;3;8503;2126;Ruby
+649;Industrial;linux-configfiles;Industriallinux-configfiles;Tom Wieland;Mon May 05 08:44:24 BRT 2008;2686;8;1;1;0;0;0;36;45;1;0;771;0,752929688;1,328145266;Não Contem Issue;383,7142857;1;528;528;Shell
+650;dbr;tvdb_api;dbrtvdb_api;dbr/Ben;Mon May 05 10:01:53 BRT 2008;2686;14;50;7;43;0;0;94;39;49;224;996;0,97265625;51,40562249;Contem Issue;383,7142857;19;12790;256;Python
+651;jkk;goleague;jkkgoleague;Justin Kramer;Mon May 05 14:00:48 BRT 2008;2686;1;1;1;0;0;0;63;7;2;4;117;0,114257813;8,752136752;Não Contem Issue;383,7142857;1;375;375;PHP
+652;cardmagic;classifier;cardmagicclassifier;Lucas Carlson;Mon May 05 14:24:11 BRT 2008;2686;8;24;15;9;0;0;138;9;117;528;236;0,23046875;104,1355932;Contem Issue;383,7142857;18;19694;821;Ruby
+653;carlism;varanidae;carlismvaranidae;Carl Leiby;Mon May 05 15:51:39 BRT 2008;2686;3;1;1;0;0;0;29;38;0;2;4845;4,731445313;0,211351909;Não Contem Issue;383,7142857;1;11;11;Ruby
+654;mysmallidea;radiant-comments;mysmallidearadiant-comments;Ryan Heneise;Mon May 05 16:06:35 BRT 2008;2686;18;7;0;7;0;0;15;13;41;43;810;0,791015625;8,849382716;Contem Issue;383,7142857;6;691;99;Ruby
+655;pdeffendol;spatial_adapter;pdeffendolspatial_adapter;Pete Deffendol;Mon May 05 17:00:24 BRT 2008;2685;14;39;15;24;1;5;6;0;105;214;648;0,6328125;61,62962963;Contem Issue;383,5714286;25;23992;615;Ruby
+656;telmich;gpm;telmichgpm;Nico Schottelius;Mon May 05 18:59:06 BRT 2008;2685;22;6;4;2;0;0;27;14;4;9;3407;3,327148438;1,803346052;Contem Issue;383,5714286;4;1530;255;C
+657;caius;php-faker;caiusphp-faker;Caius Durling;Mon May 05 19:32:14 BRT 2008;2685;7;2;2;0;0;0;125;135;19;47;148;0,14453125;13,83783784;Não Contem Issue;383,5714286;2;2897;1449;PHP
+658;kr;beanstalk-client-ruby;krbeanstalk-client-ruby;Keith Rarick;Mon May 05 20:08:25 BRT 2008;2685;15;23;1;22;0;0;625;22;22;70;288;0,28125;81,77777778;Contem Issue;383,5714286;19;4223;184;JavaScript
+659;cainlevy;semantic-attributes;cainlevysemantic-attributes;Lance Ivy;Mon May 05 21:07:10 BRT 2008;2685;6;3;0;3;0;0;55;0;8;23;394;0,384765625;7,796954315;Não Contem Issue;383,5714286;3;0;0;Ruby
+660;wycats;textmate;wycatstextmate;Yehuda Katz;Tue May 06 01:59:30 BRT 2008;2685;7;16;9;7;0;0;6571;3;20;163;198;0,193359375;82,74747475;Contem Issue;383,5714286;15;18749;1172;Ruby
+661;lawrencepit;exception_logger;lawrencepitexception_logger;Lawrence Pit;Tue May 06 02:34:15 BRT 2008;2685;6;1;1;0;0;0;12;6;1;2;110;0,107421875;9,309090909;Não Contem Issue;383,5714286;1;1993;1993;Ruby
+662;tslocum;kumo;tslocumkumo;Trevor Slocum;Tue May 06 03:12:09 BRT 2008;2685;5;3;0;3;0;0;14;2;6;9;323;0,315429688;9,510835913;Não Contem Issue;383,5714286;2;279;93;Python
+663;jarib;celerity;jaribcelerity;Jari Bakken;Tue May 06 08:53:49 BRT 2008;2685;20;63;17;46;0;0;179;103;40;218;64917;63,39550781;0,993761264;Contem Issue;383,5714286;30;29301;465;Ruby
+664;ccdevnet;openc2e;ccdevnetopenc2e;null;Tue May 06 11:56:55 BRT 2008;2685;15;2;2;0;0;0;4;0;10;21;9945;9,711914063;0,205932629;Não Contem Issue;383,5714286;2;593;297;C++
+665;nmariz;xmlgenerator;nmarizxmlgenerator;Nuno Mariz;Tue May 06 12:11:56 BRT 2008;2685;3;1;1;0;0;0;29;56;1;6;454;0,443359375;2,255506608;Não Contem Issue;383,5714286;1;1422;1422;Python
+666;jasonroelofs;ogrerb;jasonroelofsogrerb;Jason Roelofs;Tue May 06 12:43:27 BRT 2008;2685;1;1;0;1;0;0;50;13;6;41;13008;12,703125;0,078720787;Não Contem Issue;383,5714286;1;385;385;C
+667;ryanb;nifty-generators;ryanbnifty-generators;Ryan Bates;Tue May 06 15:19:19 BRT 2008;2685;20;167;67;100;0;0;6355;95;308;2047;807;0,788085938;211,905824;Contem Issue;383,5714286;104;103960;623;Ruby
+668;schleyfox;peach;schleyfoxpeach;Ben Hughes;Tue May 06 18:28:00 BRT 2008;2684;5;10;5;5;0;0;54;12;9;76;146;0,142578125;70,1369863;Contem Issue;383,4285714;8;4788;479;Ruby
+669;drnic;dr-nic-magic-models;drnicdr-nic-magic-models;Dr Nic Williams;Tue May 06 18:29:13 BRT 2008;2684;2;2;1;1;0;0;1448;13;7;23;563;0,549804688;3,637655417;Não Contem Issue;383,4285714;1;1757;879;Ruby
+670;jamtur01;redmine_tab;jamtur01redmine_tab;James Turnbull;Tue May 06 23:10:18 BRT 2008;2684;8;17;6;11;0;0;487;11;22;45;182;0,177734375;95,64835165;Contem Issue;383,4285714;10;10822;637;Ruby
+671;ctcherry;modalbox_confirm;ctcherrymodalbox_confirm;Chris Cherry;Wed May 07 04:41:55 BRT 2008;2684;6;3;0;3;0;0;20;8;3;21;127;0,124023438;24,18897638;Não Contem Issue;383,4285714;3;648;216;JavaScript
+672;weppos;www-delicious;wepposwww-delicious;Simone Carletti;Wed May 07 09:40:07 BRT 2008;2684;2;24;22;2;1;0;188;2;17;66;634;0,619140625;38,76340694;Contem Issue;383,4285714;7;38439;1602;Ruby
+673;eml;java-mogilefs;emljava-mogilefs;Eric Lambrecht;Wed May 07 14:35:23 BRT 2008;2684;1;1;1;0;0;0;6;6;10;17;603;0,588867188;1,698175788;Não Contem Issue;383,4285714;1;1818;1818;Java
+674;shuber;curl;shubercurl;Sean Huber;Wed May 07 15:05:24 BRT 2008;2684;4;15;9;6;0;0;78;96;119;286;484;0,47265625;31,73553719;Contem Issue;383,4285714;13;10281;685;PHP
+675;rdpeng;filehash;rdpengfilehash;Roger D. Peng;Wed May 07 16:38:28 BRT 2008;2684;10;8;1;7;0;0;2289;3;31;11;778;0,759765625;10,52956298;Contem Issue;383,4285714;3;1444;181;R
+676;erikhuda;thor;erikhudathor;Erikhuda;Wed May 07 17:07:31 BRT 2008;2683;142;495;144;351;0;0;0;0;330;2931;6956;6,79296875;72,86946521;Contem Issue;383,2857143;279;139465;282;Ruby
+677;codahale;bcrypt-ruby;codahalebcrypt-ruby;Coda Hale;Wed May 07 20:29:27 BRT 2008;2683;27;119;20;99;0;0;1233;0;123;792;679;0,663085938;179,4639175;Contem Issue;383,2857143;81;15775;133;C
+678;edavis10;redmine-customer-plugin;edavis10redmine-customer-plugin;Eric Davis;Wed May 07 23:44:19 BRT 2008;2683;4;4;3;1;0;0;374;0;31;61;188;0,18359375;21,78723404;Contem Issue;383,2857143;4;3802;951;Ruby
+679;awk;iontv;awkiontv;Andrew Kimpton;Wed May 07 23:54:49 BRT 2008;2683;1;1;1;0;0;0;7;0;2;7;43611;42,58886719;0,023480315;Não Contem Issue;383,2857143;1;644;644;Objective-C
+680;mzp;scheme-abc;mzpscheme-abc;MIZUNO Hiroki;Thu May 08 02:36:33 BRT 2008;2683;9;1;0;1;0;0;177;45;0;7;7772;7,58984375;0,131755018;Não Contem Issue;383,2857143;1;0;0;OCaml
+681;Fingertips;passengerpane;Fingertipspassengerpane;Fingertips;Thu May 08 09:05:38 BRT 2008;2683;13;76;21;55;0;0;0;0;43;630;11773;11,49707031;6,610379682;Contem Issue;383,2857143;55;38639;508;Ruby
+682;tuffy;python-audio-tools;tuffypython-audio-tools;null;Thu May 08 11:30:07 BRT 2008;2683;10;51;34;17;0;0;3;0;29;100;28507;27,83886719;1,831971095;Contem Issue;383,2857143;22;22941;450;C
+683;Shopify;liquid;Shopifyliquid;Shopify;Thu May 08 12:27:26 BRT 2008;2683;97;650;39;611;0;0;0;0;496;3621;7997;7,809570313;83,2312117;Contem Issue;383,2857143;305;71063;109;Ruby
+684;mdeiters;semr;mdeiterssemr;Matthew Deiters;Thu May 08 15:50:01 BRT 2008;2683;4;1;0;1;0;0;90;34;5;31;908;0,88671875;1,127753304;Não Contem Issue;383,2857143;1;1;1;Ruby
+685;jwiegley;emacs-chess;jwiegleyemacs-chess;John Wiegley;Thu May 08 16:44:02 BRT 2008;2683;4;9;8;1;0;0;461;0;7;31;9422;9,201171875;0,978136277;Contem Issue;383,2857143;7;3437;382;Emacs Lisp
+686;markoa;r2flickr;markoar2flickr;Marko Anastasov;Thu May 08 17:00:27 BRT 2008;2682;2;2;2;0;0;0;48;22;4;22;158;0,154296875;12,96202532;Não Contem Issue;383,1428571;2;3513;1757;Ruby
+687;joshuamiller;cartographer;joshuamillercartographer;Joshua Miller;Thu May 08 19:57:42 BRT 2008;2682;6;19;12;7;0;0;20;0;38;75;184;0,1796875;105,7391304;Contem Issue;383,1428571;16;18589;978;Ruby
+688;manveru;ramaze;manveruramaze;Michael Fellinger;Thu May 08 21:34:26 BRT 2008;2682;63;9;1;8;0;0;194;18;61;221;10058;9,822265625;0,916285544;Contem Issue;383,1428571;7;2009;223;Ruby
+689;kernow;javascript_auto_include;kernowjavascript_auto_include;Jamie Dyer;Thu May 08 22:07:04 BRT 2008;2682;4;1;1;0;0;0;22;7;11;19;108;0,10546875;9,481481481;Não Contem Issue;383,1428571;1;1907;1907;Ruby
+690;TekNoLogic;Quecho;TekNoLogicQuecho;Tekkub's WoW addons;Fri May 09 01:27:25 BRT 2008;2682;3;8;0;8;0;0;0;0;2;2;168;0,1640625;48,76190476;Contem Issue;383,1428571;5;278;35;Lua
+691;ryanb;railscasts;ryanbrailscasts;Ryan Bates;Fri May 09 01:39:42 BRT 2008;2682;7;60;25;35;0;0;6355;95;194;756;1900;1,85546875;32,33684211;Contem Issue;383,1428571;31;38204;637;Ruby
+692;technolize;zsh-completions;technolizezsh-completions;null;Fri May 09 08:24:26 BRT 2008;2682;1;2;1;1;0;0;19;71;0;15;104;0,1015625;19,69230769;Não Contem Issue;383,1428571;1;1514;757;Python
+693;judofyr;ruby-oembed;judofyrruby-oembed;Magnus Holm;Fri May 09 10:50:39 BRT 2008;2682;27;51;14;37;2;1;241;53;53;209;1510;1,474609375;34,58543046;Contem Issue;383,1428571;32;19544;383;Ruby
+694;caillette;novelang;caillettenovelang;Laurent Caillette;Fri May 09 11:06:56 BRT 2008;2682;8;125;40;85;5;24;2;0;0;0;51808;50,59375;2,470660902;Contem Issue;383,1428571;1;87362;699;Java
+695;duritong;puppet-nagios;duritongpuppet-nagios;duritong;Fri May 09 12:31:50 BRT 2008;2682;14;8;0;8;0;0;89;106;22;48;624;0,609375;13,12820513;Contem Issue;383,1428571;6;251;31;Perl
+696;paul;resourceful;paulresourceful;Paul Sadauskas;Fri May 09 13:00:36 BRT 2008;2682;12;5;2;3;0;0;50;3;9;67;701;0,684570313;7,303851641;Contem Issue;383,1428571;2;3732;746;Ruby
+697;relevance;tarantula;relevancetarantula;Relevance;Fri May 09 15:34:56 BRT 2008;2682;33;37;12;25;0;0;0;0;32;428;1406;1,373046875;26,94736842;Contem Issue;383,1428571;20;23367;632;Ruby
+698;alx;rfeedfinder;alxrfeedfinder;Alexandre Girard;Fri May 09 15:58:36 BRT 2008;2682;3;1;1;0;0;0;85;39;3;9;250;0,244140625;4,096;Não Contem Issue;383,1428571;1;782;782;Ruby
+699;potionfactory;potionstore;potionfactorypotionstore;null;Sat May 10 02:24:59 BRT 2008;2681;8;6;3;3;0;0;70;0;37;341;8115;7,924804688;0,757116451;Contem Issue;383;4;4119;687;Ruby
+700;jkramer;post-fm;jkramerpost-fm;Jonas Kramer;Sat May 10 06:55:53 BRT 2008;2681;1;2;2;0;0;0;42;13;6;15;107;0,104492188;19,14018692;Não Contem Issue;383;2;1510;755;Perl
+701;swdyh;quilt;swdyhquilt;swdyh;Sat May 10 07:34:48 BRT 2008;2681;2;3;1;2;0;0;177;57;5;50;204;0,19921875;15,05882353;Não Contem Issue;383;3;1599;533;Ruby
+702;maxlapshin;nmea;maxlapshinnmea;Max Lapshin;Sat May 10 08:09:50 BRT 2008;2681;2;1;0;1;0;0;283;6;3;14;238;0,232421875;4,302521008;Não Contem Issue;383;1;0;0;C++
+703;maxlapshin;exiv2;maxlapshinexiv2;Max Lapshin;Sat May 10 08:14:00 BRT 2008;2681;3;2;2;0;0;0;283;6;0;10;175;0,170898438;11,70285714;Não Contem Issue;383;2;3922;1961;Ruby
+704;esobchenko;rest-google;esobchenkorest-google;Eugen Sobchenko;Sat May 10 09:04:46 BRT 2008;2681;4;2;2;0;0;0;2;0;4;6;131;0,127929688;15,63358779;Não Contem Issue;383;1;2218;1109;Perl
+705;esobchenko;cache-weak;esobchenkocache-weak;Eugen Sobchenko;Sat May 10 09:07:19 BRT 2008;2681;1;1;1;0;0;0;2;0;2;2;110;0,107421875;9,309090909;Não Contem Issue;383;1;706;706;Perl
+706;jomz;radiant-tags-extension;jomzradiant-tags-extension;Benny Degezelle;Sat May 10 12:49:04 BRT 2008;2681;18;29;4;25;0;0;38;12;28;38;385;0,375976563;77,13246753;Contem Issue;383;18;8021;277;Ruby
+707;rmm5t;strip_attributes;rmm5tstrip_attributes;Ryan McGeary;Sat May 10 21:46:26 BRT 2008;2680;15;29;3;26;0;0;230;35;33;156;622;0,607421875;47,74276527;Contem Issue;382,8571429;26;1950;67;Ruby
+708;raggi;github_post_receive_server;raggigithub_post_receive_server;James Tucker;Sat May 10 22:15:29 BRT 2008;2680;3;5;0;5;0;0;338;82;37;96;122;0,119140625;41,96721311;Contem Issue;382,8571429;5;1579;316;Ruby
+709;github-archive;albino;github-archivealbino;GitHub Archive;Sun May 11 01:45:03 BRT 2008;2680;7;14;6;8;0;0;0;0;28;231;156;0,15234375;91,8974359;Contem Issue;382,8571429;11;9042;646;Ruby
+710;github-archive;jquery-hotkeys;github-archivejquery-hotkeys;GitHub Archive;Sun May 11 01:45:31 BRT 2008;2680;2;1;0;1;0;0;0;0;16;100;105;0,102539063;9,752380952;Não Contem Issue;382,8571429;1;178;178;JavaScript
+711;github-archive;jquery-relatize_date;github-archivejquery-relatize_date;GitHub Archive;Sun May 11 01:45:52 BRT 2008;2680;2;5;0;5;0;0;0;0;19;113;209;0,204101563;24,49760766;Contem Issue;382,8571429;5;4980;996;JavaScript
+712;carlosbrando;autotest-notification;carlosbrandoautotest-notification;Carlos Brando;Sun May 11 02:19:16 BRT 2008;2680;26;21;6;15;0;0;509;32;29;194;1941;1,895507813;11,07882535;Contem Issue;382,8571429;12;9971;475;Ruby
+713;psychs;cocoaoniguruma;psychscocoaoniguruma;Satoshi Nakagawa;Sun May 11 06:05:31 BRT 2008;2680;7;9;2;7;0;0;325;49;17;84;1410;1,376953125;6,536170213;Contem Issue;382,8571429;7;1009;112;C
+714;naoya;mapreduce-lite;naoyamapreduce-lite;Naoya Ito;Sun May 11 06:39:28 BRT 2008;2680;1;1;1;0;0;0;975;29;2;17;131;0,127929688;7,816793893;Não Contem Issue;382,8571429;1;1416;1416;Perl
+715;mislav;dotfiles;mislavdotfiles;Mislav Marohni?;Sun May 11 08:45:41 BRT 2008;2680;6;11;3;8;0;0;1676;20;60;406;845;0,825195313;13,33017751;Contem Issue;382,8571429;10;854;78;Shell
+716;penso;actionmailer_x509;pensoactionmailer_x509;Fabien Penso;Sun May 11 09:03:57 BRT 2008;2680;1;2;2;0;0;0;61;87;6;7;88;0,0859375;23,27272727;Não Contem Issue;382,8571429;1;3072;1536;Ruby
+717;alx;pressmark;alxpressmark;Alexandre Girard;Sun May 11 09:36:51 BRT 2008;2680;3;1;0;1;0;0;85;39;10;44;5902;5,763671875;0,173500508;Não Contem Issue;382,8571429;1;1;1;PHP
+718;duritong;puppet-munin;duritongpuppet-munin;duritong;Sun May 11 10:23:17 BRT 2008;2680;39;49;1;48;0;0;89;106;35;26;1320;1,2890625;38,01212121;Contem Issue;382,8571429;20;1429;29;Puppet
+719;jkriss;monomic;jkrissmonomic;Jesse Kriss;Sun May 11 10:41:38 BRT 2008;2680;4;1;0;1;0;0;38;0;1;12;9224;9,0078125;0,111014744;Não Contem Issue;382,8571429;1;0;0;Java
+720;ctagg;flickr;ctaggflickr;Chris Taggart;Sun May 11 13:57:29 BRT 2008;2680;7;3;0;3;0;0;3;1;29;77;135;0,131835938;22,75555556;Não Contem Issue;382,8571429;3;603;201;Ruby
+721;rmm5t;dotfiles;rmm5tdotfiles;Ryan McGeary;Sun May 11 15:07:17 BRT 2008;2680;2;6;0;6;0;0;230;35;76;272;1408;1,375;4,363636364;Contem Issue;382,8571429;5;491;82;Emacs Lisp
+722;puls;tournament-director;pulstournament-director;Jim Puls;Sun May 11 16:51:38 BRT 2008;2680;1;25;20;5;2;1;66;13;2;8;3462;3,380859375;7,394569613;Contem Issue;382,8571429;3;20139;806;JavaScript
+723;mk;reports_as_sparkline;mkreports_as_sparkline;Martin Kvlr;Sun May 11 17:38:55 BRT 2008;2679;3;1;0;1;0;0;17;22;7;36;682;0,666015625;1,501466276;Não Contem Issue;382,7142857;1;18;18;Ruby
+724;marc-lorber;oregano;marc-lorberoregano;Marc Lorber;Sun May 11 18:25:20 BRT 2008;2679;10;21;20;1;0;0;7;0;15;82;3206;3,130859375;6,707423581;Contem Issue;382,7142857;8;18874;899;C
+725;TekNoLogic;teknicolor;TekNoLogicteknicolor;Tekkub's WoW addons;Sun May 11 19:39:59 BRT 2008;2679;1;6;0;6;0;0;0;0;0;4;186;0,181640625;33,03225806;Contem Issue;382,7142857;3;543;91;Lua
+726;markcatley;responds_to_parent;markcatleyresponds_to_parent;Mark Catley;Mon May 12 00:00:22 BRT 2008;2679;10;7;2;5;0;0;10;3;39;85;133;0,129882813;53,89473684;Contem Issue;382,7142857;5;4000;571;Ruby
+727;technomancy;dotfiles;technomancydotfiles;Phil Hagelberg;Mon May 12 00:06:41 BRT 2008;2679;13;1;0;1;0;0;1295;0;8;130;11726;11,45117188;0,087327307;Não Contem Issue;382,7142857;1;0;0;Emacs Lisp
+728;zerowidth;iphone_data;zerowidthiphone_data;Nathan Witmer;Mon May 12 00:28:37 BRT 2008;2679;1;1;0;1;0;0;129;2;0;3;108;0,10546875;9,481481481;Não Contem Issue;382,7142857;1;1;1;Ruby
+729;gerhard;glz_custom_fields;gerhardglz_custom_fields;null;Mon May 12 00:59:51 BRT 2008;2679;5;6;1;5;0;0;87;38;5;21;1894;1,849609375;3,243928194;Contem Issue;382,7142857;3;1556;259;PHP
+730;ruby;bugs.ruby-lang.org;rubybugs.ruby-lang.org;Ruby programming language;Mon May 12 02:22:32 BRT 2008;2679;11;61;19;42;0;0;0;0;10;38;107407;104,8896484;0,581563585;Contem Issue;382,7142857;14;19543;320;Ruby
+731;TekNoLogic;Kennel;TekNoLogicKennel;Tekkub's WoW addons;Mon May 12 04:14:57 BRT 2008;2679;1;13;0;13;0;0;0;0;1;6;228;0,22265625;58,38596491;Contem Issue;382,7142857;3;1660;128;Lua
+732;janne;dotfiles;jannedotfiles;Jan Andersson;Mon May 12 07:11:15 BRT 2008;2679;2;2;0;2;0;0;12;3;2;5;1007;0,983398438;2,033763654;Não Contem Issue;382,7142857;1;0;0;Shell
+733;ctagg;ebay_shopping;ctaggebay_shopping;Chris Taggart;Mon May 12 11:23:41 BRT 2008;2679;1;1;0;1;0;0;3;1;5;20;189;0,184570313;5,417989418;Não Contem Issue;382,7142857;1;719;719;Ruby
+734;Constellation;ldrfullfeed;Constellationldrfullfeed;Yusuke Suzuki;Mon May 12 13:13:09 BRT 2008;2679;4;4;0;4;0;0;418;189;4;18;443;0,432617188;9,246049661;Contem Issue;382,7142857;2;307;77;JavaScript
+735;steveicarus;iverilog;steveicarusiverilog;Stephen Williams;Mon May 12 13:57:52 BRT 2008;2679;44;78;6;72;0;0;47;0;52;245;25975;25,36621094;3,074956689;Contem Issue;382,7142857;19;3452;44;C++
+736;timburks;programmingnu;timburksprogrammingnu;Tim Burks;Mon May 12 15:09:03 BRT 2008;2679;5;1;0;1;0;0;363;16;7;35;1401;1,368164063;0,730906495;Não Contem Issue;382,7142857;1;6;6;Nu
+737;jeresig;processing-js;jeresigprocessing-js;John Resig;Mon May 12 15:19:10 BRT 2008;2679;87;14;1;13;0;0;10538;29;607;1714;41943;40,95996094;0,341797201;Contem Issue;382,7142857;9;2597;186;Java
+738;duplys;git-issues;duplysgit-issues;null;Mon May 12 16:37:25 BRT 2008;2679;14;21;7;14;0;0;4;11;37;227;230;0,224609375;93,49565217;Contem Issue;382,7142857;12;6050;288;Python
+739;ledger;ledger;ledgerledger;Ledger;Mon May 12 16:39:49 BRT 2008;2679;104;354;5;349;0;0;0;0;200;1287;17802;17,38476563;20,36265588;Contem Issue;382,7142857;74;5880;17;C++
+740;geemus;acts_as_taggable_redux;geemusacts_as_taggable_redux;Wesley Beary;Mon May 12 18:13:13 BRT 2008;2678;14;10;0;10;0;0;365;34;18;96;165;0,161132813;62,06060606;Contem Issue;382,5714286;5;53;5;Ruby
+741;esobchenko;probix;esobchenkoprobix;Eugen Sobchenko;Mon May 12 19:10:28 BRT 2008;2678;6;43;8;35;0;0;2;0;0;4;524;0,51171875;84,03053435;Contem Issue;382,5714286;2;18194;423;Erlang
+742;zodttd;psx4all;zodttdpsx4all;zodttd;Mon May 12 20:54:43 BRT 2008;2678;2;1;1;0;0;0;201;3;20;36;2277;2,223632813;0,449714537;Não Contem Issue;382,5714286;1;833;833;C++
+743;kovyrin;magic-enum;kovyrinmagic-enum;Oleksiy Kovyrin;Mon May 12 23:58:26 BRT 2008;2678;5;3;1;2;0;0;96;34;8;29;220;0,21484375;13,96363636;Não Contem Issue;382,5714286;2;1208;403;Ruby
+744;tekkub;libdatabroker-1-1;tekkublibdatabroker-1-1;Tekkub;Tue May 13 00:27:07 BRT 2008;2678;3;1;0;1;0;0;5542;91;13;35;409;0,399414063;2,503667482;Não Contem Issue;382,5714286;1;0;0;Lua
+745;jfernandez;cj4r;jfernandezcj4r;Jose Fernandez;Tue May 13 02:48:34 BRT 2008;2678;1;1;1;0;0;0;27;5;2;15;233;0,227539063;4,394849785;Não Contem Issue;382,5714286;1;551;551;Ruby
+746;frabcus;acts_as_xapian;frabcusacts_as_xapian;Francis Irving;Tue May 13 06:53:49 BRT 2008;2678;9;4;4;0;0;0;99;19;30;129;1312;1,28125;3,12195122;Contem Issue;382,5714286;3;7345;1836;Ruby
+747;drnic;ruby-shoulda-tmbundle;drnicruby-shoulda-tmbundle;Dr Nic Williams;Tue May 13 06:56:44 BRT 2008;2678;8;1;1;0;0;0;1448;13;24;92;133;0,129882813;7,69924812;Não Contem Issue;382,5714286;1;1813;1813;Ruby
+748;timmow;vimrc;timmowvimrc;Tim Mower;Tue May 13 08:06:21 BRT 2008;2678;6;1;0;1;0;0;21;25;0;2;636;0,62109375;1,610062893;Não Contem Issue;382,5714286;1;56;56;VimL
+749;Shopify;active_fulfillment;Shopifyactive_fulfillment;Shopify;Tue May 13 12:04:36 BRT 2008;2678;35;59;6;53;0;0;0;0;37;93;1312;1,28125;46,04878049;Contem Issue;382,5714286;26;4300;73;Ruby
+750;chrisvest;nanopool;chrisvestnanopool;Chris Vest;Tue May 13 12:55:29 BRT 2008;2678;1;17;0;17;0;6;55;44;1;6;728;0,7109375;23,91208791;Contem Issue;382,5714286;1;13354;786;Java
+751;hirose31;ganglia-gmetric-xs;hirose31ganglia-gmetric-xs;hirose31;Tue May 13 13:06:28 BRT 2008;2678;2;1;0;1;0;0;190;145;1;4;302;0,294921875;3,390728477;Não Contem Issue;382,5714286;1;7;7;C
+752;technomancy;rinari;technomancyrinari;Phil Hagelberg;Tue May 13 15:03:51 BRT 2008;2678;8;3;1;2;0;0;1295;0;81;66;434;0,423828125;7,078341014;Não Contem Issue;382,5714286;3;870;290;Emacs Lisp
+753;gabriel;as3httpclient;gabrielas3httpclient;Gabriel Handford;Tue May 13 17:37:54 BRT 2008;2677;4;12;11;1;0;0;285;37;78;244;2488;2,4296875;4,938906752;Contem Issue;382,4285714;9;12952;1079;ActionScript
+754;oakridgelanl;materialized-path;oakridgelanlmaterialized-path;null;Tue May 13 19:00:21 BRT 2008;2677;4;1;1;0;0;0;1;0;1;5;90;0,087890625;11,37777778;Não Contem Issue;382,4285714;1;2095;2095;Ruby
+755;carlosbrando;poignant-br;carlosbrandopoignant-br;Carlos Brando;Tue May 13 23:30:37 BRT 2008;2677;34;1;0;1;0;0;509;32;30;76;17037;16,63769531;0,060104478;Não Contem Issue;382,4285714;1;0;0;Ruby
+756;chrislloyd;gravtastic;chrislloydgravtastic;Chris Lloyd;Tue May 13 23:31:11 BRT 2008;2677;12;38;6;32;0;0;152;215;55;548;427;0,416992188;91,12880562;Contem Issue;382,4285714;30;6072;160;Ruby
+757;jruby;jruby-rack;jrubyjruby-rack;JRuby Team;Tue May 13 23:57:24 BRT 2008;2677;47;196;11;185;0;0;0;0;121;386;10256;10,015625;19,56942278;Contem Issue;382,4285714;105;15705;80;Ruby
+758;ryanb;railscasts-episodes;ryanbrailscasts-episodes;Ryan Bates;Wed May 14 03:51:08 BRT 2008;2677;3;24;14;10;0;0;6355;95;618;812;10799;10,54589844;2,275766275;Contem Issue;382,4285714;22;20563;857;Ruby
+759;wrobel;pardalys;wrobelpardalys;Gunnar Wrobel;Wed May 14 04:39:41 BRT 2008;2677;14;1;1;0;0;0;19;46;1;14;1033;1,008789063;0,991287512;Não Contem Issue;382,4285714;1;2313;2313;Puppet
+760;theRocket;typo;theRockettypo;Ryan Rickerts;Wed May 14 06:23:41 BRT 2008;2677;12;1;1;0;0;0;4;3;0;1;4847;4,733398438;0,2112647;Não Contem Issue;382,4285714;1;599;599;JavaScript
+761;kbingman;radiant-tags-extension;kbingmanradiant-tags-extension;Keith Bingman;Wed May 14 08:36:04 BRT 2008;2677;2;1;1;0;0;0;26;0;0;2;185;0,180664063;5,535135135;Não Contem Issue;382,4285714;1;1697;1697;Ruby
+762;sesam;z2;sesamz2;Simon B.;Wed May 14 09:39:33 BRT 2008;2677;3;1;0;1;0;0;13;9;0;1;560;0,546875;1,828571429;Não Contem Issue;382,4285714;1;0;0;JavaScript
+763;TomK32;mephisto-themes;TomK32mephisto-themes;Thomas R. Koll;Wed May 14 16:15:08 BRT 2008;2677;2;1;1;0;0;0;70;73;0;4;160;0,15625;6,4;Não Contem Issue;382,4285714;1;599;599;null
+764;nazar;git-rails-plugins;nazargit-rails-plugins;Nazar Aziz;Wed May 14 17:03:29 BRT 2008;2676;2;2;0;2;0;0;15;10;2;14;234;0,228515625;8,752136752;Não Contem Issue;382,2857143;1;570;285;Ruby
+765;kenegozi;monorail-aspview-demo;kenegozimonorail-aspview-demo;Ken Egozi;Wed May 14 17:15:13 BRT 2008;2676;2;1;1;0;0;0;14;0;1;4;2333;2,278320313;0,438919846;Não Contem Issue;382,2857143;1;599;599;JavaScript
+766;protocool;ack-tmbundle;protocoolack-tmbundle;Trevor Squires;Wed May 14 20:30:50 BRT 2008;2676;5;5;4;1;0;0;40;0;33;302;501;0,489257813;10,21956088;Contem Issue;382,2857143;5;6896;1379;Shell
+767;cainlevy;components;cainlevycomponents;Lance Ivy;Wed May 14 20:39:29 BRT 2008;2676;4;1;0;1;0;0;55;0;3;25;155;0,151367188;6,606451613;Não Contem Issue;382,2857143;1;0;0;Ruby
+768;manveru;nagoro;manverunagoro;Michael Fellinger;Wed May 14 22:52:00 BRT 2008;2676;3;2;0;2;0;0;194;18;2;11;312;0,3046875;6,564102564;Não Contem Issue;382,2857143;2;843;422;Ruby
+769;ryan-allen;workflow;ryan-allenworkflow;Ryan Allen;Thu May 15 02:21:24 BRT 2008;2676;6;4;3;1;0;0;105;101;174;213;282;0,275390625;14,5248227;Contem Issue;382,2857143;3;3033;758;Ruby
+770;btakita;rr;btakitarr;Brian Takita;Thu May 15 03:08:56 BRT 2008;2676;38;100;27;73;12;8;61;52;71;531;2843;2,776367188;36,01829054;Contem Issue;382,2857143;69;68178;682;Ruby
+771;blynn;netwalk;blynnnetwalk;Ben Lynn;Thu May 15 03:50:25 BRT 2008;2676;3;2;1;1;0;0;64;0;4;5;750;0,732421875;2,730666667;Não Contem Issue;382,2857143;1;326;163;C
+772;blynn;gitmagic;blynngitmagic;Ben Lynn;Thu May 15 04:08:50 BRT 2008;2676;67;40;6;34;0;0;64;0;460;879;2830;2,763671875;14,47349823;Contem Issue;382,2857143;24;5754;144;Makefile
+773;siannopollo;mail_fetcher;siannopollomail_fetcher;Steve Iannopollo;Thu May 15 08:00:07 BRT 2008;2676;2;2;2;0;0;0;8;5;4;35;137;0,133789063;14,94890511;Não Contem Issue;382,2857143;2;3437;1719;Ruby
+774;oneup;guide-to-zen;oneupguide-to-zen;Florian Hufsky;Thu May 15 08:10:53 BRT 2008;2676;2;1;1;0;0;0;23;14;0;1;716;0,69921875;1,430167598;Não Contem Issue;382,2857143;1;599;599;null
+775;haruska;polymorphic_include;haruskapolymorphic_include;Jason Haruska;Thu May 15 13:01:58 BRT 2008;2676;6;2;0;2;0;0;32;15;3;20;113;0,110351563;18,12389381;Não Contem Issue;382,2857143;2;3;2;Ruby
+776;olsonjeffery;boolangstudio;olsonjefferyboolangstudio;Jeff Olson;Thu May 15 13:44:13 BRT 2008;2676;10;3;3;0;0;0;20;3;9;32;29767;29,06933594;0,103201532;Não Contem Issue;382,2857143;2;4347;1449;C#
+777;planetbeing;xpwn;planetbeingxpwn;null;Thu May 15 15:51:07 BRT 2008;2676;16;7;4;3;0;0;536;5;155;243;33346;32,56445313;0,214958316;Contem Issue;382,2857143;7;3623;518;C
+778;aeden;rsaml;aedenrsaml;Anthony Eden;Thu May 15 17:20:15 BRT 2008;2675;4;2;2;0;0;0;133;3;9;27;187;0,182617188;10,95187166;Não Contem Issue;382,1428571;2;4122;2061;Ruby
+779;tekin;file_column;tekinfile_column;Tekin Suleyman;Thu May 15 17:45:57 BRT 2008;2675;6;4;3;1;0;0;51;14;31;45;383;0,374023438;10,69451697;Contem Issue;382,1428571;4;3707;927;Ruby
+780;dojosp;participant-s-projects;dojospparticipant-s-projects;null;Thu May 15 18:18:57 BRT 2008;2675;22;3;0;3;0;0;23;0;2;28;5115;4,995117188;0,60058651;Não Contem Issue;382,1428571;2;2;1;Ruby
+781;ntalbott;radiant-reorder-extension;ntalbottradiant-reorder-extension;Nathaniel Talbott;Thu May 15 18:46:33 BRT 2008;2675;3;1;0;1;0;0;92;36;0;3;108;0,10546875;9,481481481;Não Contem Issue;382,1428571;1;0;0;Ruby
+782;josevalim;easy_http_cache;josevalimeasy_http_cache;José Valim;Thu May 15 19:59:41 BRT 2008;2675;2;2;1;1;0;0;4027;24;5;76;647;0,631835938;3,165378671;Não Contem Issue;382,1428571;1;1627;814;Ruby
+783;front-end;front-end-blender;front-endfront-end-blender;Front-End Architect;Fri May 16 02:32:57 BRT 2008;2675;3;1;0;1;0;0;0;0;1;6;2104;2,0546875;0,486692015;Não Contem Issue;382,1428571;1;365;365;Ruby
+784;tim;erlang-oauth;timerlang-oauth;Tim Fletcher;Fri May 16 12:17:32 BRT 2008;2675;8;25;2;23;0;0;77;65;90;270;837;0,817382813;30,58542413;Contem Issue;382,1428571;20;897;36;Erlang
+785;activewarehouse;rails_sql_views;activewarehouserails_sql_views;null;Fri May 16 14:59:02 BRT 2008;2675;12;15;13;2;0;0;0;0;133;141;257;0,250976563;59,76653696;Contem Issue;382,1428571;14;22375;1492;Ruby
+786;activewarehouse;activewarehouse;activewarehouseactivewarehouse;null;Fri May 16 15:10:50 BRT 2008;2675;9;3;2;1;0;0;0;0;43;190;1414;1,380859375;2,172560113;Não Contem Issue;382,1428571;3;1681;560;Ruby
+787;activewarehouse;adapter_extensions;activewarehouseadapter_extensions;null;Fri May 16 15:13:20 BRT 2008;2675;6;4;4;0;0;0;0;0;18;23;164;0,16015625;24,97560976;Contem Issue;382,1428571;4;3596;899;Ruby
+788;grantneufeld;wayground-old;grantneufeldwayground-old;Grant Neufeld;Fri May 16 15:39:22 BRT 2008;2675;1;1;1;0;0;0;5;4;0;6;3092;3,01953125;0,331177232;Não Contem Issue;382,1428571;1;599;599;JavaScript
+789;mallipeddi;django-taskforce;mallipeddidjango-taskforce;Harish Mallipeddi;Fri May 16 16:37:04 BRT 2008;2675;2;1;1;0;0;0;48;19;0;32;96;0,09375;10,66666667;Não Contem Issue;382,1428571;1;2218;2218;Python
+790;erector;erector;erectorerector;null;Fri May 16 21:20:47 BRT 2008;2674;36;66;33;33;0;0;0;0;43;201;3936;3,84375;17,17073171;Contem Issue;382;31;40577;615;Ruby
+791;DanielVF;d-time-tracker;DanielVFd-time-tracker;Daniel Von Fange;Fri May 16 21:56:46 BRT 2008;2674;3;2;0;2;0;0;5;2;5;7;130;0,126953125;15,75384615;Não Contem Issue;382;2;11;6;Ruby
+792;pivotalexperimental;desert;pivotalexperimentaldesert;EXPERIMENTAL Pivotal Labs Projects;Sat May 17 00:54:47 BRT 2008;2674;21;12;12;0;0;0;31;0;31;187;2773;2,708007813;4,431301839;Contem Issue;382;11;23724;1977;Ruby
+793;drnic;hobo-tmbundle;drnichobo-tmbundle;Dr Nic Williams;Sat May 17 06:00:54 BRT 2008;2674;3;1;1;0;0;0;1448;13;3;18;786;0,767578125;1,302798982;Não Contem Issue;382;1;599;599;Ruby
+794;duritong;puppet-common;duritongpuppet-common;duritong;Sat May 17 07:22:03 BRT 2008;2674;14;2;0;2;0;0;89;106;50;17;288;0,28125;7,111111111;Não Contem Issue;382;2;1356;678;Ruby
+795;jongilbraith;simple-private-messages;jongilbraithsimple-private-messages;Jon Gilbraith;Sat May 17 17:15:41 BRT 2008;2673;13;28;7;21;0;0;26;26;51;207;319;0,311523438;89,88087774;Contem Issue;381,8571429;20;11931;426;Ruby
+796;natan;gspell;natangspell;Nathan Spindel;Sat May 17 19:27:34 BRT 2008;2673;1;1;1;0;0;0;54;7;3;7;110;0,107421875;9,309090909;Não Contem Issue;381,8571429;1;1403;1403;Objective-C
+797;mattetti;i18n;mattettii18n;Matt Aimonetti;Sat May 17 19:39:13 BRT 2008;2673;55;5;4;1;0;0;705;6;222;30;1361;1,329101563;3,76193975;Contem Issue;381,8571429;5;4160;832;Ruby
+798;sr;atom-tools;sratom-tools;Simon Rozet;Sat May 17 20:22:03 BRT 2008;2673;2;1;1;0;0;0;426;157;7;9;277;0,270507813;3,696750903;Não Contem Issue;381,8571429;1;1667;1667;Ruby
+799;pragdave;codex;pragdavecodex;null;Sun May 18 00:40:35 BRT 2008;2673;10;2;1;1;0;0;265;0;11;62;388;0,37890625;5,278350515;Não Contem Issue;381,8571429;2;2407;1204;Ruby
+800;wonsys;acts_as_fulltextable;wonsysacts_as_fulltextable;null;Sun May 18 08:50:43 BRT 2008;2673;3;1;1;0;0;0;2;0;1;10;99;0,096679688;10,34343434;Não Contem Issue;381,8571429;1;900;900;Ruby
+801;yyyc514;solowiki;yyyc514solowiki;Josh Goebel;Sun May 18 09:24:47 BRT 2008;2673;1;1;1;0;0;0;50;4;0;3;208;0,203125;4,923076923;Não Contem Issue;381,8571429;1;599;599;JavaScript
+802;hadley;evaluate;hadleyevaluate;Hadley Wickham;Sun May 18 10:40:10 BRT 2008;2673;6;54;7;47;0;0;4433;7;9;20;601;0,586914063;92,00665557;Contem Issue;381,8571429;15;8083;150;R
+803;fenrrir;geditpycompletion;fenrrirgeditpycompletion;Rodrigo Pinheiro Marques de Araújo;Sun May 18 11:07:11 BRT 2008;2673;5;4;4;0;0;0;28;1;52;76;398;0,388671875;10,29145729;Contem Issue;381,8571429;4;3740;935;Python
+804;cmaxw;rubytrends;cmaxwrubytrends;Charles Wood;Sun May 18 16:42:31 BRT 2008;2673;5;1;1;0;0;0;198;8;0;2;2416;2,359375;0,42384106;Não Contem Issue;381,8571429;1;599;599;Ruby
+805;cypher;thor-git;cypherthor-git;Markus Prinz;Sun May 18 18:25:55 BRT 2008;2672;7;1;0;1;0;0;180;41;5;38;122;0,119140625;8,393442623;Não Contem Issue;381,7142857;1;0;0;Ruby
+806;Ruleby;ruleby;Rulebyruleby;null;Sun May 18 18:43:54 BRT 2008;2672;7;24;17;7;0;0;0;0;35;266;1987;1,940429688;12,36839456;Contem Issue;381,7142857;10;34889;1454;Ruby
+807;mateusza;algorytmy-przeszukiwania-przestrzeni;mateuszaalgorytmy-przeszukiwania-przestrzeni;Mateusz Adamowski;Sun May 18 19:37:47 BRT 2008;2672;1;1;1;0;0;0;1;5;0;1;144;0,140625;7,111111111;Não Contem Issue;381,7142857;1;599;599;JavaScript
+808;lsegal;yard-tmbundle;lsegalyard-tmbundle;Loren Segal;Sun May 18 23:39:00 BRT 2008;2672;4;1;1;0;0;0;314;0;5;9;133;0,129882813;7,69924812;Não Contem Issue;381,7142857;1;1539;1539;null
+809;cjbottaro;param_protected;cjbottaroparam_protected;Christopher J. Bottaro;Sun May 18 23:44:12 BRT 2008;2672;5;12;5;7;0;0;13;0;12;88;173;0,168945313;71,02890173;Contem Issue;381,7142857;7;8422;702;Ruby
+810;timcharper;bundle-fu;timcharperbundle-fu;Tim Harper;Mon May 19 01:30:18 BRT 2008;2672;4;3;3;0;0;0;131;24;19;82;317;0,309570313;9,690851735;Não Contem Issue;381,7142857;3;5553;1851;Ruby
+811;isabanin;viddler;isabaninviddler;Ilya Sabanin;Mon May 19 02:33:33 BRT 2008;2672;5;2;2;0;0;0;30;6;10;21;132;0,12890625;15,51515152;Não Contem Issue;381,7142857;1;3709;1855;Ruby
+812;yokote;test2;yokotetest2;null;Mon May 19 04:50:01 BRT 2008;2672;3;1;1;0;0;0;1;2;1;2;105;0,102539063;9,752380952;Não Contem Issue;381,7142857;1;1414;1414;null
+813;mth;yeti;mthyeti;null;Mon May 19 04:53:44 BRT 2008;2672;6;16;3;13;0;0;15;1;8;129;9059;8,846679688;1,808588144;Contem Issue;381,7142857;6;2296;144;Java
+814;fabien;im_magick;fabienim_magick;Fabien Franzen;Mon May 19 07:09:04 BRT 2008;2672;3;3;2;1;0;0;26;13;2;27;444;0,43359375;6,918918919;Não Contem Issue;381,7142857;2;2294;765;Ruby
+815;cristibalan;dotfiles;cristibalandotfiles;Cristi Balan;Mon May 19 08:24:48 BRT 2008;2672;1;1;1;0;0;0;65;35;2;8;947;0,924804688;1,081309398;Não Contem Issue;381,7142857;1;1090;1090;Shell
+816;hadley;ggplot2-book;hadleyggplot2-book;Hadley Wickham;Mon May 19 10:38:18 BRT 2008;2672;15;85;11;74;0;0;4433;7;88;194;29293;28,60644531;2,971358345;Contem Issue;381,7142857;28;4872;57;TeX
+817;stouset;pathname3;stousetpathname3;Stephen Touset;Mon May 19 14:04:39 BRT 2008;2672;2;1;0;1;0;0;34;0;2;13;207;0,202148438;4,946859903;Não Contem Issue;381,7142857;1;0;0;Ruby
+818;cjbottaro;app_config;cjbottaroapp_config;Christopher J. Bottaro;Mon May 19 14:20:47 BRT 2008;2672;3;6;3;3;0;0;13;0;23;104;119;0,116210938;51,6302521;Contem Issue;381,7142857;5;6143;1024;Ruby
+819;topfunky;ruby-hmac;topfunkyruby-hmac;Geoffrey Grosenbach;Mon May 19 15:22:34 BRT 2008;2672;3;2;1;1;0;0;1082;199;8;41;128;0,125;16;Não Contem Issue;381,7142857;2;1785;893;Ruby
+820;cainlevy;recordselect;cainlevyrecordselect;Lance Ivy;Mon May 19 18:03:27 BRT 2008;2671;8;3;2;1;0;0;55;0;30;44;186;0,181640625;16,51612903;Não Contem Issue;381,5714286;2;4199;1400;Ruby
+821;smtlaissezfaire;cap_db_dump;smtlaissezfairecap_db_dump;Scott Taylor;Mon May 19 18:16:34 BRT 2008;2671;3;2;1;1;0;0;185;311;2;8;161;0,157226563;12,72049689;Não Contem Issue;381,5714286;1;2055;1028;Ruby
+822;jebw;redbox;jebwredbox;Jeb Wilkins;Mon May 19 18:40:04 BRT 2008;2671;1;3;3;0;0;0;3;1;7;18;91;0,088867188;33,75824176;Não Contem Issue;381,5714286;1;6099;2033;JavaScript
+823;geemus;googleajax;geemusgoogleajax;Wesley Beary;Mon May 19 21:05:30 BRT 2008;2671;6;5;3;2;0;0;365;34;9;54;166;0,162109375;30,84337349;Contem Issue;381,5714286;4;1994;399;Ruby
+824;alltom;ruck;alltomruck;Tom Lieber;Mon May 19 23:33:01 BRT 2008;2671;2;6;5;1;0;0;75;10;0;27;372;0,36328125;16,51612903;Contem Issue;381,5714286;1;9515;1586;Ruby
+825;jsierles;js_named_routes;jsierlesjs_named_routes;Joshua Sierles;Tue May 20 00:36:42 BRT 2008;2671;6;1;1;0;0;0;127;0;11;37;100;0,09765625;10,24;Não Contem Issue;381,5714286;1;1418;1418;Ruby
+826;jamesu;railscollab;jamesurailscollab;James Urquhart;Tue May 20 07:07:19 BRT 2008;2671;26;6;0;6;0;0;70;21;73;264;4561;4,454101563;1,34707301;Contem Issue;381,5714286;3;14;2;Ruby
+827;hotchpotch;rascut;hotchpotchrascut;Yuichi Tateno;Tue May 20 07:39:40 BRT 2008;2671;5;4;0;4;0;0;390;48;7;25;178;0,173828125;23,01123596;Contem Issue;381,5714286;2;0;0;Ruby
+828;Pistos;diakonos;Pistosdiakonos;Pistos;Tue May 20 08:59:37 BRT 2008;2671;10;66;20;46;10;4;102;0;12;106;3321;3,243164063;20,35049684;Contem Issue;381,5714286;19;15687;238;Ruby
+829;copyhacker;backup_fu;copyhackerbackup_fu;Jonathan Vaught;Tue May 20 10:30:22 BRT 2008;2671;8;3;3;0;0;0;20;17;23;99;234;0,228515625;13,12820513;Não Contem Issue;381,5714286;3;6261;2087;Ruby
+830;activemerchant;active_merchant;activemerchantactive_merchant;Active Merchant;Tue May 20 10:53:26 BRT 2008;2671;449;1868;75;1793;0;0;0;0;1765;3150;37096;36,2265625;51,56437352;Contem Issue;381,5714286;664;66426;36;Ruby
+831;jnewland;san_juan;jnewlandsan_juan;Jesse Newland;Tue May 20 12:01:11 BRT 2008;2671;1;4;3;1;0;0;415;84;18;76;157;0,153320313;26,08917197;Contem Issue;381,5714286;4;4425;1106;Ruby
+832;bsag;tracks-old;bsagtracks-old;bsag;Tue May 20 15:28:29 BRT 2008;2671;45;27;0;27;0;0;30;0;214;409;20538;20,05664063;1,346187555;Contem Issue;381,5714286;12;91;3;Ruby
+833;mkdynamic;active-record-matchers;mkdynamicactive-record-matchers;Mark Dodwell;Tue May 20 19:00:29 BRT 2008;2670;2;1;0;1;0;0;78;29;0;4;117;0,114257813;8,752136752;Não Contem Issue;381,4285714;1;0;0;Ruby
+834;pluskid;rmmseg-cpp;pluskidrmmseg-cpp;Chiyuan Zhang;Tue May 20 21:09:44 BRT 2008;2670;3;4;4;0;0;0;480;0;32;131;920;0,8984375;4,452173913;Contem Issue;381,4285714;4;4617;1154;Ruby
+835;dsparling;jclock;dsparlingjclock;Doug Sparling;Tue May 20 22:39:00 BRT 2008;2670;8;12;2;10;0;0;13;38;33;64;411;0,401367188;29,89781022;Contem Issue;381,4285714;10;3513;293;JavaScript
+836;rtomayko;rpeg-markdown;rtomaykorpeg-markdown;Ryan Tomayko;Wed May 21 05:13:03 BRT 2008;2670;3;4;4;0;0;0;1794;100;12;34;625;0,610351563;6,5536;Contem Issue;381,4285714;2;7133;1783;C
+837;jandot;ruby-ensembl-api;jandotruby-ensembl-api;Jan Aerts;Wed May 21 06:57:01 BRT 2008;2670;5;13;5;8;0;0;79;11;15;39;4051;3,956054688;3,286102197;Contem Issue;381,4285714;9;6608;508;Ruby
+838;gnufied;backgroundrb;gnufiedbackgroundrb;Hemant Kumar;Wed May 21 08:25:56 BRT 2008;2670;21;10;6;4;0;0;117;96;41;219;2024;1,9765625;5,059288538;Contem Issue;381,4285714;9;11211;1121;Ruby
+839;ambethia;smtp-tls;ambethiasmtp-tls;Jason L Perry;Wed May 21 11:46:44 BRT 2008;2670;2;1;1;0;0;0;97;50;12;48;138;0,134765625;7,420289855;Não Contem Issue;381,4285714;1;1590;1590;Ruby
+840;activescaffold;active_scaffold;activescaffoldactive_scaffold;null;Wed May 21 14:47:42 BRT 2008;2670;124;443;17;426;0;0;0;0;277;880;13121;12,81347656;34,57297462;Contem Issue;381,4285714;134;29578;67;Ruby
+841;haikuwebdev;aftimagr;haikuwebdevaftimagr;null;Wed May 21 14:57:24 BRT 2008;2670;2;1;0;1;0;0;4;0;2;12;144;0,140625;7,111111111;Não Contem Issue;381,4285714;1;2148;2148;Ruby
+842;activescaffold;active_scaffold_sortable;activescaffoldactive_scaffold_sortable;null;Wed May 21 15:34:56 BRT 2008;2670;13;9;4;5;0;0;0;0;19;53;368;0,359375;25,04347826;Contem Issue;381,4285714;7;4057;451;Ruby
+843;granth;titleize;granthtitleize;Grant Hollingworth;Wed May 21 16:54:53 BRT 2008;2670;4;11;3;8;0;0;6;10;24;38;292;0,28515625;38,57534247;Contem Issue;381,4285714;10;1635;149;Ruby
+844;tbueno;delicious-ext;tbuenodelicious-ext;Thiago Bueno;Wed May 21 18:19:29 BRT 2008;2669;5;1;0;1;0;0;45;8;0;3;120;0,1171875;8,533333333;Não Contem Issue;381,2857143;1;365;365;Ruby
+845;luislavena;win32console;luislavenawin32console;Luis Lavena;Wed May 21 20:52:54 BRT 2008;2669;4;18;4;14;3;4;249;7;9;21;175;0,170898438;105,3257143;Contem Issue;381,2857143;14;5532;307;Ruby
+846;sebasmagri;portage;sebasmagriportage;Sebastián Magrí;Wed May 21 22:04:55 BRT 2008;2669;4;1;0;1;0;0;66;89;1;1;219;0,213867188;4,675799087;Não Contem Issue;381,2857143;1;0;0;Shell
+847;timcharper;calendar_date_select_demo;timcharpercalendar_date_select_demo;Tim Harper;Thu May 22 02:29:30 BRT 2008;2669;2;1;1;0;0;0;131;24;13;31;169;0,165039063;6,059171598;Não Contem Issue;381,2857143;1;2017;2017;Ruby
+848;activescaffold;file_column;activescaffoldfile_column;null;Thu May 22 03:18:15 BRT 2008;2669;7;1;1;0;0;0;0;0;4;22;319;0,311523438;3,210031348;Não Contem Issue;381,2857143;1;1865;1865;Ruby
+849;kjk;web-arslexis;kjkweb-arslexis;Krzysztof Kowalczyk;Thu May 22 03:19:11 BRT 2008;2669;2;1;0;1;0;0;183;10;0;1;32232;31,4765625;0,03176967;Não Contem Issue;381,2857143;1;157;157;PHP
+850;activescaffold;active_scaffold_demo;activescaffoldactive_scaffold_demo;null;Thu May 22 03:27:08 BRT 2008;2669;30;1;0;1;0;0;0;0;6;15;4567;4,459960938;0,22421721;Não Contem Issue;381,2857143;1;0;0;Ruby
+851;trondn;memcached;trondnmemcached;Trond Norbye;Thu May 22 04:17:14 BRT 2008;2669;86;5;5;0;0;0;96;5;6;28;3258;3,181640625;1,571516268;Contem Issue;381,2857143;3;8135;1627;C
+852;dustin;snippets;dustinsnippets;Dustin Sallings;Thu May 22 04:58:19 BRT 2008;2669;4;1;0;1;0;0;688;19;5;28;12371;12,08105469;0,08277423;Não Contem Issue;381,2857143;1;0;0;C
+853;Pistos;m4dbi;Pistosm4dbi;Pistos;Thu May 22 13:02:18 BRT 2008;2669;2;4;0;4;0;0;102;0;0;19;435;0,424804688;9,416091954;Contem Issue;381,2857143;2;26;7;Ruby
+854;sproutit;sproutcore;sproutitsproutcore;Sproutit/SproutCore;Thu May 22 14:41:45 BRT 2008;2669;170;8;1;7;0;0;0;0;70;488;37814;36,92773438;0,21663934;Contem Issue;381,2857143;7;5967;746;JavaScript
+855;sproutit;sproutcore-samples;sproutitsproutcore-samples;Sproutit/SproutCore;Thu May 22 16:14:10 BRT 2008;2669;24;10;7;3;0;0;0;0;34;234;6807;6,647460938;1,504333774;Contem Issue;381,2857143;5;12387;1239;JavaScript
+856;bterlson;reddit;bterlsonreddit;Brian Terlson;Thu May 22 19:32:48 BRT 2008;2668;4;4;1;3;0;0;133;11;9;24;132;0,12890625;31,03030303;Contem Issue;381,1428571;4;560;140;Ruby
+857;samuel;lua-quadtree;samuellua-quadtree;Samuel Stauffer;Thu May 22 19:35:40 BRT 2008;2668;1;1;1;0;0;0;98;20;3;9;88;0,0859375;11,63636364;Não Contem Issue;381,1428571;1;98;98;Lua
+858;niklas;vimmate;niklasvimmate;Niklas H;Thu May 22 19:43:51 BRT 2008;2668;4;7;6;1;0;0;22;25;2;20;956;0,93359375;7,49790795;Contem Issue;381,1428571;4;11019;1574;Ruby
+859;vicaya;hypertable;vicayahypertable;null;Thu May 22 20:29:12 BRT 2008;2668;24;1;1;0;0;0;9;1;88;76;57719;56,36621094;0,017741125;Não Contem Issue;381,1428571;1;452;452;C++
+860;bjeanes;tv-renamer;bjeanestv-renamer;Bo Jeanes;Fri May 23 01:08:16 BRT 2008;2668;4;4;0;4;0;0;168;72;6;19;122;0,119140625;33,57377049;Contem Issue;381,1428571;3;1546;387;Ruby
+861;sjlombardo;acts_as_network;sjlombardoacts_as_network;Stephen Lombardo;Fri May 23 01:27:32 BRT 2008;2668;2;3;1;2;0;0;35;3;18;107;92;0,08984375;33,39130435;Não Contem Issue;381,1428571;1;1552;517;Ruby
+862;suratpyari;blogging_app;suratpyariblogging_app;surat pyari;Fri May 23 04:21:02 BRT 2008;2668;2;1;1;0;0;0;4;1;0;1;3960;3,8671875;0,258585859;Não Contem Issue;381,1428571;1;599;599;JavaScript
+863;nuggetwheat;hypertable;nuggetwheathypertable;Doug Judd;Fri May 23 10:44:22 BRT 2008;2668;32;1;0;1;0;0;13;1;21;52;99324;96,99609375;0,010309694;Não Contem Issue;381,1428571;1;3;3;C++
+864;Spakman;jobby;Spakmanjobby;Mark Somerville;Fri May 23 10:53:15 BRT 2008;2668;6;2;1;1;0;0;26;18;2;12;584;0,5703125;3,506849315;Não Contem Issue;381,1428571;1;2029;1015;Ruby
+865;xlymian;git;xlymiangit;Paul Mylchreest;Fri May 23 15:43:47 BRT 2008;2668;528;1;1;0;0;0;8;18;11;5;13322;13,00976563;0,076865336;Não Contem Issue;381,1428571;1;960;960;C
+866;evanfarrar;opensprints;evanfarraropensprints;Evan Farrar;Fri May 23 19:17:35 BRT 2008;2667;22;88;37;51;0;0;51;88;14;35;32196;31,44140625;2,798857001;Contem Issue;381;5;78675;894;Ruby
+867;gslin;albumexpander;gslinalbumexpander;Gea-Suan Lin;Fri May 23 20:49:56 BRT 2008;2667;3;1;0;1;0;0;104;0;0;1;118;0,115234375;8,677966102;Não Contem Issue;381;1;2;2;JavaScript
+868;jnicklas;templater;jnicklastemplater;Jonas Nicklas;Fri May 23 21:08:20 BRT 2008;2667;9;7;4;3;0;0;658;7;8;46;594;0,580078125;12,06734007;Contem Issue;381;7;6995;999;Ruby
+869;djcp;radiant-fckeditor;djcpradiant-fckeditor;Daniel Collis-Puro;Fri May 23 22:48:11 BRT 2008;2667;3;5;5;0;0;0;38;5;13;45;1167;1,139648438;4,387317909;Contem Issue;381;4;9258;1852;JavaScript
+870;francois;clitt;francoisclitt;François Beausoleil;Fri May 23 22:56:40 BRT 2008;2667;1;1;1;0;0;0;72;2;0;13;117;0,114257813;8,752136752;Não Contem Issue;381;1;1154;1154;Ruby
+871;samsouder;titlecase;samsoudertitlecase;Sam Souder;Fri May 23 23:54:45 BRT 2008;2667;2;3;2;1;0;0;17;31;7;22;114;0,111328125;26,94736842;Não Contem Issue;381;3;2769;923;Ruby
+872;walf443;rack-auth-ip;walf443rack-auth-ip;Keiji, Yoshimi;Sat May 24 02:07:02 BRT 2008;2667;3;3;0;3;0;0;174;333;4;6;213;0,208007813;14,42253521;Não Contem Issue;381;2;2;1;Ruby
+873;planetbeing;iphonelinux;planetbeingiphonelinux;null;Sat May 24 02:14:00 BRT 2008;2667;21;17;10;7;0;0;536;5;90;343;9953;9,719726563;1,749020396;Contem Issue;381;12;16802;988;C
+874;grosser;acts_as_searchable;grosseracts_as_searchable;Michael Grosser;Sat May 24 02:26:51 BRT 2008;2667;3;1;0;1;0;0;285;7;0;5;252;0,24609375;4,063492063;Não Contem Issue;381;1;0;0;Ruby
+875;tablatom;rubydoctest;tablatomrubydoctest;Tom Locke;Sat May 24 08:00:57 BRT 2008;2667;10;16;9;7;0;0;68;1;11;85;350;0,341796875;46,81142857;Contem Issue;381;11;8569;536;Ruby
+876;vanto;trac-cc;vantotrac-cc;Tammo van Lessen;Sat May 24 08:09:13 BRT 2008;2667;2;1;1;0;0;0;31;40;0;1;108;0,10546875;9,481481481;Não Contem Issue;381;1;205;205;Python
+877;death;reddit-mode;deathreddit-mode;null;Sat May 24 10:29:40 BRT 2008;2667;2;4;1;3;0;0;19;8;12;34;139;0,135742188;29,4676259;Contem Issue;381;2;1625;406;Emacs Lisp
+878;apeiros;breezeforms;apeirosbreezeforms;Stefan Rusterholz;Sat May 24 11:56:15 BRT 2008;2667;1;1;1;0;0;0;50;6;0;6;132;0,12890625;7,757575758;Não Contem Issue;381;1;1724;1724;Ruby
+879;mislav;standardista;mislavstandardista;Mislav Marohni?;Sat May 24 12:03:55 BRT 2008;2667;2;2;1;1;0;0;1676;20;2;24;134;0,130859375;15,28358209;Não Contem Issue;381;2;1669;835;Ruby
+880;lukebayes;project-sprouts;lukebayesproject-sprouts;Luke Bayes;Sat May 24 16:06:31 BRT 2008;2667;13;75;4;71;0;0;82;55;41;216;38436;37,53515625;1,998126756;Contem Issue;381;25;24857;331;Ruby
+881;petertodd;alternate-pace;petertoddalternate-pace;Peter Todd;Sat May 24 17:06:59 BRT 2008;2666;1;1;1;0;0;0;262;0;0;1;4496;4,390625;0,227758007;Não Contem Issue;380,8571429;1;599;599;null
+882;mojombo;egitd;mojomboegitd;Tom Preston-Werner;Sat May 24 17:36:13 BRT 2008;2666;2;1;1;0;0;0;18399;11;17;90;270;0,263671875;3,792592593;Não Contem Issue;380,8571429;1;1199;1199;Erlang
+883;lutzky;ttime;lutzkyttime;Ohad Lutzky;Sat May 24 17:58:33 BRT 2008;2666;13;24;17;7;0;0;13;8;8;10;15330;14,97070313;1,603131115;Contem Issue;380,8571429;5;28190;1175;Ruby
+884;hadley;ggplot2;hadleyggplot2;Hadley Wickham;Sat May 24 22:21:32 BRT 2008;2666;68;1340;41;1299;0;124;4433;7;514;1447;26043;25,43261719;52,68824636;Contem Issue;380,8571429;281;228116;170;R
+885;bert;pcb-plugins;bertpcb-plugins;Bert Timmerman;Sun May 25 04:21:45 BRT 2008;2666;5;2;2;0;2;0;14;28;2;8;1307;1,276367188;1,566947207;Não Contem Issue;380,8571429;2;206;103;C
+886;yasuhito;bf;yasuhitobf;Yasuhito Takamiya;Sun May 25 09:37:21 BRT 2008;2666;1;11;0;11;0;0;25;35;0;1;448;0,4375;25,14285714;Contem Issue;380,8571429;2;1;0;Ruby
+887;pokeb;php-mvc-router;pokebphp-mvc-router;Ben Copsey;Sun May 25 12:44:56 BRT 2008;2666;1;1;0;1;0;0;451;3;24;72;113;0,110351563;9,061946903;Não Contem Issue;380,8571429;1;48;48;PHP
+888;drnic;github-tmbundle;drnicgithub-tmbundle;Dr Nic Williams;Mon May 26 01:36:40 BRT 2008;2665;14;21;12;9;0;0;1448;13;37;235;311;0,303710938;69,14469453;Contem Issue;380,7142857;19;23290;1109;Ruby
+889;makkalot;func;makkalotfunc;null;Mon May 26 02:12:29 BRT 2008;2665;45;1;1;0;0;0;10;7;3;13;1769;1,727539063;0,578858112;Não Contem Issue;380,7142857;1;599;599;Python
+890;madx;merb-todolist;madxmerb-todolist;François Vaux;Mon May 26 12:53:32 BRT 2008;2665;1;1;1;0;0;0;49;44;0;2;148;0,14453125;6,918918919;Não Contem Issue;380,7142857;1;599;599;Ruby
+891;bricooke;backpack-journal;bricookebackpack-journal;Brian Cooke;Mon May 26 14:06:01 BRT 2008;2665;2;1;0;1;0;0;30;6;3;8;396;0,38671875;2,585858586;Não Contem Issue;380,7142857;1;0;0;JavaScript
+892;schleyfox;ruby_kml;schleyfoxruby_kml;Ben Hughes;Mon May 26 16:00:57 BRT 2008;2665;7;12;10;2;0;0;54;12;26;53;189;0,184570313;65,01587302;Contem Issue;380,7142857;9;9224;769;Ruby
+893;crafterm;twilight-emacs;craftermtwilight-emacs;Marcus Crafter;Mon May 26 20:15:12 BRT 2008;2664;9;7;2;5;0;0;131;106;13;92;214;0,208984375;33,4953271;Contem Issue;380,5714286;6;2780;397;Emacs Lisp
+894;raykrueger;hibernate-memcached;raykruegerhibernate-memcached;Ray Krueger;Mon May 26 23:39:55 BRT 2008;2664;9;16;5;11;0;0;35;18;85;107;581;0,567382813;28,19965577;Contem Issue;380,5714286;12;5187;324;Java
+895;captproton;caboo.se-sample-app-v3;captprotoncaboo.se-sample-app-v3;captproton;Tue May 27 02:42:29 BRT 2008;2664;1;1;1;0;0;0;8;22;0;4;2000;1,953125;0,512;Não Contem Issue;380,5714286;1;599;599;Ruby
+896;mkllnk;gedit-rails-extensions;mkllnkgedit-rails-extensions;Maikel;Tue May 27 04:48:42 BRT 2008;2664;3;2;0;2;0;0;1;2;4;43;393;0,383789063;5,211195929;Não Contem Issue;380,5714286;2;7;4;Shell
+897;wharsojo;w2tags;wharsojow2tags;Widi Harsojo;Tue May 27 08:05:43 BRT 2008;2664;6;1;1;0;0;0;13;0;2;13;1164;1,13671875;0,879725086;Não Contem Issue;380,5714286;1;1518;1518;JavaScript
+898;Mikachu;openbox;Mikachuopenbox;null;Tue May 27 17:54:40 BRT 2008;2663;92;2;0;2;0;0;8;0;7;30;33837;33,04394531;0,06052546;Não Contem Issue;380,4285714;2;3;2;C
+899;solars;github-vim;solarsgithub-vim;Christoph Blank;Tue May 27 19:36:50 BRT 2008;2663;10;14;1;13;0;0;2;3;12;38;234;0,228515625;61,26495726;Contem Issue;380,4285714;10;1321;94;VimL
+900;bostonrb;bostonrb;bostonrbbostonrb;Boston Ruby Group;Tue May 27 21:00:20 BRT 2008;2663;38;173;11;162;0;0;0;0;72;206;18275;17,84667969;9,693679891;Contem Issue;380,4285714;36;33220;192;Ruby
+901;sebnow;aur2;sebnowaur2;Sebastian Nowicki;Wed May 28 13:51:34 BRT 2008;2663;7;7;5;2;2;2;13;17;3;10;322;0,314453125;22,26086957;Contem Issue;380,4285714;2;14451;2064;Python
+902;tma;html_helpers;tmahtml_helpers;Thomas Maurer;Wed May 28 14:39:37 BRT 2008;2663;5;5;4;1;0;0;7;2;4;12;427;0,416992188;11,99063232;Contem Issue;380,4285714;4;5214;1043;Ruby
+903;sbecker;github_editor_theme;sbeckergithub_editor_theme;Scott Becker;Wed May 28 17:18:13 BRT 2008;2662;7;7;3;4;0;0;40;23;46;111;129;0,125976563;55,56589147;Contem Issue;380,2857143;7;3605;515;null
+904;travis;erlang-uuid;traviserlang-uuid;Travis Vachon;Thu May 29 01:18:57 BRT 2008;2662;6;10;5;5;0;0;46;9;49;61;283;0,276367188;36,18374558;Contem Issue;380,2857143;9;6477;648;Erlang
+905;dustin;elock;dustinelock;Dustin Sallings;Thu May 29 04:35:41 BRT 2008;2662;1;1;1;0;0;0;688;19;12;55;114;0,111328125;8,98245614;Não Contem Issue;380,2857143;1;1977;1977;Erlang
+906;azabaj;acts_as_rateable;azabajacts_as_rateable;Ferenc Fekete;Thu May 29 07:19:54 BRT 2008;2662;4;2;1;1;0;0;18;7;37;160;81;0,079101563;25,28395062;Não Contem Issue;380,2857143;2;2432;1216;Ruby
+907;mloughran;api_cache;mloughranapi_cache;Martyn Loughran;Thu May 29 07:39:48 BRT 2008;2662;11;21;4;17;0;0;54;1;26;298;300;0,29296875;71,68;Contem Issue;380,2857143;16;10064;479;Ruby
+908;duritong;puppet-yum;duritongpuppet-yum;duritong;Thu May 29 08:24:57 BRT 2008;2662;4;1;0;1;0;0;89;106;7;11;276;0,26953125;3,710144928;Não Contem Issue;380,2857143;1;5;5;Puppet
+909;jandot;bio-graphics;jandotbio-graphics;Jan Aerts;Thu May 29 09:39:02 BRT 2008;2662;5;1;1;0;0;0;79;11;5;22;1721;1,680664063;0,595002905;Não Contem Issue;380,2857143;1;811;811;Ruby
+910;jlong;popupjs;jlongpopupjs;John W. Long;Thu May 29 11:32:49 BRT 2008;2662;1;4;1;3;0;0;220;8;12;56;1374;1,341796875;2,981077147;Contem Issue;380,2857143;3;689;172;JavaScript
+911;rails;account_location;railsaccount_location;Ruby on Rails;Thu May 29 17:14:45 BRT 2008;2661;2;1;0;1;0;0;0;0;12;70;148;0,14453125;6,918918919;Não Contem Issue;380,1428571;1;959;959;Ruby
+912;sorbits;six;sorbitssix;Allan Odgaard;Thu May 29 17:17:22 BRT 2008;2661;12;1;1;0;0;0;420;1;0;1;247;0,241210938;4,145748988;Não Contem Issue;380,1428571;1;2336;2336;Ruby
+913;rails;acts_as_list;railsacts_as_list;Ruby on Rails;Thu May 29 17:21:01 BRT 2008;2661;6;21;15;6;0;0;0;0;282;391;485;0,473632813;44,33814433;Contem Issue;380,1428571;20;25551;1217;Ruby
+914;rails;acts_as_nested_set;railsacts_as_nested_set;Ruby on Rails;Thu May 29 17:23:10 BRT 2008;2661;2;2;2;0;0;0;0;0;11;66;77;0,075195313;26,5974026;Não Contem Issue;380,1428571;2;3206;1603;Ruby
+915;luislavena;mysql-gem;luislavenamysql-gem;Luis Lavena;Thu May 29 17:24:55 BRT 2008;2661;6;31;5;26;1;2;249;7;16;38;433;0,422851563;73,31177829;Contem Issue;380,1428571;23;4155;134;C
+916;rails;acts_as_tree;railsacts_as_tree;Ruby on Rails;Thu May 29 17:25:07 BRT 2008;2661;2;5;5;0;0;0;0;0;126;279;272;0,265625;18,82352941;Contem Issue;380,1428571;5;6980;1396;Ruby
+917;rails;auto_complete;railsauto_complete;Ruby on Rails;Thu May 29 17:27:54 BRT 2008;2661;1;13;13;0;0;0;0;0;75;219;344;0,3359375;38,69767442;Contem Issue;380,1428571;9;24454;1881;Ruby
+918;rails;deadlock_retry;railsdeadlock_retry;Ruby on Rails;Thu May 29 17:30:47 BRT 2008;2661;2;1;1;0;0;0;0;0;41;22;219;0,213867188;4,675799087;Não Contem Issue;380,1428571;1;2108;2108;Ruby
+919;rails;exception_notification;railsexception_notification;Ruby on Rails;Thu May 29 17:32:17 BRT 2008;2661;13;15;10;5;0;0;0;0;436;886;292;0,28515625;52,60273973;Contem Issue;380,1428571;14;18095;1206;Ruby
+920;rails;in_place_editing;railsin_place_editing;Ruby on Rails;Thu May 29 17:34:50 BRT 2008;2661;4;5;5;0;0;0;0;0;50;232;275;0,268554688;18,61818182;Contem Issue;380,1428571;5;9730;1946;Ruby
+921;rails;open_id_authentication;railsopen_id_authentication;Ruby on Rails;Thu May 29 17:38:42 BRT 2008;2661;14;2;1;1;0;0;0;0;63;295;221;0,215820313;9,266968326;Não Contem Issue;380,1428571;2;3218;1609;Ruby
+922;rails;scriptaculous_slider;railsscriptaculous_slider;Ruby on Rails;Thu May 29 17:55:40 BRT 2008;2661;1;1;1;0;0;0;0;0;8;15;90;0,087890625;11,37777778;Não Contem Issue;380,1428571;1;1987;1987;JavaScript
+923;rails;ssl_requirement;railsssl_requirement;Ruby on Rails;Thu May 29 17:57:36 BRT 2008;2661;3;8;6;2;0;0;0;0;164;322;79;0,077148438;103,6962025;Contem Issue;380,1428571;8;7999;1000;Ruby
+924;ljouglar;card-set;ljouglarcard-set;Laurent Jouglar;Thu May 29 17:58:11 BRT 2008;2661;4;1;1;0;0;0;2;3;0;1;472;0,4609375;2,169491525;Não Contem Issue;380,1428571;1;599;599;Ruby
+925;svenfuchs;routing-filter;svenfuchsrouting-filter;Sven Fuchs;Thu May 29 20:08:07 BRT 2008;2661;27;57;10;47;0;0;534;85;65;356;513;0,500976563;113,7777778;Contem Issue;380,1428571;42;16854;296;Ruby
+926;nono;github_vim_theme;nonogithub_vim_theme;Bruno Michel;Thu May 29 20:35:28 BRT 2008;2661;3;1;0;1;0;0;164;101;17;41;106;0,103515625;9,660377358;Não Contem Issue;380,1428571;1;0;0;VimL
+927;TwP;logging;TwPlogging;Tim Pease;Fri May 30 01:03:30 BRT 2008;2661;22;122;13;109;0;0;166;8;62;354;1559;1,522460938;80,13341886;Contem Issue;380,1428571;61;16944;139;Ruby
+928;jmathai;epiphany;jmathaiepiphany;Jaisen Mathai;Fri May 30 03:22:51 BRT 2008;2661;17;98;35;63;0;2;290;3;141;648;771;0,752929688;130,1582361;Contem Issue;380,1428571;33;27827;284;PHP
+929;fiveruns;fiveruns_tuneup;fiverunsfiveruns_tuneup;FiveRuns Development Team;Fri May 30 03:24:11 BRT 2008;2661;8;3;3;0;0;0;67;0;9;62;789;0,770507813;3,893536122;Não Contem Issue;380,1428571;3;3853;1284;Ruby
+930;reedlaw;myweblog;reedlawmyweblog;Reed G. Law;Fri May 30 05:57:38 BRT 2008;2661;1;1;1;0;0;0;26;20;0;2;188;0,18359375;5,446808511;Não Contem Issue;380,1428571;1;599;599;Ruby
+931;dokai;gitctl;dokaigitctl;Kai Lautaportti;Fri May 30 07:30:47 BRT 2008;2661;2;1;1;0;0;0;13;1;1;9;381;0,372070313;2,687664042;Não Contem Issue;380,1428571;1;719;719;Python
+932;neo4jrb;neo4j;neo4jrbneo4j;Neo4jRB;Fri May 30 07:44:36 BRT 2008;2661;77;962;79;883;1;23;0;0;174;913;50117;48,94238281;19,65576551;Contem Issue;380,1428571;169;52095;54;Ruby
+933;kbingman;paperclipped;kbingmanpaperclipped;Keith Bingman;Fri May 30 11:21:25 BRT 2008;2661;29;43;33;10;0;0;26;0;68;133;1221;1,192382813;36,06224406;Contem Issue;380,1428571;31;61185;1423;Ruby
+934;davetroy;geohash-js;davetroygeohash-js;Dave Troy;Fri May 30 11:45:19 BRT 2008;2661;1;6;6;0;0;0;46;2;71;275;109;0,106445313;56,36697248;Contem Issue;380,1428571;5;6139;1023;JavaScript
+935;davidfstr;rdiscount;davidfstrrdiscount;David Foster;Fri May 30 13:54:07 BRT 2008;2661;24;130;4;126;0;0;25;4;71;740;1823;1,780273438;73,0224904;Contem Issue;380,1428571;89;33370;257;C
+936;dsisnero;gdata-ruby;dsisnerogdata-ruby;null;Fri May 30 14:40:22 BRT 2008;2661;4;1;0;1;0;0;7;28;13;47;112;0,109375;9,142857143;Não Contem Issue;380,1428571;1;0;0;Ruby
+937;notahat;not_a_mock;notahatnot_a_mock;Pete Yandell;Fri May 30 14:55:50 BRT 2008;2661;4;2;2;0;0;0;143;5;3;47;116;0,11328125;17,65517241;Não Contem Issue;380,1428571;2;3533;1767;Ruby
+938;kjk;fofou;kjkfofou;Krzysztof Kowalczyk;Sat May 31 00:01:58 BRT 2008;2660;2;4;1;3;0;0;183;10;38;175;1249;1,219726563;3,279423539;Contem Issue;380;3;414;104;Go
+939;jerrett;rails_money;jerrettrails_money;Jerrett Strain;Sat May 31 01:07:08 BRT 2008;2660;8;1;0;1;0;0;8;4;10;16;226;0,220703125;4,530973451;Não Contem Issue;380;1;1558;1558;Ruby
+940;haruska;fb2twit;haruskafb2twit;Jason Haruska;Sat May 31 01:37:05 BRT 2008;2660;1;1;1;0;0;0;32;15;0;3;276;0,26953125;3,710144928;Não Contem Issue;380;1;599;599;Ruby
+941;notahat;time_travel;notahattime_travel;Pete Yandell;Sat May 31 02:10:36 BRT 2008;2660;4;1;1;0;0;0;143;5;3;33;131;0,127929688;7,816793893;Não Contem Issue;380;1;1607;1607;Ruby
+942;eagleas;webmoney;eagleaswebmoney;Alexander Oryol;Sat May 31 02:54:52 BRT 2008;2660;11;25;4;21;0;0;1;0;23;38;600;0,5859375;42,66666667;Contem Issue;380;14;1407;56;Ruby
+943;ianwhite;truncate_html;ianwhitetruncate_html;Ian White;Sat May 31 07:51:32 BRT 2008;2660;4;3;1;2;0;0;79;9;11;53;291;0,284179688;10,55670103;Não Contem Issue;380;1;1358;453;Ruby
+944;awendt;hyggelig;awendthyggelig;André Wendt;Sat May 31 08:12:21 BRT 2008;2660;5;8;1;7;0;0;21;22;0;4;1192;1,1640625;6,872483221;Contem Issue;380;2;7955;994;Ruby
+945;markusb;pdf-create;markusbpdf-create;Markus Baertschi;Sat May 31 08:17:37 BRT 2008;2660;3;2;1;1;0;0;1;1;4;12;1021;0,997070313;2,005876592;Não Contem Issue;380;2;1245;623;Perl
+946;chneukirchen;rack;chneukirchenrack;Christian Neukirchen;Sat May 31 09:06:38 BRT 2008;2660;277;10;0;10;0;0;487;1;5;470;2436;2,37890625;4,203612479;Contem Issue;380;10;1587;159;Ruby
+947;jlong;serve;jlongserve;John W. Long;Sat May 31 11:40:53 BRT 2008;2660;32;130;23;107;0;0;220;8;96;836;8412;8,21484375;15,82501189;Contem Issue;380;80;29875;230;Ruby
+948;pjf;autodie;pjfautodie;Paul Fenwick;Sat May 31 12:05:48 BRT 2008;2660;38;68;13;55;0;0;169;32;17;29;2192;2,140625;31,76642336;Contem Issue;380;23;17691;260;Perl
+949;pjf;ipc-system-simple;pjfipc-system-simple;Paul Fenwick;Sat May 31 13:50:57 BRT 2008;2660;7;16;6;10;1;0;169;32;8;10;561;0,547851563;29,20499109;Contem Issue;380;10;3761;235;Perl
+950;tkmr;as2js;tkmras2js;TAKAMURA Tatsuya;Sat May 31 13:58:02 BRT 2008;2660;1;1;1;0;0;0;5;14;1;4;92;0,08984375;11,13043478;Não Contem Issue;380;1;1415;1415;ActionScript
+951;ninjudd;record_cache;ninjuddrecord_cache;Justin Balthrop;Sat May 31 15:09:07 BRT 2008;2660;7;11;7;4;0;0;99;26;6;39;358;0,349609375;31,46368715;Contem Issue;380;7;9024;820;Ruby
+952;superchris;rubyjs;superchrisrubyjs;Chris Nelson;Sat May 31 16:00:20 BRT 2008;2660;3;2;2;0;0;0;53;3;5;54;6149;6,004882813;0,333062287;Não Contem Issue;380;1;2946;1473;JavaScript
+953;seaofclouds;pop;seaofcloudspop;seaofclouds;Sat May 31 16:07:18 BRT 2008;2660;1;2;2;0;0;0;126;24;21;49;165;0,161132813;12,41212121;Não Contem Issue;380;1;2325;1163;JavaScript
+954;davidB;scala-tools-parent;davidBscala-tools-parent;David Bernard;Sat May 31 17:50:07 BRT 2008;2659;2;1;0;1;0;0;36;0;0;3;236;0,23046875;4,338983051;Não Contem Issue;379,8571429;1;0;0;null
+955;yariv;twoorl;yarivtwoorl;Yariv Sadan;Sat May 31 17:56:10 BRT 2008;2659;8;1;1;0;0;0;98;2;12;80;454;0,443359375;2,255506608;Não Contem Issue;379,8571429;1;2339;2339;Erlang
+956;davidB;scala-maven-plugin;davidBscala-maven-plugin;David Bernard;Sat May 31 18:02:12 BRT 2008;2659;37;170;25;145;0;0;36;0;62;224;6049;5,907226563;28,77831046;Contem Issue;379,8571429;90;39541;233;Java
+957;jhubert;ruby-date-recur;jhubertruby-date-recur;Jeremy Baker;Sat May 31 18:13:38 BRT 2008;2659;2;1;1;0;0;0;32;43;0;19;90;0,087890625;11,37777778;Não Contem Issue;379,8571429;1;1885;1885;Ruby
+958;GUI;after_commit;GUIafter_commit;Nick Muerdter;Sat May 31 18:24:46 BRT 2008;2659;3;2;2;0;0;0;31;0;41;44;132;0,12890625;15,51515152;Não Contem Issue;379,8571429;2;3890;1945;Ruby
+959;WardCunningham;morse;WardCunninghammorse;Ward Cunningham;Sat May 31 19:26:12 BRT 2008;2659;6;3;0;3;0;0;604;3;7;25;2226;2,173828125;1,380053908;Não Contem Issue;379,8571429;3;608;203;C++
+960;AntonyBlakey;smalltalk.tmbundle;AntonyBlakeysmalltalk.tmbundle;Antony Blakey;Sat May 31 20:04:57 BRT 2008;2659;1;1;0;1;0;0;3;0;2;12;86;0,083984375;11,90697674;Não Contem Issue;379,8571429;1;11;11;null
+961;matthewfallshaw;change_tempo;matthewfallshawchange_tempo;Matthew Fallshaw;Sat May 31 20:22:00 BRT 2008;2659;2;1;0;1;0;0;15;1;1;1;268;0,26171875;3,820895522;Não Contem Issue;379,8571429;1;0;0;Ruby
+962;commonthread;flickr_fu;commonthreadflickr_fu;CommonThread;Sat May 31 21:27:55 BRT 2008;2659;25;29;10;19;0;0;9;1;51;218;424;0,4140625;70,03773585;Contem Issue;379,8571429;22;16753;578;Ruby
+963;kevinclark;dust;kevinclarkdust;Kevin Clark;Sat May 31 21:43:28 BRT 2008;2659;2;2;1;1;0;0;72;4;4;67;710;0,693359375;2,884507042;Não Contem Issue;379,8571429;2;1289;645;Ruby
+964;cjbottaro;without_callbacks;cjbottarowithout_callbacks;Christopher J. Bottaro;Sat May 31 23:23:56 BRT 2008;2659;1;2;2;0;0;0;13;0;1;11;90;0,087890625;22,75555556;Não Contem Issue;379,8571429;2;3244;1622;Ruby
+965;adkron;sinatratumblog;adkronsinatratumblog;Amos King;Sun Jun 01 01:13:50 BRT 2008;2659;2;1;0;1;0;0;59;17;0;3;108;0,10546875;9,481481481;Não Contem Issue;379,8571429;1;0;0;Ruby
+966;ngerakines;erlang_twitter;ngerakineserlang_twitter;Nick Gerakines;Sun Jun 01 05:01:19 BRT 2008;2659;7;5;4;1;0;0;256;74;27;118;189;0,184570313;27,08994709;Contem Issue;379,8571429;5;6484;1297;Erlang
+967;adambair;fu-fu;adambairfu-fu;Adam Bair;Sun Jun 01 05:13:35 BRT 2008;2659;5;3;2;1;0;0;72;54;13;63;1018;0,994140625;3,017681729;Não Contem Issue;379,8571429;3;4037;1346;Ruby
+968;credmp;color-theme-arjen;credmpcolor-theme-arjen;Arjen Wiersma;Sun Jun 01 06:41:38 BRT 2008;2659;2;2;0;2;0;0;4;11;1;9;252;0,24609375;8,126984127;Não Contem Issue;379,8571429;1;241;121;Emacs Lisp
+969;bchiu;merb_forgery_protection;bchiumerb_forgery_protection;Ben Chiu;Sun Jun 01 13:25:24 BRT 2008;2659;1;1;1;0;0;0;0;0;1;6;125;0,122070313;8,192;Não Contem Issue;379,8571429;1;1981;1981;Ruby
+970;subwindow;negative-captcha;subwindownegative-captcha;Erik Peterson;Sun Jun 01 13:59:07 BRT 2008;2659;21;50;11;39;0;0;15;17;83;722;336;0,328125;152,3809524;Contem Issue;379,8571429;30;8329;167;Ruby
+971;lackac;callout;lackaccallout;László Bácsi;Sun Jun 01 17:24:49 BRT 2008;2658;1;1;1;0;0;0;39;14;0;8;120;0,1171875;8,533333333;Não Contem Issue;379,7142857;1;1721;1721;JavaScript
+972;zeuz;travian;zeuztravian;null;Sun Jun 01 18:39:57 BRT 2008;2658;1;1;0;1;0;0;0;0;0;1;96;0,09375;10,66666667;Não Contem Issue;379,7142857;1;2;2;PHP
+973;myers;id3v2;myersid3v2;Myers Carpenter;Sun Jun 01 19:10:27 BRT 2008;2658;5;2;1;1;0;0;7;7;8;13;230;0,224609375;8,904347826;Não Contem Issue;379,7142857;2;1119;560;C++
+974;rubyspec;rubyspec;rubyspecrubyspec;RubySpec;Sun Jun 01 19:27:12 BRT 2008;2658;315;315;13;302;0;0;0;0;246;664;21531;21,02636719;14,98118991;Contem Issue;379,7142857;122;46004;146;null
+975;mutle;fu2;mutlefu2;Mutwin Kraus;Sun Jun 01 20:14:58 BRT 2008;2658;11;138;12;126;1;2;71;3;5;12;59426;58,03320313;2,377949046;Contem Issue;379,7142857;4;11973;87;Ruby
+976;acangiano;ruby-benchmark-suite;acangianoruby-benchmark-suite;Antonio Cangiano;Sun Jun 01 20:38:14 BRT 2008;2658;14;11;1;10;0;0;9;3;19;166;18500;18,06640625;0,608864865;Contem Issue;379,7142857;5;3234;294;C
+977;maiha;dsl_accessor;maihadsl_accessor;null;Sun Jun 01 21:12:29 BRT 2008;2658;1;1;1;0;0;0;100;12;1;6;159;0,155273438;6,440251572;Não Contem Issue;379,7142857;1;1859;1859;Ruby
+978;rubyspec;mspec;rubyspecmspec;RubySpec;Sun Jun 01 21:13:28 BRT 2008;2658;42;66;15;51;0;0;0;0;43;85;1645;1,606445313;41,08449848;Contem Issue;379,7142857;28;17995;273;Ruby
+979;ukstudio;acts_as_bits;ukstudioacts_as_bits;AKAMATSU Yuki;Sun Jun 01 22:12:26 BRT 2008;2658;4;3;0;3;0;0;125;75;2;13;292;0,28515625;10,52054795;Não Contem Issue;379,7142857;2;1;0;Ruby
+980;tenderlove;betabrite;tenderlovebetabrite;Aaron Patterson;Mon Jun 02 01:44:38 BRT 2008;2658;2;1;1;0;0;0;4468;19;5;11;150;0,146484375;6,826666667;Não Contem Issue;379,7142857;1;391;391;Ruby
+981;ariya;screenie;ariyascreenie;Ariya Hidayat;Mon Jun 02 09:53:33 BRT 2008;2658;8;2;2;0;0;0;1316;0;8;26;1416;1,3828125;1,446327684;Não Contem Issue;379,7142857;2;3329;1665;C++
+982;72squared;glu-php;72squaredglu-php;John Loehrer;Mon Jun 02 12:50:17 BRT 2008;2658;4;1;0;1;0;0;8;4;0;7;2838;2,771484375;0,360817477;Não Contem Issue;379,7142857;1;0;0;PHP
+983;mbleigh;subdomain-fu;mbleighsubdomain-fu;Michael Bleigh;Mon Jun 02 17:03:53 BRT 2008;2657;28;33;22;11;0;0;562;32;118;600;249;0,243164063;135,7108434;Contem Issue;379,5714286;24;43475;1317;Ruby
+984;hoverbird;chance;hoverbirdchance;Patrick Ewing;Mon Jun 02 18:00:28 BRT 2008;2657;2;1;0;1;0;0;313;119;1;7;270;0,263671875;3,792592593;Não Contem Issue;379,5714286;1;6;6;Ruby
+985;edavis10;redmine;edavis10redmine;Eric Davis;Mon Jun 02 19:36:50 BRT 2008;2657;10;65;33;32;0;0;374;0;712;2325;67591;66,00683594;0,98474649;Contem Issue;379,5714286;49;53119;817;Ruby
+986;robmckinnon;rugalytics;robmckinnonrugalytics;Rob McKinnon;Mon Jun 02 20:47:22 BRT 2008;2657;6;2;0;2;0;0;69;32;12;115;501;0,489257813;4,087824351;Não Contem Issue;379,5714286;1;0;0;Ruby
+987;yob;pdf-reader;yobpdf-reader;James Healy;Mon Jun 02 22:11:36 BRT 2008;2657;31;148;58;90;0;0;94;69;139;788;13193;12,88378906;11,48730387;Contem Issue;379,5714286;105;42778;289;Ruby
+988;webmat;git_remote_branch;webmatgit_remote_branch;Mathieu Martin;Mon Jun 02 22:16:56 BRT 2008;2657;11;19;3;16;0;0;55;76;32;375;467;0,456054688;41,66167024;Contem Issue;379,5714286;17;3975;209;Ruby
+989;jstewart;system_messages;jstewartsystem_messages;Jason Stewart;Mon Jun 02 22:21:00 BRT 2008;2657;1;1;0;1;0;0;12;8;9;36;129;0,125976563;7,937984496;Não Contem Issue;379,5714286;1;527;527;Ruby
+990;infews;amaz.infews;infewsamaz.infews;Davis W. Frank;Tue Jun 03 02:04:12 BRT 2008;2657;4;1;1;0;0;0;62;1;0;1;3904;3,8125;0,262295082;Não Contem Issue;379,5714286;1;599;599;Ruby
+991;mernen;json-jruby;mernenjson-jruby;Daniel Luz;Tue Jun 03 02:47:48 BRT 2008;2657;4;10;2;8;0;2;14;3;2;23;516;0,50390625;19,84496124;Contem Issue;379,5714286;9;4101;410;Ruby
+992;kommen;quikiee;kommenquikiee;Dieter Komendera;Tue Jun 03 04:22:40 BRT 2008;2657;1;1;0;1;0;0;33;5;1;8;133;0,129882813;7,69924812;Não Contem Issue;379,5714286;1;0;0;Objective-C
+993;chrisa;ruby-dtrace;chrisaruby-dtrace;Chris Andrews;Tue Jun 03 09:14:03 BRT 2008;2657;9;2;1;1;0;0;38;12;6;60;648;0,6328125;3,160493827;Não Contem Issue;379,5714286;2;1418;709;C
+994;bdarcus;mysite;bdarcusmysite;null;Tue Jun 03 10:38:53 BRT 2008;2657;1;1;1;0;0;0;13;0;0;1;164;0,16015625;6,243902439;Não Contem Issue;379,5714286;1;2185;2185;Python
+995;thoughtbot;factory_girl;thoughtbotfactory_girl;thoughtbot, inc.;Tue Jun 03 10:55:37 BRT 2008;2657;136;813;80;733;0;25;0;0;754;4345;4182;4,083984375;199,0703013;Contem Issue;379,5714286;549;51962;64;Ruby
+996;cpjolicoeur;bb-ruby;cpjolicoeurbb-ruby;Craig P Jolicoeur;Tue Jun 03 11:36:06 BRT 2008;2657;18;35;0;35;0;0;43;10;46;107;595;0,581054688;60,23529412;Contem Issue;379,5714286;21;3765;108;Ruby
+997;elim;dotemacs;elimdotemacs;Takeru Naito;Tue Jun 03 11:43:25 BRT 2008;2657;5;53;0;53;0;0;47;44;0;13;1484;1,44921875;36,57142857;Contem Issue;379,5714286;1;262;5;Emacs Lisp
+998;edgarjs;ajaxful-rating;edgarjsajaxful-rating;Edgar Suarez;Tue Jun 03 12:28:10 BRT 2008;2657;15;102;34;68;0;0;62;10;135;434;687;0,670898438;152,0349345;Contem Issue;379,5714286;54;44430;436;Ruby
+999;edgarjs;youtube-model;edgarjsyoutube-model;Edgar Suarez;Tue Jun 03 12:40:54 BRT 2008;2657;6;5;4;1;0;0;62;10;10;78;3223;3,147460938;1,588582066;Contem Issue;379,5714286;5;7050;1410;Ruby

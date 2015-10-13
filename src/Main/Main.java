@@ -49,8 +49,11 @@ public class Main {
 	static String nomeArquivoMarcacaoAnalitico =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseMarcacao/Analise_Marcacao_" + dateFormat.format(cal.getTime())+ ".txt";	
 	static String nomeArquivoMarcacaoConsolidado =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseMarcacao/Consolidado/Analise_Marcacao_Consolidado_"+ dateFormat.format(cal.getTime()) +".txt";	
 	static String nomeArquivoListaIssue =  "C:/Users/Casimiro/git/Territorialidade/arquivos/listaIssue/listaIssue"+ dateFormat.format(cal.getTime()) +".txt";	
+	static String nomeArquivoContributors =  "C:/Users/Casimiro/git/Territorialidade/arquivos/listaContributors/listaContributors"+ dateFormat.format(cal.getTime()) +".txt";	
 	
-	static int TAMANHO_AMOSTRA = 1000;
+	
+	static int TAMANHO_AMOSTRA = 9999;
+	static int INICIO = 1550;
 	
 	public static void main(String[] args) throws IOException, RequestException, NoSuchPageException, InterruptedException {
 		
@@ -67,43 +70,42 @@ public class Main {
 		
 		//Autentica Cliente e inicializa serviços
 		GitHubClient client = new GitHubClient();
-		client.setOAuth2Token("b388326a588cba7c71befbfe31014d05e91e6945");
+		client.setOAuth2Token("b331adcd6c7d36ab36a7bca4f100f49e4154ec87");
 		CommitService commitService = new CommitService(client);
-		
+		IssueService issueService = new IssueService(client);
+		UserService userService = new UserService(client);
+		 	
 	
 		ArrayList<LabelConsolidado> consolidadoLabel= Reader.geraListaConsolidadaLabels();
 		System.out.println("Consolidado Inicializado!!!");
 		//Inicializa Repositórios
 		//ArrayList<Repositorio> repositorios = Reader.inicializaListaRepositórios(client, TAMANHO_AMOSTRA);
-		ArrayList<Repositorio> repositorios = Reader.executeListaSimples(client, TAMANHO_AMOSTRA);
+		//ArrayList<Repositorio> repositorios = Reader.executeListaSimples(client, TAMANHO_AMOSTRA);
 		ArrayList<MarcacaoIssue> marcacoes = new ArrayList<MarcacaoIssue>();
-				//Reader.executeListaSimples(); 
+				
+		Reader.executeListaComAnalise(client, TAMANHO_AMOSTRA, INICIO, consolidadoLabel, marcacoes);
 		
 		
 		
 		//Calculo das Quantidades de Issues
-		//for(int cont = 682; cont < 1000 ; cont++){
-		for(Repositorio r: repositorios){
+		//for(int cont = 427; cont < 1000 ; cont++){
+		//for(Repositorio r: repositorios){
 		//	Repositorio r = repositorios.get(cont);
-			r.downloadCommits(commitService);
+			//r.downloadCommits(commitService, userService);
 			
 			
-			r.calculaQuantidadesIssues(consolidadoLabel);
+			//r.calculaQuantidadesIssues(consolidadoLabel);
 			/*totalOpenIssue += r.getOpenIssue();
 			totalClosedIssue += r.getClosedIssue();
 			totalOpenIssueBug += r.getOpenIssueBug();
 			totalClosedIssueBug += r.getClosedIssueBug();
 			*/
 			
-			MetodosAuxiliaresLabel.insereMarcacaoLabelConsolidado(marcacoes, consolidadoLabel,r.getMarcacaoIssue());
-			for(MarcacaoIssue m : r.getMarcacaoIssue()){
-				if(m.getTipo().equals(TipoMarcacao.MILESTONE))
-					MetodosAuxiliaresLabel.insereMarcacaoMilestoneConsolidado(marcacoes, m);
-			}
+			//analiseMarcacao(consolidadoLabel, marcacoes, r);
 			
 		//Encontro os commits feitos que fecharam um issue
 			//r.defeitosCorrigidosCommit(commitService, issueService);	
-			r.defeitosCorrigidosCommitOrigemCSV();
+			//r.defeitosCorrigidosCommitOrigemCSV();
 			/*totalContadorIssuesCorrigidosCommits += r.getContadorIssuesCorrigidosCommits();
 			totalContadorIssuesBugCorrigidosCommits += r.getContadorIssuesBugCorrigidosCommits();
 			*/
@@ -111,17 +113,17 @@ public class Main {
 		// Armazena commits em arquivos
 			
 		//Calcula % de 	issues encerrados atraves de commit em um repositorio
-			r.calculaIssuesFechadosCommit();	
-			Writer.printConteudoCSV(nomeArquivoAnaliseCSV ,r, cont);
-			Writer.printConteudoRepositorioIssuesCSV(nomeArquivoListaIssue, r, cont, client);
-			System.out.println("Encerrado Repositório: " + r.getUserName() +"/" + r.getRepositoryName());
+			//r.calculaIssuesFechadosCommit();	
+			//Writer.printConteudoCSV(r, cont);
+			//Writer.printConteudoRepositorioIssuesCSV(r, cont, client);
+			//Writer.printContributors(r);
+			//System.out.println("Encerrado Repositório: " + r.getUserName() +"/" + r.getRepositoryName());
 			
 			//Writer.printAnaliseMarcacaoIssue(nomeArquivoMarcacaoAnalitico, r, cont);
-			cont++;
+			//cont++;
 			
-			if((cont % 100) == 0)
-				Writer.printAnaliseMarcacaoCompleta(nomeArquivoMarcacaoConsolidado, marcacoes);
-		}
+				//Writer.printAnaliseMarcacaoCompleta(nomeArquivoMarcacaoConsolidado, marcacoes);
+	//	}
 		/*if(totalContadorIssuesCorrigidosCommits > 0){
 			totalPorcentualIssuesFechadosCommit = (double) (totalContadorIssuesCorrigidosCommits * 100) / totalClosedIssue;
 			totalPorcentualIssuesBugFechadosCommit = (double) (totalContadorIssuesBugCorrigidosCommits * 100) / totalClosedIssueBug;
@@ -132,6 +134,7 @@ public class Main {
 
 		System.out.println("Arquivo Gravado!");
 	}
+
 }
 
 

@@ -2,6 +2,8 @@ package leituraEscrita;
 
 import marcacoesIssues.LabelConsolidado;
 import marcacoesIssues.AgrupadorMarcacao;
+import marcacoesIssues.MarcacaoIssue;
+import issuesRepositorios.MetodosAuxiliares;
 import issuesRepositorios.Repositorio;
 
 import java.io.BufferedReader;
@@ -24,6 +26,7 @@ import org.eclipse.egit.github.core.client.RequestException;
 import org.eclipse.egit.github.core.service.CommitService;
 import org.eclipse.egit.github.core.service.IssueService;
 import org.eclipse.egit.github.core.service.RepositoryService;
+import org.eclipse.egit.github.core.service.UserService;
 
 import com.sun.org.apache.xalan.internal.xsltc.compiler.Parser;
 import com.sun.xml.internal.ws.org.objectweb.asm.Label;
@@ -31,7 +34,7 @@ import com.sun.xml.internal.ws.org.objectweb.asm.Label;
 
 public class Reader {
 
-	final static String ARQUIVO = "arquivos//listaRepositorios//saidaRepositorios1000.txt";
+	final static String ARQUIVO = "arquivos//listaRepositorios//saidaRepositorios10000.txt";
 	final static String ARQUIVOLABELS = "arquivos//Marcacoes Consolidadas//consolidado.csv";
 	
 
@@ -53,12 +56,49 @@ public class Reader {
 			if(!linha.isEmpty()){
 				String[] linhaDivida = linha.split(" ");
 				Repositorio r = new Repositorio(linhaDivida[2], linhaDivida[9], client); 
-				repositorios.add(r);
+				if(!r.getRepositoryName().equals("Vazio")){
+					repositorios.add(r);	
+				}
 				cont++;
 				System.out.println("Carregado Repositorio: " + r.getUserName() + "/" + r.getRepositoryName());
 			}
 		}
 		return repositorios;
+	}
+	
+	public static void executeListaComAnalise(GitHubClient client, int TAMANHO_AMOSTRA, int INICIO, ArrayList<LabelConsolidado> consolidadoLabel, ArrayList<MarcacaoIssue> marcacoes) throws InterruptedException, IOException {
+		Scanner file = new Scanner(new BufferedReader(new FileReader(ARQUIVO)));
+		RepositoryService repositoryService = new RepositoryService(client);
+		IssueService issueService = new IssueService(client);
+		CommitService commitService = new CommitService(client);
+		UserService userService = new UserService(client);
+		int cont = 0;         	
+		
+		while ((file.hasNext()) && (cont < TAMANHO_AMOSTRA)) {
+			String linha = file.nextLine();
+			if(!linha.isEmpty()){
+				if(cont > INICIO){
+					String[] linhaDivida = linha.split(" ");
+					Repositorio r = new Repositorio(linhaDivida[2], linhaDivida[9], client); 
+					if(!r.getRepositoryName().equals("Vazio")){
+						r.downloadCommits(commitService, userService);
+						r.calculaQuantidadesIssues(consolidadoLabel);
+						r.defeitosCorrigidosCommitOrigemCSV();
+						r.calculaIssuesFechadosCommit();
+						MetodosAuxiliares.analiseMarcacao(consolidadoLabel, marcacoes, r);
+						Writer.printConteudoCSV(r, cont);
+						Writer.printConteudoRepositorioIssuesCSV(r, cont, client);
+						Writer.printAnaliseMarcacaoIssue(r, cont);
+						Writer.printContributors(r);	
+						System.out.println(cont + " ; Carregado Repositorio: " + r.getUserName() + "/" + r.getRepositoryName());
+						
+					}
+				}
+				cont++;
+			}
+		}
+		
+		Writer.printAnaliseMarcacaoCompleta(marcacoes);
 	}
 	
 	/*public static ArrayList<Repositorio> executeListaCompleta() throws FileNotFoundException {
@@ -105,19 +145,20 @@ public class Reader {
 			    	java.util.Iterator<Repository> itr = page.iterator(); 
 		    		while(itr.hasNext()){
 				    	Repository repository = itr.next();
-				    	Repositorio repo = new Repositorio(repository.getOwner().getLogin(), repository.getName(), client);
-				    	if(!repo.getRepositoryName().equals("Vazio")){
-					    	if(validaRepositorio(repository, repo, issueService, paramsIssues, commitService)){
-					    		incluiRepositorio(buffer, repositorios, repo);
-								System.out.println(cont);
-								cont++;
+				    	if(!repository.isPrivate()){
+					    	Repositorio repo = new Repositorio(client, repository.getOwner().getLogin(), repository.getName());
+					    	if(!repo.getRepositoryName().equals("Vazio")){
+						    	//if(validaRepositorio(repository, repo, issueService, paramsIssues, commitService)){
+						    		incluiRepositorio(buffer, repositorios, repo);
+									System.out.println(cont);
+									cont++;
+						    	//}
+							}
+					    	if((cont % 100) == 0){
+					    			Writer.escreveArquivo(criaNome(cont), buffer);
+					    			System.out.println("Repositórios Inicializados! Lista de " + cont);
 					    	}
-						}
-				    	if((cont % 100) == 0){
-				    			Writer.escreveArquivo(criaNome(cont), buffer);
-				    			System.out.println("Repositórios Inicializados! Lista de " + cont);
-				    	}
-				    							
+				    	}						
 		    		}
 													
 			}catch (NoSuchPageException e ){
@@ -126,6 +167,15 @@ public class Reader {
 				Thread.sleep(600 * 1000);
 				//return repositorios;		
 					
+			} catch (RequestException e){
+				if(e.getStatus() == 403){
+					if(e.getMessage().equals("Repository access blocked (403)")){
+						System.out.println("Acesso bloqueado ao Repositório");
+					} else {
+					System.out.println("Repositórios Inicializados! Máximo de Requisições Alcançada, tentaremos novamente em 10 min" + " Erro: " + e.getStatus() + "-" + e.getMessage());
+					Thread.sleep(600 * 1000);
+					}
+				}
 			}
 		}
 		return repositorios;
@@ -136,14 +186,14 @@ public class Reader {
 		if(repository.isPrivate())
 			return false;
 		
-		boolean issuesEmpty;
+		/*boolean issuesEmpty;
 		try {
 			issuesEmpty = issueService.getIssues(repo.getRepoId(), paramsIssues).isEmpty();
 			if(issuesEmpty)
 				return false;
 		} catch (IOException e1) {
 			return false;
-		}
+		}*/
 	
 		int sizeCommit;
 		try {

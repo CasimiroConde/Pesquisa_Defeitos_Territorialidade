@@ -1,0 +1,326 @@
+
+0;mojombo;grit;Tom Preston-Werner;Mon Oct 29 12:37:16 BRST 2007;2901;48;Ruby;189;2;187;0;4;18493;11;449;1850;7954;0;0;0%;0%;0%
+
+1;wycats;merb-core;Yehuda Katz;Sat Jan 12 03:50:53 BRST 2008;2826;101;Ruby;0;0;0;0;0;6651;3;46;398;3462;0;0;0%;0%;0%
+
+2;rubinius;rubinius;Rubinius;Sat Jan 12 14:46:52 BRST 2008;2826;554;Ruby;3507;210;3297;0;0;0;0;585;2483;205520;0;0;0%;0%;0%
+
+3;mojombo;god;Tom Preston-Werner;Sun Jan 13 03:16:23 BRST 2008;2826;82;Ruby;220;101;119;0;0;18497;11;440;1836;3122;0;0;0%;0%;0%
+
+4;vanpelt;jsawesome;Chris Van Pelt;Sun Jan 13 04:04:19 BRST 2008;2826;2;JavaScript;0;0;0;0;0;49;13;0;16;192;0;0;0%;0%;0%
+
+5;wycats;jspec;Yehuda Katz;Sun Jan 13 13:50:31 BRST 2008;2825;2;JavaScript;0;0;0;0;0;6653;3;3;48;156;0;0;0%;0%;0%
+
+6;defunkt;exception_logger;Chris Wanstrath;Mon Jan 14 01:32:19 BRST 2008;2825;7;Ruby;0;0;0;0;0;14709;208;77;226;232;0;0;0%;0%;0%
+
+7;defunkt;ambition;Chris Wanstrath;Mon Jan 14 04:28:56 BRST 2008;2825;3;Ruby;0;0;0;0;0;14709;208;13;141;473;0;0;0%;0%;0%
+
+8;technoweenie;restful-authentication;risk danger olson;Mon Jan 14 12:44:23 BRST 2008;2824;39;Ruby;33;28;5;0;0;2189;17;274;1631;1208;0;0;0%;0%;0%
+
+9;technoweenie;attachment_fu;risk danger olson;Mon Jan 14 12:51:56 BRST 2008;2824;36;Ruby;52;36;16;0;0;2189;17;293;1033;1008;0;0;0%;0%;0%
+
+10;topfunky;bong;Geoffrey Grosenbach;Tue Jan 15 03:42:45 BRST 2008;2824;2;Ruby;2;2;0;0;0;1082;199;4;60;123;0;0;0%;0%;0%
+
+11;Caged;microsis;Justin Palmer;Tue Jan 15 04:11:14 BRST 2008;2824;1;JavaScript;0;0;0;0;0;819;33;2;6;2054;0;0;0%;0%;0%
+
+12;anotherjesse;s3;Jesse Andrews;Tue Jan 15 06:09:42 BRST 2008;2824;9;JavaScript;2;2;0;0;0;120;31;6;22;393;0;0;0%;0%;0%
+
+13;anotherjesse;taboo;Jesse Andrews;Tue Jan 15 06:13:02 BRST 2008;2824;14;JavaScript;1;1;0;0;0;120;31;9;20;781;0;0;0%;0%;0%
+
+14;anotherjesse;foxtracs;Jesse Andrews;Tue Jan 15 06:18:59 BRST 2008;2824;4;JavaScript;2;2;0;0;0;120;31;0;4;135;0;0;0%;0%;0%
+
+15;anotherjesse;fotomatic;Jesse Andrews;Tue Jan 15 06:22:24 BRST 2008;2824;1;ActionScript;0;0;0;0;0;120;31;0;2;139;0;0;0%;0%;0%
+
+16;mojombo;glowstick;Tom Preston-Werner;Wed Jan 16 22:40:56 BRST 2008;2822;1;Ruby;0;0;0;0;0;18497;11;8;23;86;0;0;0%;0%;0%
+
+17;defunkt;starling;Chris Wanstrath;Thu Jan 17 06:01:31 BRST 2008;2822;15;Ruby;0;0;0;0;0;14709;208;2;67;192;0;0;0%;0%;0%
+
+18;wycats;merb-more;Yehuda Katz;Fri Jan 18 05:05:20 BRST 2008;2821;76;null;0;0;0;0;0;6653;3;22;191;1551;0;0;0%;0%;0%
+
+19;macournoyer;thin;Marc-André Cournoyer;Sat Jan 19 03:39:04 BRST 2008;2820;84;Ruby;285;73;212;0;0;734;51;246;1666;3377;0;0;0%;0%;0%
+
+20;jamesgolick;resource_controller;James Golick;Sat Jan 19 20:55:05 BRST 2008;2819;10;Ruby;12;11;1;0;0;547;30;91;508;776;0;0;0%;0%;0%
+
+21;jamesgolick;markaby;James Golick;Mon Jan 21 04:45:20 BRST 2008;2818;5;Ruby;0;0;0;0;0;547;30;4;18;160;0;0;0%;0%;0%
+
+22;jamesgolick;enum_field;James Golick;Mon Jan 21 23:54:15 BRST 2008;2817;4;Ruby;3;2;1;0;0;547;30;13;54;131;0;0;0%;0%;0%
+
+23;defunkt;subtlety;Chris Wanstrath;Tue Jan 22 05:19:14 BRST 2008;2817;1;Ruby;0;0;0;0;0;14709;208;1;8;117;0;0;0%;0%;0%
+
+24;defunkt;zippy;Chris Wanstrath;Tue Jan 22 22:15:57 BRST 2008;2816;2;Ruby;0;0;0;0;0;14709;208;1;11;103;0;0;0%;0%;0%
+
+25;defunkt;cache_fu;Chris Wanstrath;Tue Jan 22 22:28:10 BRST 2008;2816;8;Ruby;6;6;0;0;0;14709;208;66;262;105;0;0;0%;0%;0%
+
+26;KirinDave;phosphor;Dave Fayram;Wed Jan 23 01:32:50 BRST 2008;2816;1;null;0;0;0;0;0;271;8;0;3;84;0;0;0%;0%;0%
+
+27;bmizerany;sinatra;Blake Mizerany;Thu Jan 24 02:49:54 BRST 2008;2815;168;Ruby;7;2;5;0;0;970;16;1296;891;8122;0;0;0%;0%;0%
+
+28;jnewland;gsa-prototype;Jesse Newland;Fri Jan 25 01:17:08 BRST 2008;2814;1;JavaScript;0;0;0;0;0;422;84;3;7;252;0;0;0%;0%;0%
+
+29;technoweenie;duplikate;risk danger olson;Fri Jan 25 18:21:40 BRST 2008;2813;2;Ruby;0;0;0;0;0;2189;17;2;22;97;0;0;0%;0%;0%
+
+30;jnewland;lazy_record;Jesse Newland;Sun Jan 27 00:42:01 BRST 2008;2812;1;Ruby;0;0;0;0;0;422;84;1;9;91;0;0;0%;0%;0%
+
+31;jnewland;gsa-feeds;Jesse Newland;Sun Jan 27 00:47:54 BRST 2008;2812;1;Ruby;0;0;0;0;0;422;84;0;3;122;0;0;0%;0%;0%
+
+32;jnewland;votigoto;Jesse Newland;Sun Jan 27 00:50:24 BRST 2008;2812;1;Ruby;0;0;0;0;0;422;84;1;6;116;0;0;0%;0%;0%
+
+33;defunkt;mofo;Chris Wanstrath;Sun Jan 27 05:06:40 BRST 2008;2812;5;JavaScript;0;0;0;0;0;14709;208;16;88;223;0;0;0%;0%;0%
+
+34;jnewland;xhtmlize;Jesse Newland;Sun Jan 27 15:15:27 BRST 2008;2811;1;Ruby;0;0;0;0;0;422;84;0;9;90;0;0;0%;0%;0%
+
+35;schacon;ruby-git;Scott Chacon;Sun Jan 27 15:23:23 BRST 2008;2811;46;Ruby;246;115;131;0;0;10460;22;307;1000;3181;0;0;0%;0%;0%
+
+36;ezmobius;bmhsearch;Ezra Zygmuntowicz;Mon Jan 28 00:22:50 BRST 2008;2811;1;C;1;1;0;0;0;430;13;0;5;102;0;0;0%;0%;0%
+
+37;uggedal;mofo;Eivind Uggedal;Sun Jan 27 05:06:40 BRST 2008;2812;2;JavaScript;0;0;0;0;0;150;0;0;2;213;0;0;0%;0%;0%
+
+38;mmower;simply_versioned;Matt Mower;Mon Jan 28 18:19:14 BRST 2008;2810;1;Ruby;0;0;0;0;0;41;0;5;42;661;0;0;0%;0%;0%
+
+39;abhay;gchart;Abhay Kumar;Mon Jan 28 19:23:10 BRST 2008;2810;3;Ruby;0;0;0;0;0;33;0;13;35;119;0;0;0%;0%;0%
+
+40;benburkert;schemr;Ben Burkert;Mon Jan 28 21:52:14 BRST 2008;2810;1;Ruby;0;0;0;0;0;138;8;0;3;100;0;0;0%;0%;0%
+
+41;abhay;calais;Abhay Kumar;Tue Jan 29 02:10:12 BRST 2008;2810;15;Ruby;0;0;0;0;0;33;0;50;136;349;0;0;0%;0%;0%
+
+42;mojombo;chronic;Tom Preston-Werner;Tue Jan 29 04:48:49 BRST 2008;2810;57;Ruby;313;91;222;26;26;18498;11;323;2321;1476;0;0;0%;0%;0%
+
+43;sr;git-wiki;Simon Rozet;Tue Jan 29 18:39:42 BRST 2008;2809;8;Ruby;10;7;3;0;0;427;157;237;517;2301;0;0;0%;0%;0%
+
+44;queso;signal-wiki;Josh Owens;Wed Jan 30 17:57:12 BRST 2008;2808;7;Ruby;2;2;0;0;0;217;21;12;69;3438;0;0;0%;0%;0%
+
+45;drnic;ruby-on-rails-tmbundle;Dr Nic Williams;Wed Jan 30 21:20:38 BRST 2008;2808;32;Ruby;56;32;24;0;0;1449;13;148;931;2337;0;0;0%;0%;0%
+
+46;danwrong;low-pro-for-jquery;Dan Webb;Thu Jan 31 12:11:27 BRST 2008;2807;4;JavaScript;2;2;0;0;0;291;31;15;136;350;0;0;0%;0%;0%
+
+47;wayneeseguin;merb-core;Wayne E. Seguin;Sat Jan 12 03:50:53 BRST 2008;2827;5;Ruby;0;0;0;0;0;608;16;0;3;284;0;0;0%;0%;0%
+
+48;sr;dst;Simon Rozet;Thu Jan 31 15:55:46 BRST 2008;2807;1;Ruby;0;0;0;0;0;427;157;1;6;92;0;0;0%;0%;0%
+
+49;mojombo;yaws;Tom Preston-Werner;Thu Jan 31 17:10:07 BRST 2008;2807;2;Erlang;1;1;0;0;0;18499;11;6;37;808;0;0;0%;0%;0%
+
+50;KirinDave;yaws;Dave Fayram;Thu Jan 31 17:10:07 BRST 2008;2807;2;Erlang;0;0;0;0;0;271;8;0;5;817;0;0;0%;0%;0%
+
+51;sr;tasks;Simon Rozet;Thu Jan 31 19:45:16 BRST 2008;2807;1;null;0;0;0;0;0;427;157;0;3;88;0;0;0%;0%;0%
+
+52;mattetti;ruby-on-rails-tmbundle;Matt Aimonetti;Wed Jan 30 21:20:38 BRST 2008;2808;5;Ruby;0;0;0;0;0;710;6;0;2;353;0;0;0%;0%;0%
+
+53;lawrencepit;ruby-on-rails-tmbundle;Lawrence Pit;Wed Jan 30 21:20:38 BRST 2008;2808;23;Ruby;0;0;0;0;0;13;6;1;2;876;0;0;0%;0%;0%
+
+54;grempe;amazon-ec2;Glenn Rempe;Fri Feb 01 02:27:00 BRST 2008;2807;46;Ruby;0;0;0;0;0;31;0;111;436;2628;0;0;0%;0%;0%
+
+55;wayneeseguin;merblogger;Wayne E. Seguin;Fri Feb 01 14:27:17 BRST 2008;2806;4;JavaScript;1;1;0;0;0;608;16;1;16;6900;0;0;0%;0%;0%
+
+56;wayneeseguin;merbtastic;Wayne E. Seguin;Fri Feb 01 14:34:14 BRST 2008;2806;1;null;0;0;0;0;0;608;16;0;2;80;0;0;0%;0%;0%
+
+57;wayneeseguin;alogr;Wayne E. Seguin;Fri Feb 01 14:36:54 BRST 2008;2806;3;Ruby;1;1;0;0;0;608;16;0;8;124;0;0;0%;0%;0%
+
+58;wayneeseguin;autozest;Wayne E. Seguin;Fri Feb 01 14:37:51 BRST 2008;2806;2;Ruby;1;1;0;0;0;608;16;0;4;276;0;0;0%;0%;0%
+
+59;wayneeseguin;rnginx;Wayne E. Seguin;Fri Feb 01 14:40:04 BRST 2008;2806;1;Ruby;0;0;0;0;0;608;16;0;3;88;0;0;0%;0%;0%
+
+60;wayneeseguin;sequel;Wayne E. Seguin;Fri Feb 01 14:43:31 BRST 2008;2806;8;Ruby;0;0;0;0;0;608;16;0;9;809;0;0;0%;0%;0%
+
+61;bmizerany;simply_versioned;Blake Mizerany;Mon Jan 28 18:19:14 BRST 2008;2810;1;Ruby;0;0;0;0;0;970;16;0;3;521;0;0;0%;0%;0%
+
+62;peterc;switchpipe;Peter Cooper;Fri Feb 01 23:01:53 BRST 2008;2806;1;Ruby;0;0;0;0;0;546;20;0;10;104;0;0;0%;0%;0%
+
+63;hornbeck;arc;John Hornbeck;Sat Feb 02 01:05:31 BRST 2008;2806;3;Arc;0;0;0;0;0;45;34;1;4;132;0;0;0%;0%;0%
+
+64;up_the_irons;ebay4r;Garry Dolley;Sat Feb 02 09:02:50 BRST 2008;2806;3;Ruby;0;0;0;0;0;15;1;4;26;396;0;0;0%;0%;0%
+
+65;wycats;merb-plugins;Yehuda Katz;Sat Feb 02 09:28:47 BRST 2008;2806;92;JavaScript;2;2;0;0;0;6653;3;63;215;7064;0;0;0%;0%;0%
+
+66;up_the_irons;ram;Garry Dolley;Sat Feb 02 10:17:56 BRST 2008;2806;2;Ruby;0;0;0;0;0;15;1;0;5;2704;0;0;0%;0%;0%
+
+67;defunkt;ambitious_activeldap;Chris Wanstrath;Wed Jan 30 17:20:08 BRST 2008;2808;2;Ruby;0;0;0;0;0;14710;208;1;4;96;0;0;0%;0%;0%
+
+68;atmos;fitter_happier;Corey Donohoe;Sat Feb 02 18:59:44 BRST 2008;2805;4;Ruby;0;0;0;0;0;937;164;1;3;135;0;0;0%;0%;0%
+
+69;brosner;oebfare;Brian Rosner;Sat Feb 02 20:26:41 BRST 2008;2805;4;JavaScript;1;0;1;0;0;573;109;4;42;2826;0;0;0%;0%;0%
+
+70;up_the_irons;credit_card_tools;Garry Dolley;Sun Feb 03 10:37:18 BRST 2008;2805;1;Ruby;0;0;0;0;0;15;1;2;5;92;0;0;0%;0%;0%
+
+71;jnicklas;rorem;Jonas Nicklas;Sun Feb 03 18:45:29 BRST 2008;2804;1;Ruby;0;0;0;0;0;663;7;0;3;240;0;0;0%;0%;0%
+
+72;cristibalan;braid;Cristi Balan;Sun Feb 03 19:14:46 BRST 2008;2804;14;Ruby;28;0;28;0;0;66;35;27;366;718;0;0;0%;0%;0%
+
+73;jnicklas;uploadcolumn;Jonas Nicklas;Sun Feb 03 19:23:05 BRST 2008;2804;2;Ruby;0;0;0;0;0;663;7;6;31;1254;0;0;0%;0%;0%
+
+74;simonjefford;ruby-on-rails-tmbundle;Simon Jefford;Wed Jan 30 21:20:38 BRST 2008;2808;6;Ruby;0;0;0;0;0;11;6;0;2;771;0;0;0%;0%;0%
+
+75;chneukirchen;rack-mirror;Christian Neukirchen;Sun Feb 03 21:14:52 BRST 2008;2804;10;Ruby;0;0;0;0;0;489;1;1;6;313;0;0;0%;0%;0%
+
+76;chneukirchen;coset-mirror;Christian Neukirchen;Sun Feb 03 21:22:22 BRST 2008;2804;1;Ruby;0;0;0;0;0;489;1;0;7;90;0;0;0%;0%;0%
+
+77;drnic;javascript-unittest-tmbundle;Dr Nic Williams;Mon Feb 04 03:28:02 BRST 2008;2804;1;null;0;0;0;0;0;1449;13;3;12;107;0;0;0%;0%;0%
+
+78;engineyard;eycap;Engine Yard, Inc.;Mon Feb 04 09:37:14 BRST 2008;2804;60;Ruby;46;4;42;0;0;0;0;54;120;1112;0;0;0%;0%;0%
+
+79;chneukirchen;gitsum;Christian Neukirchen;Mon Feb 04 10:17:55 BRST 2008;2804;3;Emacs Lisp;2;1;1;0;0;489;1;11;55;96;0;0;0%;0%;0%
+
+80;wayneeseguin;sequel-model;Wayne E. Seguin;Tue Feb 05 12:45:47 BRST 2008;2802;7;Ruby;0;0;0;0;0;608;16;0;3;880;0;0;0%;0%;0%
+
+81;kevinclark;god;Kevin Clark;Sun Jan 13 03:16:23 BRST 2008;2826;13;Ruby;0;0;0;0;0;71;4;0;3;926;0;0;0%;0%;0%
+
+82;hornbeck;blerb-core;John Hornbeck;Wed Feb 06 11:50:43 BRST 2008;2801;17;Ruby;0;0;0;0;0;45;34;0;26;1176;0;0;0%;0%;0%
+
+83;brosner;django-mptt;Brian Rosner;Wed Feb 06 15:37:55 BRST 2008;2801;3;Python;0;0;0;0;0;573;109;1;64;548;0;0;0%;0%;0%
+
+84;technomancy;bus-scheme;Phil Hagelberg;Wed Feb 06 16:28:52 BRST 2008;2801;10;Ruby;0;0;0;0;0;1301;0;5;30;333;0;0;0%;0%;0%
+
+85;Caged;javascript-bits;Justin Palmer;Wed Feb 06 19:24:46 BRST 2008;2801;2;JavaScript;0;0;0;0;0;819;33;1;28;182;0;0;0%;0%;0%
+
+86;Caged;groomlake;Justin Palmer;Wed Feb 06 19:30:46 BRST 2008;2801;3;Ruby;0;0;0;0;0;819;33;1;2;10170;0;0;0%;0%;0%
+
+87;sevenwire;forgery;Sevenwire;Wed Feb 06 20:33:31 BRST 2008;2801;45;Ruby;75;10;65;0;0;0;0;90;690;1043;0;0;0%;0%;0%
+
+88;technicalpickles;ambitious-sphinx;Josh Nichols;Thu Feb 07 03:38:41 BRST 2008;2801;4;Ruby;0;0;0;0;0;517;62;0;12;148;0;0;0%;0%;0%
+
+89;lazyatom;soup;James Adam;Thu Feb 07 15:04:58 BRST 2008;2800;2;Ruby;1;0;1;0;0;126;17;6;18;1062;0;0;0%;0%;0%
+
+90;josh;rails;Joshua Peek;Thu Feb 07 21:35:21 BRST 2008;2800;3238;Ruby;0;0;0;0;0;1542;64;2;29;117608;0;0;0%;0%;0%
+
+91;cdcarter;backpacking;Christian Carter;Fri Feb 08 01:55:18 BRST 2008;2800;3;Io;1;1;0;0;0;9;0;4;41;179;0;0;0%;0%;0%
+
+92;jnewland;capsize;Jesse Newland;Fri Feb 08 10:12:11 BRST 2008;2800;6;Ruby;2;1;1;0;0;423;84;10;40;253;0;0;0%;0%;0%
+
+93;bs;starling;Britt Selvitelle;Fri Feb 08 20:52:06 BRST 2008;2800;3;Ruby;0;0;0;0;0;87;20;1;22;112;0;0;0%;0%;0%
+
+94;sr;ape;Simon Rozet;Sat Feb 09 11:46:14 BRST 2008;2799;9;Ruby;1;1;0;0;0;426;157;0;7;368;0;0;0%;0%;0%
+
+95;collectiveidea;awesomeness;Collective Idea;Sat Feb 09 13:44:22 BRST 2008;2799;4;Ruby;0;0;0;0;0;0;0;2;50;178;0;0;0%;0%;0%
+
+96;collectiveidea;audited;Collective Idea;Sat Feb 09 14:14:05 BRST 2008;2799;64;Ruby;232;87;145;1;1;0;0;311;1291;1770;0;0;0%;0%;0%
+
+97;collectiveidea;acts_as_geocodable;Collective Idea;Sat Feb 09 14:20:11 BRST 2008;2799;8;Ruby;33;11;22;0;0;0;0;30;207;790;0;0;0%;0%;0%
+
+98;collectiveidea;acts_as_money;Collective Idea;Sat Feb 09 14:22:42 BRST 2008;2799;3;Ruby;1;1;0;0;0;0;0;15;42;97;0;0;0%;0%;0%
+
+99;collectiveidea;calendar_builder;Collective Idea;Sat Feb 09 14:36:15 BRST 2008;2799;3;Ruby;0;0;0;0;0;0;0;4;39;188;0;0;0%;0%;0%
+
+100;collectiveidea;clear_empty_attributes;Collective Idea;Sat Feb 09 14:39:13 BRST 2008;2799;3;Ruby;0;0;0;0;0;0;0;2;6;103;0;0;0%;0%;0%
+
+101;collectiveidea;css_naked_day;Collective Idea;Sat Feb 09 14:46:17 BRST 2008;2799;2;Ruby;0;0;0;0;0;0;0;0;2;88;0;0;0%;0%;0%
+
+102;collectiveidea;imap_authenticatable;Collective Idea;Sat Feb 09 15:01:16 BRST 2008;2799;1;Ruby;0;0;0;0;0;0;0;1;3;98;0;0;0%;0%;0%
+
+103;collectiveidea;random_finders;Collective Idea;Sat Feb 09 15:06:35 BRST 2008;2799;2;Ruby;1;0;1;0;0;0;0;2;12;96;0;0;0%;0%;0%
+
+104;collectiveidea;with_action;Collective Idea;Sat Feb 09 15:10:02 BRST 2008;2799;2;Ruby;2;2;0;0;0;0;0;2;24;431;0;0;0%;0%;0%
+
+105;collectiveidea;graticule;Collective Idea;Sat Feb 09 15:23:49 BRST 2008;2799;21;Ruby;47;16;31;0;0;0;0;48;287;921;0;0;0%;0%;0%
+
+106;collectiveidea;tinder;Collective Idea;Sat Feb 09 16:18:23 BRST 2008;2799;50;Ruby;76;15;61;0;0;0;0;93;251;780;0;0;0%;0%;0%
+
+107;macournoyer;invisible;Marc-André Cournoyer;Sat Feb 09 16:38:52 BRST 2008;2799;2;CSS;1;1;0;0;0;733;51;6;49;206;0;0;0%;0%;0%
+
+108;tommorris;pyprofile;Tom Morris;Sat Feb 09 22:02:31 BRST 2008;2799;1;Python;0;0;0;0;0;170;62;0;2;88;0;0;0%;0%;0%
+
+109;adamwiggins;rush;Adam Wiggins;Sun Feb 10 18:21:42 BRST 2008;2798;9;Ruby;21;16;5;0;0;551;16;78;457;1026;0;0;0%;0%;0%
+
+110;defunkt;ike;Chris Wanstrath;Sun Feb 10 21:10:59 BRST 2008;2798;1;Io;0;0;0;0;0;14713;208;5;24;131;0;0;0%;0%;0%
+
+111;mtodd;halcyon;Matt Todd;Mon Feb 11 04:29:57 BRST 2008;2797;6;Ruby;1;0;1;0;0;348;257;6;60;1274;0;0;0%;0%;0%
+
+112;benburkert;cruisecontrolrb;Ben Burkert;Mon Feb 11 05:34:12 BRST 2008;2797;17;Ruby;0;0;0;0;0;138;8;9;86;10118;0;0;0%;0%;0%
+
+113;tommorris;opml-schema;Tom Morris;Mon Feb 11 13:02:13 BRST 2008;2797;2;null;1;1;0;0;0;170;62;1;3;132;0;0;0%;0%;0%
+
+114;tommorris;reddy;Tom Morris;Mon Feb 11 18:33:10 BRST 2008;2797;9;Ruby;1;1;0;0;0;170;62;3;49;600;0;0;0%;0%;0%
+
+115;shane;youtube-g;Shane Vitarana;Mon Feb 11 18:57:34 BRST 2008;2797;1;null;1;1;0;0;0;0;1;1;5;96;0;0;0%;0%;0%
+
+116;defunkt;facebox;Chris Wanstrath;Mon Feb 11 20:49:27 BRST 2008;2797;26;JavaScript;0;0;0;0;0;14713;208;422;1950;1174;0;0;0%;0%;0%
+
+117;haml;haml;Haml;Mon Feb 11 20:55:26 BRST 2008;2797;146;Ruby;852;45;807;0;0;0;0;453;2807;19774;0;0;0%;0%;0%
+
+118;lancecarlson;kissgen;Lance Carlson;Mon Feb 11 23:30:23 BRST 2008;2797;2;Ruby;0;0;0;0;0;57;88;0;5;116;0;0;0%;0%;0%
+
+119;anotherjesse;exception_logger;Jesse Andrews;Mon Jan 14 01:32:19 BRST 2008;2825;3;Ruby;0;0;0;0;0;120;31;1;4;175;0;0;0%;0%;0%
+
+120;rsanheim;brain_buster;Rob Sanheim;Tue Feb 12 03:53:53 BRST 2008;2796;6;Ruby;2;0;2;0;0;137;30;13;60;208;0;0;0%;0%;0%
+
+121;mojombo;vanhelsing;Tom Preston-Werner;Wed Feb 13 06:56:19 BRST 2008;2795;1;Ruby;1;1;0;0;0;18500;11;3;23;3926;0;0;0%;0%;0%
+
+122;bryanl;linthicum;Bryan Liles;Wed Feb 13 16:26:57 BRST 2008;2795;1;Ruby;0;0;0;0;0;155;5;0;2;2308;0;0;0%;0%;0%
+
+123;adelcambre;textilizefu;Andy Delcambre;Wed Feb 13 20:48:35 BRST 2008;2795;2;Ruby;0;0;0;0;0;144;5;2;4;106;0;0;0%;0%;0%
+
+124;scharfie;slate;Chris Scharf;Wed Feb 13 23:23:15 BRST 2008;2795;7;Ruby;1;1;0;0;0;16;4;7;43;8866;0;0;0%;0%;0%
+
+125;halorgium;archangel;Tim Carey-Smith;Wed Feb 13 23:48:54 BRST 2008;2795;2;Ruby;0;0;0;0;0;140;6;1;10;125;0;0;0%;0%;0%
+
+126;halorgium;god;Tim Carey-Smith;Sun Jan 13 03:16:23 BRST 2008;2826;10;Ruby;0;0;0;0;0;140;6;0;3;912;0;0;0%;0%;0%
+
+127;drnic;newjs;Dr Nic Williams;Thu Feb 14 00:14:06 BRST 2008;2795;2;Ruby;1;1;0;0;0;1449;13;4;19;474;0;0;0%;0%;0%
+
+128;sferik;twitter;Erik Michaels-Ober;Thu Feb 14 00:20:50 BRST 2008;2795;163;Ruby;731;46;685;0;16;1826;116;845;3356;26688;0;0;0%;0%;0%
+
+129;jnunemaker;googlebase;John Nunemaker;Thu Feb 14 00:45:29 BRST 2008;2795;3;Ruby;1;0;1;0;0;1251;159;3;22;291;0;0;0%;0%;0%
+
+130;jnunemaker;googlereader;John Nunemaker;Thu Feb 14 00:46:49 BRST 2008;2795;2;Ruby;1;0;1;0;0;1251;159;5;29;145;0;0;0%;0%;0%
+
+131;jnunemaker;mirrored;John Nunemaker;Thu Feb 14 00:49:56 BRST 2008;2795;2;Ruby;0;0;0;0;0;1251;159;1;9;428;0;0;0%;0%;0%
+
+132;jnunemaker;scrobbler;John Nunemaker;Thu Feb 14 00:53:43 BRST 2008;2795;4;Ruby;2;1;1;0;0;1251;159;52;48;181;0;0;0%;0%;0%
+
+133;jnunemaker;lorem;John Nunemaker;Thu Feb 14 01:13:01 BRST 2008;2795;2;Ruby;0;0;0;0;0;1251;159;8;32;108;0;0;0%;0%;0%
+
+134;jnunemaker;statwhore;John Nunemaker;Thu Feb 14 01:54:04 BRST 2008;2794;2;Ruby;0;0;0;0;0;1251;159;3;39;154;0;0;0%;0%;0%
+
+135;DocSavage;rails-authorization-plugin;Bill Katz;Thu Feb 14 02:39:46 BRST 2008;2794;12;Ruby;5;5;0;0;0;53;15;37;247;651;0;0;0%;0%;0%
+
+136;drnic;drnic_js_test_helpers;Dr Nic Williams;Thu Feb 14 02:44:20 BRST 2008;2794;1;JavaScript;0;0;0;0;0;1449;13;0;11;212;0;0;0%;0%;0%
+
+137;psq;mephisto-erb-templates-plugin;Pascal;Thu Feb 14 03:33:21 BRST 2008;2794;1;Ruby;0;0;0;0;0;10;0;1;4;89;0;0;0%;0%;0%
+
+138;maddox;imdb;Jon Maddox;Thu Feb 14 04:34:06 BRST 2008;2794;4;Ruby;0;0;0;0;0;467;5;8;47;160;0;0;0%;0%;0%
+
+139;delynn;userstamp;DeLynn Berry;Thu Feb 14 05:15:27 BRST 2008;2794;3;Ruby;24;14;10;0;0;25;12;135;174;198;0;0;0%;0%;0%
+
+140;defunkt;matzbot;Chris Wanstrath;Thu Feb 14 09:45:59 BRST 2008;2794;1;Ruby;0;0;0;0;0;14713;208;5;21;108;0;0;0%;0%;0%
+
+141;alexvollmer;pci4r;Alex Vollmer;Thu Feb 14 14:51:21 BRST 2008;2794;4;Ruby;0;0;0;0;0;59;8;13;63;611;0;0;0%;0%;0%
+
+142;marten;exposure;Marten Veldthuis;Thu Feb 14 15:21:38 BRST 2008;2794;2;Ruby;0;0;0;0;0;11;3;0;3;2556;0;0;0%;0%;0%
+
+143;gnufied;packet;Hemant Kumar;Thu Feb 14 15:57:02 BRST 2008;2794;3;Ruby;1;0;1;0;0;121;97;6;37;195;0;0;0%;0%;0%
+
+144;joshuamckenty;elderbrowser;Joshua McKenty;Thu Feb 14 17:48:22 BRST 2008;2794;2;CSS;0;0;0;0;0;48;56;0;3;5644;0;0;0%;0%;0%
+
+145;willcodeforfoo;git-wiki;Kevin Marsh;Tue Jan 29 18:39:42 BRST 2008;2810;7;Ruby;0;0;0;0;0;32;14;1;6;329;0;0;0%;0%;0%
+
+146;halorgium;merb-core;Tim Carey-Smith;Sat Jan 12 03:50:53 BRST 2008;2827;30;Ruby;0;0;0;0;0;140;6;0;2;587;0;0;0%;0%;0%
+
+147;floydprice;testing;Floyd Price;Thu Feb 14 21:02:33 BRST 2008;2794;1;null;0;0;0;0;0;0;0;0;2;84;0;0;0%;0%;0%
+
+148;imownbey;jim;Ian Ownbey;Fri Feb 15 01:35:50 BRST 2008;2794;1;Io;0;0;0;0;0;32;26;2;11;83;0;0;0%;0%;0%
+
+149;mudge;blankable;Paul Mucur;Fri Feb 15 07:40:00 BRST 2008;2793;1;Ruby;0;0;0;0;0;57;15;0;2;84;0;0;0%;0%;0%
+
+150;ivey;merb-for-rails;Michael D. Ivey;Fri Feb 15 15:34:20 BRST 2008;2793;2;null;0;0;0;0;0;60;2;0;10;92;0;0;0%;0%;0%
+
+151;reinh;restful_open_id_authentication;Rein Henrichs;Fri Feb 15 17:50:14 BRST 2008;2793;1;Ruby;0;0;0;0;0;143;0;1;18;107;0;0;0%;0%;0%
+
+152;halfbyte;portmidi-ruby;Jan Krutisch;Fri Feb 15 18:36:58 BRST 2008;2793;1;C;0;0;0;0;0;121;6;1;3;88;0;0;0%;0%;0%
+
+153;pjhyett;vjot;PJ Hyett;Fri Feb 15 18:55:07 BRST 2008;2793;1;JavaScript;3;2;1;0;0;8086;34;3;7;1698;0;0;0%;0%;0%
+
+154;pjhyett;errcount;PJ Hyett;Fri Feb 15 19:07:30 BRST 2008;2793;1;Ruby;2;2;0;0;0;8086;34;4;6;109;0;0;0%;0%;0%
+
+155;reinh;jquery-autocomplete;Rein Henrichs;Fri Feb 15 20:48:01 BRST 2008;2793;10;JavaScript;6;5;1;0;0;143;0;19;95;284;0;0;0%;0%;0%
+
+156;anotherjesse;finally;Jesse Andrews;Fri Feb 15 21:06:02 BRST 2008;2793;2;JavaScript;0;0;0;0;0;120;31;1;6;830;0;0;0%;0%;0%
+
+157;cannikin;alfred;Rob Cameron;Fri Feb 15 23:26:42 BRST 2008;2793;1;Ruby;0;0;0;0;0;17;1;0;1;1220;0;0;0%;0%;0%
+
+158;jnewland;github-campfire;Jesse Newland;Sat Feb 16 01:34:31 BRST 2008;2793;3;Ruby;0;0;0;0;0;423;84;11;32;96;0;0;0%;0%;0%
+
+159;jnicklas;merb-more;Jonas Nicklas;Fri Jan 18 05:05:20 BRST 2008;2821;65;Ruby;0;0;0;0;0;662;7;0;2;884;0;0;0%;0%;0%
+
+160;jnicklas;merb-core;Jonas Nicklas;Sat Jan 12 03:50:53 BRST 2008;2827;87;Ruby;0;0;0;0;0;662;7;0;2;2328;0;0;0%;0%;0%
+
+161;bigfleet;blanket;Jim Van Fleet;Sat Feb 16 11:29:20 BRST 2008;2792;3;Ruby;0;0;0;0;0;87;21;1;22;1180;0;0;0%;0%;0%
+
+162;sr;merb-more;Simon Rozet;Fri Jan 18 05:05:20 BRST 2008;2821;36;Ruby;0;0;0;0;0;426;157;0;3;364;0;0;0%;0%;0%

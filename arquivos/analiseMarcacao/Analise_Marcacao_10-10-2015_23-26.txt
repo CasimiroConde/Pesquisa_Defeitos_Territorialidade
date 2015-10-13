@@ -1,0 +1,299 @@
+
+________________||||Repositório: luaclr Cont: 275||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: bricklet-core Cont: 276||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: bookeater Cont: 277||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: facon Cont: 278||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: stat Cont: 279||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: rubynomic Cont: 280||||_________________________
+Listas de Labels:
+Tipo MarcaçãoLABELNome Label: CRITICAL ; Quantidade: 1
+Tipo MarcaçãoLABELNome Label: V1.1 ; Quantidade: 1
+Listas de Milestones:
+
+________________||||Repositório: depth-charge Cont: 281||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: portfolio Cont: 282||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: clickatell Cont: 283||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: do_notation Cont: 284||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: pictrails Cont: 285||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: annotate_models Cont: 286||||_________________________
+Listas de Labels:
+Tipo MarcaçãoLABELNome Label: BUG ; Quantidade: 39
+Tipo MarcaçãoLABELNome Label: NON-ISSUE ; Quantidade: 7
+Tipo MarcaçãoLABELNome Label: FEATURE ; Quantidade: 28
+Listas de Milestones:
+Nome Milestone: v2.6.11 ; Quantidade: 6
+Nome Milestone: v2.6.10 ; Quantidade: 2
+Nome Milestone: v2.6.9 ; Quantidade: 9
+Nome Milestone: v2.6.7 ; Quantidade: 1
+Nome Milestone: v2.6.6 ; Quantidade: 6
+Nome Milestone: v2.6.4 ; Quantidade: 15
+Nome Milestone: neverland ; Quantidade: 1
+Nome Milestone: v2.6.3 ; Quantidade: 1
+Nome Milestone: v2.6.2 ; Quantidade: 10
+Nome Milestone: v2.7.0 ; Quantidade: 3
+Nome Milestone: v2.6.0 ; Quantidade: 6
+
+________________||||Repositório: blueprint_layout Cont: 287||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: wp_theme_victoria Cont: 288||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: cosmo Cont: 289||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: fogbugz-svnhook Cont: 290||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: haml Cont: 291||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: quicktest Cont: 292||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: getfamilliarwithgit Cont: 293||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: tonal Cont: 294||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: axiom Cont: 295||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: deal Cont: 296||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: test Cont: 297||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: knuff Cont: 298||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: testprj Cont: 299||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: gazelle Cont: 300||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: fast-recs-collate Cont: 301||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: family_budget Cont: 302||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: javascript-jquery-tmbundle Cont: 303||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: markable Cont: 304||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: erlenmeyer Cont: 305||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: yikes Cont: 306||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: erlenmeyer Cont: 307||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: python-tool-legacy Cont: 308||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: tableau Cont: 309||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: blue-channel Cont: 310||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: weshowthemoney-com Cont: 311||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: tarn Cont: 312||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: jquery Cont: 313||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: bazdig Cont: 314||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: github-gem Cont: 315||||_________________________
+Listas de Labels:
+Tipo MarcaçãoLABELNome Label: WINDOWS ; Quantidade: 1
+Tipo MarcaçãoLABELNome Label: RUBY ; Quantidade: 3
+Tipo MarcaçãoLABELNome Label: FEATURE ; Quantidade: 5
+Tipo MarcaçãoLABELNome Label: DOC ; Quantidade: 2
+Tipo MarcaçãoLABELNome Label: BUG ; Quantidade: 7
+Tipo MarcaçãoLABELNome Label: MAJOR VERSION CHANGE ; Quantidade: 1
+Tipo MarcaçãoLABELNome Label: NEED MORE INFO ; Quantidade: 2
+Tipo MarcaçãoLABELNome Label: VIEW PATCH ; Quantidade: 6
+Listas de Milestones:
+
+________________||||Repositório: music-renamer Cont: 316||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: misc-scripts Cont: 317||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: emacs-torrent Cont: 318||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: roleplay Cont: 319||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: mediabumper Cont: 320||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: unnamed-game-engine Cont: 321||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: cl-randist Cont: 322||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: merb-core Cont: 323||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: thesis Cont: 324||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: db_console Cont: 325||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: merb-core Cont: 326||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: srename Cont: 327||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: django-mptt Cont: 328||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: mizar2cl Cont: 329||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: lmkproject Cont: 330||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: gemedit Cont: 331||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: aasm Cont: 332||||_________________________
+Listas de Labels:
+Tipo MarcaçãoLABELNome Label: FEATURE ; Quantidade: 37
+Tipo MarcaçãoLABELNome Label: MULTIPLE ; Quantidade: 1
+Tipo MarcaçãoLABELNome Label: MAYBE BUG ; Quantidade: 9
+Tipo MarcaçãoLABELNome Label: BUG ; Quantidade: 31
+Tipo MarcaçãoLABELNome Label: CALLBACKS ; Quantidade: 16
+Tipo MarcaçãoLABELNome Label: ERROR ; Quantidade: 2
+Tipo MarcaçãoLABELNome Label: PERSISTENCE ; Quantidade: 14
+Tipo MarcaçãoLABELNome Label: WATING ; Quantidade: 2
+Tipo MarcaçãoLABELNome Label: DSL ; Quantidade: 5
+Tipo MarcaçãoLABELNome Label: AASM4 ; Quantidade: 5
+Tipo MarcaçãoLABELNome Label: REFACTOR ; Quantidade: 2
+Listas de Milestones:
+Nome Milestone: 5.0 ; Quantidade: 1
+Nome Milestone: aasm4 ; Quantidade: 9
+Nome Milestone: 4.4 ; Quantidade: 2
+Nome Milestone: 4.3 ; Quantidade: 1
+
+________________||||Repositório: prototype-tmbundle Cont: 333||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: mortal-coil Cont: 334||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: fixture-scenarios Cont: 335||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: mongrel_proctitle Cont: 336||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: json-glib Cont: 337||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: piccr Cont: 338||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: sinatra Cont: 339||||_________________________
+Listas de Labels:
+Listas de Milestones:

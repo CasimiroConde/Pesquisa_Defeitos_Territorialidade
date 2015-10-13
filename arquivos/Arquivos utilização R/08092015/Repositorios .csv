@@ -1,0 +1,1001 @@
+Indice;User;Repository;IssuesAbertos;IssuesFechados;IssuesBugAbertos;IssuesBugFechados;Followers ;Following ;Forks;Watchers;Kilobytes;MB;NIssues;RangeIssue;IssuesMB
+0;mojombo;grit;2;187;0;4;18377;11;450;1855;7954;7,77;189;Contem Issue;24,33190847
+1;rubinius;rubinius;205;3289;0;0;0;0;582;2474;205366;200,55;3494;Contem Issue;17,42185172
+2;mojombo;god;101;119;0;0;18377;11;441;1829;3122;3,05;220;Contem Issue;72,15887252
+3;defunkt;ambition;2;0;0;0;14614;208;13;141;473;0,46;2;Não Contem Issue;4,329809725
+4;technoweenie;restful-authentication;28;5;0;0;2163;17;275;1635;1208;1,18;33;Contem Issue;27,97350993
+5;technoweenie;attachment_fu;36;16;0;0;2163;17;291;1033;1008;0,98;52;Contem Issue;52,82539683
+6;topfunky;bong;2;0;0;0;1081;199;4;60;123;0,12;2;Não Contem Issue;16,6504065
+7;anotherjesse;s3;2;0;0;0;120;31;6;22;393;0,38;2;Não Contem Issue;5,211195929
+8;anotherjesse;taboo;1;0;0;0;120;31;9;20;781;0,76;1;Não Contem Issue;1,311139565
+9;anotherjesse;foxtracs;2;0;0;0;120;31;0;4;135;0,13;2;Não Contem Issue;15,17037037
+10;macournoyer;thin;75;203;0;0;732;51;242;1648;3306;3,23;278;Contem Issue;86,107683
+11;jamesgolick;resource_controller;11;1;0;0;543;30;92;509;776;0,76;12;Contem Issue;15,83505155
+12;jamesgolick;enum_field;2;1;0;0;543;30;13;54;131;0,13;3;Não Contem Issue;23,45038168
+13;defunkt;cache_fu;6;0;0;0;14614;208;67;262;105;0,1;6;Contem Issue;58,51428571
+14;bmizerany;sinatra;2;5;0;0;960;16;1276;887;8111;7,92;7;Contem Issue;0,883738133
+15;defunkt;mofo;0;1;0;0;14614;208;16;88;223;0,22;1;Não Contem Issue;4,591928251
+16;schacon;ruby-git;112;131;0;0;10399;21;307;981;3181;3,11;243;Contem Issue;78,22445772
+17;abhay;calais;6;7;0;0;34;0;50;136;349;0,34;13;Contem Issue;38,14326648
+18;mojombo;chronic;90;222;26;26;18377;11;324;2290;1476;1,44;312;Contem Issue;216,4552846
+19;sr;git-wiki;7;3;0;0;426;157;237;518;2301;2,25;10;Contem Issue;4,450239027
+20;queso;signal-wiki;2;0;0;0;202;21;12;69;3438;3,36;2;Não Contem Issue;0,595695172
+21;drnic;ruby-on-rails-tmbundle;32;24;0;0;1448;13;147;932;2337;2,28;56;Contem Issue;24,53744116
+22;danwrong;low-pro-for-jquery;2;0;0;0;294;31;15;139;350;0,34;2;Não Contem Issue;5,851428571
+23;mojombo;yaws;1;0;0;0;18377;11;6;37;808;0,79;1;Não Contem Issue;1,267326733
+24;grempe;amazon-ec2;17;15;0;0;31;0;111;436;2628;2,57;32;Contem Issue;12,46879756
+25;wayneeseguin;merblogger;1;0;0;0;608;16;1;16;6900;6,74;1;Não Contem Issue;0,148405797
+26;wayneeseguin;alogr;1;0;0;0;608;16;0;8;124;0,12;1;Não Contem Issue;8,258064516
+27;wayneeseguin;autozest;1;0;0;0;608;16;0;4;276;0,27;1;Não Contem Issue;3,710144928
+28;wycats;merb-plugins;2;0;0;0;6558;3;63;215;7064;6,9;2;Não Contem Issue;0,289920725
+29;atmos;fitter_happier;1;1;0;0;928;164;1;3;135;0,13;2;Não Contem Issue;15,17037037
+30;brosner;oebfare;0;1;0;0;572;109;4;42;2826;2,76;1;Não Contem Issue;0,362349611
+31;cristibalan;braid;0;28;0;0;65;35;27;366;718;0,7;28;Contem Issue;39,93314763
+32;jnicklas;uploadcolumn;1;0;0;0;658;7;6;31;1254;1,22;1;Não Contem Issue;0,816586922
+33;engineyard;eycap;4;42;0;0;0;0;54;120;1112;1,09;46;Contem Issue;42,35971223
+34;chneukirchen;gitsum;1;1;0;0;485;1;11;55;96;0,09;2;Não Contem Issue;21,33333333
+35;sevenwire;forgery;10;65;0;0;0;0;88;678;1043;1,02;75;Contem Issue;73,6337488
+36;lazyatom;soup;0;1;0;0;126;17;6;18;1062;1,04;1;Não Contem Issue;0,964218456
+37;josh;rails;0;1;0;0;1525;64;2;29;117608;114,85;1;Não Contem Issue;0,008706891
+38;cdcarter;backpacking;1;0;0;0;9;0;5;41;179;0,17;1;Não Contem Issue;5,720670391
+39;jnewland;capsize;1;1;0;0;413;84;10;40;253;0,25;2;Não Contem Issue;8,09486166
+40;sr;ape;1;0;0;0;426;157;0;7;368;0,36;1;Não Contem Issue;2,782608696
+41;collectiveidea;audited;93;135;1;1;0;0;304;1261;1587;1,55;228;Contem Issue;147,1153119
+42;collectiveidea;acts_as_geocodable;11;22;0;0;0;0;31;207;790;0,77;33;Contem Issue;42,77468354
+43;collectiveidea;acts_as_money;1;0;0;0;0;0;15;42;97;0,09;1;Não Contem Issue;10,55670103
+44;collectiveidea;random_finders;0;1;0;0;0;0;2;12;96;0,09;1;Não Contem Issue;10,66666667
+45;collectiveidea;with_action;2;0;0;0;0;0;2;24;431;0,42;2;Não Contem Issue;4,751740139
+46;collectiveidea;graticule;16;31;0;0;0;0;48;290;921;0,9;47;Contem Issue;52,25624321
+47;collectiveidea;tinder;14;61;0;0;0;0;93;251;780;0,76;75;Contem Issue;98,46153846
+48;macournoyer;invisible;1;0;0;0;732;51;6;49;206;0,2;1;Não Contem Issue;4,970873786
+49;adamwiggins;rush;16;5;0;0;552;16;79;454;894;0,87;21;Contem Issue;24,05369128
+50;mtodd;halcyon;0;1;0;0;341;257;6;61;1274;1,24;1;Não Contem Issue;0,803767661
+51;tommorris;reddy;1;0;0;0;169;62;3;49;600;0,59;1;Não Contem Issue;1,706666667
+52;defunkt;facebox;28;23;0;0;14614;208;423;1950;1174;1,15;51;Contem Issue;44,48381601
+53;haml;haml;44;807;0;0;0;0;451;2795;19735;19,27;851;Contem Issue;44,15627059
+54;rsanheim;brain_buster;0;2;0;0;134;30;13;60;208;0,2;2;Não Contem Issue;9,846153846
+55;mojombo;vanhelsing;1;0;0;0;18377;11;3;23;3926;3,83;1;Não Contem Issue;0,260825267
+56;scharfie;slate;1;0;0;0;14;4;7;43;8866;8,66;1;Não Contem Issue;0,115497406
+57;drnic;newjs;1;0;0;0;1448;13;4;19;474;0,46;1;Não Contem Issue;2,160337553
+58;sferik;twitter;42;682;0;16;1794;116;830;3327;26717;26,09;724;Contem Issue;27,74922334
+59;jnunemaker;googlebase;0;1;0;0;1239;158;3;22;291;0,28;1;Não Contem Issue;3,518900344
+60;jnunemaker;googlereader;0;1;0;0;1239;158;5;29;145;0,14;1;Não Contem Issue;7,062068966
+61;jnunemaker;scrobbler;1;1;0;0;1239;158;52;48;181;0,18;2;Não Contem Issue;11,31491713
+62;DocSavage;rails-authorization-plugin;5;0;0;0;50;15;36;247;651;0,64;5;Não Contem Issue;7,864823349
+63;delynn;userstamp;14;10;0;0;25;12;132;173;198;0,19;24;Contem Issue;124,1212121
+64;gnufied;packet;0;1;0;0;117;96;5;37;195;0,19;1;Não Contem Issue;5,251282051
+65;reinh;jquery-autocomplete;5;1;0;0;143;0;19;96;284;0,28;6;Contem Issue;21,63380282
+66;KirinDave;fuzed-old;1;0;0;0;268;8;1;14;492;0,48;1;Não Contem Issue;2,081300813
+67;toretore;barby;3;47;0;0;28;4;92;456;1326;1,29;50;Contem Issue;38,61236802
+68;drnic;jsunittest;2;0;0;0;1448;13;11;48;539;0,53;2;Não Contem Issue;3,799628942
+69;tobi;delayed_job;47;18;0;0;527;44;1006;2045;4838;4,72;65;Contem Issue;13,75775114
+70;nullstyle;ruby-satisfaction;0;1;0;0;71;8;3;13;252;0,25;1;Não Contem Issue;4,063492063
+71;robbyrussell;rubyurl;4;2;0;0;1010;29;40;201;4160;4,06;6;Contem Issue;1,476923077
+72;trevorturk;eldorado;1;10;0;0;270;84;39;237;11954;11,67;11;Contem Issue;0,942278735
+73;rsl;stringex;9;165;0;0;49;9;130;881;1837;1,79;174;Contem Issue;96,99292324
+74;caffo-archived;bookqueue;0;7;0;0;0;0;10;39;4245;4,15;7;Contem Issue;1,688574794
+75;judofyr;gemify;4;4;0;0;241;53;2;20;484;0,47;8;Contem Issue;16,92561983
+76;jackdempsey;attachmerb_fu;1;0;0;0;64;5;4;18;123;0,12;1;Não Contem Issue;8,325203252
+77;anotherjesse;elasticfox;1;0;0;0;120;31;2;9;182;0,18;1;Não Contem Issue;5,626373626
+78;collectiveidea;awesome_nested_set;65;249;0;0;0;0;379;1640;1770;1,73;314;Contem Issue;181,6587571
+79;kevinansfield;viper;1;0;0;0;12;0;0;2;4440;4,34;1;Não Contem Issue;0,230630631
+80;lachie;logeye;1;0;0;0;55;28;0;5;231;0,23;1;Não Contem Issue;4,432900433
+81;pfig;yeti;1;0;0;0;37;25;0;2;380;0,37;1;Não Contem Issue;2,694736842
+82;stevedekorte;io;75;230;0;0;446;12;200;1327;30241;29,53;305;Contem Issue;10,3277008
+83;andykent;jquery-humanize-messages-plugin;1;1;0;0;62;1;4;29;83;0,08;2;Não Contem Issue;24,6746988
+84;avalade;4slicer;1;0;0;0;10;11;0;2;212;0,21;1;Não Contem Issue;4,830188679
+85;rtomayko;date-performance;3;1;0;0;1792;100;6;78;335;0,33;4;Não Contem Issue;12,22686567
+86;churchio;onebody;45;480;5;114;0;0;223;1201;33299;32,52;525;Contem Issue;16,14462897
+87;TekNoLogic;TourGuide;3;45;0;0;0;0;19;13;4097;4;48;Contem Issue;11,99707103
+88;ELLIOTTCABLE;fora;0;2;0;0;275;683;0;9;160;0,16;2;Não Contem Issue;12,8
+89;seaofclouds;micro-theme;2;0;0;0;126;24;0;5;116;0,11;2;Não Contem Issue;17,65517241
+90;alex;pyelection;1;0;0;0;2088;41;0;2;92;0,09;1;Não Contem Issue;11,13043478
+91;sintaxi;pmpknpi;1;0;0;0;416;45;2;20;463;0,45;1;Não Contem Issue;2,211663067
+92;mislav;will_paginate;101;348;3;19;1672;20;687;4451;2494;2,44;449;Contem Issue;184,3528468
+93;caius;soco;1;0;0;0;125;135;1;4;470;0,46;1;Não Contem Issue;2,178723404
+94;lsegal;yard;63;830;0;0;314;0;184;995;12870;12,57;893;Contem Issue;71,05143745
+95;joseph;castanaut;4;2;0;0;71;25;16;37;261;0,25;6;Contem Issue;23,54022989
+96;drnic;ruby-tmbundle;8;11;0;0;1448;13;51;168;1156;1,13;19;Contem Issue;16,83044983
+97;drnic;html-tmbundle;0;1;0;0;1448;13;92;42;626;0,61;1;Não Contem Issue;1,635782748
+98;noin;orb;1;0;0;0;1;0;0;3;780;0,76;1;Não Contem Issue;1,312820513
+99;sprinkle-tool;sprinkle;10;190;0;0;0;0;160;1171;2722;2,66;200;Contem Issue;75,238795
+100;gilesbowkett;utility-belt;5;2;0;0;371;17;22;90;236;0,23;7;Contem Issue;30,37288136
+101;dpetersen;ruby-screen;1;0;0;0;16;5;0;6;172;0,17;1;Não Contem Issue;5,953488372
+102;mascarenhas;luaclr;1;0;0;0;50;13;2;26;370;0,36;1;Não Contem Issue;2,767567568
+103;chuyeow;facon;0;4;0;0;89;40;10;37;239;0,23;4;Não Contem Issue;17,13807531
+104;Norgg;rubynomic;1;0;0;0;22;21;0;4;84;0,08;1;Não Contem Issue;12,19047619
+105;lukeredpath;clickatell;8;4;0;0;439;7;58;151;327;0,32;12;Contem Issue;37,57798165
+106;ctran;annotate_models;22;252;0;39;24;2;254;1844;1791;1,75;274;Contem Issue;156,6588498
+107;daly;axiom;3;1;0;0;16;0;9;61;500664;488,93;4;Não Contem Issue;0,008181135
+108;haberman;gazelle;2;0;0;0;136;2;13;144;830;0,81;2;Não Contem Issue;2,46746988
+109;bousquet;tableau;1;0;0;0;18;13;4;16;347;0,34;1;Não Contem Issue;2,951008646
+110;davemerwin;blue-channel;1;0;0;0;25;29;4;39;8975;8,76;1;Não Contem Issue;0,114094708
+111;davemerwin;jquery;3;0;0;0;25;29;5;46;2432;2,38;3;Não Contem Issue;1,263157895
+112;slim;bazdig;1;1;0;0;31;52;2;7;367;0,36;2;Não Contem Issue;5,580381471
+113;defunkt;github-gem;60;42;3;4;14614;208;174;1024;987;0,96;102;Contem Issue;105,8237082
+114;pjay;mediabumper;1;0;0;0;12;27;1;6;2369;2,31;1;Não Contem Issue;0,432249894
+115;lvaruzza;cl-randist;2;7;0;0;5;3;4;7;239;0,23;9;Contem Issue;38,56066946
+116;lmarlow;gemedit;1;7;0;0;12;36;4;101;217;0,21;8;Contem Issue;37,75115207
+117;aasm;aasm;42;213;3;27;0;0;303;1976;2801;2,74;255;Contem Issue;93,22384863
+118;ebassi;json-glib;0;1;0;0;43;2;6;26;2166;2,12;1;Não Contem Issue;0,472760849
+119;scrooloose;vimfiles;5;6;0;0;842;19;501;600;1973;1,93;11;Contem Issue;5,709072478
+120;fightinjoe;fightinjoe-merb-blog;1;0;0;0;9;0;0;5;7120;6,95;1;Não Contem Issue;0,143820225
+121;crafterm;capture;1;0;0;0;130;106;2;5;183;0,18;1;Não Contem Issue;5,595628415
+122;heycarsten;email-veracity;2;3;0;0;86;75;11;133;372;0,36;5;Não Contem Issue;13,76344086
+123;nathansobo;treetop;0;39;0;0;461;2;88;841;4500;4,39;39;Contem Issue;8,874666667
+124;shadoi;puppet;1;0;0;0;16;12;2;16;7727;7,55;1;Não Contem Issue;0,132522324
+125;Jakobo;snaptest;3;5;0;0;84;42;2;23;1416;1,38;8;Contem Issue;5,785310734
+126;dustin;java-memcached-client;13;16;0;0;687;19;251;394;9572;9,35;29;Contem Issue;3,102381947
+127;seaofclouds;good-browser-bad-browser;1;0;0;0;126;24;0;5;3280;3,2;1;Não Contem Issue;0,312195122
+128;dustin;buildwatch;1;1;0;0;687;19;4;13;3468;3,39;2;Não Contem Issue;0,590542099
+129;dchelimsky;rspec;17;55;0;0;587;7;175;1792;18518;18,08;72;Contem Issue;3,98142348
+130;tommorris;n3-tmbundle;0;1;0;0;169;62;6;6;92;0,09;1;Não Contem Issue;11,13043478
+131;osteele;functional-javascript;1;7;0;0;235;0;31;265;561;0,55;8;Contem Issue;14,60249554
+132;mephistorb;mephisto;0;1;0;0;0;0;108;270;5055;4,94;1;Não Contem Issue;0,202571711
+133;nicksieger;stickshift;1;0;0;0;203;14;0;11;124;0,12;1;Não Contem Issue;8,258064516
+134;benwyrosdick;ruby-awareness-api;2;0;0;0;17;8;1;8;123;0,12;2;Não Contem Issue;16,6504065
+135;ctrochalakis;django-threadedcomments;1;0;0;0;53;23;3;24;236;0,23;1;Não Contem Issue;4,338983051
+136;gnu-lorien;crack-attack;1;0;0;0;2;1;4;11;2324;2,27;1;Não Contem Issue;0,440619621
+137;larssg;score-keeper;2;8;0;0;6;2;4;26;12798;12,5;10;Contem Issue;0,80012502
+138;jnewland;resource_this;1;0;0;0;413;84;9;49;270;0,26;1;Não Contem Issue;3,792592593
+139;jruby;warbler;116;225;0;0;0;0;157;673;50532;49,35;341;Contem Issue;6,910155941
+140;calumr;flurry;0;3;0;0;0;0;4;10;358;0,35;3;Não Contem Issue;8,581005587
+141;ci-reporter;ci_reporter;7;149;0;0;0;0;113;310;841;0,82;156;Contem Issue;189,9453032
+142;pingswept;pysolar;10;25;0;0;30;37;36;68;4680;4,57;35;Contem Issue;7,658119658
+143;r38y;ck_fu;2;0;0;0;40;47;5;67;463;0,45;2;Não Contem Issue;4,423326134
+144;vito;uploader;1;0;0;0;152;7;1;7;110;0,11;1;Não Contem Issue;9,309090909
+145;Caged;gitnub;10;1;0;0;771;33;50;1060;3506;3,42;11;Contem Issue;3,212778095
+146;seangeo;ratom;7;25;0;0;15;5;28;94;615;0,6;32;Contem Issue;53,28130081
+147;ELLIOTTCABLE;ruby-svg;0;1;0;0;275;683;2;9;195;0,19;1;Não Contem Issue;5,251282051
+148;brynary;webrat;20;15;0;0;488;28;288;1568;58998;57,62;35;Contem Issue;0,60747822
+149;joshknowles;rspec-on-rails-matchers;2;1;0;0;85;43;33;174;85;0,08;3;Não Contem Issue;36,14117647
+150;ozamosi;tomboy-blogposter;1;0;0;0;10;1;3;10;139;0,14;1;Não Contem Issue;7,366906475
+151;nickb;yahtzee;2;0;0;0;1;0;5;2;127;0,12;2;Não Contem Issue;16,12598425
+152;ruphy;oxy-cursors;2;0;0;0;9;4;0;2;4060;3,96;2;Não Contem Issue;0,504433498
+153;clee;mobilepushr;1;0;0;0;21;37;7;34;376;0,37;1;Não Contem Issue;2,723404255
+154;technoweenie;mephisto;1;0;0;0;2163;17;37;212;4859;4,75;1;Não Contem Issue;0,210742951
+155;bruce;keyword_search;0;4;0;0;118;15;17;92;193;0,19;4;Não Contem Issue;21,22279793
+156;ActsAsParanoid;acts_as_paranoid;15;20;0;0;0;0;99;538;739;0,72;35;Contem Issue;48,49797023
+157;technoweenie;acts_as_versioned;17;4;0;0;2163;17;147;412;505;0,49;21;Contem Issue;42,58217822
+158;technoweenie;permalink_fu;0;2;0;0;2163;17;75;279;160;0,16;2;Não Contem Issue;12,8
+159;technoweenie;viking;0;1;0;0;2163;17;5;53;131;0,13;1;Não Contem Issue;7,816793893
+160;yuri;sputnik;6;5;0;0;44;1;11;57;4690;4,58;11;Contem Issue;2,401705757
+161;kerryb;jquery_spike;1;0;0;0;41;14;0;2;204;0,2;1;Não Contem Issue;5,019607843
+162;sunny;daylist;0;1;0;0;89;75;2;9;125;0,12;1;Não Contem Issue;8,192
+163;ruphy;tagua;1;0;0;0;9;4;1;4;9940;9,71;1;Não Contem Issue;0,103018109
+164;patmaddox;no-peeping-toms;6;22;0;0;137;3;37;134;228;0,22;28;Contem Issue;125,754386
+165;patmaddox;rspec-plugin-generator;2;0;0;0;137;3;4;51;407;0,4;2;Não Contem Issue;5,031941032
+166;bfolkens;hostipfox-firefox-plugin;1;0;0;0;4;13;0;4;280;0,27;1;Não Contem Issue;3,657142857
+167;simonpk;j2me-oauth;2;0;0;0;4;0;18;29;167;0,16;2;Não Contem Issue;12,26347305
+168;JackDanger;immutable_attributes;3;1;0;0;291;102;6;19;386;0,38;4;Não Contem Issue;10,61139896
+169;JackDanger;permanent_records;4;47;0;0;291;102;42;185;1553;1,52;51;Contem Issue;33,62781713
+170;Fudge;gltrail;1;0;0;0;21;0;7;36;151;0,15;1;Não Contem Issue;6,781456954
+171;virtuoso;koowaldah;5;3;0;0;8;7;0;9;1938;1,89;8;Contem Issue;4,227038184
+172;drnic;rubigen;6;11;0;0;1448;13;20;73;509;0,5;17;Contem Issue;34,20039293
+173;drnic;newgem;11;8;1;1;1448;13;18;126;1241;1,21;19;Contem Issue;15,67767929
+174;composite-primary-keys;composite_primary_keys;31;293;0;0;0;0;197;455;3078;3,01;324;Contem Issue;107,7894737
+175;spejman;rails-generator-generator;0;1;0;0;46;39;1;13;77;0,08;1;Não Contem Issue;13,2987013
+176;gregwebs;jquery-uitableedit;1;1;0;0;92;2;8;19;324;0,32;2;Não Contem Issue;6,320987654
+177;gregwebs;jquery-uitablefilter;4;8;0;0;92;2;19;53;243;0,24;12;Contem Issue;50,56790123
+178;pcapriotti;skema;1;0;0;0;45;0;1;3;124;0,12;1;Não Contem Issue;8,258064516
+179;timburks;nu;26;49;0;0;361;16;228;1898;5107;4,99;75;Contem Issue;15,03818289
+180;dwillis;fumblerooski;1;0;0;0;365;99;3;34;5112;4,99;1;Não Contem Issue;0,200312989
+181;jonner;agave2;0;1;0;0;0;0;0;2;352;0,34;1;Não Contem Issue;2,909090909
+182;sbecker;asset_packager;27;2;0;0;40;23;93;544;4441;4,34;29;Contem Issue;6,686782256
+183;minimagick;minimagick;5;324;0;11;0;0;221;1544;4063;3,97;329;Contem Issue;82,91804086
+184;jrun;rstack;2;0;0;0;14;10;0;6;412;0,4;2;Não Contem Issue;4,970873786
+185;kemayo;maphilight;39;21;0;0;128;6;137;261;925;0,9;60;Contem Issue;66,42162162
+186;andykent;polypage;9;2;1;1;62;1;16;211;282;0,28;11;Contem Issue;39,94326241
+187;scharfie;gabby;1;0;0;0;14;4;0;4;1332;1,3;1;Não Contem Issue;0,768768769
+188;jonmagic;optik;0;1;0;0;149;38;1;3;2370;2,31;1;Não Contem Issue;0,432067511
+189;nakajima;aintablog;2;0;1;0;568;115;18;129;4193;4,09;2;Não Contem Issue;0,488433103
+190;mig;gedit-themes;11;4;0;0;39;6;113;263;368;0,36;15;Contem Issue;41,73913043
+191;kballard;textmate-bundles;0;1;0;0;279;17;22;85;45813;44,74;1;Não Contem Issue;0,022351734
+192;github-archive;media;1;1;0;0;0;0;57;276;4484;4,38;2;Não Contem Issue;0,456735058
+193;ndarilek;rb-gps;1;0;0;0;6;0;2;13;146;0,14;1;Não Contem Issue;7,01369863
+194;dagbrown;flooterbuck;0;2;0;0;6;3;5;10;757;0,74;2;Não Contem Issue;2,705416116
+195;gabriel;capitate;4;0;0;0;284;37;7;82;453;0,44;4;Não Contem Issue;9,041942605
+196;scrooloose;nerdtree;232;247;10;8;842;19;587;5132;2325;2,27;479;Contem Issue;210,9660215
+197;scrooloose;nerdcommenter;111;92;0;0;842;19;219;1596;1307;1,28;203;Contem Issue;159,0451415
+198;spree;spree;173;6529;0;0;0;0;3157;6693;139328;136,06;6702;Contem Issue;49,25677538
+199;Ramarren;cl-geometry;0;1;0;0;45;1;5;18;168;0,16;1;Não Contem Issue;6,095238095
+200;tomtt;emacs-rails;2;1;0;0;18;12;46;64;945;0,92;3;Não Contem Issue;3,250793651
+201;dfischer;rspec-haml-scaffold-generator;1;0;0;0;88;28;10;68;213;0,21;1;Não Contem Issue;4,807511737
+202;radar;rboard;0;3;0;0;1137;4;31;310;9535;9,31;3;Não Contem Issue;0,322181437
+203;freels;radiant-extensions;0;1;0;0;90;45;3;16;245;0,24;1;Não Contem Issue;4,179591837
+204;DrMark;ultrasphinx;1;0;0;0;7;2;5;23;3528;3,45;1;Não Contem Issue;0,290249433
+205;sudara;alonetone;26;101;4;28;38;1;40;170;53952;52,69;127;Contem Issue;2,410438909
+206;matschaffer;mechaflickr;1;0;0;0;148;10;0;2;144;0,14;1;Não Contem Issue;7,111111111
+207;mleung;feather;1;0;0;0;21;2;16;136;2853;2,79;1;Não Contem Issue;0,358920435
+208;JackDanger;alphadecimal;1;1;0;0;291;102;6;60;250;0,24;2;Não Contem Issue;8,192
+209;topfunky;gruff;46;87;10;20;1081;199;148;742;80410;78,53;133;Contem Issue;1,693719687
+210;topfunky;sparklines;8;1;0;0;1081;199;20;161;286;0,28;9;Contem Issue;32,22377622
+211;rgrove;thoth;3;6;1;1;420;19;7;70;1897;1,85;9;Contem Issue;4,858197153
+212;defunkt;gibberish;1;0;0;0;14614;208;7;34;335;0,33;1;Não Contem Issue;3,056716418
+213;lukemelia;webrat;1;0;0;0;143;8;0;3;124;0,12;1;Não Contem Issue;8,258064516
+214;defunkt;cheat;3;13;0;0;14614;208;43;216;235;0,23;16;Contem Issue;69,71914894
+215;defunkt;sake;2;0;0;0;14614;208;7;79;229;0,22;2;Não Contem Issue;8,943231441
+216;defunkt;nginx_config_generator;2;0;0;0;14614;208;23;120;97;0,09;2;Não Contem Issue;21,11340206
+217;defunkt;acts_as_textiled;4;0;0;0;14614;208;31;117;333;0,33;4;Não Contem Issue;12,3003003
+218;jackdempsey;acts_as_commentable;12;53;0;0;64;5;92;728;379;0,37;65;Contem Issue;175,6200528
+219;scrooloose;sokoban;1;0;0;0;842;19;2;5;153;0,15;1;Não Contem Issue;6,692810458
+220;melo;notification-watcher;1;0;0;0;205;164;2;5;84;0,08;1;Não Contem Issue;12,19047619
+221;benschwarz;open-uri-memcached;1;0;0;0;536;48;4;24;157;0,15;1;Não Contem Issue;6,522292994
+222;harrisj;qrencoder;4;9;0;0;134;4;12;43;192;0,19;13;Contem Issue;69,33333333
+223;sunny;wubmail;0;2;0;0;89;75;0;4;108;0,11;2;Não Contem Issue;18,96296296
+224;francois;piston;7;4;0;0;72;2;24;119;2855;2,79;11;Contem Issue;3,945359019
+225;eklitzke;mehfil-scraper;2;0;0;0;92;103;0;5;76;0,07;2;Não Contem Issue;26,94736842
+226;jm;rails-wiki;1;0;0;0;458;31;2;21;6200;6,05;1;Não Contem Issue;0,16516129
+227;sco;fakebook;1;0;0;0;282;251;3;36;371;0,36;1;Não Contem Issue;2,760107817
+228;mully;redmine_google_calendar;1;0;0;0;13;4;17;25;92;0,09;1;Não Contem Issue;11,13043478
+229;TekNoLogic;GreedBeacon;0;8;0;0;0;0;2;6;269;0,26;8;Contem Issue;30,4535316
+230;taf2;rb-brill-tagger;2;0;0;0;81;20;4;40;1095;1,07;2;Não Contem Issue;1,870319635
+231;tablatom;hobo;5;47;0;0;68;1;86;258;23544;22,99;52;Contem Issue;2,261637785
+232;ryanb;searchify;1;0;0;0;6351;95;3;39;153;0,15;1;Não Contem Issue;6,692810458
+233;al3x;downforeveryoneorjustme;2;0;0;0;988;50;9;70;283;0,28;2;Não Contem Issue;7,236749117
+234;rbriski;asvab;1;0;0;0;3;0;0;2;124;0,12;1;Não Contem Issue;8,258064516
+235;lachie;molly;1;0;0;0;55;28;0;2;156;0,15;1;Não Contem Issue;6,564102564
+236;seaofclouds;sass-textmate-bundle;15;6;0;0;126;24;119;304;628;0,61;21;Contem Issue;34,24203822
+237;maddox;aim_status_helper;1;0;0;0;454;5;1;5;207;0,2;1;Não Contem Issue;4,946859903
+238;arclanguage;anarki;2;22;0;0;0;0;129;705;4424;4,32;24;Contem Issue;5,555153707
+239;segfault;ruby-hl7;2;1;0;0;28;14;69;82;247;0,24;3;Não Contem Issue;12,43724696
+240;psychs;limechat;159;112;0;0;325;49;233;1002;16489;16,1;271;Contem Issue;16,82964401
+241;kballard;six;0;1;0;0;279;17;9;18;216;0,21;1;Não Contem Issue;4,740740741
+242;timcharper;calendar_date_select;13;32;0;0;129;24;177;434;892;0,87;45;Contem Issue;51,65919283
+243;mudge;python-delicious;0;1;0;0;56;15;24;23;113;0,11;1;Não Contem Issue;9,061946903
+244;mudge;collapsing-puzzle;0;1;0;0;56;15;1;3;132;0,13;1;Não Contem Issue;7,757575758
+245;mdarby;restful_acl;1;10;0;0;70;20;15;124;1653;1,61;11;Contem Issue;6,814277072
+246;pjhyett;auto_migrations;2;1;0;0;8071;34;30;138;118;0,12;3;Não Contem Issue;26,03389831
+247;mislav;contacts;4;2;0;0;1672;20;71;262;593;0,58;6;Contem Issue;10,3608769
+248;courtenay;can_flag;2;0;0;0;171;10;9;47;151;0,15;2;Não Contem Issue;13,56291391
+249;jm;dcov;0;1;0;0;458;31;0;7;150;0,15;1;Não Contem Issue;6,826666667
+250;carlosbrando;custom_resource_name;1;0;0;0;509;32;0;24;96;0,09;1;Não Contem Issue;10,66666667
+251;herzi;monkey-bubble;1;0;0;0;10;2;0;3;5208;5,09;1;Não Contem Issue;0,196620584
+252;ianloic;wordpress-svn;1;0;0;0;93;35;0;9;8469;8,27;1;Não Contem Issue;0,12091156
+253;nimblemachines;muforth;2;3;0;0;8;0;8;29;6136;5,99;5;Não Contem Issue;0,834419817
+254;sunny;edith;4;19;0;0;89;75;7;27;3024;2,95;23;Contem Issue;7,788359788
+255;jicksta;methodphitamine;4;3;0;0;71;9;6;17;162;0,16;7;Contem Issue;44,24691358
+256;schacon;ticgit;2;16;0;0;10399;21;79;396;1717;1,68;18;Contem Issue;10,73500291
+257;dwillis;thescoop;1;0;0;0;365;99;0;3;160;0,16;1;Não Contem Issue;6,4
+258;voodootikigod;quickticket;1;0;0;0;491;99;2;4;228;0,22;1;Não Contem Issue;4,49122807
+259;astubbs;wicket-contrib-groovy;1;0;0;0;21;11;0;3;260;0,25;1;Não Contem Issue;3,938461538
+260;mileszs;dotfiles;1;0;0;0;91;43;5;22;1194;1,17;1;Não Contem Issue;0,857621441
+261;caring;acts_as_url_param;1;0;0;0;0;0;3;10;281;0,27;1;Não Contem Issue;3,644128114
+262;norbert;has_uuid;0;1;0;0;48;66;6;16;135;0,13;1;Não Contem Issue;7,585185185
+263;jchris;couchrest;7;1;0;0;518;42;207;423;3386;3,31;8;Contem Issue;2,419373892
+264;TekNoLogic;Ampere;0;8;0;0;0;0;1;10;171;0,17;8;Contem Issue;47,90643275
+265;kneath;hemingway;2;0;0;0;974;36;16;96;238;0,23;2;Não Contem Issue;8,605042017
+266;rgrove;cssmin;3;5;1;1;420;19;5;39;141;0,14;8;Contem Issue;58,09929078
+267;brendan;webult;1;0;0;0;29;20;0;2;256;0,25;1;Não Contem Issue;4
+268;stevenbristol;lovd-by-less;1;1;0;0;78;20;117;559;4320;4,22;2;Não Contem Issue;0,474074074
+269;drd;lumber-mill;1;0;0;0;36;27;0;2;136;0,13;1;Não Contem Issue;7,529411765
+270;kig;metadata;2;0;0;0;186;1;12;64;410;0,4;2;Não Contem Issue;4,995121951
+271;DotNetOpenAuth;DotNetOpenAuth;75;304;0;0;0;0;546;974;131399;128,32;379;Contem Issue;2,953568901
+272;jcfischer;make_resourceful;1;0;0;0;37;15;4;40;280;0,27;1;Não Contem Issue;3,657142857
+273;osteele;cl-spec;1;0;0;0;235;0;0;13;140;0,14;1;Não Contem Issue;7,314285714
+274;tarcieri;reia;8;14;0;0;669;22;29;697;11753;11,48;22;Contem Issue;1,916787203
+275;mbleigh;acts-as-taggable-on;118;562;0;0;559;32;743;3385;3130;3,06;680;Contem Issue;222,4664537
+276;vlarsen;chinesepoker;0;1;0;0;6;12;0;5;1592;1,55;1;Não Contem Issue;0,64321608
+277;herzi;git2dot;0;1;0;0;10;2;1;4;110;0,11;1;Não Contem Issue;9,309090909
+278;jcrosby;cloudkit;2;2;0;0;126;17;23;317;4798;4,69;4;Não Contem Issue;0,853689037
+279;cardmagic;contacts;33;18;0;0;138;9;220;599;437;0,43;51;Contem Issue;119,5057208
+280;cardmagic;starfish;1;0;0;0;138;9;6;38;188;0,18;1;Não Contem Issue;5,446808511
+281;shayarnett;merbums;1;0;0;0;64;30;2;31;147;0,14;1;Não Contem Issue;6,965986395
+282;rgrove;jsmin;0;2;0;0;420;19;7;53;260;0,25;2;Não Contem Issue;7,876923077
+283;aussiegeek;ruby-sass-tmbundle;4;1;0;0;48;11;30;107;201;0,2;5;Não Contem Issue;25,47263682
+284;gnosek;nginx-upstream-fair;11;7;0;0;45;1;49;263;186;0,18;18;Contem Issue;99,09677419
+285;myabc;nbgit;1;0;0;0;136;195;9;189;4755;4,64;1;Não Contem Issue;0,215352261
+286;captproton;i-like-local;1;0;0;0;8;22;0;3;3076;3;1;Não Contem Issue;0,33289987
+287;archaelus;erlirc;3;1;0;0;154;28;13;43;470;0,46;4;Não Contem Issue;8,714893617
+288;archaelus;errd;0;1;0;0;154;28;10;20;249;0,24;1;Não Contem Issue;4,112449799
+289;nathansobo;hyperarchy;5;3;0;0;461;2;2;12;32628;31,86;8;Contem Issue;0,251072698
+290;queso;sitemap;1;0;0;0;202;21;9;97;431;0,42;1;Não Contem Issue;2,37587007
+291;TekNoLogic;Cork;13;95;0;0;0;0;23;23;1975;1,93;108;Contem Issue;55,99594937
+292;mbleigh;princely;3;40;0;0;559;32;76;207;446;0,44;43;Contem Issue;98,7264574
+293;lukec;cpan-selenium-rc-perl;6;4;0;0;105;18;11;29;462;0,45;10;Contem Issue;22,16450216
+294;blynn;pbc;5;1;0;0;64;0;9;24;1306;1,28;6;Contem Issue;4,704441041
+295;karl;monket-calendar;1;0;0;0;6;0;1;4;864;0,84;1;Não Contem Issue;1,185185185
+296;brennandunn;preference_fu;3;0;0;0;51;7;8;47;145;0,14;3;Não Contem Issue;21,1862069
+297;nickpad;timedcache;0;1;0;0;5;2;2;4;213;0,21;1;Não Contem Issue;4,807511737
+298;mdarby;scribd_fu;6;19;0;0;70;20;37;78;803;0,78;25;Contem Issue;31,88044832
+299;toolmantim;webjam;0;1;0;0;233;61;0;5;7936;7,75;1;Não Contem Issue;0,129032258
+300;denis;capone;0;4;0;0;25;36;0;5;151;0,15;4;Não Contem Issue;27,12582781
+301;bumi;find_by_param;0;5;0;0;153;254;9;30;147;0,14;5;Não Contem Issue;34,82993197
+302;ciaran;tm-completion;4;0;0;0;139;2;5;43;102;0,1;4;Não Contem Issue;40,15686275
+303;jruby;activerecord-jdbc-adapter;44;641;0;0;0;0;275;378;113701;111,04;685;Contem Issue;6,16916298
+304;ezmobius;acl_system2;1;1;0;0;425;13;14;58;113;0,11;2;Não Contem Issue;18,12389381
+305;bborn;communityengine;8;290;0;0;63;4;335;1119;15991;15,62;298;Contem Issue;19,08273404
+306;collectiveidea;action_mailer_optional_tls;1;1;0;0;0;0;26;142;131;0,13;2;Não Contem Issue;15,63358779
+307;jamis;net-ssh-gateway;0;3;0;0;745;0;16;22;148;0,14;3;Não Contem Issue;20,75675676
+308;schmidt;contextr;1;0;0;0;45;38;3;10;2318;2,26;1;Não Contem Issue;0,441760138
+309;mmower;platform;0;2;0;0;41;0;3;6;124;0,12;2;Não Contem Issue;16,51612903
+310;Ramarren;lisa;1;0;0;0;45;1;0;5;1908;1,86;1;Não Contem Issue;0,536687631
+311;rory;python-osm;0;1;0;0;15;21;21;12;147;0,14;1;Não Contem Issue;6,965986395
+312;JackDanger;simple_memoize;1;0;0;0;291;102;6;22;357;0,35;1;Não Contem Issue;2,868347339
+313;mmower;mailtrap;2;6;0;0;41;0;12;64;256;0,25;8;Contem Issue;32
+314;jomz;radiant-site_language-extension;0;1;0;0;38;12;0;4;522;0,51;1;Não Contem Issue;1,961685824
+315;sstephenson;prototype;88;212;9;3;2580;24;521;3022;13698;13,38;300;Contem Issue;22,42663163
+316;sstephenson;sprockets;19;682;0;45;2580;24;19;2724;7275;7,1;701;Contem Issue;98,66996564
+317;dugb;php-solunar;3;0;0;0;2;0;3;7;528;0,52;3;Não Contem Issue;5,818181818
+318;shibu;pyspec;1;0;0;0;1;0;0;5;258;0,25;1;Não Contem Issue;3,968992248
+319;openminds;deep_cloning;1;0;0;0;0;0;15;63;93;0,09;1;Não Contem Issue;11,01075269
+320;trey;site-template;1;0;0;0;92;101;0;23;500;0,49;1;Não Contem Issue;2,048
+321;phusion;passenger;152;1449;0;0;0;0;389;3148;50280;49,1;1601;Contem Issue;32,60588703
+322;tsgates;git-emacs;14;8;0;0;54;0;42;169;4235;4,14;22;Contem Issue;5,319480519
+323;mattmccray;comatose;1;3;0;0;22;0;54;201;359;0,35;4;Não Contem Issue;11,40947075
+324;jamis;net-ssh-multi;1;0;0;0;745;0;13;39;162;0,16;1;Não Contem Issue;6,320987654
+325;rsl;proxy_attributes;1;0;0;0;49;9;0;10;468;0,46;1;Não Contem Issue;2,188034188
+326;BrianTheCoder;jquery-keyboard-navigation;2;0;0;0;64;33;1;12;86;0,08;2;Não Contem Issue;23,81395349
+327;timcharper;rubyamp;2;6;0;0;129;24;10;124;543;0,53;8;Contem Issue;15,08655617
+328;cout;ruby-internal;3;3;0;0;36;18;0;50;1319;1,29;6;Contem Issue;4,658074299
+329;jbarnette;johnson;18;26;0;0;582;72;24;468;3739;3,65;44;Contem Issue;12,05028082
+330;vanpelt;merb_facebooker;1;0;0;0;49;13;13;35;114;0,11;1;Não Contem Issue;8,98245614
+331;TekNoLogic;Blipstick;1;7;0;0;0;0;1;6;569;0,56;8;Contem Issue;14,39718805
+332;brendanlim;sms-fu;12;5;0;0;125;76;113;302;372;0,36;17;Contem Issue;46,79569892
+333;Squeegy;fleximage;9;8;0;0;30;0;49;250;16483;16,1;17;Contem Issue;1,056118425
+334;nkallen;screw-unit;4;0;0;0;360;6;20;268;227;0,22;4;Não Contem Issue;18,04405286
+335;zackchandler;trustcommerce;1;0;0;0;12;0;6;14;147;0,14;1;Não Contem Issue;6,965986395
+336;jeremyevans;sequel;0;1075;0;0;312;0;417;2168;50867;49,67;1075;Contem Issue;21,64074941
+337;halfbyte;minitowel;1;0;0;0;120;6;0;3;380;0,37;1;Não Contem Issue;2,694736842
+338;ezmobius;nanite;15;18;0;0;425;13;61;762;29179;28,5;33;Contem Issue;1,158093149
+339;mbleigh;ruby-github;2;1;0;0;559;32;8;61;272;0,27;3;Não Contem Issue;11,29411765
+340;floere;james;3;10;0;0;111;35;16;130;3504;3,42;13;Contem Issue;3,799086758
+341;dennisreimann;masquerade;1;33;0;8;364;60;40;232;6206;6,06;34;Contem Issue;5,610054786
+342;kr;beanstalkd;98;177;0;27;624;22;357;2701;2213;2,16;275;Contem Issue;127,2480795
+343;oneup;puituniverse;1;0;0;0;23;14;1;14;2721;2,66;1;Não Contem Issue;0,376332231
+344;jmettraux;rufus-verbs;1;4;0;0;275;267;2;10;251;0,25;5;Não Contem Issue;20,39840637
+345;jmettraux;rufus-lru;0;2;0;0;275;267;4;10;278;0,27;2;Não Contem Issue;7,366906475
+346;jmettraux;rufus-scheduler;6;158;0;4;275;267;102;1248;2887;2,82;164;Contem Issue;58,16972636
+347;openminds;ruby-mollom;1;2;0;0;0;0;4;14;323;0,32;3;Não Contem Issue;9,510835913
+348;mbleigh;seed-fu;36;61;0;0;559;32;120;784;636;0,62;97;Contem Issue;156,1761006
+349;madrobby;scriptaculous;33;12;0;0;2055;14;486;2365;2685;2,62;45;Contem Issue;17,16201117
+350;tekkub;wow-ui-source;0;8;0;0;5531;91;104;199;24223;23,66;8;Contem Issue;0,338190976
+351;kassoulet;soundconverter;0;11;0;0;1;1;12;41;4054;3,96;11;Contem Issue;2,77849038
+352;pezra;resourceful;0;1;0;0;31;1;11;19;540;0,53;1;Não Contem Issue;1,896296296
+353;mmower;bishop;2;0;0;0;41;0;6;23;112;0,11;2;Não Contem Issue;18,28571429
+354;sprsquish;crypt--xxtea;2;0;0;0;121;57;4;6;92;0,09;2;Não Contem Issue;22,26086957
+355;insoshi;insoshi;2;2;0;0;72;0;569;1585;25401;24,81;4;Não Contem Issue;0,161253494
+356;dxoigmn;achilles;1;0;0;0;15;3;2;7;506;0,49;1;Não Contem Issue;2,023715415
+357;robey;configgy;8;42;0;0;470;14;28;164;3339;3,26;50;Contem Issue;15,33393232
+358;jamesgolick;attribute_fu;4;1;0;0;543;30;18;101;185;0,18;5;Não Contem Issue;27,67567568
+359;smtlaissezfaire;fixturereplacement;8;5;1;0;185;311;3;17;605;0,59;13;Contem Issue;22,00330579
+360;beastaugh;papertrail;4;5;0;3;41;21;0;8;633;0,62;9;Contem Issue;14,55924171
+361;whomwah;rqrcode;1;30;0;0;89;46;85;496;453;0,44;31;Contem Issue;70,07505519
+362;scrooloose;crondle;1;0;0;0;842;19;2;20;98;0,1;1;Não Contem Issue;10,44897959
+363;grundprinzip;slimtimercli;0;3;0;0;43;16;1;4;194;0,19;3;Não Contem Issue;15,83505155
+364;lak;puppet-old;1;0;0;0;125;15;16;91;20582;20,1;1;Não Contem Issue;0,049752211
+365;courtenay;altered_beast;9;2;0;0;171;10;126;543;1494;1,46;11;Contem Issue;7,539491299
+366;ryanb;static_actions;2;0;0;0;6351;95;2;39;91;0,09;2;Não Contem Issue;22,50549451
+367;cannikin;validator;0;1;0;0;17;1;1;3;199;0,19;1;Não Contem Issue;5,145728643
+368;alexvollmer;clip;1;0;0;0;60;8;2;17;166;0,16;1;Não Contem Issue;6,168674699
+369;dchelimsky;rspec-rails;0;18;0;1;587;7;72;778;17022;16,62;18;Contem Issue;1,08283398
+370;jochu;clojure-mode;0;3;0;0;55;0;13;192;867;0,85;3;Não Contem Issue;3,543252595
+371;dustin;py-backpack;0;2;0;0;687;19;3;7;271;0,26;2;Não Contem Issue;7,557195572
+372;rsl;acts_as_snook;1;0;0;0;49;9;8;109;132;0,13;1;Não Contem Issue;7,757575758
+373;joevandyk;monkeycharger;1;0;0;0;26;1;0;32;3929;3,84;1;Não Contem Issue;0,260626114
+374;ymendel;flac2mp3;0;1;0;0;150;1;3;15;210;0,21;1;Não Contem Issue;4,876190476
+375;djtal;ludomanager;0;2;0;0;11;15;0;2;23144;22,6;2;Não Contem Issue;0,088489457
+376;ap;gtk-chtheme;5;0;0;0;120;68;1;1;125;0,12;5;Não Contem Issue;40,96
+377;dgl;cgiirc;4;4;0;0;43;0;6;32;1137;1,11;8;Contem Issue;7,204925242
+378;jgm;markdown-peg;1;0;0;0;742;0;0;18;100;0,1;1;Não Contem Issue;10,24
+379;vito;chyrp;1;1;0;0;152;7;73;214;11619;11,35;2;Não Contem Issue;0,176263017
+380;jmettraux;rufus-decision;3;13;0;0;275;267;2;41;375;0,37;16;Contem Issue;43,69066667
+381;halfbyte;bookstr;1;0;0;0;120;6;0;3;404;0,39;1;Não Contem Issue;2,534653465
+382;dustin;photoupload;3;3;0;0;687;19;0;6;1024;1;6;Contem Issue;6
+383;IceskYsl;1stlog;1;0;0;0;223;22;0;3;1132;1,11;1;Não Contem Issue;0,90459364
+384;atduskgreg;rad;6;1;0;0;365;39;66;395;2429;2,37;7;Contem Issue;2,951008646
+385;justinfrench;formtastic;31;1134;4;117;261;44;573;4716;6654;6,5;1165;Contem Issue;179,2846408
+386;mudge;jquery_example;1;14;0;0;56;15;19;111;586;0,57;15;Contem Issue;26,2116041
+387;jeremyevans;scaffolding_extensions;0;5;0;0;312;0;6;57;1359;1,33;5;Não Contem Issue;3,767476085
+388;jeremyevans;fixture_dependencies;0;12;0;0;312;0;15;28;284;0,28;12;Contem Issue;43,26760563
+389;jmettraux;rufus-rtm;1;2;0;0;275;267;3;18;186;0,18;3;Não Contem Issue;16,51612903
+390;tobie;pdoc;3;4;0;0;225;70;17;108;698;0,68;7;Contem Issue;10,26934097
+391;napcs;docbook;2;18;0;0;85;5;11;58;49345;48,19;20;Contem Issue;0,415036984
+392;greatseth;labeling-form-helper;0;3;0;0;42;26;1;11;281;0,27;3;Não Contem Issue;10,93238434
+393;dmeiz;numz;1;0;0;0;6;1;0;2;160;0,16;1;Não Contem Issue;6,4
+394;kumpera;dataflow;1;0;0;0;190;1;1;8;1995;1,95;1;Não Contem Issue;0,513283208
+395;acunote;acunote-shortcuts;0;1;0;0;0;0;4;23;191;0,19;1;Não Contem Issue;5,361256545
+396;jkk;eidogo;25;3;0;0;63;7;39;108;2660;2,6;28;Contem Issue;10,77894737
+397;crossblaim;campfire-theme-for-colloquy;1;8;0;0;37;17;17;30;286;0,28;9;Contem Issue;32,22377622
+398;daikini;matlab-ruby;2;4;0;0;8;1;9;35;321;0,31;6;Contem Issue;19,14018692
+399;daikini;octave-ruby;3;3;0;0;8;1;9;45;206;0,2;6;Contem Issue;29,82524272
+400;daikini;paysimple;1;0;0;0;8;1;1;6;97;0,09;1;Não Contem Issue;10,55670103
+401;kangax;protolicious;4;3;0;0;1372;17;19;133;277;0,27;7;Contem Issue;25,87725632
+402;Ramarren;png-read;0;5;0;0;45;1;3;15;151;0,15;5;Não Contem Issue;33,90728477
+403;kelvie;basket;12;6;0;0;8;4;40;98;17710;17,29;18;Contem Issue;1,040767928
+404;cyberfox;jbidwatcher;1;1;0;0;13;15;27;61;105192;102,73;2;Não Contem Issue;0,019469161
+405;deadprogram;frankie;1;0;0;0;166;0;20;143;86;0,08;1;Não Contem Issue;11,90697674
+406;al3x;lyrics;1;0;0;0;988;50;1;7;232;0,23;1;Não Contem Issue;4,413793103
+407;justinperkins;us-r32-registry;1;2;0;0;6;5;0;2;2016;1,97;3;Não Contem Issue;1,523809524
+408;keita;timeoutx;1;0;0;0;50;9;33;36;380;0,37;1;Não Contem Issue;2,694736842
+409;ianwhite;resources_controller;5;6;0;0;79;9;21;83;1311;1,28;11;Contem Issue;8,591914569
+410;slaskis;six3d;1;0;0;0;27;59;0;2;7740;7,56;1;Não Contem Issue;0,132299742
+411;kana;config;12;11;0;0;505;557;3;61;12049;11,77;23;Contem Issue;1,954685036
+412;danlucraft;redcar2;3;13;0;0;171;38;167;594;48660;47,52;16;Contem Issue;0,336703658
+413;ascarter;workling;1;0;0;0;33;35;79;5;91;0,09;1;Não Contem Issue;11,25274725
+414;mabj;tcc;1;0;0;0;11;0;0;2;5144;5,02;1;Não Contem Issue;0,199066874
+415;jmettraux;ruote;6;89;2;2;275;267;79;492;15415;15,05;95;Contem Issue;6,310736296
+416;dougal;daemon_generator;3;5;0;0;19;3;23;102;125;0,12;8;Contem Issue;65,536
+417;joshsmoore;androidmoney;1;0;0;0;14;0;0;2;100;0,1;1;Não Contem Issue;10,24
+418;keita;ruby-weatherhacks;1;0;0;0;50;9;0;2;370;0,36;1;Não Contem Issue;2,767567568
+419;jarkko;railsecommerce;1;1;0;0;16;0;3;7;728;0,71;2;Não Contem Issue;2,813186813
+420;tomtt;schema-browser;2;0;0;0;18;12;1;33;960;0,94;2;Não Contem Issue;2,133333333
+421;dustin;py-github;14;52;0;0;687;19;36;137;363;0,35;66;Contem Issue;186,1818182
+422;jmesnil;jmx4r;3;7;0;0;55;0;11;69;428;0,42;10;Contem Issue;23,92523364
+423;russ;gosu-tetris;1;0;0;0;34;12;0;3;987;0,96;1;Não Contem Issue;1,037487335
+424;thoughtbot;paperclip;125;1866;0;0;0;0;1586;7247;10720;10,47;1991;Contem Issue;190,1850746
+425;fjolnir;DatabaseKit;1;13;0;0;121;40;34;386;10928;10,67;14;Contem Issue;1,311859444
+426;toland;app_version;0;6;0;0;54;38;17;36;210;0,21;6;Contem Issue;29,25714286
+427;rails;rails;901;20608;0;0;0;0;11082;27596;450702;440,14;21509;Contem Issue;48,86868929
+428;cyu;beast_iphone_plugin;1;0;0;0;31;7;1;11;568;0,55;1;Não Contem Issue;1,802816901
+429;OwlManAtt;activephp;0;1;0;0;11;10;2;8;286;0,28;1;Não Contem Issue;3,58041958
+430;relevance;etc;0;3;0;0;0;0;13;144;430;0,42;3;Não Contem Issue;7,144186047
+431;jchris;appdrop;1;0;0;0;518;42;3;37;724;0,71;1;Não Contem Issue;1,414364641
+432;vboctor;disposable_email_checker;1;5;0;0;30;30;10;21;315;0,31;6;Contem Issue;19,5047619
+433;pilu;radiant-gallery;1;4;0;0;139;0;25;72;451;0,44;5;Não Contem Issue;11,35254989
+434;DAddYE;lipsiadmin;0;3;0;0;167;23;9;110;4692;4,58;3;Não Contem Issue;0,654731458
+435;TTimo;dupinanny;0;2;0;0;419;26;13;38;147;0,14;2;Não Contem Issue;13,93197279
+436;guitsaru;rbvimeo;0;2;0;0;37;40;5;19;365;0,36;2;Não Contem Issue;5,610958904
+437;OwlManAtt;itorrent;0;1;0;0;11;10;0;7;456;0,45;1;Não Contem Issue;2,245614035
+438;icefox;arora;1;0;0;0;97;0;118;70;6889;6,73;1;Não Contem Issue;0,148642764
+439;zippy;metaform;0;1;0;0;26;7;1;13;2008;1,96;1;Não Contem Issue;0,509960159
+440;ambethia;recaptcha;26;113;0;0;97;50;196;961;927;0,91;139;Contem Issue;153,5447681
+441;xaviershay;enki;3;95;0;0;429;13;285;828;13367;13,05;98;Contem Issue;7,507443705
+442;nofxx;xxpub;0;1;0;0;94;53;1;2;1518;1,48;1;Não Contem Issue;0,674571805
+443;ivey;carpark;1;0;0;0;60;2;2;7;82;0,08;1;Não Contem Issue;12,48780488
+444;bricooke;tickspot-ruby;1;0;0;0;30;6;3;7;149;0,15;1;Não Contem Issue;6,872483221
+445;jezdez-archive;django-mobileadmin;4;0;0;0;0;0;13;121;248;0,24;4;Não Contem Issue;16,51612903
+446;conanite;rainbow;1;0;0;0;8;6;1;43;1253;1,22;1;Não Contem Issue;0,817238627
+447;ncr;background-fu;3;1;0;0;52;59;14;100;192;0,19;4;Não Contem Issue;21,33333333
+448;twpayne;igc2kmz;2;7;0;0;63;13;6;16;7882;7,7;9;Contem Issue;1,169246384
+449;mbleigh;mash;2;1;0;0;559;32;9;64;309;0,3;3;Não Contem Issue;9,941747573
+450;rowland;fb;3;41;0;0;16;2;14;46;443;0,43;44;Contem Issue;101,7065463
+451;rowland;fb_adapter;0;5;0;0;16;2;2;23;547;0,53;5;Não Contem Issue;9,360146252
+452;Squeegy;rails-settings;7;1;0;0;30;0;21;222;302;0,29;8;Contem Issue;27,12582781
+453;mateusza;windowizer;0;1;0;0;1;5;1;3;120;0,12;1;Não Contem Issue;8,533333333
+454;jmettraux;ruote-rest;1;5;0;0;275;267;3;20;652;0,64;6;Contem Issue;9,423312883
+455;tra;spawnling;5;47;0;0;9;3;90;330;545;0,53;52;Contem Issue;97,70275229
+456;jashkenas;ruby-processing;1;123;0;0;8163;0;92;1154;122996;120,11;124;Contem Issue;1,032358776
+457;rpheath;navigation_helper;1;2;0;0;29;3;18;108;164;0,16;3;Não Contem Issue;18,73170732
+458;mattfoster;gnuplot-tmbundle;0;1;0;0;20;1;10;14;400;0,39;1;Não Contem Issue;2,56
+459;llimllib;pymag-trees;0;2;0;0;134;113;6;35;383;0,37;2;Não Contem Issue;5,347258486
+460;pat;thinking-sphinx;24;923;0;31;335;13;448;1436;8435;8,24;947;Contem Issue;114,9647896
+461;rubiety;jazz_model;0;3;0;0;91;30;17;162;971;0,95;3;Não Contem Issue;3,163748713
+462;salvator;rc;2;0;0;0;1;0;1;3;139;0,14;2;Não Contem Issue;14,73381295
+463;phpwax;wildfire;5;152;0;0;30;0;1;13;15551;15,19;157;Contem Issue;10,3381133
+464;thoughtbot;shoulda;10;247;0;47;0;0;185;1823;1998;1,95;257;Contem Issue;131,7157157
+465;steppicrew;rabak;7;2;0;0;1;0;0;4;1837;1,79;9;Contem Issue;5,01687534
+466;cardmagic;shipping;3;0;0;0;138;9;21;45;184;0,18;3;Não Contem Issue;16,69565217
+467;jnicklas;feed_me;0;2;0;0;658;7;5;42;225;0,22;2;Não Contem Issue;9,102222222
+468;thepatrick;cheetahwatch;1;7;0;0;21;6;20;41;2644;2,58;8;Contem Issue;3,098335855
+469;medwards;free-library-on-rails;7;26;0;0;11;1;5;10;1645;1,61;33;Contem Issue;20,54224924
+470;pat;riddle;1;93;0;0;335;13;62;136;2995;2,92;94;Contem Issue;32,13889816
+471;flogic;object_daddy;2;3;0;0;0;0;19;113;2444;2,39;5;Não Contem Issue;2,09492635
+472;tenderlove;icanhasaudio;1;1;0;0;4441;19;7;20;301;0,29;2;Não Contem Issue;6,803986711
+473;flogic;nihilist_bot;1;1;0;0;0;0;5;8;420;0,41;2;Não Contem Issue;4,876190476
+474;joshuar;ephemeral-gentoo-overlay;1;3;0;0;4;4;1;6;1824;1,78;4;Não Contem Issue;2,245614035
+475;rock-core;autobuild;2;22;0;0;0;0;6;7;1860;1,82;24;Contem Issue;13,21290323
+476;xforty;flat_filer;0;1;0;0;0;0;3;6;292;0,29;1;Não Contem Issue;3,506849315
+477;evocateur;wp-facebox;1;0;0;0;28;33;0;3;112;0,11;1;Não Contem Issue;9,142857143
+478;mynyml;attachment_fu_fixtures;1;0;0;0;135;71;1;16;108;0,11;1;Não Contem Issue;9,481481481
+479;sroccaserra;emacs;0;3;0;0;6;11;2;9;191;0,19;3;Não Contem Issue;16,08376963
+480;assaf;labnotes;0;1;0;0;322;57;0;7;2372;2,32;1;Não Contem Issue;0,431703204
+481;Empact;amazon-associates;1;0;0;0;83;53;1;10;331;0,32;1;Não Contem Issue;3,093655589
+482;drnic;copy-as-rtf-tmbundle;2;2;0;0;1448;13;8;208;113;0,11;4;Não Contem Issue;36,24778761
+483;markbates;gemstub;0;1;0;0;220;0;1;5;179;0,17;1;Não Contem Issue;5,720670391
+484;zargony;activerecord_symbolize;0;1;0;0;11;6;41;35;145;0,14;1;Não Contem Issue;7,062068966
+485;nfirvine;pymanymouse;1;0;0;0;4;1;0;2;120;0,12;1;Não Contem Issue;8,533333333
+486;fiveruns;data_fabric;2;0;0;0;67;0;45;211;260;0,25;2;Não Contem Issue;7,876923077
+487;cucumber;cucumber-ruby;41;870;0;0;0;0;1052;4888;26584;25,96;911;Contem Issue;35,09118267
+488;typus;typus;50;453;0;0;0;0;227;1033;13382;13,07;503;Contem Issue;38,48991182
+489;abedra;mpi-ruby;2;2;0;0;227;1;6;32;378;0,37;4;Não Contem Issue;10,83597884
+490;rpheath;input_css;0;1;0;0;29;3;3;42;168;0,16;1;Não Contem Issue;6,095238095
+491;mde;fleegix-js-javascript-toolkit;1;0;0;0;377;10;2;15;1196;1,17;1;Não Contem Issue;0,856187291
+492;rmm5t;insert-time.el;0;1;0;0;230;35;2;4;111;0,11;1;Não Contem Issue;9,225225225
+493;rmm5t;maxframe.el;0;9;0;0;230;35;21;40;274;0,27;9;Contem Issue;33,6350365
+494;TekNoLogic;mountme;0;1;0;0;0;0;0;2;160;0,16;1;Não Contem Issue;6,4
+495;PeterBengtson;json-rpc-1-1;0;4;0;0;3;3;14;54;236;0,23;4;Não Contem Issue;17,3559322
+496;norman;friendly_id;18;678;0;0;204;32;408;3653;6168;6,02;696;Contem Issue;115,5486381
+497;ELLIOTTCABLE;git-blog;0;5;0;0;275;683;12;105;250;0,24;5;Não Contem Issue;20,48
+498;sparklemotion;mechanize;20;419;0;0;0;0;329;2652;4686;4,58;439;Contem Issue;95,93171148
+499;TekNoLogic;Buffet;0;25;0;0;0;0;11;13;517;0,5;25;Contem Issue;49,51644101
+500;lazyatom;engines;0;1;0;0;126;17;27;177;695;0,68;1;Não Contem Issue;1,473381295
+501;TekNoLogic;StealYourCarbon;1;12;0;0;0;0;5;13;248;0,24;13;Contem Issue;53,67741935
+502;schacon;grit;1;0;0;0;10401;21;46;149;2796;2,73;1;Não Contem Issue;0,366237482
+503;paltman;pyvimeo;0;1;0;0;188;69;2;17;97;0,09;1;Não Contem Issue;10,55670103
+504;draganbabic;uni-form;3;18;0;0;17;3;67;468;1279;1,25;21;Contem Issue;16,81313526
+505;Empact;validates_email_veracity_of;0;1;0;0;83;53;5;52;1733;1,69;1;Não Contem Issue;0,590882862
+506;deepakjois;gchartrb;1;1;0;0;44;7;20;110;199;0,19;2;Não Contem Issue;10,29145729
+507;rsim;ruby-plsql;14;75;0;3;107;0;38;95;1116;1,09;89;Contem Issue;81,66308244
+508;kjk;tinypy-kjk;0;1;0;0;182;10;2;17;169;0,17;1;Não Contem Issue;6,059171598
+509;infused;retrospect-gds;0;2;0;0;12;4;2;6;7954;7,77;2;Não Contem Issue;0,257480513
+510;rmcafee;amazon-web-service-manager;1;0;0;0;14;10;0;1;556;0,54;1;Não Contem Issue;1,841726619
+511;halorgium;nbu2vcard;0;1;0;0;140;6;1;4;85;0,08;1;Não Contem Issue;12,04705882
+512;TekNoLogic;teksLoot;0;22;0;0;0;0;6;18;229;0,22;22;Contem Issue;98,37554585
+513;santana;ruby-informix;0;1;0;0;7;0;9;11;376;0,37;1;Não Contem Issue;2,723404255
+514;bruce;rtex;2;1;0;0;118;15;25;58;1813;1,77;3;Não Contem Issue;1,694429123
+515;planetbeing;libdmg-hfsplus;7;4;0;0;536;5;29;60;32496;31,73;11;Contem Issue;0,346627277
+516;mhl;cryptic-crossword-indicators-and-abbreviations;0;1;0;0;50;0;2;9;232;0,23;1;Não Contem Issue;4,413793103
+517;hadley;profr;7;6;0;0;4399;7;5;25;322;0,31;13;Contem Issue;41,34161491
+518;jasonroelofs;rbgccxml;0;15;0;1;50;13;6;28;583;0,57;15;Contem Issue;26,3464837
+519;jasonroelofs;rbplusplus;0;20;0;3;50;13;4;51;1151;1,12;20;Contem Issue;17,79322328
+520;sparklemotion;csspool;4;62;0;3;0;0;12;65;1094;1,07;66;Contem Issue;61,77696527
+521;tapajos;brazilian-rails;8;69;0;0;548;6;100;297;1633;1,59;77;Contem Issue;48,28413962
+522;joshfrench;rakismet;6;33;0;0;34;7;39;317;578;0,56;39;Contem Issue;69,09342561
+523;stephencelis;timeframe;1;7;0;0;212;35;59;290;230;0,22;8;Contem Issue;35,6173913
+524;xenoterracide;dot_usr;0;1;0;0;20;1;0;2;612;0,6;1;Não Contem Issue;1,673202614
+525;twitter;kestrel;37;111;0;0;0;0;289;2662;249382;243,54;148;Contem Issue;0,60771026
+526;mojodna;oauth-proxy;1;4;0;0;252;115;10;114;162;0,16;5;Não Contem Issue;31,60493827
+527;ayb;chuckslist;2;0;0;0;7;2;21;71;2221;2,17;2;Não Contem Issue;0,922107159
+528;breakpointer;ajax-rdoc;1;0;0;0;72;16;2;55;164;0,16;1;Não Contem Issue;6,243902439
+529;pengwynn;ujs_sort_helper;1;1;0;0;874;343;10;11;116;0,11;2;Não Contem Issue;17,65517241
+530;grigio;xmp-manager;0;1;0;0;79;239;3;6;718;0,7;1;Não Contem Issue;1,426183844
+531;mootools;mootools-core;60;763;7;100;0;0;418;2176;13201;12,89;823;Contem Issue;63,84001212
+532;Shopify;active_shipping;28;283;4;4;0;0;321;590;6257;6,11;311;Contem Issue;50,8972351
+533;Shopify;cacheable;5;15;0;0;0;0;8;50;444;0,43;20;Contem Issue;46,12612613
+534;jgarber;redcloth;5;15;0;0;44;3;79;412;2188;2,14;20;Contem Issue;9,360146252
+535;britt;github-java;0;1;0;0;14;5;0;11;127;0,12;1;Não Contem Issue;8,062992126
+536;jmettraux;ruote-fluo;0;7;0;2;275;267;5;26;708;0,69;7;Contem Issue;10,12429379
+537;krobertson;dm-paperclip;5;29;0;0;53;6;50;102;494;0,48;34;Contem Issue;70,47773279
+538;keita;ruby-iso4217;1;0;0;0;50;9;3;5;90;0,09;1;Não Contem Issue;11,37777778
+539;yob;prawn;1;0;0;0;94;69;4;10;28847;28,17;1;Não Contem Issue;0,035497625
+540;speedmax;h2o-php;47;34;0;0;41;43;57;285;3814;3,72;81;Contem Issue;21,74724698
+541;bickfordb;haskell-taglib;2;0;0;0;32;32;2;5;98;0,1;2;Não Contem Issue;20,89795918
+542;vitaly;lazyeval;1;1;0;0;21;1;3;7;208;0,2;2;Não Contem Issue;9,846153846
+543;xjunior;milx;0;1;0;0;21;10;1;5;871;0,85;1;Não Contem Issue;1,175660161
+544;wfarr;rcirc-notify-el;0;1;0;0;248;33;4;5;119;0,12;1;Não Contem Issue;8,605042017
+545;alsemyonov;annotate_models;1;0;0;0;47;146;17;54;148;0,14;1;Não Contem Issue;6,918918919
+546;herrtreas;rspactor;0;4;0;0;36;11;15;71;42645;41,65;4;Não Contem Issue;0,096048775
+547;jmazzi;dns-control;1;0;0;0;69;49;15;38;1202;1,17;1;Não Contem Issue;0,851913478
+548;dsabanin;models-to-sql-rails-plugin;1;0;0;0;27;24;2;8;87;0,08;1;Não Contem Issue;11,77011494
+549;felipec;msn-pecan;0;1;0;0;104;20;7;36;2149;2,1;1;Não Contem Issue;0,476500698
+550;jasonroelofs;gccxml_gem;0;3;0;0;50;13;3;10;99996;97,65;3;Não Contem Issue;0,030721229
+551;netphase;aaap;1;1;0;0;4;3;5;32;144;0,14;2;Não Contem Issue;14,22222222
+552;amikula;promotego-org;4;0;0;0;37;29;6;15;4048;3,95;4;Não Contem Issue;1,011857708
+553;svenax;bagpipemusic;0;2;0;0;10;1;4;17;606;0,59;2;Não Contem Issue;3,379537954
+554;jkramer;shell-fm;27;62;0;0;42;13;37;218;2111;2,06;89;Contem Issue;43,17195642
+555;pezra;rspec-mode;6;122;0;0;31;1;74;153;820;0,8;128;Contem Issue;159,8439024
+556;mattb;identity-matcher;1;0;0;0;265;153;2;69;113;0,11;1;Não Contem Issue;9,061946903
+557;ianwhite;garlic;1;0;0;0;79;9;2;37;189;0,18;1;Não Contem Issue;5,417989418
+558;brosner;bosnobot;3;1;0;0;572;109;26;54;195;0,19;4;Não Contem Issue;21,00512821
+559;kballard;osx-plist;0;1;0;0;279;17;4;25;132;0,13;1;Não Contem Issue;7,757575758
+560;hadley;crantastic;12;42;1;1;4399;7;9;32;6563;6,41;54;Contem Issue;8,425415206
+561;defunkt;choice;0;15;0;0;14614;208;20;164;446;0,44;15;Contem Issue;34,43946188
+562;tominsam;shelf-python;0;2;0;0;91;5;3;20;1449;1,42;2;Não Contem Issue;1,413388544
+563;rakuto;jrails_in_place_editing;2;0;0;0;11;1;20;77;78;0,08;2;Não Contem Issue;26,25641026
+564;hank;life;0;2;0;0;30;6;7;10;5149;5,03;2;Não Contem Issue;0,397747135
+565;drnic;github-badges;6;1;0;0;1448;13;22;107;278;0,27;7;Contem Issue;25,78417266
+566;nesquena;cap-recipes;4;5;0;0;473;85;30;381;600;0,59;9;Contem Issue;15,36
+567;TekNoLogic;Panda;3;73;0;0;0;0;16;27;944;0,92;76;Contem Issue;82,44067797
+568;jezdez-archive;limechat-whisper;0;1;0;0;0;0;9;8;438;0,43;1;Não Contem Issue;2,337899543
+569;igorgue;git-sharp;0;1;0;0;70;296;3;12;476;0,46;1;Não Contem Issue;2,151260504
+570;mattetti;googlecharts;26;51;0;0;703;6;107;679;474;0,46;77;Contem Issue;166,3459916
+571;TekNoLogic;Engravings;1;9;0;0;0;0;2;9;9809;9,58;10;Contem Issue;1,043939239
+572;masatomo;nnn;0;2;0;0;12;0;0;1;76;0,07;2;Não Contem Issue;26,94736842
+573;beppu;squatting;3;1;0;0;93;206;4;32;1911;1,87;4;Não Contem Issue;2,143380429
+574;motemen;git-vim;20;7;0;0;300;137;78;590;146;0,14;27;Contem Issue;189,369863
+575;tim;erlang-beanstalk;1;1;0;0;77;65;13;26;163;0,16;2;Não Contem Issue;12,56441718
+576;thinkerbot;tap;11;7;0;0;13;0;0;19;5192;5,07;18;Contem Issue;3,550077042
+577;motemen;jusk;0;1;0;0;300;137;0;7;313;0,31;1;Não Contem Issue;3,271565495
+578;dustin;memcached;0;1;0;0;687;19;2;123;9569;9,34;1;Não Contem Issue;0,107012227
+579;jmckible;version_fu;2;9;0;0;6;0;19;112;1129;1,1;11;Contem Issue;9,976970771
+580;dan-manges;unit-record;3;1;0;0;75;40;5;107;403;0,39;4;Não Contem Issue;10,16377171
+581;jedbrown;spectral-petsc;1;0;0;0;63;0;4;2;159;0,16;1;Não Contem Issue;6,440251572
+582;gaubert;java-balivernes;0;1;0;0;25;16;1;2;10241;10;1;Não Contem Issue;0,099990235
+583;thinkerbot;hansen_lab;1;0;0;0;13;0;0;1;176;0,17;1;Não Contem Issue;5,818181818
+584;TwP;webby;7;3;0;0;165;8;53;277;1389;1,36;10;Contem Issue;7,372210223
+585;ianwhite;nested_has_many_through;5;1;0;0;79;9;24;140;326;0,32;6;Contem Issue;18,84662577
+586;viking;r-yaml;9;15;0;0;19;8;2;19;615;0,6;24;Contem Issue;39,96097561
+587;lifedraft;dhonishow;0;5;0;0;5;7;1;5;1057;1,03;5;Não Contem Issue;4,843897824
+588;zodttd;gameboy4iphone;1;0;0;0;201;3;11;31;573;0,56;1;Não Contem Issue;1,787085515
+589;zodttd;snes4iphone;1;0;0;0;201;3;8;36;1511;1,48;1;Não Contem Issue;0,677696889
+590;jomz;radiant-wym-editor-filter-extension;1;7;0;0;38;12;10;31;1096;1,07;8;Contem Issue;7,474452555
+591;pjhyett;github-services;0;3;0;0;8071;34;52;420;2256;2,2;3;Não Contem Issue;1,361702128
+592;jzting;foodfinder;0;2;0;0;10;9;0;1;216;0,21;2;Não Contem Issue;9,481481481
+593;royzhu;test;1;0;0;0;0;0;2;2;113;0,11;1;Não Contem Issue;9,061946903
+594;svenfuchs;safemode;3;10;0;0;531;85;10;41;243;0,24;13;Contem Issue;54,781893
+595;commondream;rcov_plugin;2;0;0;0;86;8;12;29;139;0,14;2;Não Contem Issue;14,73381295
+596;douglasjarquin;ruby-haml-tmbundle;0;2;0;0;25;55;13;67;83;0,08;2;Não Contem Issue;24,6746988
+597;eric;sevenscale-scout-plugins;1;0;0;0;178;43;0;5;104;0,1;1;Não Contem Issue;9,846153846
+598;magnusjonsson;microtracker;3;0;0;0;1;1;0;1;184;0,18;3;Não Contem Issue;16,69565217
+599;typester;www-favicon;1;0;0;0;411;141;1;3;92;0,09;1;Não Contem Issue;11,13043478
+600;Caged;lighthouse-api;11;4;0;0;771;33;35;104;208;0,2;15;Contem Issue;73,84615385
+601;timcharper;railswhere;1;0;0;0;129;24;1;15;153;0,15;1;Não Contem Issue;6,692810458
+602;madrobby;scripty2;23;16;0;0;2056;14;57;520;10621;10,37;39;Contem Issue;3,760097919
+603;ianwhite;response_for;0;2;0;0;79;9;1;16;315;0,31;2;Não Contem Issue;6,501587302
+604;redinger;validation_reflection;6;7;0;0;58;7;19;314;143;0,14;13;Contem Issue;93,09090909
+605;lak;facter;0;1;0;0;125;15;6;32;1248;1,22;1;Não Contem Issue;0,820512821
+606;arya;tm_syntax_highlighting;0;1;0;0;106;14;4;62;116;0,11;1;Não Contem Issue;8,827586207
+607;weavejester;compojure;4;139;1;2;628;6;186;2608;7821;7,64;143;Contem Issue;18,72292546
+608;juanger;rorgate;1;0;0;0;30;28;0;3;5440;5,31;1;Não Contem Issue;0,188235294
+609;TwP;bones;7;38;0;0;165;8;22;110;773;0,75;45;Contem Issue;59,61190168
+610;osteele;jquery-profile;1;2;0;0;235;0;8;35;353;0,34;3;Não Contem Issue;8,702549575
+611;Singletoned;wiseguy;1;0;0;0;16;6;2;1;1470;1,44;1;Não Contem Issue;0,696598639
+612;bert;libdxf;8;18;5;4;14;28;6;19;8654;8,45;26;Contem Issue;3,076496418
+613;jvoorhis;lucene_query;1;0;0;0;65;13;6;13;92;0,09;1;Não Contem Issue;11,13043478
+614;collectiveidea;migration_test_helper;7;0;0;0;0;0;5;4;115;0,11;7;Contem Issue;62,33043478
+615;mheath;adbcj;1;2;0;0;17;0;21;95;1577;1,54;3;Não Contem Issue;1,948002536
+616;jamtur01;puppet_old;0;3;0;0;484;11;3;22;20440;19,96;3;Não Contem Issue;0,150293542
+617;mislav;hanna;20;12;1;3;1673;20;31;229;850;0,83;32;Contem Issue;38,55058824
+618;jmhodges;rfeedparser;1;1;0;0;242;33;13;59;985;0,96;2;Não Contem Issue;2,079187817
+619;infused;dbf;5;63;0;2;12;4;49;144;1495;1,46;68;Contem Issue;46,57658863
+620;mallipeddi;django-pipes;3;0;0;0;48;19;6;52;538;0,53;3;Não Contem Issue;5,710037175
+621;robmckinnon;twfynz;0;1;0;0;69;32;4;7;2209;2,16;1;Não Contem Issue;0,463558171
+622;joshuamiller;flotilla;1;0;0;0;20;0;10;63;128;0,13;1;Não Contem Issue;8
+623;jrray;gotefarm;1;0;0;0;0;0;0;2;660;0,64;1;Não Contem Issue;1,551515152
+624;TekNoLogic;controlfreak;0;3;0;0;0;0;0;9;332;0,32;3;Não Contem Issue;9,253012048
+625;jmhodges;rchardet;4;23;0;0;242;33;54;105;2354;2,3;27;Contem Issue;11,7451147
+626;jgm;peg-markdown;13;21;0;0;742;0;114;446;558;0,54;34;Contem Issue;62,39426523
+627;djwonk;method_trails;2;0;0;0;12;11;1;6;174;0,17;2;Não Contem Issue;11,77011494
+628;KirinDave;fuzed;3;0;0;0;268;8;20;274;1406;1,37;3;Não Contem Issue;2,184921764
+629;santana;activerecord-informix-adapter;5;0;0;0;7;0;6;8;129;0,13;5;Não Contem Issue;39,68992248
+630;topfunky;google-checkout;0;7;0;0;1081;199;20;64;299;0,29;7;Contem Issue;23,97324415
+631;urubatan;gedit_formatter;1;0;0;0;104;3;1;16;80;0,08;1;Não Contem Issue;12,8
+632;tjackiw;acts_as_solr;1;0;0;0;19;1;64;104;8623;8,42;1;Não Contem Issue;0,118752174
+633;jqr;has_one_autocreate;1;0;0;0;106;73;5;11;96;0,09;1;Não Contem Issue;10,66666667
+634;mislav;shrubbery;0;1;0;0;1673;20;0;11;136;0,13;1;Não Contem Issue;7,529411765
+635;jsmecham;CalendarView;9;0;0;0;32;15;25;57;123;0,12;9;Contem Issue;74,92682927
+636;swdyh;autopagerize;4;8;0;0;177;57;16;104;330;0,32;12;Contem Issue;37,23636364
+637;pehlert;ruby-tilecache;4;0;0;0;3;3;4;9;148;0,14;4;Não Contem Issue;27,67567568
+638;georgious;cakephp-yaml-migrations-and-fixtures;0;2;0;0;9;2;6;36;152;0,15;2;Não Contem Issue;13,47368421
+639;arya;simple_nav;2;0;0;0;106;14;2;15;96;0,09;2;Não Contem Issue;21,33333333
+640;dokai;hexagonit-swfheader;2;1;0;0;13;1;3;3;114;0,11;3;Não Contem Issue;26,94736842
+641;brennandunn;configurator;3;1;0;0;51;7;5;20;189;0,18;4;Não Contem Issue;21,67195767
+642;spoike;doodle;1;0;0;0;112;23;1;3;400;0,39;1;Não Contem Issue;2,56
+643;rsim;oracle-enhanced;52;657;0;0;107;0;213;405;6884;6,72;709;Contem Issue;105,464265
+644;dbgrandi;ruby-aws;1;1;0;0;45;16;7;13;160;0,16;2;Não Contem Issue;12,8
+645;jcoglan;svn2git;0;1;0;0;796;67;276;54;106;0,1;1;Não Contem Issue;9,660377358
+646;purcell;darcs-to-git;2;20;0;0;842;26;20;71;244;0,24;22;Contem Issue;92,32786885
+647;purcell;airspeed;3;18;0;0;842;26;15;13;478;0,47;21;Contem Issue;44,9874477
+648;arunthampi;activecouch;4;0;0;0;73;19;9;109;777;0,76;4;Não Contem Issue;5,271557272
+649;Industrial;linux-configfiles;1;0;0;0;36;45;1;0;771;0,75;1;Não Contem Issue;1,328145266
+650;dbr;tvdb_api;7;43;0;0;94;39;49;224;996;0,97;50;Contem Issue;51,40562249
+651;jkk;goleague;1;0;0;0;63;7;2;4;117;0,11;1;Não Contem Issue;8,752136752
+652;cardmagic;classifier;15;9;0;0;138;9;117;526;236;0,23;24;Contem Issue;104,1355932
+653;carlism;varanidae;1;0;0;0;29;38;0;2;4845;4,73;1;Não Contem Issue;0,211351909
+654;mysmallidea;radiant-comments;0;7;0;0;15;13;41;43;810;0,79;7;Contem Issue;8,849382716
+655;pdeffendol;spatial_adapter;15;24;1;5;6;0;105;214;648;0,63;39;Contem Issue;61,62962963
+656;telmich;gpm;4;2;0;0;27;14;4;9;3407;3,33;6;Contem Issue;1,803346052
+657;caius;php-faker;2;0;0;0;125;135;19;47;148;0,14;2;Não Contem Issue;13,83783784
+658;kr;beanstalk-client-ruby;1;22;0;0;624;22;22;70;288;0,28;23;Contem Issue;81,77777778
+659;cainlevy;semantic-attributes;0;3;0;0;55;0;8;23;394;0,38;3;Não Contem Issue;7,796954315
+660;wycats;textmate;9;7;0;0;6559;3;20;163;198;0,19;16;Contem Issue;82,74747475
+661;lawrencepit;exception_logger;1;0;0;0;12;6;1;2;110;0,11;1;Não Contem Issue;9,309090909
+662;tslocum;kumo;0;3;0;0;14;2;6;9;323;0,32;3;Não Contem Issue;9,510835913
+663;jarib;celerity;17;46;0;0;179;103;40;218;64917;63,4;63;Contem Issue;0,993761264
+664;ccdevnet;openc2e;2;0;0;0;4;0;10;21;9945;9,71;2;Não Contem Issue;0,205932629
+665;nmariz;xmlgenerator;1;0;0;0;29;56;1;6;454;0,44;1;Não Contem Issue;2,255506608
+666;jasonroelofs;ogrerb;0;1;0;0;50;13;6;41;13008;12,7;1;Não Contem Issue;0,078720787
+667;ryanb;nifty-generators;67;100;0;0;6351;95;308;2049;807;0,79;167;Contem Issue;211,905824
+668;schleyfox;peach;5;5;0;0;54;12;9;76;146;0,14;10;Contem Issue;70,1369863
+669;drnic;dr-nic-magic-models;1;1;0;0;1448;13;7;23;563;0,55;2;Não Contem Issue;3,637655417
+670;jamtur01;redmine_tab;6;11;0;0;484;11;22;45;182;0,18;17;Contem Issue;95,64835165
+671;ctcherry;modalbox_confirm;0;3;0;0;20;8;3;21;127;0,12;3;Não Contem Issue;24,18897638
+672;weppos;www-delicious;22;2;1;0;188;2;17;66;634;0,62;24;Contem Issue;38,76340694
+673;eml;java-mogilefs;1;0;0;0;6;6;10;17;603;0,59;1;Não Contem Issue;1,698175788
+674;shuber;curl;9;6;0;0;77;96;118;286;484;0,47;15;Contem Issue;31,73553719
+675;rdpeng;filehash;1;7;0;0;2259;3;31;11;778;0,76;8;Contem Issue;10,52956298
+676;erikhuda;thor;144;351;0;0;0;0;329;2927;6956;6,79;495;Contem Issue;72,86946521
+677;codahale;bcrypt-ruby;20;99;0;0;1233;0;122;788;679;0,66;119;Contem Issue;179,4639175
+678;edavis10;redmine-customer-plugin;3;1;0;0;373;0;31;61;188;0,18;4;Não Contem Issue;21,78723404
+679;awk;iontv;1;0;0;0;7;0;2;7;43611;42,59;1;Não Contem Issue;0,023480315
+680;mzp;scheme-abc;0;1;0;0;177;45;0;7;7772;7,59;1;Não Contem Issue;0,131755018
+681;Fingertips;passengerpane;21;55;0;0;0;0;43;630;11773;11,5;76;Contem Issue;6,610379682
+682;tuffy;python-audio-tools;34;17;0;0;3;0;29;100;28507;27,84;51;Contem Issue;1,831971095
+683;Shopify;liquid;39;611;0;0;0;0;495;3613;7997;7,81;650;Contem Issue;83,2312117
+684;mdeiters;semr;0;1;0;0;90;34;5;31;908;0,89;1;Não Contem Issue;1,127753304
+685;jwiegley;emacs-chess;8;1;0;0;459;0;7;31;9422;9,2;9;Contem Issue;0,978136277
+686;markoa;r2flickr;2;0;0;0;48;22;4;22;158;0,15;2;Não Contem Issue;12,96202532
+687;joshuamiller;cartographer;12;7;0;0;20;0;38;75;184;0,18;19;Contem Issue;105,7391304
+688;manveru;ramaze;1;8;0;0;194;18;61;221;10058;9,82;9;Contem Issue;0,916285544
+689;kernow;javascript_auto_include;1;0;0;0;22;7;11;19;108;0,11;1;Não Contem Issue;9,481481481
+690;TekNoLogic;Quecho;0;8;0;0;0;0;2;2;168;0,16;8;Contem Issue;48,76190476
+691;ryanb;railscasts;25;35;0;0;6352;95;193;756;1900;1,86;60;Contem Issue;32,33684211
+692;technolize;zsh-completions;1;1;0;0;19;71;0;15;104;0,1;2;Não Contem Issue;19,69230769
+693;judofyr;ruby-oembed;14;37;2;1;241;53;53;209;1510;1,47;51;Contem Issue;34,58543046
+694;caillette;novelang;40;85;5;24;2;0;0;0;51808;50,59;125;Contem Issue;2,470660902
+695;duritong;puppet-nagios;0;8;0;0;89;106;22;48;624;0,61;8;Contem Issue;13,12820513
+696;paul;resourceful;2;3;0;0;50;3;9;67;701;0,68;5;Não Contem Issue;7,303851641
+697;relevance;tarantula;12;25;0;0;0;0;32;428;1406;1,37;37;Contem Issue;26,94736842
+698;alx;rfeedfinder;1;0;0;0;85;39;3;9;250;0,24;1;Não Contem Issue;4,096
+699;potionfactory;potionstore;3;3;0;0;70;0;37;341;8115;7,92;6;Contem Issue;0,757116451
+700;jkramer;post-fm;2;0;0;0;42;13;6;15;107;0,1;2;Não Contem Issue;19,14018692
+701;swdyh;quilt;1;2;0;0;177;57;5;50;204;0,2;3;Não Contem Issue;15,05882353
+702;maxlapshin;nmea;0;1;0;0;283;6;3;14;238;0,23;1;Não Contem Issue;4,302521008
+703;maxlapshin;exiv2;2;0;0;0;283;6;0;10;175;0,17;2;Não Contem Issue;11,70285714
+704;esobchenko;rest-google;2;0;0;0;2;0;4;6;131;0,13;2;Não Contem Issue;15,63358779
+705;esobchenko;cache-weak;1;0;0;0;2;0;2;2;110;0,11;1;Não Contem Issue;9,309090909
+706;jomz;radiant-tags-extension;4;25;0;0;38;12;28;38;385;0,38;29;Contem Issue;77,13246753
+707;rmm5t;strip_attributes;3;26;0;0;230;35;33;156;622;0,61;29;Contem Issue;47,74276527
+708;raggi;github_post_receive_server;0;5;0;0;338;82;37;96;122;0,12;5;Não Contem Issue;41,96721311
+709;github-archive;albino;6;8;0;0;0;0;28;231;156;0,15;14;Contem Issue;91,8974359
+710;github-archive;jquery-hotkeys;0;1;0;0;0;0;16;100;105;0,1;1;Não Contem Issue;9,752380952
+711;github-archive;jquery-relatize_date;0;5;0;0;0;0;19;113;209;0,2;5;Não Contem Issue;24,49760766
+712;carlosbrando;autotest-notification;6;15;0;0;509;32;29;194;1941;1,9;21;Contem Issue;11,07882535
+713;psychs;cocoaoniguruma;2;7;0;0;325;49;17;84;1410;1,38;9;Contem Issue;6,536170213
+714;naoya;mapreduce-lite;1;0;0;0;975;29;2;17;131;0,13;1;Não Contem Issue;7,816793893
+715;mislav;dotfiles;3;8;0;0;1673;20;58;405;845;0,83;11;Contem Issue;13,33017751
+716;penso;actionmailer_x509;2;0;0;0;61;87;6;7;88;0,09;2;Não Contem Issue;23,27272727
+717;alx;pressmark;0;1;0;0;85;39;10;45;5902;5,76;1;Não Contem Issue;0,173500508
+718;duritong;puppet-munin;1;48;0;0;89;106;35;26;1320;1,29;49;Contem Issue;38,01212121
+719;jkriss;monomic;0;1;0;0;38;0;1;12;9224;9,01;1;Não Contem Issue;0,111014744
+720;ctagg;flickr;0;3;0;0;3;1;29;76;135;0,13;3;Não Contem Issue;22,75555556
+721;rmm5t;dotfiles;0;6;0;0;230;35;76;272;1408;1,38;6;Contem Issue;4,363636364
+722;puls;tournament-director;20;5;2;1;66;13;2;8;3462;3,38;25;Contem Issue;7,394569613
+723;mk;reports_as_sparkline;0;1;0;0;15;22;7;36;682;0,67;1;Não Contem Issue;1,501466276
+724;marc-lorber;oregano;20;1;0;0;7;0;15;84;3206;3,13;21;Contem Issue;6,707423581
+725;TekNoLogic;teknicolor;0;6;0;0;0;0;0;4;186;0,18;6;Contem Issue;33,03225806
+726;markcatley;responds_to_parent;2;5;0;0;10;3;39;85;133;0,13;7;Contem Issue;53,89473684
+727;technomancy;dotfiles;0;1;0;0;1290;0;8;130;11726;11,45;1;Não Contem Issue;0,087327307
+728;zerowidth;iphone_data;0;1;0;0;127;2;0;3;108;0,11;1;Não Contem Issue;9,481481481
+729;gerhard;glz_custom_fields;1;5;0;0;87;38;5;21;1894;1,85;6;Contem Issue;3,243928194
+730;ruby;bugs.ruby-lang.org;19;42;0;0;0;0;10;38;107523;105;61;Contem Issue;0,580936172
+731;TekNoLogic;Kennel;0;13;0;0;0;0;1;6;228;0,22;13;Contem Issue;58,38596491
+732;janne;dotfiles;0;2;0;0;12;3;2;5;1007;0,98;2;Não Contem Issue;2,033763654
+733;ctagg;ebay_shopping;0;1;0;0;3;1;5;20;189;0,18;1;Não Contem Issue;5,417989418
+734;Constellation;ldrfullfeed;0;4;0;0;418;189;4;18;443;0,43;4;Não Contem Issue;9,246049661
+735;steveicarus;iverilog;6;72;0;0;48;0;52;246;25975;25,37;78;Contem Issue;3,074956689
+736;timburks;programmingnu;0;1;0;0;361;16;7;35;1401;1,37;1;Não Contem Issue;0,730906495
+737;jeresig;processing-js;1;13;0;0;10516;29;605;1717;41943;40,96;14;Contem Issue;0,341797201
+738;duplys;git-issues;7;14;0;0;4;11;37;227;230;0,22;21;Contem Issue;93,49565217
+739;ledger;ledger;5;349;0;0;0;0;201;1284;17802;17,38;354;Contem Issue;20,36265588
+740;geemus;acts_as_taggable_redux;0;10;0;0;364;34;18;96;165;0,16;10;Contem Issue;62,06060606
+741;esobchenko;probix;8;35;0;0;2;0;0;4;524;0,51;43;Contem Issue;84,03053435
+742;zodttd;psx4all;1;0;0;0;201;3;20;36;2277;2,22;1;Não Contem Issue;0,449714537
+743;kovyrin;magic-enum;1;2;0;0;96;34;8;29;220;0,21;3;Não Contem Issue;13,96363636
+744;tekkub;libdatabroker-1-1;0;1;0;0;5532;91;13;35;409;0,4;1;Não Contem Issue;2,503667482
+745;jfernandez;cj4r;1;0;0;0;27;5;2;15;233;0,23;1;Não Contem Issue;4,394849785
+746;frabcus;acts_as_xapian;4;0;0;0;99;19;30;129;1312;1,28;4;Não Contem Issue;3,12195122
+747;drnic;ruby-shoulda-tmbundle;1;0;0;0;1448;13;24;92;133;0,13;1;Não Contem Issue;7,69924812
+748;timmow;vimrc;0;1;0;0;21;25;0;2;636;0,62;1;Não Contem Issue;1,610062893
+749;Shopify;active_fulfillment;6;53;0;0;0;0;37;93;1312;1,28;59;Contem Issue;46,04878049
+750;chrisvest;nanopool;0;17;0;6;55;44;1;6;728;0,71;17;Contem Issue;23,91208791
+751;hirose31;ganglia-gmetric-xs;0;1;0;0;190;145;1;4;302;0,29;1;Não Contem Issue;3,390728477
+752;technomancy;rinari;1;2;0;0;1290;0;81;65;434;0,42;3;Não Contem Issue;7,078341014
+753;gabriel;as3httpclient;11;1;0;0;284;37;78;244;2488;2,43;12;Contem Issue;4,938906752
+754;oakridgelanl;materialized-path;1;0;0;0;1;0;1;5;90;0,09;1;Não Contem Issue;11,37777778
+755;carlosbrando;poignant-br;0;1;0;0;509;32;30;76;17037;16,64;1;Não Contem Issue;0,060104478
+756;chrislloyd;gravtastic;5;32;0;0;152;214;55;547;427;0,42;37;Contem Issue;88,73067916
+757;jruby;jruby-rack;11;185;0;0;0;0;121;386;10256;10,02;196;Contem Issue;19,56942278
+758;ryanb;railscasts-episodes;14;10;0;0;6352;95;615;812;10799;10,55;24;Contem Issue;2,275766275
+759;wrobel;pardalys;1;0;0;0;19;46;1;14;1033;1,01;1;Não Contem Issue;0,991287512
+760;theRocket;typo;1;0;0;0;4;3;0;1;4847;4,73;1;Não Contem Issue;0,2112647
+761;kbingman;radiant-tags-extension;1;0;0;0;26;0;0;2;185;0,18;1;Não Contem Issue;5,535135135
+762;sesam;z2;0;1;0;0;13;9;0;1;560;0,55;1;Não Contem Issue;1,828571429
+763;TomK32;mephisto-themes;1;0;0;0;70;73;0;4;160;0,16;1;Não Contem Issue;6,4
+764;nazar;git-rails-plugins;0;2;0;0;15;10;2;14;234;0,23;2;Não Contem Issue;8,752136752
+765;kenegozi;monorail-aspview-demo;1;0;0;0;14;0;1;4;2333;2,28;1;Não Contem Issue;0,438919846
+766;protocool;ack-tmbundle;4;1;0;0;40;0;33;302;501;0,49;5;Não Contem Issue;10,21956088
+767;cainlevy;components;0;1;0;0;55;0;3;25;155;0,15;1;Não Contem Issue;6,606451613
+768;manveru;nagoro;0;2;0;0;194;18;2;11;312;0,3;2;Não Contem Issue;6,564102564
+769;ryan-allen;workflow;3;1;0;0;104;101;171;213;282;0,28;4;Não Contem Issue;14,5248227
+770;btakita;rr;27;73;12;8;61;52;71;530;2843;2,78;100;Contem Issue;36,01829054
+771;blynn;netwalk;1;1;0;0;64;0;4;5;750;0,73;2;Não Contem Issue;2,730666667
+772;blynn;gitmagic;6;34;0;0;64;0;457;879;2830;2,76;40;Contem Issue;14,47349823
+773;siannopollo;mail_fetcher;2;0;0;0;8;5;4;35;137;0,13;2;Não Contem Issue;14,94890511
+774;oneup;guide-to-zen;1;0;0;0;23;14;0;1;716;0,7;1;Não Contem Issue;1,430167598
+775;haruska;polymorphic_include;0;2;0;0;32;15;3;20;113;0,11;2;Não Contem Issue;18,12389381
+776;olsonjeffery;boolangstudio;3;0;0;0;20;3;9;32;29767;29,07;3;Não Contem Issue;0,103201532
+777;planetbeing;xpwn;4;3;0;0;536;5;155;243;33346;32,56;7;Contem Issue;0,214958316
+778;aeden;rsaml;2;0;0;0;133;3;9;27;187;0,18;2;Não Contem Issue;10,95187166
+779;tekin;file_column;3;1;0;0;51;14;31;45;383;0,37;4;Não Contem Issue;10,69451697
+780;dojosp;participant-s-projects;0;3;0;0;23;0;2;28;5115;5;3;Não Contem Issue;0,60058651
+781;ntalbott;radiant-reorder-extension;0;1;0;0;92;36;0;3;108;0,11;1;Não Contem Issue;9,481481481
+782;josevalim;easy_http_cache;1;1;0;0;4006;24;5;76;647;0,63;2;Não Contem Issue;3,165378671
+783;front-end;front-end-blender;0;1;0;0;0;0;1;6;2104;2,05;1;Não Contem Issue;0,486692015
+784;tim;erlang-oauth;2;23;0;0;77;65;90;270;837;0,82;25;Contem Issue;30,58542413
+785;activewarehouse;rails_sql_views;13;2;0;0;0;0;132;141;257;0,25;15;Contem Issue;59,76653696
+786;activewarehouse;activewarehouse;2;1;0;0;0;0;43;190;1414;1,38;3;Não Contem Issue;2,172560113
+787;activewarehouse;adapter_extensions;4;0;0;0;0;0;18;23;164;0,16;4;Não Contem Issue;24,97560976
+788;grantneufeld;wayground-old;1;0;0;0;5;4;0;6;3092;3,02;1;Não Contem Issue;0,331177232
+789;mallipeddi;django-taskforce;1;0;0;0;48;19;0;32;96;0,09;1;Não Contem Issue;10,66666667
+790;erector;erector;33;33;0;0;0;0;43;201;3936;3,84;66;Contem Issue;17,17073171
+791;DanielVF;d-time-tracker;0;2;0;0;5;2;5;7;130;0,13;2;Não Contem Issue;15,75384615
+792;pivotalexperimental;desert;12;0;0;0;31;0;31;187;2773;2,71;12;Contem Issue;4,431301839
+793;drnic;hobo-tmbundle;1;0;0;0;1448;13;3;18;786;0,77;1;Não Contem Issue;1,302798982
+794;duritong;puppet-common;0;2;0;0;89;106;50;17;288;0,28;2;Não Contem Issue;7,111111111
+795;jongilbraith;simple-private-messages;7;21;0;0;26;26;51;207;319;0,31;28;Contem Issue;89,88087774
+796;natan;gspell;1;0;0;0;54;7;3;7;110;0,11;1;Não Contem Issue;9,309090909
+797;mattetti;i18n;4;1;0;0;703;6;221;30;1361;1,33;5;Não Contem Issue;3,76193975
+798;sr;atom-tools;1;0;0;0;426;157;7;9;277;0,27;1;Não Contem Issue;3,696750903
+799;pragdave;codex;1;1;0;0;264;0;11;62;388;0,38;2;Não Contem Issue;5,278350515
+800;wonsys;acts_as_fulltextable;1;0;0;0;2;0;1;10;99;0,1;1;Não Contem Issue;10,34343434
+801;yyyc514;solowiki;1;0;0;0;50;4;0;3;208;0,2;1;Não Contem Issue;4,923076923
+802;hadley;evaluate;7;47;0;0;4399;7;9;20;601;0,59;54;Contem Issue;92,00665557
+803;fenrrir;geditpycompletion;4;0;0;0;28;1;52;76;398;0,39;4;Não Contem Issue;10,29145729
+804;cmaxw;rubytrends;1;0;0;0;197;8;0;2;2416;2,36;1;Não Contem Issue;0,42384106
+805;cypher;thor-git;0;1;0;0;180;41;5;38;122;0,12;1;Não Contem Issue;8,393442623
+806;Ruleby;ruleby;17;7;0;0;0;0;35;266;1987;1,94;24;Contem Issue;12,36839456
+807;mateusza;algorytmy-przeszukiwania-przestrzeni;1;0;0;0;1;5;0;1;144;0,14;1;Não Contem Issue;7,111111111
+808;lsegal;yard-tmbundle;1;0;0;0;314;0;5;9;133;0,13;1;Não Contem Issue;7,69924812
+809;cjbottaro;param_protected;5;7;0;0;13;0;12;88;173;0,17;12;Contem Issue;71,02890173
+810;timcharper;bundle-fu;3;0;0;0;129;24;19;82;317;0,31;3;Não Contem Issue;9,690851735
+811;isabanin;viddler;2;0;0;0;30;6;10;21;132;0,13;2;Não Contem Issue;15,51515152
+812;yokote;test2;1;0;0;0;1;2;1;2;105;0,1;1;Não Contem Issue;9,752380952
+813;mth;yeti;3;13;0;0;15;1;8;129;9059;8,85;16;Contem Issue;1,808588144
+814;fabien;im_magick;2;1;0;0;26;12;2;27;444;0,43;3;Não Contem Issue;6,918918919
+815;cristibalan;dotfiles;1;0;0;0;65;35;2;8;947;0,92;1;Não Contem Issue;1,081309398
+816;hadley;ggplot2-book;9;74;0;0;4399;7;87;193;29282;28,6;83;Contem Issue;2,90253398
+817;stouset;pathname3;0;1;0;0;34;0;2;13;207;0,2;1;Não Contem Issue;4,946859903
+818;cjbottaro;app_config;3;3;0;0;13;0;23;104;119;0,12;6;Contem Issue;51,6302521
+819;topfunky;ruby-hmac;1;1;0;0;1081;199;8;41;128;0,13;2;Não Contem Issue;16
+820;cainlevy;recordselect;2;1;0;0;55;0;30;44;186;0,18;3;Não Contem Issue;16,51612903
+821;smtlaissezfaire;cap_db_dump;1;1;0;0;185;311;2;8;161;0,16;2;Não Contem Issue;12,72049689
+822;jebw;redbox;3;0;0;0;3;1;7;18;91;0,09;3;Não Contem Issue;33,75824176
+823;geemus;googleajax;3;2;0;0;364;34;9;54;166;0,16;5;Não Contem Issue;30,84337349
+824;alltom;ruck;5;1;0;0;74;10;0;27;372;0,36;6;Contem Issue;16,51612903
+825;jsierles;js_named_routes;1;0;0;0;127;0;11;37;100;0,1;1;Não Contem Issue;10,24
+826;jamesu;railscollab;0;6;0;0;70;21;73;264;4561;4,45;6;Contem Issue;1,34707301
+827;hotchpotch;rascut;0;4;0;0;390;48;7;25;178;0,17;4;Não Contem Issue;23,01123596
+828;Pistos;diakonos;20;46;10;4;102;0;12;106;3321;3,24;66;Contem Issue;20,35049684
+829;copyhacker;backup_fu;3;0;0;0;20;17;23;99;234;0,23;3;Não Contem Issue;13,12820513
+830;activemerchant;active_merchant;75;1789;0;0;0;0;1761;3148;36071;35,23;1864;Contem Issue;52,91608217
+831;jnewland;san_juan;3;1;0;0;413;84;18;76;157;0,15;4;Não Contem Issue;26,08917197
+832;bsag;tracks-old;0;27;0;0;30;0;214;409;20538;20,06;27;Contem Issue;1,346187555
+833;mkdynamic;active-record-matchers;0;1;0;0;78;29;0;4;117;0,11;1;Não Contem Issue;8,752136752
+834;pluskid;rmmseg-cpp;4;0;0;0;479;0;32;131;920;0,9;4;Não Contem Issue;4,452173913
+835;dsparling;jclock;2;10;0;0;13;38;33;64;411;0,4;12;Contem Issue;29,89781022
+836;rtomayko;rpeg-markdown;4;0;0;0;1791;100;12;34;625;0,61;4;Não Contem Issue;6,5536
+837;jandot;ruby-ensembl-api;5;8;0;0;79;11;15;39;4051;3,96;13;Contem Issue;3,286102197
+838;gnufied;backgroundrb;6;4;0;0;117;96;41;220;2024;1,98;10;Contem Issue;5,059288538
+839;ambethia;smtp-tls;1;0;0;0;97;50;12;48;138;0,13;1;Não Contem Issue;7,420289855
+840;activescaffold;active_scaffold;16;425;0;0;0;0;277;878;13121;12,81;441;Contem Issue;34,41688896
+841;haikuwebdev;aftimagr;0;1;0;0;4;0;2;12;144;0,14;1;Não Contem Issue;7,111111111
+842;activescaffold;active_scaffold_sortable;4;5;0;0;0;0;19;53;368;0,36;9;Contem Issue;25,04347826
+843;granth;titleize;3;8;0;0;6;10;24;38;292;0,29;11;Contem Issue;38,57534247
+844;tbueno;delicious-ext;0;1;0;0;45;8;0;3;120;0,12;1;Não Contem Issue;8,533333333
+845;luislavena;win32console;4;14;3;4;248;7;9;21;175;0,17;18;Contem Issue;105,3257143
+846;sebasmagri;portage;0;1;0;0;65;89;1;1;219;0,21;1;Não Contem Issue;4,675799087
+847;timcharper;calendar_date_select_demo;1;0;0;0;129;24;13;31;169;0,17;1;Não Contem Issue;6,059171598
+848;activescaffold;file_column;1;0;0;0;0;0;4;22;319;0,31;1;Não Contem Issue;3,210031348
+849;kjk;web-arslexis;0;1;0;0;182;10;0;1;32232;31,48;1;Não Contem Issue;0,03176967
+850;activescaffold;active_scaffold_demo;0;1;0;0;0;0;6;15;4567;4,46;1;Não Contem Issue;0,22421721
+851;trondn;memcached;5;0;0;0;96;5;6;28;3258;3,18;5;Não Contem Issue;1,571516268
+852;dustin;snippets;0;1;0;0;687;19;5;28;12371;12,08;1;Não Contem Issue;0,08277423
+853;Pistos;m4dbi;0;4;0;0;102;0;0;19;435;0,42;4;Não Contem Issue;9,416091954
+854;sproutit;sproutcore;1;7;0;0;0;0;70;489;37814;36,93;8;Contem Issue;0,21663934
+855;sproutit;sproutcore-samples;7;3;0;0;0;0;34;235;6807;6,65;10;Contem Issue;1,504333774
+856;bterlson;reddit;1;3;0;0;133;11;9;24;132;0,13;4;Não Contem Issue;31,03030303
+857;samuel;lua-quadtree;1;0;0;0;98;20;3;8;88;0,09;1;Não Contem Issue;11,63636364
+858;niklas;vimmate;6;1;0;0;22;25;2;20;956;0,93;7;Contem Issue;7,49790795
+859;vicaya;hypertable;1;0;0;0;9;1;88;76;57719;56,37;1;Não Contem Issue;0,017741125
+860;bjeanes;tv-renamer;0;4;0;0;168;72;6;19;122;0,12;4;Não Contem Issue;33,57377049
+861;sjlombardo;acts_as_network;1;2;0;0;35;3;18;107;92;0,09;3;Não Contem Issue;33,39130435
+862;suratpyari;blogging_app;1;0;0;0;4;1;0;1;3960;3,87;1;Não Contem Issue;0,258585859
+863;nuggetwheat;hypertable;0;1;0;0;13;1;21;52;99324;97;1;Não Contem Issue;0,010309694
+864;Spakman;jobby;1;1;0;0;26;18;2;12;584;0,57;2;Não Contem Issue;3,506849315
+865;xlymian;git;1;0;0;0;8;18;11;5;13322;13,01;1;Não Contem Issue;0,076865336
+866;evanfarrar;opensprints;37;51;0;0;51;88;14;35;32196;31,44;88;Contem Issue;2,798857001
+867;gslin;albumexpander;0;1;0;0;104;0;0;1;118;0,12;1;Não Contem Issue;8,677966102
+868;jnicklas;templater;4;3;0;0;658;7;8;46;594;0,58;7;Contem Issue;12,06734007
+869;djcp;radiant-fckeditor;5;0;0;0;38;5;13;45;1167;1,14;5;Não Contem Issue;4,387317909
+870;francois;clitt;1;0;0;0;72;2;0;13;117;0,11;1;Não Contem Issue;8,752136752
+871;samsouder;titlecase;2;1;0;0;17;31;7;22;114;0,11;3;Não Contem Issue;26,94736842
+872;walf443;rack-auth-ip;0;3;0;0;174;333;4;6;213;0,21;3;Não Contem Issue;14,42253521
+873;planetbeing;iphonelinux;10;7;0;0;536;5;90;343;9953;9,72;17;Contem Issue;1,749020396
+874;grosser;acts_as_searchable;0;1;0;0;283;7;0;5;252;0,25;1;Não Contem Issue;4,063492063
+875;tablatom;rubydoctest;11;5;0;0;68;1;11;85;350;0,34;16;Contem Issue;46,81142857
+876;vanto;trac-cc;1;0;0;0;31;40;0;1;108;0,11;1;Não Contem Issue;9,481481481
+877;death;reddit-mode;1;3;0;0;19;8;12;34;139;0,14;4;Não Contem Issue;29,4676259
+878;apeiros;breezeforms;1;0;0;0;50;6;0;6;132;0,13;1;Não Contem Issue;7,757575758
+879;mislav;standardista;1;1;0;0;1673;20;2;24;134;0,13;2;Não Contem Issue;15,28358209
+880;lukebayes;project-sprouts;4;71;0;0;82;55;41;216;38436;37,54;75;Contem Issue;1,998126756
+881;petertodd;alternate-pace;1;0;0;0;262;0;0;1;4496;4,39;1;Não Contem Issue;0,227758007
+882;mojombo;egitd;1;0;0;0;18380;11;17;90;270;0,26;1;Não Contem Issue;3,792592593
+883;lutzky;ttime;17;7;0;0;13;8;8;10;15330;14,97;24;Contem Issue;1,603131115
+884;hadley;ggplot2;34;1291;0;124;4399;7;507;1436;26480;25,86;1325;Contem Issue;51,23867069
+885;bert;pcb-plugins;2;0;2;0;14;28;2;8;1307;1,28;2;Não Contem Issue;1,566947207
+886;yasuhito;bf;0;11;0;0;25;35;0;1;448;0,44;11;Contem Issue;25,14285714
+887;pokeb;php-mvc-router;0;1;0;0;451;3;24;72;113;0,11;1;Não Contem Issue;9,061946903
+888;drnic;github-tmbundle;12;9;0;0;1448;13;37;235;311;0,3;21;Contem Issue;69,14469453
+889;makkalot;func;1;0;0;0;10;7;3;13;1769;1,73;1;Não Contem Issue;0,578858112
+890;madx;merb-todolist;1;0;0;0;49;44;0;2;148;0,14;1;Não Contem Issue;6,918918919
+891;bricooke;backpack-journal;0;1;0;0;30;6;3;8;396;0,39;1;Não Contem Issue;2,585858586
+892;schleyfox;ruby_kml;10;2;0;0;54;12;26;53;189;0,18;12;Contem Issue;65,01587302
+893;crafterm;twilight-emacs;2;5;0;0;130;106;13;92;214;0,21;7;Contem Issue;33,4953271
+894;raykrueger;hibernate-memcached;5;11;0;0;35;18;85;107;581;0,57;16;Contem Issue;28,19965577
+895;captproton;caboo.se-sample-app-v3;1;0;0;0;8;22;0;4;2000;1,95;1;Não Contem Issue;0,512
+896;mkllnk;gedit-rails-extensions;0;2;0;0;1;2;4;43;393;0,38;2;Não Contem Issue;5,211195929
+897;wharsojo;w2tags;1;0;0;0;13;0;2;13;1164;1,14;1;Não Contem Issue;0,879725086
+898;Mikachu;openbox;0;2;0;0;8;0;7;30;33837;33,04;2;Não Contem Issue;0,06052546
+899;solars;github-vim;1;13;0;0;2;3;12;38;234;0,23;14;Contem Issue;61,26495726
+900;bostonrb;bostonrb;11;162;0;0;0;0;72;206;18275;17,85;173;Contem Issue;9,693679891
+901;sebnow;aur2;5;2;2;2;13;17;3;10;322;0,31;7;Contem Issue;22,26086957
+902;tma;html_helpers;4;1;0;0;7;2;4;12;427;0,42;5;Não Contem Issue;11,99063232
+903;sbecker;github_editor_theme;3;4;0;0;40;23;46;111;129;0,13;7;Contem Issue;55,56589147
+904;travis;erlang-uuid;5;5;0;0;46;9;49;61;283;0,28;10;Contem Issue;36,18374558
+905;dustin;elock;1;0;0;0;687;19;12;55;114;0,11;1;Não Contem Issue;8,98245614
+906;azabaj;acts_as_rateable;1;1;0;0;18;7;37;160;81;0,08;2;Não Contem Issue;25,28395062
+907;mloughran;api_cache;4;17;0;0;54;1;25;298;300;0,29;21;Contem Issue;71,68
+908;duritong;puppet-yum;0;1;0;0;89;106;7;11;276;0,27;1;Não Contem Issue;3,710144928
+909;jandot;bio-graphics;1;0;0;0;79;11;5;22;1721;1,68;1;Não Contem Issue;0,595002905
+910;jlong;popupjs;1;3;0;0;218;8;12;56;1374;1,34;4;Não Contem Issue;2,981077147
+911;rails;account_location;0;1;0;0;0;0;12;70;148;0,14;1;Não Contem Issue;6,918918919
+912;sorbits;six;1;0;0;0;419;1;0;1;247;0,24;1;Não Contem Issue;4,145748988
+913;rails;acts_as_list;15;6;0;0;0;0;282;391;485;0,47;21;Contem Issue;44,33814433
+914;rails;acts_as_nested_set;2;0;0;0;0;0;11;66;77;0,08;2;Não Contem Issue;26,5974026
+915;luislavena;mysql-gem;5;26;1;2;248;7;16;38;433;0,42;31;Contem Issue;73,31177829
+916;rails;acts_as_tree;5;0;0;0;0;0;127;279;272;0,27;5;Não Contem Issue;18,82352941
+917;rails;auto_complete;13;0;0;0;0;0;75;219;344;0,34;13;Contem Issue;38,69767442
+918;rails;deadlock_retry;1;0;0;0;0;0;42;22;219;0,21;1;Não Contem Issue;4,675799087
+919;rails;exception_notification;10;5;0;0;0;0;436;886;292;0,29;15;Contem Issue;52,60273973
+920;rails;in_place_editing;5;0;0;0;0;0;50;232;275;0,27;5;Não Contem Issue;18,61818182
+921;rails;open_id_authentication;1;1;0;0;0;0;63;295;221;0,22;2;Não Contem Issue;9,266968326
+922;rails;scriptaculous_slider;1;0;0;0;0;0;8;15;90;0,09;1;Não Contem Issue;11,37777778
+923;rails;ssl_requirement;6;2;0;0;0;0;164;322;79;0,08;8;Contem Issue;103,6962025
+924;ljouglar;card-set;1;0;0;0;2;3;0;1;472;0,46;1;Não Contem Issue;2,169491525
+925;svenfuchs;routing-filter;10;47;0;0;531;85;65;356;516;0,5;57;Contem Issue;113,1162791
+926;nono;github_vim_theme;0;1;0;0;164;101;17;41;106;0,1;1;Não Contem Issue;9,660377358
+927;TwP;logging;13;109;0;0;165;8;62;352;1559;1,52;122;Contem Issue;80,13341886
+928;jmathai;epiphany;35;63;0;2;290;3;140;647;771;0,75;98;Contem Issue;130,1582361
+929;fiveruns;fiveruns_tuneup;3;0;0;0;67;0;9;62;789;0,77;3;Não Contem Issue;3,893536122
+930;reedlaw;myweblog;1;0;0;0;26;20;0;2;188;0,18;1;Não Contem Issue;5,446808511
+931;dokai;gitctl;1;0;0;0;13;1;1;9;381;0,37;1;Não Contem Issue;2,687664042
+932;neo4jrb;neo4j;106;849;1;23;0;0;172;911;50325;49,15;955;Contem Issue;19,43209141
+933;kbingman;paperclipped;33;10;0;0;26;0;68;133;1221;1,19;43;Contem Issue;36,06224406
+934;davetroy;geohash-js;6;0;0;0;46;2;71;273;109;0,11;6;Contem Issue;56,36697248
+935;davidfstr;rdiscount;4;126;0;0;25;4;70;740;1823;1,78;130;Contem Issue;73,0224904
+936;dsisnero;gdata-ruby;0;1;0;0;7;28;13;47;112;0,11;1;Não Contem Issue;9,142857143
+937;notahat;not_a_mock;2;0;0;0;143;5;3;47;116;0,11;2;Não Contem Issue;17,65517241
+938;kjk;fofou;1;3;0;0;182;10;38;175;1249;1,22;4;Não Contem Issue;3,279423539
+939;jerrett;rails_money;0;1;0;0;8;4;10;16;226;0,22;1;Não Contem Issue;4,530973451
+940;haruska;fb2twit;1;0;0;0;32;15;0;3;276;0,27;1;Não Contem Issue;3,710144928
+941;notahat;time_travel;1;0;0;0;143;5;3;33;131;0,13;1;Não Contem Issue;7,816793893
+942;eagleas;webmoney;4;21;0;0;1;0;23;38;600;0,59;25;Contem Issue;42,66666667
+943;ianwhite;truncate_html;1;2;0;0;79;9;11;53;291;0,28;3;Não Contem Issue;10,55670103
+944;awendt;hyggelig;1;7;0;0;21;22;0;4;1192;1,16;8;Contem Issue;6,872483221
+945;markusb;pdf-create;1;1;0;0;1;1;4;12;1021;1;2;Não Contem Issue;2,005876592
+946;chneukirchen;rack;0;10;0;0;485;1;5;471;2436;2,38;10;Contem Issue;4,203612479
+947;jlong;serve;23;107;0;0;218;8;96;836;8412;8,21;130;Contem Issue;15,82501189
+948;pjf;autodie;13;55;0;0;169;32;17;29;2192;2,14;68;Contem Issue;31,76642336
+949;pjf;ipc-system-simple;6;10;1;0;169;32;8;10;561;0,55;16;Contem Issue;29,20499109
+950;tkmr;as2js;1;0;0;0;5;14;1;4;92;0,09;1;Não Contem Issue;11,13043478
+951;ninjudd;record_cache;7;4;0;0;99;26;6;39;358;0,35;11;Contem Issue;31,46368715
+952;superchris;rubyjs;2;0;0;0;53;3;5;54;6149;6;2;Não Contem Issue;0,333062287
+953;seaofclouds;pop;2;0;0;0;126;24;21;49;165;0,16;2;Não Contem Issue;12,41212121
+954;davidB;scala-tools-parent;0;1;0;0;35;0;0;3;236;0,23;1;Não Contem Issue;4,338983051
+955;yariv;twoorl;1;0;0;0;98;2;12;80;454;0,44;1;Não Contem Issue;2,255506608
+956;davidB;scala-maven-plugin;25;145;0;0;35;0;62;223;6049;5,91;170;Contem Issue;28,77831046
+957;jhubert;ruby-date-recur;1;0;0;0;32;43;0;19;90;0,09;1;Não Contem Issue;11,37777778
+958;GUI;after_commit;2;0;0;0;31;0;41;44;132;0,13;2;Não Contem Issue;15,51515152
+959;WardCunningham;morse;0;3;0;0;603;3;7;25;2226;2,17;3;Não Contem Issue;1,380053908
+960;AntonyBlakey;smalltalk.tmbundle;0;1;0;0;3;0;2;12;86;0,08;1;Não Contem Issue;11,90697674
+961;matthewfallshaw;change_tempo;0;1;0;0;15;1;1;1;268;0,26;1;Não Contem Issue;3,820895522
+962;commonthread;flickr_fu;10;19;0;0;9;1;51;219;424;0,41;29;Contem Issue;70,03773585
+963;kevinclark;dust;1;1;0;0;72;4;4;67;710;0,69;2;Não Contem Issue;2,884507042
+964;cjbottaro;without_callbacks;2;0;0;0;13;0;1;11;90;0,09;2;Não Contem Issue;22,75555556
+965;adkron;sinatratumblog;0;1;0;0;59;17;0;3;108;0,11;1;Não Contem Issue;9,481481481
+966;ngerakines;erlang_twitter;4;1;0;0;256;74;27;118;189;0,18;5;Não Contem Issue;27,08994709
+967;adambair;fu-fu;2;1;0;0;72;54;13;63;1018;0,99;3;Não Contem Issue;3,017681729
+968;credmp;color-theme-arjen;0;2;0;0;4;11;1;9;252;0,25;2;Não Contem Issue;8,126984127
+969;bchiu;merb_forgery_protection;1;0;0;0;0;0;1;6;125;0,12;1;Não Contem Issue;8,192
+970;subwindow;negative-captcha;11;39;0;0;15;17;83;721;336;0,33;50;Contem Issue;152,3809524
+971;lackac;callout;1;0;0;0;39;14;0;8;120;0,12;1;Não Contem Issue;8,533333333
+972;zeuz;travian;0;1;0;0;0;0;0;1;96;0,09;1;Não Contem Issue;10,66666667
+973;myers;id3v2;1;1;0;0;6;7;8;13;230;0,22;2;Não Contem Issue;8,904347826
+974;rubyspec;rubyspec;13;302;0;0;0;0;245;667;21531;21,03;315;Contem Issue;14,98118991
+975;mutle;fu2;12;126;1;2;70;3;5;11;59426;58,03;138;Contem Issue;2,377949046
+976;acangiano;ruby-benchmark-suite;1;10;0;0;9;3;19;166;18500;18,07;11;Contem Issue;0,608864865
+977;maiha;dsl_accessor;1;0;0;0;100;12;1;6;159;0,16;1;Não Contem Issue;6,440251572
+978;rubyspec;mspec;15;51;0;0;0;0;43;85;1645;1,61;66;Contem Issue;41,08449848
+979;ukstudio;acts_as_bits;0;3;0;0;124;75;2;13;292;0,29;3;Não Contem Issue;10,52054795
+980;tenderlove;betabrite;1;0;0;0;4440;19;5;11;150;0,15;1;Não Contem Issue;6,826666667
+981;ariya;screenie;2;0;0;0;1316;0;8;26;1416;1,38;2;Não Contem Issue;1,446327684
+982;72squared;glu-php;0;1;0;0;8;4;0;7;2838;2,77;1;Não Contem Issue;0,360817477
+983;mbleigh;subdomain-fu;22;11;0;0;559;32;118;600;249;0,24;33;Contem Issue;135,7108434
+984;hoverbird;chance;0;1;0;0;312;119;1;7;270;0,26;1;Não Contem Issue;3,792592593
+985;edavis10;redmine;33;32;0;0;373;0;712;2325;67591;66,01;65;Contem Issue;0,98474649
+986;robmckinnon;rugalytics;0;2;0;0;69;32;12;115;501;0,49;2;Não Contem Issue;4,087824351
+987;yob;pdf-reader;58;90;0;0;94;69;138;787;13193;12,88;148;Contem Issue;11,48730387
+988;webmat;git_remote_branch;3;16;0;0;55;76;32;375;467;0,46;19;Contem Issue;41,66167024
+989;jstewart;system_messages;0;1;0;0;12;8;9;36;129;0,13;1;Não Contem Issue;7,937984496
+990;infews;amaz.infews;1;0;0;0;62;1;0;1;3904;3,81;1;Não Contem Issue;0,262295082
+991;mernen;json-jruby;2;8;0;2;14;3;2;23;516;0,5;10;Contem Issue;19,84496124
+992;kommen;quikiee;0;1;0;0;33;5;1;8;133;0,13;1;Não Contem Issue;7,69924812
+993;chrisa;ruby-dtrace;1;1;0;0;38;12;6;60;648;0,63;2;Não Contem Issue;3,160493827
+994;bdarcus;mysite;1;0;0;0;13;0;0;1;164;0,16;1;Não Contem Issue;6,243902439
+995;thoughtbot;factory_girl;75;733;0;25;0;0;748;4335;4317;4,22;808;Contem Issue;191,6590225
+996;cpjolicoeur;bb-ruby;0;35;0;0;42;10;46;107;595;0,58;35;Contem Issue;60,23529412
+997;elim;dotemacs;0;53;0;0;47;44;0;13;1484;1,45;53;Contem Issue;36,57142857
+998;edgarjs;ajaxful-rating;34;68;0;0;62;10;135;434;687;0,67;102;Contem Issue;152,0349345
+999;edgarjs;youtube-model;4;1;0;0;62;10;10;78;3223;3,15;5;Não Contem Issue;1,588582066

@@ -1,0 +1,6 @@
+
+________________||||Repositório: grit Cont: 0||||_________________________
+Listas de Labels:
+Tipo MarcaçãoLABELNome Label: BUG ; Quantidade: 4
+Tipo MarcaçãoLABELNome Label: FEATURE ; Quantidade: 1
+Listas de Milestones:

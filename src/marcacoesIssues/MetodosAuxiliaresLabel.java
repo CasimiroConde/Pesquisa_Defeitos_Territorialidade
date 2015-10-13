@@ -75,28 +75,31 @@ public class MetodosAuxiliaresLabel {
 	}
 	
 	public static void insereMarcacaoLabelConsolidado(ArrayList<MarcacaoIssue> marcacaoIssue, ArrayList<LabelConsolidado> labels, ArrayList<MarcacaoIssue> marcacaoRepositorio) {
-		
-		for(MarcacaoIssue mi : marcacaoRepositorio){
-			String labelNormatizada = normatizaLabel(labels, mi.getNome());
-			if(marcacaoIssue.isEmpty()){
-				MarcacaoIssue marcacao = new MarcacaoIssue(labelNormatizada, TipoMarcacao.LABEL);
-				marcacaoIssue.add(marcacao);
-			} else {
-				boolean incrementadoLabel = false;
-				for(MarcacaoIssue m : marcacaoIssue){
-					if(m.getTipo() == TipoMarcacao.LABEL){
-						if(m.getNome().equals(labelNormatizada)){	
-							m.acrescentaNumeroContador(mi.getQuantidade());
-							incrementadoLabel = true;
-						}
-					}
-				}
-				if(!incrementadoLabel){
+		try{
+			for(MarcacaoIssue mi : marcacaoRepositorio){
+				String labelNormatizada = normatizaLabel(labels, mi.getNome());
+				if(marcacaoIssue.isEmpty()){
 					MarcacaoIssue marcacao = new MarcacaoIssue(labelNormatizada, TipoMarcacao.LABEL);
 					marcacaoIssue.add(marcacao);
+				} else {
+					boolean incrementadoLabel = false;
+					for(MarcacaoIssue m : marcacaoIssue){
+						if(m.getTipo() == TipoMarcacao.LABEL){
+							if(m.getNome().equals(labelNormatizada)){	
+								m.acrescentaNumeroContador(mi.getQuantidade());
+								incrementadoLabel = true;
+							}
+						}
+					}
+					if(!incrementadoLabel){
+						MarcacaoIssue marcacao = new MarcacaoIssue(labelNormatizada, TipoMarcacao.LABEL);
+						marcacaoIssue.add(marcacao);
+					}
 				}
-			}
-		}		
+			}	
+		} catch (NullPointerException n){
+			System.out.println("Não encontrada Marcação");
+		}
 	}
 
 
