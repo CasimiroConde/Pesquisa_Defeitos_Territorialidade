@@ -160,7 +160,7 @@ public @Data class Repositorio {
 					Thread.sleep(600 * 1000);
 				} else {
 					this.repositoryName = "Vazio";
-					System.out.println("Repositório não acessado!! Repositório: " + this.getRepositoryName());
+					System.out.println("Repositório não acessado!! Repositório: " + this.getRepositoryName() + " Exception:" + e.getMessage());
 					finished = true;
 				}
 			}

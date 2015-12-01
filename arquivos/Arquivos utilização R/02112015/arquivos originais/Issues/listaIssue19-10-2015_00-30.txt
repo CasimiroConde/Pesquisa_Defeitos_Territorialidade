@@ -1,0 +1,1787 @@
+
+
+
+
+
+
+ryan-allen;workflow;open;Mahinder;Sun Sep 13 06:11:06 BRT 2015;null;35;
+ryan-allen;workflow;open;Richard Blechinger;Thu Jan 22 04:31:42 BRST 2015;null;269;
+ryan-allen;workflow;closed;null;Fri Dec 06 17:39:47 BRST 2013;Sat Dec 07 06:38:22 BRST 2013;0;
+ryan-allen;workflow;open;null;Mon Feb 04 16:03:51 BRST 2013;null;986;
+ryan-allen;workflow;open;Gustavo Honorato;Thu Aug 19 11:24:30 BRT 2010;null;1886;
+
+
+
+btakita;rr;open;Adrian Perez;Tue Apr 15 15:09:51 BRT 2014;null;551;
+btakita;rr;closed;Joel "The Merciless" Meador;Mon Jul 08 15:48:38 BRT 2013;Mon Jul 08 15:50:49 BRT 2013;0;
+btakita;rr;open;Chris Maddox;Mon May 27 17:55:51 BRT 2013;null;874;
+btakita;rr;closed;Archit Baweja;Thu Mar 21 15:28:26 BRT 2013;Thu Mar 28 21:53:26 BRT 2013;7;
+btakita;rr;closed;Dylan Jhaveri;Mon Mar 18 05:09:51 BRT 2013;Mon Mar 18 19:29:31 BRT 2013;0;
+btakita;rr;closed;Elliot Winkler;Sun Mar 17 21:42:00 BRT 2013;Mon Mar 18 02:13:33 BRT 2013;0;
+btakita;rr;closed;Elliot Winkler;Sun Mar 17 01:06:19 BRT 2013;Wed Apr 10 10:01:20 BRT 2013;24;
+btakita;rr;open;Elliot Winkler;Sat Mar 16 23:07:36 BRT 2013;null;946;
+btakita;rr;open;Elliot Winkler;Sat Mar 16 22:55:19 BRT 2013;null;946;
+btakita;rr;closed;Elliot Winkler;Sat Mar 16 02:39:22 BRT 2013;Sat Apr 20 22:09:21 BRT 2013;35;
+btakita;rr;closed;Elliot Winkler;Sat Mar 16 02:22:40 BRT 2013;Sat Mar 16 02:23:16 BRT 2013;0;
+btakita;rr;closed;Mikhail Dieterle;Tue Mar 05 13:18:09 BRT 2013;Tue Mar 05 15:20:24 BRT 2013;0;
+btakita;rr;closed;Geremy Cohen;Mon Feb 25 20:28:48 BRT 2013;Mon Feb 25 20:29:59 BRT 2013;0;
+btakita;rr;closed;Steven R. Baker;Tue Nov 20 17:19:03 BRST 2012;Fri Mar 15 02:14:32 BRT 2013;114;
+btakita;rr;closed;Rudolf Schmidt;Fri Oct 26 18:06:20 BRST 2012;Thu Mar 14 16:52:29 BRT 2013;138;
+btakita;rr;open;Jay Perry;Tue Aug 07 09:51:26 BRT 2012;null;1167;
+btakita;rr;closed;David Padilla;Mon May 07 17:43:39 BRT 2012;Fri Mar 15 02:14:32 BRT 2013;311;
+btakita;rr;open;Thomas Dippel;Wed May 02 11:30:31 BRT 2012;null;1264;
+btakita;rr;open;Tim James;Tue Apr 24 16:33:00 BRT 2012;null;1272;
+btakita;rr;closed;Sebastian Nowak;Sat Apr 07 12:47:22 BRT 2012;Wed Apr 10 10:01:30 BRT 2013;367;
+btakita;rr;closed;Gerry Gleason;Wed Feb 08 13:28:21 BRST 2012;Thu Mar 01 14:59:44 BRT 2012;22;
+btakita;rr;closed;James McCarthy;Mon Feb 06 23:51:33 BRST 2012;Fri Mar 15 02:16:03 BRT 2013;402;
+btakita;rr;closed;Daniel Salmerón Amselem;Mon Feb 06 09:36:42 BRST 2012;Fri Mar 15 04:14:25 BRT 2013;402;
+btakita;rr;open;Erik Ogan;Fri Feb 03 00:36:27 BRST 2012;null;1354;
+btakita;rr;open;Ben Woosley;Wed Feb 01 18:07:46 BRST 2012;null;1355;
+btakita;rr;closed;Moshe Bergman;Tue Dec 27 22:44:26 BRST 2011;Wed Apr 10 10:01:52 BRT 2013;469;
+btakita;rr;open;Miki Shiran;Tue Dec 13 09:02:04 BRST 2011;null;1405;
+btakita;rr;open;Elliot Winkler;Mon Nov 14 17:36:24 BRST 2011;null;1434;
+btakita;rr;closed;Matijs van Zuijlen;Mon Nov 14 04:22:09 BRST 2011;Fri Mar 15 04:13:16 BRT 2013;486;
+btakita;rr;closed;wynst;Fri Nov 11 09:08:21 BRST 2011;Fri Mar 15 02:14:31 BRT 2013;489;
+btakita;rr;closed;Timothy Cardenas;Thu Nov 10 17:46:32 BRST 2011;Fri Mar 15 01:03:26 BRT 2013;490;
+btakita;rr;closed;Étienne Barrié;Wed Nov 02 14:34:25 BRST 2011;Mon Oct 27 19:17:27 BRST 2014;1090;
+btakita;rr;closed;Jeanine Adkisson;Thu Sep 29 14:59:11 BRT 2011;Fri Mar 15 02:14:31 BRT 2013;532;
+btakita;rr;closed;James McCarthy;Thu Sep 22 15:18:33 BRT 2011;Fri Mar 15 02:14:31 BRT 2013;539;
+btakita;rr;closed;Caleb Spare;Wed Sep 07 23:30:22 BRT 2011;Fri Mar 15 01:01:23 BRT 2013;554;
+btakita;rr;closed;Nick Novitski;Thu Aug 18 16:39:47 BRT 2011;Fri Aug 19 20:52:50 BRT 2011;1;
+btakita;rr;closed;Nick Novitski;Thu Aug 18 13:54:17 BRT 2011;Fri Aug 19 20:52:31 BRT 2011;1;
+btakita;rr;closed;null;Tue Jun 28 20:14:48 BRT 2011;Tue Aug 30 15:38:54 BRT 2011;62;
+btakita;rr;closed;Evan Phoenix;Fri Jun 24 13:57:53 BRT 2011;Fri Jun 24 22:29:47 BRT 2011;0;
+btakita;rr;closed;Caleb Spare;Fri Jun 17 01:59:58 BRT 2011;Fri Jun 24 22:29:36 BRT 2011;7;
+btakita;rr;open;trampoline systems limited;Thu Jun 02 10:54:42 BRT 2011;null;1599;
+btakita;rr;closed;Brian Jenkins;Sun May 22 16:34:56 BRT 2011;Sun May 22 17:00:44 BRT 2011;0;
+btakita;rr;open;Tatsuya Ono;Tue May 17 20:23:48 BRT 2011;null;1615;
+btakita;rr;closed;Patrick Lef;Tue May 17 10:39:47 BRT 2011;Fri May 27 07:58:46 BRT 2011;9;
+btakita;rr;closed;Gavin Miller;Sat May 14 16:24:55 BRT 2011;Sun May 22 17:02:26 BRT 2011;8;
+btakita;rr;closed;null;Tue May 10 18:19:46 BRT 2011;Fri Mar 15 00:49:12 BRT 2013;674;
+btakita;rr;closed;Karl Varga;Wed Apr 20 22:04:38 BRT 2011;Tue Oct 09 21:24:12 BRT 2012;537;
+btakita;rr;open;Joseph Anthony Pasquale Holsten;Tue Apr 19 13:46:08 BRT 2011;null;1643;
+btakita;rr;closed;Hedgehog;Wed Mar 09 08:41:05 BRT 2011;Fri Mar 15 04:08:05 BRT 2013;736;
+btakita;rr;closed;Hedgehog;Wed Mar 09 07:29:20 BRT 2011;Fri Mar 15 04:22:18 BRT 2013;736;
+btakita;rr;open;Hedgehog;Wed Mar 09 01:58:09 BRT 2011;null;1684;
+btakita;rr;closed;Shared Honk Dev Account;Wed Jan 26 22:04:22 BRST 2011;Wed Apr 10 10:00:50 BRT 2013;804;
+btakita;rr;open;François D;Fri Dec 10 08:45:00 BRST 2010;null;1773;
+btakita;rr;closed;null;Thu Nov 04 11:31:31 BRST 2010;Fri Mar 15 00:15:29 BRT 2013;861;
+btakita;rr;closed;Klaas Reineke;Mon Oct 25 10:31:32 BRST 2010;Thu Mar 14 21:46:13 BRT 2013;871;
+btakita;rr;closed;Sebastian Nowak;Sun Oct 17 11:30:55 BRST 2010;Sun Oct 31 18:44:54 BRST 2010;14;
+btakita;rr;closed;Alexander Murmann;Sat Oct 09 21:30:29 BRT 2010;Wed Apr 10 10:01:40 BRT 2013;913;
+btakita;rr;closed;Ryan Bates;Fri Oct 08 14:06:01 BRT 2010;Fri Mar 15 02:14:31 BRT 2013;888;
+btakita;rr;open;Ryan Bates;Tue Oct 05 14:06:13 BRT 2010;null;1839;
+btakita;rr;closed;Tuomas Kareinen;Thu Aug 26 08:13:54 BRT 2010;Sun Oct 31 19:07:44 BRST 2010;66;
+btakita;rr;closed;Greg Hurrell;Sat Jul 03 14:52:25 BRT 2010;Fri Mar 15 04:15:51 BRT 2013;985;
+btakita;rr;open;Greg Hurrell;Thu Jul 01 15:15:05 BRT 2010;null;1935;
+btakita;rr;open;Greg Hurrell;Thu Jul 01 03:02:29 BRT 2010;null;1935;
+btakita;rr;closed;Jake Paul;Thu Jun 24 14:42:02 BRT 2010;Mon Aug 23 07:09:11 BRT 2010;59;
+btakita;rr;closed;Ev Dolzhenko;Thu Jun 10 09:23:57 BRT 2010;Thu Mar 14 21:34:51 BRT 2013;1008;
+btakita;rr;closed;Philippe Lafoucrière;Mon Jun 07 13:24:10 BRT 2010;Thu Mar 14 21:34:35 BRT 2013;1011;
+btakita;rr;closed;John Duff;Fri May 21 14:13:44 BRT 2010;Thu Mar 14 21:33:24 BRT 2013;1028;
+btakita;rr;closed;Jeff Emminger;Wed May 19 15:42:05 BRT 2010;Thu Mar 14 21:32:56 BRT 2013;1030;
+btakita;rr;open;Dane O'Connor;Wed May 19 15:02:01 BRT 2010;null;1978;
+btakita;rr;open;Mike Schwab;Fri Mar 19 14:01:37 BRT 2010;null;2039;
+btakita;rr;closed;Justin Ko;Thu Mar 18 17:19:08 BRT 2010;Mon Aug 23 14:06:50 BRT 2010;157;
+btakita;rr;closed;null;Sun Feb 21 12:42:35 BRT 2010;Thu Feb 25 07:19:18 BRT 2010;3;
+btakita;rr;closed;Jen-Mei Wu;Tue Feb 16 16:03:35 BRST 2010;Thu Feb 18 06:07:38 BRST 2010;1;
+btakita;rr;open;Brian Takita;Mon Jan 18 16:01:07 BRST 2010;null;2099;
+btakita;rr;open;Brian Takita;Mon Jan 18 16:00:38 BRST 2010;null;2099;
+btakita;rr;closed;Diego Elio Pettenò;Fri Dec 25 00:14:43 BRST 2009;Mon Feb 01 04:58:27 BRST 2010;38;
+btakita;rr;closed;David Lee;Sat Dec 12 21:18:15 BRST 2009;Sun Mar 07 18:04:28 BRT 2010;84;
+btakita;rr;closed;Mike Grafton;Sat Dec 05 20:06:01 BRST 2009;Mon Feb 08 00:37:04 BRST 2010;64;
+btakita;rr;closed;Evan Light;Thu Nov 19 20:42:03 BRST 2009;Sun Mar 21 00:02:20 BRT 2010;121;
+btakita;rr;open;Joseph Palermo;Mon Nov 16 20:29:22 BRST 2009;null;2162;
+btakita;rr;closed;colin harris;Sat Nov 14 18:56:39 BRST 2009;Thu Mar 14 17:14:00 BRT 2013;1215;
+btakita;rr;closed;Eugene Pimenov;Mon Nov 09 00:33:04 BRST 2009;Mon Feb 01 04:58:09 BRST 2010;84;
+btakita;rr;closed;James Herdman;Wed Nov 04 14:54:03 BRST 2009;Sat Mar 16 02:29:57 BRT 2013;1227;
+btakita;rr;closed;Shared Honk Dev Account;Mon Sep 21 21:09:25 BRT 2009;Mon Aug 23 14:13:30 BRT 2010;335;
+btakita;rr;closed;Dave Myron;Fri Sep 18 21:30:53 BRT 2009;Mon Oct 19 03:42:13 BRST 2009;30;
+btakita;rr;closed;Dave Myron;Fri Sep 18 20:57:40 BRT 2009;Sun Oct 31 18:46:46 BRST 2010;407;
+btakita;rr;closed;Szymon Nowak;Mon Sep 07 08:58:43 BRT 2009;Mon Oct 19 03:48:16 BRST 2009;41;
+btakita;rr;closed;Lawrence Pit;Thu Sep 03 22:28:09 BRT 2009;Mon Oct 19 03:50:34 BRST 2009;45;
+btakita;rr;closed;Lawrence Pit;Thu Sep 03 22:20:01 BRT 2009;Thu Mar 14 16:58:18 BRT 2013;1287;
+btakita;rr;open;Lawrence Pit;Thu Sep 03 20:52:40 BRT 2009;null;2236;
+btakita;rr;closed;Brian Takita;Mon Aug 31 03:01:32 BRT 2009;Mon Oct 19 03:59:34 BRST 2009;49;
+btakita;rr;closed;Brian Takita;Sun Aug 30 15:38:26 BRT 2009;Sun Aug 30 15:38:52 BRT 2009;0;
+btakita;rr;closed;John Duff;Fri Aug 28 12:24:18 BRT 2009;Mon Aug 31 03:01:12 BRT 2009;2;
+btakita;rr;closed;Brian Takita;Sun Aug 23 01:07:04 BRT 2009;Mon Aug 23 14:08:04 BRT 2010;365;
+btakita;rr;closed;Brian Takita;Sun Aug 23 01:05:09 BRT 2009;Mon Aug 23 07:08:38 BRT 2010;365;
+btakita;rr;closed;Caleb Land;Sun Aug 09 17:25:14 BRT 2009;Mon Aug 23 07:07:49 BRT 2010;378;
+btakita;rr;closed;David Lee;Mon Jun 22 22:19:40 BRT 2009;Sun Aug 23 01:01:41 BRT 2009;61;
+btakita;rr;open;Craig Muth;Sat May 09 18:26:20 BRT 2009;null;2353;
+btakita;rr;closed;Craig Muth;Sat May 09 15:09:11 BRT 2009;Mon Aug 17 04:05:47 BRT 2009;99;
+btakita;rr;open;Craig Muth;Thu May 07 17:33:18 BRT 2009;null;2355;
+
+
+
+blynn;netwalk;open;null;Thu Oct 30 14:48:49 BRST 2014;null;353;
+blynn;netwalk;closed;null;Sat Oct 25 13:45:29 BRST 2014;Mon Nov 03 14:30:59 BRST 2014;9;
+
+blynn;gitmagic;open;null;Thu Aug 20 07:17:53 BRT 2015;null;59;
+blynn;gitmagic;closed;null;Tue Dec 09 00:33:22 BRST 2014;Sat Jan 10 07:54:53 BRST 2015;32;
+blynn;gitmagic;open;null;Mon Dec 08 17:38:37 BRST 2014;null;314;
+blynn;gitmagic;open;null;Wed Nov 19 07:14:50 BRST 2014;null;333;
+blynn;gitmagic;closed;JH;Thu Aug 14 09:54:28 BRT 2014;Thu Aug 14 23:45:04 BRT 2014;0;
+blynn;gitmagic;closed;Pinkilla;Sun Oct 27 06:50:46 BRST 2013;Tue Oct 29 04:16:42 BRST 2013;1;
+blynn;gitmagic;closed;Martín Gaitán;Thu Oct 17 22:16:02 BRT 2013;Tue Oct 29 04:16:42 BRST 2013;11;
+blynn;gitmagic;closed;Mattia Rigotti;Sun Jun 30 16:41:13 BRT 2013;Fri Jul 19 02:41:22 BRT 2013;18;
+blynn;gitmagic;closed;Mattia Rigotti;Mon Jun 24 00:09:29 BRT 2013;Thu Jun 27 03:43:53 BRT 2013;3;
+blynn;gitmagic;closed;Mattia Rigotti;Tue Jun 11 01:27:35 BRT 2013;Sat Jun 15 01:22:09 BRT 2013;3;
+blynn;gitmagic;closed;Mattia Rigotti;Tue Jun 04 00:15:16 BRT 2013;Wed Jun 05 02:35:10 BRT 2013;1;
+blynn;gitmagic;closed;null;Tue Mar 26 11:59:23 BRT 2013;Sat Jun 15 01:19:21 BRT 2013;80;
+blynn;gitmagic;closed;Volodymyr Bodenchuk;Wed Dec 26 12:08:30 BRST 2012;Thu Feb 14 04:41:45 BRST 2013;49;
+blynn;gitmagic;closed;Alan;Tue Dec 25 05:33:18 BRST 2012;Thu Feb 14 04:39:43 BRST 2013;50;
+blynn;gitmagic;closed;Agustin Ferrari;Mon Dec 17 07:59:37 BRST 2012;Thu Feb 14 04:31:49 BRST 2013;58;
+blynn;gitmagic;closed;null;Wed Nov 07 15:40:43 BRST 2012;Mon Dec 10 01:18:22 BRST 2012;32;
+blynn;gitmagic;open;Ugnichenko Dmitriy;Wed Aug 29 04:27:03 BRT 2012;null;1145;
+blynn;gitmagic;closed;Nacho;Thu Jun 21 05:49:47 BRT 2012;Mon Dec 10 01:28:08 BRST 2012;171;
+blynn;gitmagic;closed;Baiju Muthukadan;Wed May 16 14:46:37 BRT 2012;Mon Dec 10 01:28:08 BRST 2012;207;
+blynn;gitmagic;closed;Joël Thieffry;Fri Apr 13 14:30:32 BRT 2012;Mon Apr 30 05:10:29 BRT 2012;16;
+blynn;gitmagic;closed;Joël Thieffry;Wed Apr 11 12:34:43 BRT 2012;Thu Apr 12 03:47:21 BRT 2012;0;
+blynn;gitmagic;closed;Sergey Sergeev;Mon Apr 02 05:39:41 BRT 2012;Thu Apr 12 03:47:21 BRT 2012;9;
+blynn;gitmagic;closed;Sergey Sergeev;Wed Mar 07 08:18:09 BRT 2012;Tue Mar 13 04:28:06 BRT 2012;5;
+blynn;gitmagic;closed;David T;Tue Mar 06 23:21:28 BRT 2012;Tue Mar 13 04:28:06 BRT 2012;6;
+blynn;gitmagic;closed;Oliver Ferrigni;Thu Feb 02 14:46:32 BRST 2012;Sat Feb 18 01:05:16 BRST 2012;15;
+blynn;gitmagic;closed;Romain Lespinasse;Sun Jan 29 18:21:43 BRST 2012;Sat Feb 18 01:01:49 BRST 2012;19;
+blynn;gitmagic;closed;Bo-Yi Wu;Sun Dec 18 08:02:21 BRST 2011;Mon Jan 16 05:48:40 BRST 2012;28;
+blynn;gitmagic;open;Shantanu Kumar;Sun Nov 27 05:48:36 BRST 2011;null;1421;
+blynn;gitmagic;closed;Rafa de Castro;Mon Nov 14 11:39:11 BRST 2011;Sun Nov 27 20:44:52 BRST 2011;13;
+blynn;gitmagic;closed;Sonia Hamilton;Sun Jul 10 21:31:30 BRT 2011;Thu Jul 28 05:38:12 BRT 2011;17;
+blynn;gitmagic;closed;Armin Stebich;Sun Jul 10 13:02:27 BRT 2011;Thu Jul 28 05:38:12 BRT 2011;17;
+blynn;gitmagic;closed;Sonia Hamilton;Thu Jul 07 02:26:38 BRT 2011;Fri Jul 08 06:07:40 BRT 2011;1;
+blynn;gitmagic;closed;null;Fri Jun 24 16:45:22 BRT 2011;Wed Jun 29 15:32:56 BRT 2011;4;
+blynn;gitmagic;closed;Paul Gaborit;Sun Feb 27 21:12:26 BRT 2011;Tue Mar 01 04:24:11 BRT 2011;1;
+blynn;gitmagic;closed;null;Sat Jan 08 01:05:41 BRST 2011;Thu Jan 27 05:49:15 BRST 2011;19;
+blynn;gitmagic;open;Tyler Breisacher;Mon Nov 29 06:43:41 BRST 2010;null;1784;
+blynn;gitmagic;closed;Tyler Breisacher;Mon Nov 29 06:41:57 BRST 2010;Mon Dec 13 06:01:37 BRST 2010;13;
+blynn;gitmagic;closed;Tyler Breisacher;Mon Nov 29 05:20:50 BRST 2010;Mon Dec 13 06:06:10 BRST 2010;14;
+blynn;gitmagic;closed;Armin Stebich;Thu Nov 04 05:36:50 BRST 2010;Fri Nov 05 04:12:49 BRST 2010;0;
+blynn;gitmagic;closed;bxbx;Fri Sep 03 10:48:31 BRT 2010;Sat Sep 04 11:11:56 BRT 2010;1;
+
+
+
+
+
+
+
+
+
+
+siannopollo;mail_fetcher;open;Gun.io Robot;Thu Oct 27 11:19:17 BRST 2011;null;1452;
+siannopollo;mail_fetcher;open;null;Mon Mar 01 18:38:49 BRT 2010;null;2057;
+
+oneup;guide-to-zen;open;Deleted user;Tue Jan 21 17:28:08 BRST 2014;null;635;
+
+
+
+
+
+
+
+
+
+
+haruska;polymorphic_include;closed;null;Sun Mar 13 17:30:08 BRT 2011;Mon Mar 14 16:52:02 BRT 2011;0;
+haruska;polymorphic_include;closed;Nicholas Jakobsen;Tue Dec 14 21:31:57 BRST 2010;Sat Dec 18 02:12:22 BRST 2010;3;
+
+
+olsonjeffery;boolangstudio;open;Deleted user;Tue Jan 21 17:27:49 BRST 2014;null;635;
+olsonjeffery;boolangstudio;open;null;Sun Jul 17 14:09:45 BRT 2011;null;1554;
+olsonjeffery;boolangstudio;open;null;Tue Aug 04 10:04:31 BRT 2009;null;2266;
+
+
+
+planetbeing;xpwn;open;jbprd;Sun Dec 08 18:41:38 BRST 2013;null;679;
+planetbeing;xpwn;closed;Neal;Mon Jul 08 11:28:46 BRT 2013;Mon Jul 08 16:58:46 BRT 2013;0;
+planetbeing;xpwn;open;TonyLianLong;Sun May 19 01:23:20 BRT 2013;null;883;
+planetbeing;xpwn;closed;Dylan Laws;Fri Apr 05 00:34:47 BRT 2013;Sun May 12 03:13:39 BRT 2013;37;
+planetbeing;xpwn;open;Adam I;Wed Mar 20 18:00:41 BRT 2013;null;942;
+planetbeing;xpwn;open;Phoenix Ward;Sun Dec 02 08:51:14 BRST 2012;null;1050;
+planetbeing;xpwn;closed;Squiffy;Sat Sep 08 21:22:17 BRT 2012;Mon Mar 04 02:56:20 BRT 2013;176;
+
+
+
+
+
+aeden;rsaml;open;ezero;Wed Feb 17 06:09:11 BRST 2010;null;2069;
+aeden;rsaml;open;null;Thu Dec 24 01:13:52 BRST 2009;null;2125;
+
+
+
+
+
+tekin;file_column;open;null;Thu Feb 14 07:21:50 BRST 2013;null;976;
+tekin;file_column;open;Gun.io Robot;Tue Jan 31 05:31:59 BRST 2012;null;1356;
+tekin;file_column;open;Brian Buchalter;Mon Sep 26 15:35:23 BRT 2011;null;1483;
+tekin;file_column;closed;Rit Li;Wed Apr 28 16:17:19 BRT 2010;Wed Apr 28 16:51:08 BRT 2010;0;
+
+
+
+dojosp;participant-s-projects;closed;Jonas Abreu;Wed Oct 10 11:20:55 BRT 2012;Wed Oct 10 13:18:51 BRT 2012;0;
+dojosp;participant-s-projects;closed;Jonas Abreu;Fri Jul 06 00:56:41 BRT 2012;Fri Jul 06 00:57:40 BRT 2012;0;
+dojosp;participant-s-projects;closed;Danilo E. F. Bento;Sat Jan 29 15:40:55 BRST 2011;Mon Jan 31 22:59:22 BRST 2011;2;
+
+
+
+ntalbott;radiant-reorder-extension;closed;Deleted user;Tue Jan 21 17:27:37 BRST 2014;Tue Jan 21 20:54:14 BRST 2014;0;
+
+
+
+
+josevalim;easy_http_cache;open;null;Thu Mar 31 00:40:11 BRT 2011;null;1663;
+josevalim;easy_http_cache;closed;null;Wed Mar 30 05:03:14 BRT 2011;Wed Mar 30 06:38:59 BRT 2011;0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+front-end;front-end-blender;closed;Austin Ziegler;Tue Oct 15 22:52:36 BRT 2013;Thu Oct 16 11:00:58 BRT 2014;365;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tim;erlang-oauth;closed;Boris;Mon Jul 13 10:14:24 BRT 2015;Thu Sep 24 09:19:16 BRT 2015;72;
+tim;erlang-oauth;closed;Jim Tittsler;Fri Sep 19 11:45:29 BRT 2014;Fri Sep 26 10:18:45 BRT 2014;6;
+tim;erlang-oauth;closed;Leonid Rozenberg;Mon Sep 01 17:50:06 BRT 2014;Thu Sep 24 09:19:40 BRT 2015;387;
+tim;erlang-oauth;closed;?????? ???????????;Sat Jul 12 11:42:54 BRT 2014;Fri Sep 12 07:28:32 BRT 2014;61;
+tim;erlang-oauth;closed;Sean Moss-Pultz;Sun Sep 15 23:32:47 BRT 2013;Mon Oct 28 08:30:15 BRST 2013;42;
+tim;erlang-oauth;closed;András Veres-Szentkirályi;Wed Jul 17 04:26:40 BRT 2013;Wed Jul 17 05:38:34 BRT 2013;0;
+tim;erlang-oauth;closed;András Veres-Szentkirályi;Mon Jul 15 09:22:58 BRT 2013;Sun Jul 21 17:08:00 BRT 2013;6;
+tim;erlang-oauth;closed;Igor;Tue Feb 12 14:02:45 BRST 2013;Wed Feb 13 10:54:53 BRST 2013;0;
+tim;erlang-oauth;closed;Marcelo Gornstein;Wed Feb 06 12:33:55 BRST 2013;Wed Feb 06 12:34:40 BRST 2013;0;
+tim;erlang-oauth;closed;András Veres-Szentkirályi;Sun Oct 21 10:28:50 BRST 2012;Sun Oct 21 12:28:27 BRST 2012;0;
+tim;erlang-oauth;closed;András Veres-Szentkirályi;Sun Oct 21 10:26:20 BRST 2012;Sun Oct 21 12:31:42 BRST 2012;0;
+tim;erlang-oauth;closed;Jose Luis Gordo Romero;Wed Oct 10 11:45:19 BRT 2012;Wed Oct 10 13:14:29 BRT 2012;0;
+tim;erlang-oauth;closed;Ryan Flynn;Thu Sep 13 12:01:55 BRT 2012;Thu Sep 13 18:51:57 BRT 2012;0;
+tim;erlang-oauth;closed;Ryan Flynn;Mon Sep 10 15:18:56 BRT 2012;Fri Sep 14 12:30:47 BRT 2012;3;
+tim;erlang-oauth;closed;Jesse Sanford;Fri Jun 15 12:55:21 BRT 2012;Fri Sep 14 12:53:48 BRT 2012;90;
+tim;erlang-oauth;closed;OJ Reeves;Sun Feb 12 09:56:23 BRST 2012;Fri Sep 14 12:45:28 BRT 2012;215;
+tim;erlang-oauth;closed;naoya_t;Sun Dec 18 09:18:23 BRST 2011;Sun Dec 18 09:28:26 BRST 2011;0;
+tim;erlang-oauth;closed;Max Treskin;Fri Nov 04 08:51:23 BRST 2011;Sun Dec 04 07:07:48 BRST 2011;29;
+tim;erlang-oauth;closed;Jan Lehnardt;Fri Oct 14 11:00:23 BRT 2011;Mon Oct 17 09:03:41 BRST 2011;2;
+tim;erlang-oauth;closed;Raschupkin Igor;Wed Sep 28 07:49:01 BRT 2011;Wed Sep 28 08:25:16 BRT 2011;0;
+tim;erlang-oauth;closed;Daniil Churikov;Tue Jul 26 05:42:58 BRT 2011;Wed Jul 27 00:26:07 BRT 2011;0;
+tim;erlang-oauth;closed;Matteo Redaelli;Mon May 16 16:33:57 BRT 2011;Sun May 22 19:16:53 BRT 2011;6;
+tim;erlang-oauth;closed;Tom Taylor;Mon Jan 24 09:28:04 BRST 2011;Tue Jan 25 05:22:13 BRST 2011;0;
+tim;erlang-oauth;closed;Jan Lehnardt;Fri Nov 26 11:29:38 BRST 2010;Fri Nov 26 19:45:50 BRST 2010;0;
+tim;erlang-oauth;closed;Arjan Scherpenisse;Tue Oct 06 03:33:38 BRT 2009;Tue Oct 06 14:27:15 BRT 2009;0;
+
+
+
+
+
+
+
+
+activewarehouse;rails_sql_views;closed;Fabio Pisaruk;Mon Feb 10 15:52:02 BRST 2014;Tue Feb 11 05:17:30 BRST 2014;0;
+activewarehouse;rails_sql_views;open;Conner Wingard;Wed Mar 27 12:27:29 BRT 2013;null;935;
+activewarehouse;rails_sql_views;open;King;Mon Sep 10 10:07:16 BRT 2012;null;1133;
+activewarehouse;rails_sql_views;open;Trevor Stone;Mon Jan 09 03:14:38 BRST 2012;null;1379;
+activewarehouse;rails_sql_views;open;Trevor Stone;Mon Jan 09 03:09:14 BRST 2012;null;1379;
+activewarehouse;rails_sql_views;open;David Chelimsky;Tue Aug 23 12:54:33 BRT 2011;null;1517;
+activewarehouse;rails_sql_views;open;null;Mon Jan 17 12:20:08 BRST 2011;null;1735;
+activewarehouse;rails_sql_views;open;Christian Eichhorn;Wed Dec 15 09:01:16 BRST 2010;null;1768;
+activewarehouse;rails_sql_views;open;Luke brown;Tue Nov 02 12:20:46 BRST 2010;null;1811;
+activewarehouse;rails_sql_views;closed;Gabor Ratky;Thu Oct 14 12:05:16 BRT 2010;Wed Feb 29 11:14:54 BRT 2012;502;
+activewarehouse;rails_sql_views;open;Mike Dalessio;Wed Sep 22 11:20:05 BRT 2010;null;1852;
+activewarehouse;rails_sql_views;open;Sharad Jain;Tue Sep 21 18:59:00 BRT 2010;null;1853;
+activewarehouse;rails_sql_views;open;Daniel Feliciano Branco;Tue Jul 14 06:23:31 BRT 2009;null;2288;
+activewarehouse;rails_sql_views;open;John Trupiano;Mon May 25 11:56:46 BRT 2009;null;2337;
+activewarehouse;rails_sql_views;open;Deleted user;Tue May 05 17:36:47 BRT 2009;null;2357;
+
+activewarehouse;activewarehouse;open;null;Wed Mar 19 03:32:50 BRT 2014;null;579;
+activewarehouse;activewarehouse;open;Sinisa Grgic;Mon Jul 30 11:17:16 BRT 2012;null;1175;
+activewarehouse;activewarehouse;closed;Thibaut Barrère;Sun Apr 22 13:24:13 BRT 2012;Sun Apr 22 13:24:54 BRT 2012;0;
+
+
+activewarehouse;adapter_extensions;open;Sam Halliday;Wed Feb 04 19:15:10 BRST 2015;null;256;
+activewarehouse;adapter_extensions;open;Chris Geihsler;Wed Feb 06 17:34:18 BRST 2013;null;984;
+activewarehouse;adapter_extensions;open;Scott Ellard;Thu Jun 14 10:53:33 BRT 2012;null;1221;
+activewarehouse;adapter_extensions;open;Kenny Meyer;Tue Apr 17 15:31:23 BRT 2012;null;1279;
+
+
+
+grantneufeld;wayground-old;open;Deleted user;Tue Jan 21 17:29:30 BRST 2014;null;635;
+
+
+
+
+mallipeddi;django-taskforce;open;Jeremi Joslin;Sun Aug 16 10:26:35 BRT 2009;null;2254;
+
+
+
+
+
+
+
+
+
+
+
+erector;erector;closed;null;Fri Sep 25 15:22:08 BRT 2015;Fri Sep 25 16:32:36 BRT 2015;0;
+erector;erector;closed;Jikku Jose;Thu Sep 24 14:24:02 BRT 2015;Sat Sep 26 13:07:20 BRT 2015;1;
+erector;erector;closed;Joao Vitor Alves;Mon Feb 23 09:38:24 BRT 2015;Mon Feb 23 12:01:47 BRT 2015;0;
+erector;erector;closed;Adam Becker;Thu Oct 02 11:26:22 BRT 2014;Thu Oct 02 11:26:35 BRT 2014;0;
+erector;erector;closed;Adam Becker;Wed Oct 01 22:02:43 BRT 2014;Wed Oct 01 22:02:49 BRT 2014;0;
+erector;erector;open;Stephen Jung;Sat Jun 07 03:14:01 BRT 2014;null;499;
+erector;erector;closed;Adam Becker;Sun Apr 27 23:13:01 BRT 2014;Sun Apr 27 23:13:17 BRT 2014;0;
+erector;erector;open;Alex Chaffee;Mon Apr 14 20:40:17 BRT 2014;null;552;
+erector;erector;closed;Ryan Davis;Mon Mar 31 21:22:13 BRT 2014;Mon Apr 14 20:38:58 BRT 2014;13;
+erector;erector;closed;Ahto Jussila;Tue Mar 25 11:45:42 BRT 2014;Tue Mar 25 12:29:49 BRT 2014;0;
+erector;erector;open;Deleted user;Tue Jan 21 17:30:46 BRST 2014;null;635;
+erector;erector;closed;Adam Becker;Sat Dec 28 18:41:43 BRST 2013;Sun Dec 29 03:22:49 BRST 2013;0;
+erector;erector;closed;Adam Becker;Wed Dec 18 20:28:37 BRST 2013;Wed Dec 18 20:28:56 BRST 2013;0;
+erector;erector;closed;Adam Becker;Tue Dec 17 00:34:10 BRST 2013;Wed Dec 18 20:36:16 BRST 2013;1;
+erector;erector;open;Ryan Davis;Fri Dec 06 21:42:34 BRST 2013;null;681;
+erector;erector;open;Ryan Davis;Fri Dec 06 21:31:56 BRST 2013;null;681;
+erector;erector;closed;Adam Becker;Wed Nov 27 17:03:35 BRST 2013;Fri Dec 06 22:36:39 BRST 2013;9;
+erector;erector;open;Ryan Davis;Fri Nov 08 20:40:50 BRST 2013;null;709;
+erector;erector;closed;null;Sat Oct 12 17:23:07 BRT 2013;Wed Oct 16 11:38:58 BRT 2013;3;
+erector;erector;closed;Adam Becker;Mon Sep 30 21:03:13 BRT 2013;Tue Oct 01 02:10:00 BRT 2013;0;
+erector;erector;open;null;Sat Aug 24 12:54:21 BRT 2013;null;785;
+erector;erector;open;Will;Sat Jul 06 18:28:01 BRT 2013;null;834;
+erector;erector;open;Jeff Dickey;Sun Jun 16 02:16:34 BRT 2013;null;855;
+erector;erector;open;Alex Chaffee;Thu Jun 06 20:14:33 BRT 2013;null;864;
+erector;erector;open;Alex Chaffee;Mon Jun 03 19:09:10 BRT 2013;null;867;
+erector;erector;open;null;Thu Jan 24 04:33:09 BRST 2013;null;998;
+erector;erector;closed;null;Wed Jan 23 21:03:27 BRST 2013;Wed Jan 23 21:16:51 BRST 2013;0;
+erector;erector;open;Christopher Lord;Wed Jan 16 20:46:34 BRST 2013;null;1005;
+erector;erector;open;Christopher Lord;Wed Jan 16 20:28:26 BRST 2013;null;1005;
+erector;erector;open;Heather;Sun Dec 02 20:37:02 BRST 2012;null;1050;
+erector;erector;open;Viktor Trón;Sat Nov 17 16:58:57 BRST 2012;null;1065;
+erector;erector;closed;Heather;Sat Nov 17 15:52:26 BRST 2012;Sun Nov 18 19:31:34 BRST 2012;1;
+erector;erector;closed;Viktor Trón;Sun Nov 11 08:35:04 BRST 2012;Wed Nov 14 20:14:28 BRST 2012;3;
+erector;erector;open;null;Wed Sep 12 16:46:17 BRT 2012;null;1131;
+erector;erector;closed;null;Wed Jun 06 22:02:08 BRT 2012;Thu Jun 07 17:25:50 BRT 2012;0;
+erector;erector;closed;Doug Renn;Tue May 22 20:33:24 BRT 2012;Tue May 22 21:21:06 BRT 2012;0;
+erector;erector;closed;Christophe Verbinnen;Tue May 01 17:06:26 BRT 2012;Tue May 01 17:55:29 BRT 2012;0;
+erector;erector;open;Rolf Bjaanes;Fri Apr 13 19:11:37 BRT 2012;null;1283;
+erector;erector;open;null;Mon Jan 23 18:24:17 BRST 2012;null;1364;
+erector;erector;closed;null;Fri Jan 13 23:33:55 BRST 2012;Thu Feb 09 20:43:23 BRST 2012;26;
+erector;erector;open;Joe Van Dyk;Mon Jan 09 23:19:12 BRST 2012;null;1378;
+erector;erector;open;Abhik B Pramanik;Tue Jan 03 21:47:09 BRST 2012;null;1384;
+erector;erector;open;Joe Van Dyk;Sat Dec 31 19:17:12 BRST 2011;null;1387;
+erector;erector;closed;Abhik B Pramanik;Tue Dec 27 23:54:10 BRST 2011;Wed Dec 28 02:44:25 BRST 2011;0;
+erector;erector;open;Nathan;Wed Nov 30 16:15:53 BRST 2011;null;1418;
+erector;erector;open;Macario Ortega;Sat Oct 01 00:05:29 BRT 2011;null;1479;
+erector;erector;open;Alex Chaffee;Tue Sep 27 21:22:27 BRT 2011;null;1482;
+erector;erector;open;Alex Chaffee;Tue Sep 27 14:30:48 BRT 2011;null;1482;
+erector;erector;closed;Macario Ortega;Sat Sep 24 20:00:33 BRT 2011;Tue Sep 27 21:13:52 BRT 2011;3;
+erector;erector;open;Alex Chaffee;Fri Sep 16 16:25:31 BRT 2011;null;1493;
+erector;erector;open;Alex Chaffee;Fri Sep 16 12:31:49 BRT 2011;null;1493;
+erector;erector;closed;Viktor Trón;Thu Jul 28 10:52:42 BRT 2011;Thu Nov 08 17:02:55 BRST 2012;469;
+erector;erector;open;Alex Chaffee;Wed Jul 20 18:25:13 BRT 2011;null;1551;
+erector;erector;closed;John Firebaugh;Sat Jul 16 20:37:48 BRT 2011;Sun Jul 17 16:28:33 BRT 2011;0;
+erector;erector;closed;Isaac Cambron;Sat Jul 16 20:05:45 BRT 2011;Sun Jul 17 14:28:21 BRT 2011;0;
+erector;erector;closed;null;Thu Jan 20 01:12:04 BRST 2011;Sat Jan 22 09:30:19 BRST 2011;2;
+erector;erector;closed;Myron Marston;Mon Dec 20 17:17:39 BRST 2010;Sat Jan 22 01:32:10 BRST 2011;32;
+erector;erector;open;Slobodan Paunovi?;Thu Dec 16 12:32:54 BRST 2010;null;1767;
+erector;erector;open;Learnist;Tue Aug 31 20:47:39 BRT 2010;null;1874;
+erector;erector;open;Petr Chalupa;Sat Jul 31 05:09:25 BRT 2010;null;1906;
+erector;erector;closed;Petr Chalupa;Sat Jul 10 07:15:45 BRT 2010;Sun Jul 18 00:46:06 BRT 2010;7;
+erector;erector;closed;Anthony Buck;Fri Jul 09 13:59:43 BRT 2010;Wed Jul 20 18:23:27 BRT 2011;376;
+erector;erector;closed;Will Madden;Wed Jul 07 23:43:41 BRT 2010;Wed Jul 20 18:24:39 BRT 2011;377;
+erector;erector;closed;Anthony Buck;Tue Jun 29 07:05:26 BRT 2010;Sat Jul 03 15:16:30 BRT 2010;4;
+erector;erector;closed;Shared Honk Dev Account;Mon Mar 29 16:49:08 BRT 2010;Tue Sep 27 21:23:38 BRT 2011;547;
+erector;erector;closed;null;Sun Mar 07 10:15:45 BRT 2010;Sat Jul 03 15:05:51 BRT 2010;118;
+erector;erector;closed;Kunal Parikh;Thu Feb 25 19:29:48 BRT 2010;Wed Jul 20 18:22:25 BRT 2011;509;
+erector;erector;open;Christopher Z Garrett;Fri Jun 19 23:01:30 BRT 2009;null;2312;
+
+
+
+
+
+DanielVF;d-time-tracker;closed;Christian Genco;Sun May 06 08:46:54 BRT 2012;Tue May 08 21:31:55 BRT 2012;2;
+DanielVF;d-time-tracker;closed;Matthias Derer;Wed Jun 15 16:01:31 BRT 2011;Fri Jun 24 17:33:32 BRT 2011;9;
+
+
+
+
+
+pivotalexperimental;desert;open;Tom Russell;Thu Aug 04 17:46:32 BRT 2011;null;1536;
+pivotalexperimental;desert;open;Steve Lawson;Sat Jan 29 15:33:01 BRST 2011;null;1723;
+pivotalexperimental;desert;open;Steve Lawson;Tue Jan 18 19:27:19 BRST 2011;null;1734;
+pivotalexperimental;desert;open;Ghanshyam Rathod;Wed Jun 30 05:52:51 BRT 2010;null;1937;
+pivotalexperimental;desert;open;Fernando Campos;Mon Apr 26 18:58:48 BRT 2010;null;2001;
+pivotalexperimental;desert;open;Christian Beier;Fri Apr 16 05:13:16 BRT 2010;null;2012;
+pivotalexperimental;desert;open;Dan Blue;Tue Mar 09 19:57:59 BRT 2010;null;2049;
+pivotalexperimental;desert;open;Bruno Bornsztein;Thu Feb 04 14:47:44 BRST 2010;null;2082;
+pivotalexperimental;desert;open;Josh Ellithorpe;Thu Oct 22 19:09:18 BRST 2009;null;2187;
+pivotalexperimental;desert;open;Stephane Decleire;Tue Aug 11 07:38:56 BRT 2009;null;2259;
+pivotalexperimental;desert;open;Joe Moore;Mon Aug 03 18:08:44 BRT 2009;null;2267;
+pivotalexperimental;desert;open;Nicholas Henry;Tue Apr 21 17:44:57 BRT 2009;null;2371;
+
+
+
+
+
+drnic;hobo-tmbundle;open;Deleted user;Tue Jan 21 17:28:31 BRST 2014;null;635;
+
+
+duritong;puppet-common;closed;Brendon Rapp;Fri Jan 27 22:41:48 BRST 2012;Sun Jan 29 09:48:14 BRST 2012;1;
+duritong;puppet-common;closed;Charles Duffy;Fri Sep 17 15:54:25 BRT 2010;Tue Jun 03 16:44:22 BRT 2014;1355;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jongilbraith;simple-private-messages;open;Frank Tang;Sun Oct 13 11:49:47 BRT 2013;null;735;
+jongilbraith;simple-private-messages;closed;null;Sun Dec 09 04:10:48 BRST 2012;Mon Dec 10 07:50:48 BRST 2012;1;
+jongilbraith;simple-private-messages;open;Reymond;Fri Jun 15 20:05:30 BRT 2012;null;1220;
+jongilbraith;simple-private-messages;open;null;Sat May 26 23:05:11 BRT 2012;null;1240;
+jongilbraith;simple-private-messages;closed;rainmaker;Thu May 24 12:54:34 BRT 2012;Thu May 24 13:22:35 BRT 2012;0;
+jongilbraith;simple-private-messages;open;Alaxic Smith;Thu May 10 10:46:57 BRT 2012;null;1256;
+jongilbraith;simple-private-messages;closed;David Fisher;Tue Apr 17 18:23:27 BRT 2012;Thu Apr 19 07:40:00 BRT 2012;1;
+jongilbraith;simple-private-messages;open;Boris Rorsvort;Thu Apr 12 20:41:02 BRT 2012;null;1284;
+jongilbraith;simple-private-messages;closed;null;Tue Apr 03 23:35:34 BRT 2012;Thu Apr 05 11:19:49 BRT 2012;1;
+jongilbraith;simple-private-messages;closed;Tomé Duarte;Sat Mar 24 14:43:17 BRT 2012;Sat Mar 24 15:22:11 BRT 2012;0;
+jongilbraith;simple-private-messages;open;Pawe? Nguyen;Tue Mar 13 09:21:49 BRT 2012;null;1314;
+jongilbraith;simple-private-messages;closed;David Calhoun;Fri Jan 13 16:48:30 BRST 2012;Wed Feb 15 12:36:52 BRST 2012;32;
+jongilbraith;simple-private-messages;closed;David Silva;Wed Nov 02 16:04:54 BRST 2011;Thu Feb 23 08:13:53 BRST 2012;112;
+jongilbraith;simple-private-messages;closed;null;Tue Nov 01 00:44:48 BRST 2011;Wed Feb 15 12:33:15 BRST 2012;106;
+jongilbraith;simple-private-messages;closed;null;Wed Oct 19 15:38:36 BRST 2011;Wed Feb 15 12:41:32 BRST 2012;118;
+jongilbraith;simple-private-messages;closed;Samuel Wong;Mon Jul 04 21:17:54 BRT 2011;Wed Jul 06 20:33:15 BRT 2011;1;
+jongilbraith;simple-private-messages;closed;null;Sun Apr 24 22:19:10 BRT 2011;Sun Apr 24 23:38:11 BRT 2011;0;
+jongilbraith;simple-private-messages;closed;null;Tue Apr 19 14:13:45 BRT 2011;Wed Feb 22 23:36:05 BRST 2012;309;
+jongilbraith;simple-private-messages;closed;Aidan Finn;Tue Mar 08 20:16:05 BRT 2011;Wed Feb 15 12:40:41 BRST 2012;343;
+jongilbraith;simple-private-messages;open;Phlegx Systems OG;Tue Feb 01 10:52:50 BRST 2011;null;1720;
+jongilbraith;simple-private-messages;closed;Kalys Osmonov;Tue Jan 25 05:18:13 BRST 2011;Wed Feb 15 09:20:58 BRST 2012;386;
+jongilbraith;simple-private-messages;closed;Edo;Fri Jan 21 21:25:04 BRST 2011;Wed Feb 22 23:34:02 BRST 2012;397;
+jongilbraith;simple-private-messages;closed;Boris Rorsvort;Wed Jan 19 06:51:39 BRST 2011;Wed Feb 15 09:21:00 BRST 2012;392;
+jongilbraith;simple-private-messages;closed;Julio Capote;Tue Jan 11 21:17:34 BRST 2011;Wed Feb 15 09:12:11 BRST 2012;399;
+jongilbraith;simple-private-messages;closed;Taryn East;Sun Nov 21 08:03:07 BRST 2010;Mon Nov 22 16:48:01 BRST 2010;1;
+jongilbraith;simple-private-messages;closed;Taryn East;Sun Nov 21 07:23:28 BRST 2010;Mon Nov 22 08:49:01 BRST 2010;1;
+jongilbraith;simple-private-messages;closed;Ferdinand Niedermann;Mon Sep 20 07:38:59 BRT 2010;Tue Sep 21 08:03:01 BRT 2010;1;
+jongilbraith;simple-private-messages;closed;Guillaume Nourry-Marquis;Tue Dec 01 16:15:31 BRST 2009;Thu Feb 23 09:47:55 BRST 2012;813;
+
+
+
+
+
+natan;gspell;open;Arron Mabrey;Wed Nov 09 23:12:23 BRST 2011;null;1439;
+
+mattetti;i18n;closed;Boaz Segev;Thu Jun 25 02:00:19 BRT 2015;Mon Jun 29 05:11:29 BRT 2015;4;
+mattetti;i18n;open;Aske Hansen;Mon Nov 03 12:44:34 BRST 2014;null;349;
+mattetti;i18n;open;Tatsuya Sasaki;Fri Nov 15 06:06:07 BRST 2013;null;703;
+mattetti;i18n;open;Peter Wong;Tue Jul 19 05:53:28 BRT 2011;null;1553;
+mattetti;i18n;open;Jean-Dominique Morani;Thu Feb 24 14:27:58 BRT 2011;null;1697;
+
+
+sr;atom-tools;open;Rudy X. Desjardins;Fri Feb 18 20:18:11 BRST 2011;null;1703;
+
+
+
+pragdave;codex;closed;Gun.io Robot;Fri Oct 21 02:59:42 BRST 2011;Mon Sep 24 14:05:33 BRT 2012;339;
+pragdave;codex;open;Bohdan Ganicky;Wed Jan 13 15:41:51 BRST 2010;null;2104;
+
+
+
+
+
+
+
+
+
+
+
+
+
+wonsys;acts_as_fulltextable;open;null;Tue Mar 26 11:36:51 BRT 2013;null;936;
+
+
+
+fabien;im_magick;open;Deleted user;Tue Jan 21 17:29:30 BRST 2014;null;635;
+fabien;im_magick;open;Markus Bengts;Fri Jan 21 19:34:21 BRST 2011;null;1731;
+fabien;im_magick;closed;Markus Bengts;Thu Jan 20 20:23:05 BRST 2011;Fri Jan 21 12:30:29 BRST 2011;0;
+
+
+cristibalan;dotfiles;open;null;Mon Sep 17 16:27:49 BRT 2012;null;1126;
+
+
+
+
+
+
+
+
+hadley;ggplot2-book;closed;Kyle G. Lundstedt;Wed Oct 14 18:04:17 BRT 2015;Wed Oct 14 18:28:47 BRT 2015;0;
+hadley;ggplot2-book;open;Hadley Wickham;Wed Oct 14 17:58:23 BRT 2015;null;4;
+hadley;ggplot2-book;open;yutannihilation;Sat Oct 10 18:08:18 BRT 2015;null;8;
+hadley;ggplot2-book;closed;yutannihilation;Sat Oct 10 17:32:20 BRT 2015;Tue Oct 13 17:56:46 BRT 2015;3;
+hadley;ggplot2-book;closed;John Owens;Tue Sep 29 17:17:04 BRT 2015;Tue Oct 13 17:56:46 BRT 2015;14;
+hadley;ggplot2-book;closed;John Owens;Tue Sep 29 15:57:23 BRT 2015;Tue Sep 29 16:11:02 BRT 2015;0;
+hadley;ggplot2-book;closed;null;Thu Sep 24 10:16:13 BRT 2015;Tue Oct 13 17:57:31 BRT 2015;19;
+hadley;ggplot2-book;closed;null;Thu Sep 24 09:41:39 BRT 2015;Thu Sep 24 09:49:08 BRT 2015;0;
+hadley;ggplot2-book;closed;Alex Bresler;Thu Sep 17 12:12:17 BRT 2015;Tue Oct 13 18:01:32 BRT 2015;26;
+hadley;ggplot2-book;closed;Dennis Murphy;Wed Sep 16 20:35:14 BRT 2015;Tue Oct 13 17:57:16 BRT 2015;26;
+hadley;ggplot2-book;closed;Jim Hester;Tue Sep 15 17:32:49 BRT 2015;Tue Oct 13 19:33:15 BRT 2015;28;
+hadley;ggplot2-book;closed;Ben Bolker;Tue Sep 15 16:22:59 BRT 2015;Tue Oct 13 18:03:03 BRT 2015;28;
+hadley;ggplot2-book;closed;null;Fri Sep 11 07:55:23 BRT 2015;Tue Oct 13 18:03:35 BRT 2015;32;
+hadley;ggplot2-book;closed;Brett Klamer;Tue Sep 08 17:42:42 BRT 2015;Tue Oct 13 17:58:32 BRT 2015;35;
+hadley;ggplot2-book;closed;Dieter Menne;Sun Sep 06 06:07:38 BRT 2015;Mon Sep 07 16:57:02 BRT 2015;1;
+hadley;ggplot2-book;closed;null;Thu Aug 27 05:59:58 BRT 2015;Tue Oct 13 18:03:47 BRT 2015;47;
+hadley;ggplot2-book;closed;jashapiro;Tue Aug 25 17:04:13 BRT 2015;Tue Aug 25 19:01:33 BRT 2015;0;
+hadley;ggplot2-book;closed;Dan Yavorsky;Tue Aug 25 13:52:39 BRT 2015;Tue Aug 25 19:01:57 BRT 2015;0;
+hadley;ggplot2-book;closed;Guangchuang Yu;Tue Aug 25 05:43:50 BRT 2015;Wed Aug 26 10:24:18 BRT 2015;1;
+hadley;ggplot2-book;closed;John Minter;Mon Aug 24 21:43:43 BRT 2015;Mon Aug 24 22:45:25 BRT 2015;0;
+hadley;ggplot2-book;closed;Francisco Júnior;Mon Aug 24 10:27:06 BRT 2015;Mon Aug 24 20:17:42 BRT 2015;0;
+hadley;ggplot2-book;closed;Alex Trueman;Fri Aug 21 16:42:25 BRT 2015;Mon Aug 24 20:18:02 BRT 2015;3;
+hadley;ggplot2-book;closed;Alex Trueman;Fri Aug 21 16:02:09 BRT 2015;Fri Aug 21 16:21:24 BRT 2015;0;
+hadley;ggplot2-book;closed;null;Fri Aug 21 11:03:12 BRT 2015;Fri Aug 21 12:19:32 BRT 2015;0;
+hadley;ggplot2-book;closed;Joel Gombin;Thu Aug 20 20:04:50 BRT 2015;Thu Aug 20 20:33:19 BRT 2015;0;
+hadley;ggplot2-book;closed;Joel Gombin;Thu Aug 20 20:02:12 BRT 2015;Thu Aug 20 20:33:53 BRT 2015;0;
+hadley;ggplot2-book;closed;Joel Gombin;Thu Aug 20 20:01:53 BRT 2015;Tue Oct 13 18:00:50 BRT 2015;53;
+hadley;ggplot2-book;closed;Dan Nguyen;Wed Aug 19 20:31:57 BRT 2015;Wed Aug 19 20:49:59 BRT 2015;0;
+hadley;ggplot2-book;open;Hadley Wickham;Fri Aug 07 14:51:20 BRT 2015;null;72;
+hadley;ggplot2-book;open;Hadley Wickham;Fri Aug 07 14:50:59 BRT 2015;null;72;
+hadley;ggplot2-book;closed;Johan Larsson;Sat Jul 25 18:30:52 BRT 2015;Fri Aug 07 14:49:42 BRT 2015;12;
+hadley;ggplot2-book;closed;Johan Larsson;Sat Jul 25 10:57:06 BRT 2015;Fri Aug 07 14:49:33 BRT 2015;13;
+hadley;ggplot2-book;closed;Johan Larsson;Sat Jul 25 10:43:11 BRT 2015;Mon Jul 27 09:29:41 BRT 2015;1;
+hadley;ggplot2-book;open;Randall Pruim;Fri Jul 24 09:44:26 BRT 2015;null;86;
+hadley;ggplot2-book;closed;Mohit Chawla;Mon Jul 06 15:48:52 BRT 2015;Fri Aug 07 14:50:02 BRT 2015;31;
+hadley;ggplot2-book;closed;Mohit Chawla;Mon Jul 06 15:37:50 BRT 2015;Fri Aug 07 14:49:22 BRT 2015;31;
+hadley;ggplot2-book;closed;Mohit Chawla;Mon Jul 06 13:12:10 BRT 2015;Mon Jul 06 13:18:38 BRT 2015;0;
+hadley;ggplot2-book;closed;Jerry Who;Sun Jul 05 13:01:10 BRT 2015;Sun Jul 05 13:46:02 BRT 2015;0;
+hadley;ggplot2-book;closed;Sean Hughes;Thu Jun 18 16:24:49 BRT 2015;Thu Jun 18 16:53:58 BRT 2015;0;
+hadley;ggplot2-book;closed;Gökçen Eraslan;Sat Jun 13 19:34:46 BRT 2015;Mon Jun 15 09:45:57 BRT 2015;1;
+hadley;ggplot2-book;closed;Gökçen Eraslan;Sat Jun 13 19:30:40 BRT 2015;Mon Jun 15 09:45:48 BRT 2015;1;
+hadley;ggplot2-book;closed;Gökçen Eraslan;Mon Jun 08 06:12:02 BRT 2015;Fri Aug 07 14:50:22 BRT 2015;60;
+hadley;ggplot2-book;closed;Gökçen Eraslan;Mon Jun 08 06:10:58 BRT 2015;Mon Jun 08 10:15:58 BRT 2015;0;
+hadley;ggplot2-book;closed;Gökçen Eraslan;Sat Jun 06 06:25:03 BRT 2015;Mon Jun 08 10:15:38 BRT 2015;2;
+hadley;ggplot2-book;closed;Hadley Wickham;Fri Jun 05 17:46:14 BRT 2015;Fri Jun 05 19:00:40 BRT 2015;0;
+hadley;ggplot2-book;closed;John Owens;Tue May 26 15:40:14 BRT 2015;Tue May 26 21:57:05 BRT 2015;0;
+hadley;ggplot2-book;closed;Devin Pastoor;Fri May 15 13:37:16 BRT 2015;Fri May 15 15:10:19 BRT 2015;0;
+hadley;ggplot2-book;closed;Hadley Wickham;Fri May 15 11:21:38 BRT 2015;Fri Jun 05 17:52:50 BRT 2015;21;
+hadley;ggplot2-book;closed;Carson;Wed May 13 16:54:49 BRT 2015;Wed May 13 17:04:22 BRT 2015;0;
+hadley;ggplot2-book;closed;Carson;Wed May 13 15:49:44 BRT 2015;Wed May 13 17:20:20 BRT 2015;0;
+hadley;ggplot2-book;closed;Josh Earl;Wed May 13 15:17:14 BRT 2015;Wed May 13 20:27:34 BRT 2015;0;
+hadley;ggplot2-book;open;Hadley Wickham;Wed May 13 11:28:48 BRT 2015;null;158;
+hadley;ggplot2-book;closed;Hadley Wickham;Tue May 12 12:06:07 BRT 2015;Fri Aug 07 14:49:06 BRT 2015;87;
+hadley;ggplot2-book;closed;Hadley Wickham;Tue May 12 10:48:28 BRT 2015;Fri Aug 07 14:48:44 BRT 2015;87;
+hadley;ggplot2-book;closed;Hadley Wickham;Tue May 12 10:47:27 BRT 2015;Fri Aug 07 14:48:55 BRT 2015;87;
+hadley;ggplot2-book;closed;Hadley Wickham;Tue May 12 10:27:16 BRT 2015;Sat Jun 13 11:43:49 BRT 2015;32;
+hadley;ggplot2-book;closed;Hadley Wickham;Thu May 07 10:36:35 BRT 2015;Thu May 07 14:25:45 BRT 2015;0;
+hadley;ggplot2-book;closed;Robin;Wed May 06 11:35:51 BRT 2015;Fri Aug 07 14:50:44 BRT 2015;93;
+hadley;ggplot2-book;closed;Hadley Wickham;Wed May 06 10:17:48 BRT 2015;Wed May 06 12:42:55 BRT 2015;0;
+hadley;ggplot2-book;closed;Hadley Wickham;Wed May 06 10:16:38 BRT 2015;Thu May 07 10:34:35 BRT 2015;1;
+hadley;ggplot2-book;closed;Robin;Tue Apr 21 10:26:11 BRT 2015;Mon Apr 27 11:54:31 BRT 2015;6;
+hadley;ggplot2-book;closed;null;Fri Apr 17 12:23:21 BRT 2015;Wed May 06 10:15:55 BRT 2015;18;
+hadley;ggplot2-book;closed;Paul;Mon Mar 09 21:31:46 BRT 2015;Thu Mar 12 00:46:34 BRT 2015;2;
+hadley;ggplot2-book;closed;Clemens Schmid;Fri Feb 20 11:12:39 BRST 2015;Sat Feb 21 20:42:41 BRST 2015;1;
+hadley;ggplot2-book;closed;Thomas Klebel;Tue Feb 10 08:47:58 BRST 2015;Tue Feb 10 10:52:35 BRST 2015;0;
+hadley;ggplot2-book;closed;Carson;Mon Feb 09 16:24:14 BRST 2015;Mon Feb 09 16:30:08 BRST 2015;0;
+hadley;ggplot2-book;closed;Hadley Wickham;Mon Feb 09 12:58:52 BRST 2015;Mon Jun 15 18:52:59 BRT 2015;126;
+hadley;ggplot2-book;closed;Joseph Flanagan;Mon Feb 02 09:59:37 BRST 2015;Mon Feb 02 18:36:27 BRST 2015;0;
+hadley;ggplot2-book;closed;Richard Careaga;Fri Jan 30 18:14:15 BRST 2015;Fri Jun 05 17:53:49 BRT 2015;125;
+hadley;ggplot2-book;closed;Hadley Wickham;Fri Jan 30 17:23:22 BRST 2015;Mon Jun 15 18:53:24 BRT 2015;136;
+hadley;ggplot2-book;closed;Hadley Wickham;Fri Jan 30 17:21:31 BRST 2015;Mon Jun 15 18:53:06 BRT 2015;136;
+hadley;ggplot2-book;closed;Carson;Wed Jan 14 21:19:05 BRST 2015;Wed Jan 14 21:22:23 BRST 2015;0;
+hadley;ggplot2-book;closed;Carson;Fri Jan 09 18:34:29 BRST 2015;Fri Aug 07 14:48:37 BRT 2015;209;
+hadley;ggplot2-book;closed;Carson;Fri Jan 09 18:32:24 BRST 2015;Fri Jan 09 19:10:02 BRST 2015;0;
+hadley;ggplot2-book;open;Carson;Fri Jan 09 18:30:48 BRST 2015;null;282;
+hadley;ggplot2-book;open;Carson;Fri Jan 09 18:24:39 BRST 2015;null;282;
+hadley;ggplot2-book;closed;Carson;Fri Jan 09 18:22:17 BRST 2015;Sat Jun 13 11:44:06 BRT 2015;154;
+hadley;ggplot2-book;open;Carson;Fri Jan 09 18:20:35 BRST 2015;null;282;
+hadley;ggplot2-book;closed;Carson;Fri Jan 09 18:19:06 BRST 2015;Sat Jun 13 11:42:31 BRT 2015;154;
+hadley;ggplot2-book;closed;Hadley Wickham;Fri Jan 09 18:00:27 BRST 2015;Fri Aug 07 14:47:56 BRT 2015;209;
+hadley;ggplot2-book;closed;Hadley Wickham;Fri Jan 09 17:23:02 BRST 2015;Wed Jan 28 16:17:25 BRST 2015;18;
+hadley;ggplot2-book;closed;Hadley Wickham;Fri Jan 09 17:15:06 BRST 2015;Mon Jun 15 18:53:35 BRT 2015;157;
+hadley;ggplot2-book;closed;Carson;Mon Dec 08 19:31:31 BRST 2014;Fri Jan 02 15:35:39 BRST 2015;24;
+hadley;ggplot2-book;closed;Carson;Sat Dec 06 16:14:23 BRST 2014;Sat Jun 13 11:42:11 BRT 2015;188;
+hadley;ggplot2-book;closed;Carson;Mon Nov 24 20:51:55 BRST 2014;Thu May 07 10:35:28 BRT 2015;163;
+hadley;ggplot2-book;closed;Carson;Mon Nov 24 20:38:38 BRST 2014;Fri Jan 09 17:14:52 BRST 2015;45;
+hadley;ggplot2-book;closed;Hadley Wickham;Mon Oct 27 14:33:59 BRST 2014;Wed May 06 10:19:53 BRT 2015;190;
+hadley;ggplot2-book;closed;Hadley Wickham;Mon Oct 27 14:32:05 BRST 2014;Fri Aug 07 14:47:41 BRT 2015;284;
+hadley;ggplot2-book;closed;Carson;Thu Oct 02 18:08:52 BRT 2014;Thu Oct 02 18:19:29 BRT 2014;0;
+hadley;ggplot2-book;closed;Carson;Thu Oct 02 16:42:31 BRT 2014;Thu Oct 02 16:45:13 BRT 2014;0;
+hadley;ggplot2-book;closed;Hadley Wickham;Thu Oct 02 15:46:21 BRT 2014;Sat Dec 06 16:14:50 BRST 2014;65;
+hadley;ggplot2-book;closed;Hadley Wickham;Thu Oct 02 15:44:21 BRT 2014;Wed Nov 26 16:59:12 BRST 2014;55;
+hadley;ggplot2-book;closed;Hadley Wickham;Thu Aug 07 12:09:52 BRT 2014;Thu Oct 02 15:27:52 BRT 2014;56;
+hadley;ggplot2-book;closed;Hadley Wickham;Wed Aug 06 18:16:36 BRT 2014;Thu Oct 02 15:27:57 BRT 2014;56;
+hadley;ggplot2-book;closed;Hadley Wickham;Wed Aug 06 18:11:36 BRT 2014;Fri Feb 06 20:42:46 BRST 2015;184;
+hadley;ggplot2-book;closed;Hadley Wickham;Wed Aug 06 18:11:27 BRT 2014;Fri Jan 09 17:09:03 BRST 2015;155;
+hadley;ggplot2-book;closed;Hadley Wickham;Wed Aug 06 18:10:28 BRT 2014;Fri Aug 07 14:47:32 BRT 2015;365;
+
+
+
+
+
+
+
+
+
+
+stouset;pathname3;closed;null;Mon Mar 21 16:54:48 BRT 2011;Mon Mar 21 17:09:35 BRT 2011;0;
+
+
+cjbottaro;app_config;open;Jeffrey Jones;Fri Dec 03 04:39:36 BRST 2010;null;1781;
+cjbottaro;app_config;closed;Timur Batyrshin;Tue Nov 16 19:47:20 BRST 2010;Tue Nov 16 21:36:37 BRST 2010;0;
+cjbottaro;app_config;closed;Claudio Poli;Sun Jan 03 17:16:39 BRST 2010;Thu Feb 18 14:28:04 BRST 2010;45;
+cjbottaro;app_config;open;null;Tue Oct 20 17:32:59 BRST 2009;null;2189;
+cjbottaro;app_config;open;John Dewey;Wed Sep 02 05:54:35 BRT 2009;null;2238;
+cjbottaro;app_config;closed;null;Thu Aug 27 19:26:35 BRT 2009;Fri Aug 28 14:02:36 BRT 2009;0;
+
+
+
+topfunky;ruby-hmac;closed;Mark Burns;Thu Apr 26 12:20:16 BRT 2012;Thu Apr 26 16:23:42 BRT 2012;0;
+topfunky;ruby-hmac;open;Jay;Sat Oct 23 14:48:54 BRST 2010;null;1821;
+
+
+
+
+
+
+
+
+
+mkdynamic;active-record-matchers;closed;Bitdeli Chef;Mon Dec 23 11:44:37 BRST 2013;Mon Dec 23 11:44:49 BRST 2013;0;
+
+
+
+
+
+pluskid;rmmseg-cpp;open;seoaqua;Mon Apr 14 07:24:18 BRT 2014;null;553;
+pluskid;rmmseg-cpp;open;Nathan Cain;Mon Dec 03 15:44:59 BRST 2012;null;1049;
+pluskid;rmmseg-cpp;open;Wei Zhu;Sat Jul 14 15:59:31 BRT 2012;null;1191;
+pluskid;rmmseg-cpp;open;Zifei Tong;Fri May 28 05:31:52 BRT 2010;null;1970;
+
+
+
+
+dsparling;jclock;open;Ravi Mallya;Mon Aug 10 07:42:20 BRT 2015;null;70;
+dsparling;jclock;closed;Francis Levasseur;Thu Aug 07 21:35:38 BRT 2014;Thu Aug 14 16:12:16 BRT 2014;6;
+dsparling;jclock;open;Louise Foster;Tue May 27 07:45:46 BRT 2014;null;510;
+dsparling;jclock;closed;Sorpigal;Mon Oct 21 15:15:04 BRST 2013;Mon Oct 21 16:05:04 BRST 2013;0;
+dsparling;jclock;closed;null;Tue May 07 09:20:47 BRT 2013;Thu May 09 13:31:38 BRT 2013;2;
+dsparling;jclock;closed;Justin Ethier;Fri Apr 20 00:11:20 BRT 2012;Thu May 09 13:22:53 BRT 2013;384;
+dsparling;jclock;closed;null;Mon Mar 26 15:44:35 BRT 2012;Mon Sep 03 23:15:55 BRT 2012;161;
+dsparling;jclock;closed;null;Tue Feb 07 21:07:36 BRST 2012;Sat Oct 26 04:01:32 BRST 2013;626;
+dsparling;jclock;closed;Julien Wajsberg;Tue Nov 22 21:04:43 BRST 2011;Tue Feb 07 21:24:05 BRST 2012;77;
+dsparling;jclock;closed;Gun.io Robot;Fri Oct 28 00:29:16 BRST 2011;Mon Oct 21 16:05:39 BRST 2013;724;
+dsparling;jclock;closed;Kacper Cie?la;Sun Feb 20 12:26:02 BRT 2011;Wed Mar 16 20:25:28 BRT 2011;24;
+dsparling;jclock;closed;Travis Priest;Wed Jan 26 15:44:35 BRST 2011;Sat Oct 26 03:59:33 BRST 2013;1003;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rtomayko;rpeg-markdown;open;Torsten Curdt;Wed Jun 29 21:51:51 BRT 2011;null;1572;
+rtomayko;rpeg-markdown;open;null;Sun Aug 15 16:54:29 BRT 2010;null;1890;
+rtomayko;rpeg-markdown;open;null;Sun Aug 01 23:01:39 BRT 2010;null;1904;
+rtomayko;rpeg-markdown;open;null;Sun Jul 25 16:26:13 BRT 2010;null;1911;
+
+
+
+steveh;appengine-films;open;Deleted user;Tue Jan 21 17:30:29 BRST 2014;null;635;
+
+jandot;ruby-ensembl-api;open;null;Tue Oct 28 07:16:53 BRST 2014;null;356;
+jandot;ruby-ensembl-api;open;Ricardo H. Ramírez-Gonzalez;Mon Feb 11 15:48:23 BRST 2013;null;979;
+jandot;ruby-ensembl-api;closed;Ricardo H. Ramírez-Gonzalez;Tue Jan 22 17:50:40 BRST 2013;Mon Feb 11 15:50:50 BRST 2013;19;
+jandot;ruby-ensembl-api;closed;Nicholas Shannon;Wed Aug 17 20:31:20 BRT 2011;Thu Aug 18 08:59:08 BRT 2011;0;
+jandot;ruby-ensembl-api;open;Gordon Robertson;Sun Jul 17 21:41:39 BRT 2011;null;1554;
+jandot;ruby-ensembl-api;closed;Francesco Strozzi;Tue May 03 05:44:18 BRT 2011;Thu Aug 18 09:06:59 BRT 2011;107;
+jandot;ruby-ensembl-api;closed;Ben J Woodcroft;Tue Mar 29 00:47:01 BRT 2011;Mon May 02 11:00:35 BRT 2011;34;
+jandot;ruby-ensembl-api;closed;Francesco Strozzi;Fri Feb 11 08:09:59 BRST 2011;Fri Feb 11 08:24:31 BRST 2011;0;
+jandot;ruby-ensembl-api;closed;Denise Mauldin;Mon Jan 31 23:42:34 BRST 2011;Fri Feb 04 19:11:36 BRST 2011;3;
+jandot;ruby-ensembl-api;open;null;Mon Jan 31 15:53:55 BRST 2011;null;1721;
+jandot;ruby-ensembl-api;closed;Jan Aerts;Mon Nov 15 16:57:01 BRST 2010;Mon Nov 15 17:19:18 BRST 2010;0;
+jandot;ruby-ensembl-api;closed;null;Fri Aug 20 06:39:25 BRT 2010;Tue Aug 24 10:31:16 BRT 2010;4;
+jandot;ruby-ensembl-api;open;Michael Paulini;Thu Apr 15 07:38:13 BRT 2010;null;2013;
+
+
+
+
+gnufied;backgroundrb;open;Gun.io Robot;Wed Oct 26 23:59:23 BRST 2011;null;1453;
+gnufied;backgroundrb;open;Peter P. Gengler;Thu Oct 13 14:16:06 BRT 2011;null;1466;
+gnufied;backgroundrb;open;Sudhir Chauhan;Mon Jul 19 03:26:51 BRT 2010;null;1918;
+gnufied;backgroundrb;open;bitcoinerS;Sun Mar 21 01:56:33 BRT 2010;null;2038;
+gnufied;backgroundrb;open;Jon Evans;Tue Oct 27 13:22:42 BRST 2009;null;2182;
+gnufied;backgroundrb;closed;null;Sun Jun 07 09:34:35 BRT 2009;Tue Jun 09 13:36:43 BRT 2009;2;
+gnufied;backgroundrb;open;Don;Mon May 25 22:29:21 BRT 2009;null;2337;
+gnufied;backgroundrb;closed;Kai Krakow;Tue Apr 21 11:45:48 BRT 2009;Sat May 16 10:26:09 BRT 2009;24;
+gnufied;backgroundrb;closed;Hemant Kumar;Fri Apr 17 00:04:39 BRT 2009;Tue Apr 21 14:56:11 BRT 2009;4;
+gnufied;backgroundrb;closed;Hemant Kumar;Fri Apr 17 00:02:07 BRT 2009;Tue Apr 21 14:56:12 BRT 2009;4;
+
+
+
+
+
+
+
+
+
+
+
+ambethia;smtp-tls;open;Krzysztof Knapik;Fri May 06 06:11:49 BRT 2011;null;1627;
+
+
+
+h3h;rb-title-case;closed;Gun.io Robot;Thu Oct 27 02:49:18 BRST 2011;Thu Oct 27 12:45:59 BRST 2011;0;
+
+
+
+
+
+
+activescaffold;active_scaffold;closed;Mark McDonald;Sat Oct 17 05:14:08 BRT 2015;Sat Oct 17 09:43:06 BRT 2015;0;
+activescaffold;active_scaffold;closed;null;Wed Sep 30 10:26:58 BRT 2015;Wed Sep 30 11:27:44 BRT 2015;0;
+activescaffold;active_scaffold;closed;null;Sun Sep 20 04:34:35 BRT 2015;Mon Sep 21 04:55:51 BRT 2015;1;
+activescaffold;active_scaffold;open;Andrey Korobkov;Thu Sep 10 18:18:00 BRT 2015;null;38;
+activescaffold;active_scaffold;closed;Benjamin Cardenas;Tue Sep 08 11:21:19 BRT 2015;Fri Sep 11 04:06:14 BRT 2015;2;
+activescaffold;active_scaffold;closed;Michael Latta (TechnoMage);Sun Aug 30 12:26:53 BRT 2015;Mon Aug 31 06:09:24 BRT 2015;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Mon Aug 24 14:11:42 BRT 2015;Tue Aug 25 03:46:37 BRT 2015;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Sun Aug 23 17:24:10 BRT 2015;Mon Aug 24 04:54:03 BRT 2015;0;
+activescaffold;active_scaffold;open;G. Montard;Mon Aug 10 08:57:45 BRT 2015;null;70;
+activescaffold;active_scaffold;closed;null;Wed Jul 22 08:26:23 BRT 2015;Wed Aug 05 13:00:03 BRT 2015;14;
+activescaffold;active_scaffold;closed;null;Wed Jul 22 05:12:11 BRT 2015;Wed Jul 22 06:14:06 BRT 2015;0;
+activescaffold;active_scaffold;closed;null;Tue Jun 30 03:59:28 BRT 2015;Mon Jul 20 06:49:28 BRT 2015;20;
+activescaffold;active_scaffold;open;Mark McDonald;Fri Jun 26 10:10:31 BRT 2015;null;115;
+activescaffold;active_scaffold;open;Tin Vo;Fri Jun 19 12:52:13 BRT 2015;null;122;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Tue Jun 16 17:08:59 BRT 2015;Wed Jun 17 03:55:15 BRT 2015;0;
+activescaffold;active_scaffold;closed;Mark McDonald;Thu Jun 11 12:46:26 BRT 2015;Fri Jun 12 09:57:31 BRT 2015;0;
+activescaffold;active_scaffold;closed;Mark McDonald;Tue Jun 02 23:11:28 BRT 2015;Wed Jun 03 09:02:34 BRT 2015;0;
+activescaffold;active_scaffold;closed;Alexander Logvinov;Sun May 31 05:23:45 BRT 2015;Mon Jun 01 05:21:51 BRT 2015;0;
+activescaffold;active_scaffold;closed;Mark McDonald;Thu May 28 17:37:25 BRT 2015;Fri May 29 03:38:16 BRT 2015;0;
+activescaffold;active_scaffold;closed;Mark McDonald;Thu May 21 15:50:55 BRT 2015;Wed May 27 12:31:23 BRT 2015;5;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Fri Apr 24 13:13:44 BRT 2015;Mon Apr 27 03:29:27 BRT 2015;2;
+activescaffold;active_scaffold;closed;null;Fri Apr 24 06:14:51 BRT 2015;Fri Apr 24 07:01:25 BRT 2015;0;
+activescaffold;active_scaffold;closed;Jim Crate;Mon Apr 20 18:22:15 BRT 2015;Tue Apr 21 04:14:34 BRT 2015;0;
+activescaffold;active_scaffold;closed;Jim Crate;Thu Apr 16 22:00:44 BRT 2015;Fri Apr 17 03:45:34 BRT 2015;0;
+activescaffold;active_scaffold;closed;Cassio Almeida;Mon Apr 06 17:51:23 BRT 2015;Tue Apr 07 04:54:01 BRT 2015;0;
+activescaffold;active_scaffold;closed;null;Mon Apr 06 05:31:26 BRT 2015;Mon Apr 06 05:57:15 BRT 2015;0;
+activescaffold;active_scaffold;closed;null;Fri Apr 03 07:52:34 BRT 2015;Mon Apr 06 05:52:21 BRT 2015;2;
+activescaffold;active_scaffold;closed;Jeff Surrett;Wed Apr 01 00:54:29 BRT 2015;Wed Apr 01 03:52:16 BRT 2015;0;
+activescaffold;active_scaffold;closed;null;Tue Mar 31 03:08:03 BRT 2015;Thu Apr 02 05:42:08 BRT 2015;2;
+activescaffold;active_scaffold;closed;Jeff Surrett;Fri Mar 27 10:04:55 BRT 2015;Fri Mar 27 12:05:57 BRT 2015;0;
+activescaffold;active_scaffold;closed;null;Thu Mar 26 03:45:37 BRT 2015;Wed May 27 11:52:44 BRT 2015;62;
+activescaffold;active_scaffold;closed;Cassio Almeida;Mon Mar 16 17:16:40 BRT 2015;Tue Mar 17 04:40:31 BRT 2015;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Mon Mar 16 05:39:03 BRT 2015;Mon Mar 16 06:57:15 BRT 2015;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Sun Mar 15 15:05:15 BRT 2015;Mon Mar 16 05:11:02 BRT 2015;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Sun Mar 15 14:55:25 BRT 2015;Mon Mar 16 05:11:03 BRT 2015;0;
+activescaffold;active_scaffold;open;null;Sun Mar 15 02:43:34 BRT 2015;null;218;
+activescaffold;active_scaffold;open;Mark McDonald;Wed Mar 11 14:55:57 BRT 2015;null;221;
+activescaffold;active_scaffold;closed;null;Tue Mar 10 07:41:08 BRT 2015;Wed Mar 11 10:17:30 BRT 2015;1;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Thu Feb 26 12:54:23 BRT 2015;Fri Feb 27 05:12:00 BRT 2015;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Thu Feb 26 06:26:44 BRT 2015;Mon Mar 16 05:11:03 BRT 2015;17;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Thu Feb 26 05:43:58 BRT 2015;Thu Feb 26 06:12:29 BRT 2015;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Thu Feb 26 05:43:24 BRT 2015;Thu Feb 26 06:13:30 BRT 2015;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Wed Feb 25 06:47:35 BRT 2015;Wed Feb 25 08:58:55 BRT 2015;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Wed Feb 25 06:05:42 BRT 2015;Wed Feb 25 08:52:58 BRT 2015;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Tue Feb 24 17:33:28 BRT 2015;Wed Feb 25 04:59:57 BRT 2015;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Tue Feb 24 16:25:14 BRT 2015;Wed Feb 25 04:26:44 BRT 2015;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Tue Feb 24 09:56:43 BRT 2015;Wed Feb 25 10:08:32 BRT 2015;1;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Tue Feb 24 06:59:42 BRT 2015;Tue Feb 24 08:37:35 BRT 2015;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Mon Feb 23 12:40:02 BRT 2015;Tue Feb 24 12:46:56 BRT 2015;1;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Mon Feb 23 09:59:39 BRT 2015;Thu Feb 26 14:53:55 BRT 2015;3;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Mon Feb 23 09:51:07 BRT 2015;Tue Feb 24 04:22:28 BRT 2015;0;
+activescaffold;active_scaffold;closed;Chris Barber;Wed Feb 18 21:36:42 BRST 2015;Thu Feb 19 06:25:51 BRST 2015;0;
+activescaffold;active_scaffold;closed;Jason Fleetwood-Boldt;Wed Feb 18 19:14:23 BRST 2015;Thu Feb 19 06:21:29 BRST 2015;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Wed Feb 18 18:48:38 BRST 2015;Mon Feb 23 05:59:53 BRT 2015;4;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Wed Feb 18 14:51:21 BRST 2015;Wed Feb 18 18:45:36 BRST 2015;0;
+activescaffold;active_scaffold;closed;Alexander Logvinov;Tue Feb 17 23:22:04 BRST 2015;Wed Feb 18 07:00:02 BRST 2015;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Fri Feb 06 14:15:54 BRST 2015;Mon Feb 09 06:41:05 BRST 2015;2;
+activescaffold;active_scaffold;closed;Tin Vo;Fri Feb 06 06:21:50 BRST 2015;Fri Mar 27 05:23:01 BRT 2015;48;
+activescaffold;active_scaffold;closed;Tin Vo;Fri Feb 06 03:43:32 BRST 2015;Fri Feb 06 15:22:14 BRST 2015;0;
+activescaffold;active_scaffold;closed;Jonathon Brenner;Wed Feb 04 15:46:00 BRST 2015;Thu Feb 05 05:39:02 BRST 2015;0;
+activescaffold;active_scaffold;closed;Jason Fleetwood-Boldt;Wed Feb 04 14:40:28 BRST 2015;Thu Feb 05 09:07:40 BRST 2015;0;
+activescaffold;active_scaffold;closed;Mark McDonald;Mon Feb 02 17:06:50 BRST 2015;Tue Feb 03 09:15:12 BRST 2015;0;
+activescaffold;active_scaffold;closed;Mark McDonald;Sat Jan 31 20:59:39 BRST 2015;Fri Mar 27 04:54:28 BRT 2015;54;
+activescaffold;active_scaffold;closed;Mark McDonald;Sat Jan 31 17:20:44 BRST 2015;Mon Feb 02 06:30:03 BRST 2015;1;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Fri Jan 23 18:40:15 BRST 2015;Mon Jan 26 05:49:23 BRST 2015;2;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Fri Jan 23 18:36:15 BRST 2015;Mon Jan 26 05:49:23 BRST 2015;2;
+activescaffold;active_scaffold;closed;Mark McDonald;Mon Jan 12 12:06:36 BRST 2015;Mon Jan 12 13:44:47 BRST 2015;0;
+activescaffold;active_scaffold;open;Mark McDonald;Fri Jan 09 13:25:33 BRST 2015;null;282;
+activescaffold;active_scaffold;closed;null;Fri Jan 02 10:51:33 BRST 2015;Mon Feb 16 12:55:09 BRST 2015;45;
+activescaffold;active_scaffold;closed;Mark McDonald;Sun Dec 28 18:50:51 BRST 2014;Thu Jan 08 07:54:41 BRST 2015;10;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Sat Dec 27 18:23:44 BRST 2014;Tue Dec 30 11:08:30 BRST 2014;2;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Sat Dec 20 09:19:25 BRST 2014;Mon Dec 22 09:38:07 BRST 2014;2;
+activescaffold;active_scaffold;closed;Parth Bharadiya;Mon Dec 08 12:06:23 BRST 2014;Fri Mar 27 04:52:48 BRT 2015;108;
+activescaffold;active_scaffold;closed;null;Thu Nov 27 18:29:40 BRST 2014;Sun Nov 30 01:39:45 BRST 2014;2;
+activescaffold;active_scaffold;closed;Jesse Clark;Sun Nov 16 20:06:26 BRST 2014;Sun Nov 16 21:11:47 BRST 2014;0;
+activescaffold;active_scaffold;closed;null;Thu Nov 13 14:09:30 BRST 2014;Sat Nov 15 12:17:29 BRST 2014;1;
+activescaffold;active_scaffold;closed;Tin Vo;Sat Nov 08 15:33:24 BRST 2014;Sat Nov 08 15:42:41 BRST 2014;0;
+activescaffold;active_scaffold;closed;Parth Bharadiya;Wed Sep 24 17:04:36 BRT 2014;Thu Sep 25 03:35:19 BRT 2014;0;
+activescaffold;active_scaffold;closed;Parth Bharadiya;Wed Sep 17 10:29:54 BRT 2014;Wed Sep 17 10:51:11 BRT 2014;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Tue Sep 09 18:22:35 BRT 2014;Fri Sep 12 14:18:03 BRT 2014;2;
+activescaffold;active_scaffold;closed;Andrew Cole;Mon Sep 08 20:54:21 BRT 2014;Thu Sep 11 04:46:07 BRT 2014;2;
+activescaffold;active_scaffold;closed;windwiny;Thu Aug 28 03:08:04 BRT 2014;Tue Sep 02 03:15:42 BRT 2014;5;
+activescaffold;active_scaffold;closed;Leandro Forain;Tue Aug 26 13:38:16 BRT 2014;Wed Aug 27 03:57:15 BRT 2014;0;
+activescaffold;active_scaffold;closed;windwiny;Tue Aug 26 02:22:35 BRT 2014;Tue Nov 18 07:14:27 BRST 2014;84;
+activescaffold;active_scaffold;closed;windwiny;Sun Aug 24 06:32:51 BRT 2014;Mon Aug 25 04:50:50 BRT 2014;0;
+activescaffold;active_scaffold;closed;windwiny;Sun Aug 10 06:40:53 BRT 2014;Thu Aug 21 11:34:09 BRT 2014;11;
+activescaffold;active_scaffold;closed;WhiteFire;Wed Jul 30 22:46:46 BRT 2014;Fri Aug 01 07:03:13 BRT 2014;1;
+activescaffold;active_scaffold;closed;Andreas Lietz;Tue Jul 29 11:44:52 BRT 2014;Wed Jul 30 04:04:09 BRT 2014;0;
+activescaffold;active_scaffold;closed;null;Mon Jul 28 16:47:54 BRT 2014;Mon Jul 28 16:53:14 BRT 2014;0;
+activescaffold;active_scaffold;closed;null;Tue Jul 22 08:21:22 BRT 2014;Tue Jul 22 10:59:14 BRT 2014;0;
+activescaffold;active_scaffold;closed;João Felipe N. Pimentel;Fri Jul 11 22:42:14 BRT 2014;Tue Nov 18 07:14:14 BRST 2014;129;
+activescaffold;active_scaffold;closed;Everton Moreth;Sun Jun 29 15:10:47 BRT 2014;Mon Jun 30 04:16:49 BRT 2014;0;
+activescaffold;active_scaffold;closed;lulalala;Wed Jun 18 05:32:26 BRT 2014;Wed Jun 18 07:10:21 BRT 2014;0;
+activescaffold;active_scaffold;closed;lulalala;Wed Jun 18 05:00:45 BRT 2014;Wed Jun 18 07:10:22 BRT 2014;0;
+activescaffold;active_scaffold;closed;Jim Crate;Tue Jun 17 12:33:09 BRT 2014;Thu Jul 17 11:28:37 BRT 2014;29;
+activescaffold;active_scaffold;closed;Nick Rogers;Fri Jun 13 14:46:09 BRT 2014;Tue Jun 17 03:51:19 BRT 2014;3;
+activescaffold;active_scaffold;closed;Nick Rogers;Wed Jun 11 16:30:35 BRT 2014;Thu Jun 12 05:31:42 BRT 2014;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Wed Jun 11 16:23:44 BRT 2014;Thu Jun 12 05:30:17 BRT 2014;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Wed Jun 11 16:13:19 BRT 2014;Thu Jun 12 03:51:14 BRT 2014;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Wed Jun 11 15:58:46 BRT 2014;Tue Jun 17 04:44:05 BRT 2014;5;
+activescaffold;active_scaffold;closed;Nick Rogers;Wed Jun 11 15:51:25 BRT 2014;Thu Jun 12 03:35:33 BRT 2014;0;
+activescaffold;active_scaffold;closed;G. Montard;Thu Jun 05 07:17:46 BRT 2014;Tue Jun 10 08:56:31 BRT 2014;5;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Wed May 21 08:48:35 BRT 2014;Wed May 21 08:57:42 BRT 2014;0;
+activescaffold;active_scaffold;closed;Topher;Thu May 15 17:18:36 BRT 2014;Tue Jun 10 08:29:23 BRT 2014;25;
+activescaffold;active_scaffold;closed;Jeff Surrett;Tue May 13 12:56:12 BRT 2014;Wed May 14 03:46:22 BRT 2014;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Wed May 07 03:55:43 BRT 2014;Wed May 07 04:07:51 BRT 2014;0;
+activescaffold;active_scaffold;closed;Doug Headley;Fri May 02 14:39:37 BRT 2014;Fri May 02 15:43:09 BRT 2014;0;
+activescaffold;active_scaffold;closed;null;Wed Apr 16 19:58:45 BRT 2014;Thu Apr 24 04:08:38 BRT 2014;7;
+activescaffold;active_scaffold;closed;Everton Moreth;Sun Mar 30 04:45:04 BRT 2014;Mon Apr 07 03:56:20 BRT 2014;7;
+activescaffold;active_scaffold;closed;Everton Moreth;Sun Mar 30 03:59:33 BRT 2014;Mon Apr 07 03:55:09 BRT 2014;7;
+activescaffold;active_scaffold;closed;null;Fri Mar 21 14:36:20 BRT 2014;Tue Mar 25 10:50:36 BRT 2014;3;
+activescaffold;active_scaffold;open;John Amicangelo;Tue Mar 18 21:20:13 BRT 2014;null;579;
+activescaffold;active_scaffold;closed;Ralph Möcklinghoff;Sat Mar 15 09:26:20 BRT 2014;Mon Mar 17 10:36:27 BRT 2014;2;
+activescaffold;active_scaffold;closed;Victor Lowther;Sat Mar 15 01:42:40 BRT 2014;Mon Mar 17 10:36:08 BRT 2014;2;
+activescaffold;active_scaffold;closed;Matt Campbell;Fri Mar 14 16:15:41 BRT 2014;Fri May 16 03:49:49 BRT 2014;62;
+activescaffold;active_scaffold;closed;Adrian Chen;Tue Feb 04 11:19:59 BRST 2014;Tue Feb 04 12:35:32 BRST 2014;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Fri Jan 31 11:33:41 BRST 2014;Fri Jan 31 11:44:39 BRST 2014;0;
+activescaffold;active_scaffold;closed;G. Montard;Thu Jan 23 07:29:47 BRST 2014;Thu Jan 23 07:38:05 BRST 2014;0;
+activescaffold;active_scaffold;closed;Juan David Pastas;Mon Jan 20 20:31:40 BRST 2014;Tue Jan 21 06:06:55 BRST 2014;0;
+activescaffold;active_scaffold;closed;null;Thu Jan 16 05:36:40 BRST 2014;Thu Jan 16 05:41:50 BRST 2014;0;
+activescaffold;active_scaffold;open;Nick Rogers;Mon Dec 30 21:49:24 BRST 2013;null;657;
+activescaffold;active_scaffold;closed;null;Fri Dec 27 16:44:36 BRST 2013;Fri May 16 03:50:05 BRT 2014;139;
+activescaffold;active_scaffold;closed;Fábio Felipe Paiva;Sun Dec 22 15:41:28 BRST 2013;Tue Dec 24 12:24:56 BRST 2013;1;
+activescaffold;active_scaffold;closed;null;Fri Dec 20 15:56:08 BRST 2013;Sat Dec 21 10:48:37 BRST 2013;0;
+activescaffold;active_scaffold;closed;Thomas Petrachi;Wed Dec 18 07:57:54 BRST 2013;Wed Dec 18 09:10:11 BRST 2013;0;
+activescaffold;active_scaffold;closed;null;Wed Dec 18 02:48:29 BRST 2013;Wed Dec 18 05:52:34 BRST 2013;0;
+activescaffold;active_scaffold;closed;Frank Oxener;Mon Dec 16 17:22:25 BRST 2013;Tue Dec 17 07:22:25 BRST 2013;0;
+activescaffold;active_scaffold;closed;Sergey Alekseev;Thu Dec 05 00:40:59 BRST 2013;Mon Dec 09 19:19:18 BRST 2013;4;
+activescaffold;active_scaffold;closed;null;Wed Dec 04 07:13:53 BRST 2013;Wed Dec 04 09:25:11 BRST 2013;0;
+activescaffold;active_scaffold;closed;null;Mon Dec 02 08:58:41 BRST 2013;Mon Dec 02 09:02:37 BRST 2013;0;
+activescaffold;active_scaffold;closed;null;Fri Nov 29 16:07:17 BRST 2013;Mon Dec 02 06:23:34 BRST 2013;2;
+activescaffold;active_scaffold;closed;null;Fri Nov 22 20:16:28 BRST 2013;Mon Nov 25 11:51:18 BRST 2013;2;
+activescaffold;active_scaffold;closed;John Amicangelo;Wed Nov 20 21:22:29 BRST 2013;Thu Nov 21 06:03:00 BRST 2013;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Mon Nov 18 01:05:11 BRST 2013;Mon Nov 25 15:56:44 BRST 2013;7;
+activescaffold;active_scaffold;open;Claudius Nicolae;Sun Nov 17 09:27:29 BRST 2013;null;701;
+activescaffold;active_scaffold;closed;João Felipe N. Pimentel;Sat Nov 16 20:31:55 BRST 2013;Mon Nov 18 05:57:52 BRST 2013;1;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Sat Nov 16 13:59:10 BRST 2013;Sat Nov 16 15:47:23 BRST 2013;0;
+activescaffold;active_scaffold;closed;Sören Mothes;Tue Nov 12 17:09:11 BRST 2013;Thu Nov 14 13:30:22 BRST 2013;1;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Tue Nov 12 13:42:33 BRST 2013;Tue Nov 12 14:42:08 BRST 2013;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Tue Nov 12 07:23:41 BRST 2013;Mon Nov 25 15:36:22 BRST 2013;13;
+activescaffold;active_scaffold;closed;Hernán Astudillo;Thu Nov 07 19:18:08 BRST 2013;Mon Nov 11 07:04:02 BRST 2013;3;
+activescaffold;active_scaffold;closed;Srinivasan V;Thu Nov 07 07:43:43 BRST 2013;Fri Mar 27 05:25:38 BRT 2015;504;
+activescaffold;active_scaffold;closed;Li Bruce;Wed Nov 06 12:13:33 BRST 2013;Mon Nov 11 07:03:37 BRST 2013;4;
+activescaffold;active_scaffold;closed;null;Fri Nov 01 08:47:41 BRST 2013;Mon Nov 11 07:22:10 BRST 2013;9;
+activescaffold;active_scaffold;closed;Gang Wang;Wed Oct 30 02:27:08 BRST 2013;Thu Feb 05 07:13:45 BRST 2015;463;
+activescaffold;active_scaffold;closed;Gang Wang;Sun Oct 27 16:09:14 BRST 2013;Wed Oct 30 01:02:39 BRST 2013;2;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Fri Oct 25 13:45:03 BRST 2013;Fri Oct 25 13:47:35 BRST 2013;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Tue Oct 22 14:41:04 BRST 2013;Wed Oct 23 07:30:34 BRST 2013;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Tue Oct 22 14:39:12 BRST 2013;Wed Oct 23 07:59:50 BRST 2013;0;
+activescaffold;active_scaffold;closed;Zac Zheng;Fri Oct 18 07:13:03 BRT 2013;Fri Nov 22 12:45:31 BRST 2013;35;
+activescaffold;active_scaffold;closed;João Felipe N. Pimentel;Tue Oct 15 18:40:25 BRT 2013;Sun Oct 27 09:43:18 BRST 2013;11;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Wed Oct 09 11:45:37 BRT 2013;Wed Oct 09 19:48:44 BRT 2013;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Wed Oct 09 11:25:11 BRT 2013;Wed Oct 09 19:46:56 BRT 2013;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Wed Oct 02 23:37:09 BRT 2013;Thu Oct 03 00:19:59 BRT 2013;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Wed Oct 02 22:19:35 BRT 2013;Thu Oct 03 00:13:32 BRT 2013;0;
+activescaffold;active_scaffold;closed;Chris Barber;Mon Sep 23 16:00:45 BRT 2013;Tue Sep 24 03:53:50 BRT 2013;0;
+activescaffold;active_scaffold;closed;Chris Barber;Tue Sep 10 18:26:33 BRT 2013;Thu Sep 12 15:58:49 BRT 2013;1;
+activescaffold;active_scaffold;closed;Adam Spiers;Wed Sep 04 20:50:29 BRT 2013;Thu Sep 05 06:01:58 BRT 2013;0;
+activescaffold;active_scaffold;closed;Nikolay Kondratyev;Tue Aug 13 11:59:30 BRT 2013;Tue Aug 13 12:41:40 BRT 2013;0;
+activescaffold;active_scaffold;closed;Carlos Puchol;Fri Aug 09 22:12:02 BRT 2013;Sat Aug 10 07:11:16 BRT 2013;0;
+activescaffold;active_scaffold;open;Michael Cowden;Fri Aug 09 11:18:13 BRT 2013;null;801;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Sun Aug 04 11:16:53 BRT 2013;Thu Aug 08 07:24:04 BRT 2013;3;
+activescaffold;active_scaffold;closed;Eugene Korbut;Mon Jul 29 21:00:16 BRT 2013;Thu Aug 08 07:09:43 BRT 2013;9;
+activescaffold;active_scaffold;closed;Sebastian Martinez;Thu Jun 06 14:44:12 BRT 2013;Thu Jun 06 14:45:35 BRT 2013;0;
+activescaffold;active_scaffold;closed;Sebastian Martinez;Thu Jun 06 14:38:04 BRT 2013;Thu Jun 06 14:41:04 BRT 2013;0;
+activescaffold;active_scaffold;closed;null;Thu Jun 06 11:21:09 BRT 2013;Fri Jun 07 16:32:09 BRT 2013;1;
+activescaffold;active_scaffold;closed;Frank Oxener;Thu Jun 06 09:47:08 BRT 2013;Tue Jun 11 17:40:12 BRT 2013;5;
+activescaffold;active_scaffold;closed;null;Tue Jun 04 05:35:11 BRT 2013;Thu Jun 06 03:35:29 BRT 2013;1;
+activescaffold;active_scaffold;closed;Chris Barber;Thu May 30 20:22:22 BRT 2013;Fri May 31 19:09:50 BRT 2013;0;
+activescaffold;active_scaffold;closed;null;Wed May 29 07:39:14 BRT 2013;Thu May 30 03:02:41 BRT 2013;0;
+activescaffold;active_scaffold;closed;Dave LaDelfa;Tue May 21 16:48:25 BRT 2013;Tue May 21 16:49:54 BRT 2013;0;
+activescaffold;active_scaffold;closed;Dave LaDelfa;Tue May 21 16:36:11 BRT 2013;Wed May 22 04:35:59 BRT 2013;0;
+activescaffold;active_scaffold;closed;Brandt Lareau;Sun May 05 20:31:38 BRT 2013;Sun May 05 20:36:08 BRT 2013;0;
+activescaffold;active_scaffold;closed;Richie Min;Sun May 05 11:19:04 BRT 2013;Mon May 06 04:24:39 BRT 2013;0;
+activescaffold;active_scaffold;closed;Jon Seidel;Mon Apr 29 12:51:40 BRT 2013;Fri May 03 04:27:42 BRT 2013;3;
+activescaffold;active_scaffold;closed;null;Tue Apr 23 22:28:24 BRT 2013;Tue Apr 23 22:32:56 BRT 2013;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Thu Apr 18 13:34:47 BRT 2013;Fri Apr 19 04:02:15 BRT 2013;0;
+activescaffold;active_scaffold;open;Moin Haidar;Thu Apr 18 11:58:05 BRT 2013;null;914;
+activescaffold;active_scaffold;closed;Chris Kintner;Wed Apr 17 13:51:47 BRT 2013;Wed Apr 17 13:58:43 BRT 2013;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Thu Apr 11 12:36:10 BRT 2013;Wed Oct 09 17:24:29 BRT 2013;181;
+activescaffold;active_scaffold;closed;Hernán Astudillo;Tue Apr 09 16:45:41 BRT 2013;Thu Apr 11 06:35:25 BRT 2013;1;
+activescaffold;active_scaffold;closed;Miguel Guinada;Tue Apr 09 14:19:14 BRT 2013;Wed Apr 10 05:59:25 BRT 2013;0;
+activescaffold;active_scaffold;closed;James Adam;Sun Apr 07 23:38:29 BRT 2013;Thu Apr 11 07:11:25 BRT 2013;3;
+activescaffold;active_scaffold;closed;mjrk;Sat Apr 06 16:53:35 BRT 2013;Wed Apr 10 11:04:51 BRT 2013;3;
+activescaffold;active_scaffold;closed;mjrk;Sat Apr 06 16:47:02 BRT 2013;Mon Apr 08 07:43:35 BRT 2013;1;
+activescaffold;active_scaffold;closed;null;Thu Apr 04 17:29:46 BRT 2013;Fri Apr 05 06:44:43 BRT 2013;0;
+activescaffold;active_scaffold;closed;G. Montard;Tue Apr 02 12:38:26 BRT 2013;Fri Apr 05 06:31:52 BRT 2013;2;
+activescaffold;active_scaffold;closed;rob golkosky;Fri Mar 29 19:47:40 BRT 2013;Mon Apr 01 09:16:39 BRT 2013;2;
+activescaffold;active_scaffold;closed;jMelchor;Mon Mar 25 01:35:05 BRT 2013;Fri Apr 05 09:30:01 BRT 2013;11;
+activescaffold;active_scaffold;closed;Redsson;Wed Mar 20 18:44:43 BRT 2013;Fri Apr 05 08:52:25 BRT 2013;15;
+activescaffold;active_scaffold;closed;null;Tue Mar 19 20:56:00 BRT 2013;Wed Mar 20 06:54:44 BRT 2013;0;
+activescaffold;active_scaffold;closed;null;Mon Mar 18 22:02:57 BRT 2013;Tue Mar 19 07:01:28 BRT 2013;0;
+activescaffold;active_scaffold;closed;Jason Fleetwood-Boldt;Mon Mar 18 20:01:27 BRT 2013;Tue Mar 19 01:16:22 BRT 2013;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Tue Mar 05 21:06:45 BRT 2013;Wed Mar 06 09:07:16 BRT 2013;0;
+activescaffold;active_scaffold;closed;null;Tue Mar 05 18:03:38 BRT 2013;Wed Mar 06 11:27:36 BRT 2013;0;
+activescaffold;active_scaffold;closed;Jesse Clark;Tue Mar 05 02:33:27 BRT 2013;Wed Mar 06 02:02:22 BRT 2013;0;
+activescaffold;active_scaffold;closed;Alexey Anokhin;Mon Mar 04 09:33:59 BRT 2013;Wed Apr 10 11:54:07 BRT 2013;37;
+activescaffold;active_scaffold;closed;Nick Rogers;Thu Feb 28 20:50:08 BRT 2013;Fri Mar 01 08:52:41 BRT 2013;0;
+activescaffold;active_scaffold;closed;null;Thu Feb 28 01:41:56 BRT 2013;Thu Mar 07 10:18:15 BRT 2013;7;
+activescaffold;active_scaffold;open;Tim Uckun;Tue Feb 26 23:38:41 BRT 2013;null;964;
+activescaffold;active_scaffold;closed;Tarnovan Gabriel;Thu Feb 21 11:56:15 BRT 2013;Thu Feb 21 13:00:13 BRT 2013;0;
+activescaffold;active_scaffold;closed;Adam Spiers;Fri Feb 15 09:56:46 BRST 2013;Mon Feb 18 07:51:34 BRT 2013;2;
+activescaffold;active_scaffold;closed;Alejandro Wainzinger;Wed Feb 13 04:54:53 BRST 2013;Wed Feb 13 06:51:44 BRST 2013;0;
+activescaffold;active_scaffold;closed;David FRANCOIS;Tue Feb 12 13:46:05 BRST 2013;Wed Feb 13 11:12:00 BRST 2013;0;
+activescaffold;active_scaffold;closed;Hernán Astudillo;Sun Feb 10 21:14:30 BRST 2013;Mon Feb 11 14:25:13 BRST 2013;0;
+activescaffold;active_scaffold;closed;Mihai Târnovan;Fri Feb 01 07:16:26 BRST 2013;Mon Feb 04 08:09:40 BRST 2013;3;
+activescaffold;active_scaffold;closed;Sarwan Kumar;Fri Feb 01 03:24:24 BRST 2013;Fri Feb 01 05:05:49 BRST 2013;0;
+activescaffold;active_scaffold;closed;null;Wed Jan 30 17:08:44 BRST 2013;Fri Feb 01 20:52:23 BRST 2013;2;
+activescaffold;active_scaffold;closed;Alex Drobazko;Wed Jan 30 13:05:39 BRST 2013;Mon Feb 04 08:09:31 BRST 2013;4;
+activescaffold;active_scaffold;closed;Andrey Novikov;Mon Jan 28 07:30:15 BRST 2013;Mon Jan 28 18:41:47 BRST 2013;0;
+activescaffold;active_scaffold;closed;Andrey Novikov;Mon Jan 28 06:36:25 BRST 2013;Mon Jan 28 18:07:42 BRST 2013;0;
+activescaffold;active_scaffold;closed;Andrey Novikov;Mon Jan 28 06:31:16 BRST 2013;Mon Jan 28 06:33:06 BRST 2013;0;
+activescaffold;active_scaffold;closed;Carlos Puchol;Mon Jan 28 05:31:48 BRST 2013;Mon Jan 28 18:05:55 BRST 2013;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Thu Jan 24 18:09:10 BRST 2013;Wed Jan 30 23:14:06 BRST 2013;6;
+activescaffold;active_scaffold;closed;Andrey Novikov;Wed Jan 23 11:38:15 BRST 2013;Wed Jan 23 16:41:33 BRST 2013;0;
+activescaffold;active_scaffold;closed;Alex Drobazko;Wed Jan 23 06:43:07 BRST 2013;Mon Feb 04 08:08:49 BRST 2013;12;
+activescaffold;active_scaffold;closed;Alex Drobazko;Tue Jan 22 11:36:24 BRST 2013;Tue Jan 22 13:12:50 BRST 2013;0;
+activescaffold;active_scaffold;closed;Andrey Novikov;Mon Jan 21 22:55:16 BRST 2013;Tue Jan 22 17:40:07 BRST 2013;0;
+activescaffold;active_scaffold;closed;Peter Shoukry;Mon Jan 21 06:00:32 BRST 2013;Mon Jan 21 06:18:05 BRST 2013;0;
+activescaffold;active_scaffold;closed;Cassio Almeida;Sat Jan 19 16:31:48 BRST 2013;Sat Jan 19 17:31:41 BRST 2013;0;
+activescaffold;active_scaffold;closed;Cassio Almeida;Sat Jan 19 16:28:26 BRST 2013;Sat Jan 19 17:08:24 BRST 2013;0;
+activescaffold;active_scaffold;closed;Praveen G;Fri Jan 18 09:15:12 BRST 2013;Fri Jan 18 16:09:37 BRST 2013;0;
+activescaffold;active_scaffold;closed;Praveen G;Fri Jan 18 09:13:57 BRST 2013;Fri Jan 18 16:09:15 BRST 2013;0;
+activescaffold;active_scaffold;closed;Andrey Novikov;Thu Jan 17 02:24:17 BRST 2013;Sat Aug 10 04:54:27 BRT 2013;205;
+activescaffold;active_scaffold;closed;Aaron Wieland;Wed Jan 09 03:26:00 BRST 2013;Wed Jan 09 09:21:29 BRST 2013;0;
+activescaffold;active_scaffold;closed;Jason Fleetwood-Boldt;Mon Jan 07 14:52:15 BRST 2013;Tue Apr 02 12:31:34 BRT 2013;84;
+activescaffold;active_scaffold;closed;null;Tue Dec 25 04:33:48 BRST 2012;Wed Dec 26 08:22:34 BRST 2012;1;
+activescaffold;active_scaffold;closed;null;Wed Dec 19 20:34:39 BRST 2012;Mon Jan 28 19:29:16 BRST 2013;39;
+activescaffold;active_scaffold;closed;Shawn;Mon Dec 17 17:18:24 BRST 2012;Mon Jan 28 18:23:58 BRST 2013;42;
+activescaffold;active_scaffold;closed;null;Fri Dec 14 18:11:46 BRST 2012;Mon Jan 28 19:01:59 BRST 2013;45;
+activescaffold;active_scaffold;closed;null;Tue Dec 11 19:45:27 BRST 2012;Wed Dec 12 13:56:58 BRST 2012;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Tue Dec 04 15:36:18 BRST 2012;Tue Dec 04 16:03:08 BRST 2012;0;
+activescaffold;active_scaffold;closed;Tim Uckun;Tue Nov 27 01:01:38 BRST 2012;Thu Dec 06 01:39:16 BRST 2012;9;
+activescaffold;active_scaffold;closed;Nick Rogers;Fri Nov 16 20:59:18 BRST 2012;Mon Nov 19 11:09:50 BRST 2012;2;
+activescaffold;active_scaffold;closed;Nick Rogers;Wed Nov 14 14:39:29 BRST 2012;Wed Nov 14 18:25:04 BRST 2012;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Wed Nov 14 14:21:15 BRST 2012;Wed Nov 14 15:12:36 BRST 2012;0;
+activescaffold;active_scaffold;closed;Hernán Astudillo;Thu Nov 08 13:18:09 BRST 2012;Thu Nov 08 13:59:58 BRST 2012;0;
+activescaffold;active_scaffold;closed;Akira TAGOH;Tue Nov 06 04:05:44 BRST 2012;Tue Nov 06 13:46:16 BRST 2012;0;
+activescaffold;active_scaffold;closed;Krzysztof Zych;Mon Nov 05 09:32:16 BRST 2012;Mon Nov 12 08:31:22 BRST 2012;6;
+activescaffold;active_scaffold;closed;Nick Rogers;Sat Nov 03 20:40:13 BRST 2012;Mon Nov 05 07:35:35 BRST 2012;1;
+activescaffold;active_scaffold;closed;Michael Latta (TechnoMage);Wed Oct 31 21:32:32 BRST 2012;Thu Dec 20 14:26:48 BRST 2012;49;
+activescaffold;active_scaffold;closed;Michael Latta (TechnoMage);Wed Oct 31 13:56:11 BRST 2012;Tue Nov 06 12:58:21 BRST 2012;5;
+activescaffold;active_scaffold;closed;Nick Rogers;Wed Oct 31 13:44:52 BRST 2012;Thu Nov 01 13:27:09 BRST 2012;0;
+activescaffold;active_scaffold;closed;Michal Ochman;Mon Oct 29 11:52:43 BRST 2012;Tue Oct 30 14:34:46 BRST 2012;1;
+activescaffold;active_scaffold;closed;Nick Rogers;Sun Oct 28 22:07:42 BRST 2012;Sun Oct 28 23:04:58 BRST 2012;0;
+activescaffold;active_scaffold;closed;Michal Ochman;Thu Oct 11 14:27:41 BRT 2012;Sat Oct 13 10:34:39 BRT 2012;1;
+activescaffold;active_scaffold;closed;Nick Rogers;Fri Oct 05 18:07:09 BRT 2012;Wed Oct 10 09:18:06 BRT 2012;4;
+activescaffold;active_scaffold;closed;Andrea Tore;Thu Sep 27 14:31:43 BRT 2012;Fri Sep 28 00:31:57 BRT 2012;0;
+activescaffold;active_scaffold;closed;null;Tue Sep 25 04:33:05 BRT 2012;Tue Sep 25 15:01:15 BRT 2012;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Mon Sep 17 19:18:13 BRT 2012;Tue Sep 18 02:49:43 BRT 2012;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Mon Sep 17 12:27:34 BRT 2012;Mon Sep 17 16:51:31 BRT 2012;0;
+activescaffold;active_scaffold;closed;Lyndon Maydwell;Wed Sep 05 05:04:41 BRT 2012;Wed Sep 05 05:17:48 BRT 2012;0;
+activescaffold;active_scaffold;closed;Bryan Mundie;Tue Sep 04 18:00:27 BRT 2012;Wed Sep 05 14:16:19 BRT 2012;0;
+activescaffold;active_scaffold;closed;Andrea Tore;Wed Aug 29 10:16:49 BRT 2012;Sat Sep 01 06:58:10 BRT 2012;2;
+activescaffold;active_scaffold;closed;Andrea Tore;Wed Aug 29 08:19:13 BRT 2012;Wed Aug 29 08:21:25 BRT 2012;0;
+activescaffold;active_scaffold;closed;Andrea Tore;Wed Aug 29 06:25:58 BRT 2012;Wed Aug 29 07:58:31 BRT 2012;0;
+activescaffold;active_scaffold;closed;null;Tue Aug 28 04:59:22 BRT 2012;Thu Aug 30 05:02:59 BRT 2012;2;
+activescaffold;active_scaffold;closed;Andrey Novikov;Sun Aug 26 22:39:48 BRT 2012;Wed Aug 29 17:34:56 BRT 2012;2;
+activescaffold;active_scaffold;closed;Hernán Astudillo;Wed Aug 22 17:46:50 BRT 2012;Fri Aug 24 04:11:56 BRT 2012;1;
+activescaffold;active_scaffold;closed;null;Wed Aug 22 07:05:04 BRT 2012;Thu Aug 30 06:52:00 BRT 2012;7;
+activescaffold;active_scaffold;closed;Hernán Astudillo;Mon Aug 20 21:30:34 BRT 2012;Thu Aug 30 11:45:06 BRT 2012;9;
+activescaffold;active_scaffold;closed;Andrea Tore;Fri Aug 17 09:07:20 BRT 2012;Fri Aug 17 09:38:37 BRT 2012;0;
+activescaffold;active_scaffold;closed;Jonas Bang Christensen;Thu Aug 16 09:09:18 BRT 2012;Fri Aug 17 07:40:19 BRT 2012;0;
+activescaffold;active_scaffold;closed;Lars Jarnbo Pedersen;Thu Aug 16 07:55:13 BRT 2012;Thu Aug 16 08:17:05 BRT 2012;0;
+activescaffold;active_scaffold;closed;Craig P Jolicoeur;Mon Aug 13 12:34:08 BRT 2012;Tue Aug 14 03:20:27 BRT 2012;0;
+activescaffold;active_scaffold;closed;Gaurav seth;Wed Aug 08 06:24:14 BRT 2012;Wed Aug 08 06:56:22 BRT 2012;0;
+activescaffold;active_scaffold;closed;null;Tue Aug 07 06:03:50 BRT 2012;Tue Sep 04 13:04:45 BRT 2012;28;
+activescaffold;active_scaffold;closed;Wei;Sat Aug 04 23:51:49 BRT 2012;Mon Aug 06 04:48:52 BRT 2012;1;
+activescaffold;active_scaffold;closed;Andrea Tore;Fri Aug 03 09:44:52 BRT 2012;Tue Aug 07 09:25:49 BRT 2012;3;
+activescaffold;active_scaffold;closed;Praveen G;Thu Aug 02 07:42:26 BRT 2012;Wed Aug 29 17:00:48 BRT 2012;27;
+activescaffold;active_scaffold;closed;Mike Blyth;Wed Jul 25 07:38:02 BRT 2012;Thu Jul 26 06:38:44 BRT 2012;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Fri Jul 20 17:21:13 BRT 2012;Sat Jul 21 06:26:44 BRT 2012;0;
+activescaffold;active_scaffold;closed;null;Wed Jul 18 14:11:22 BRT 2012;Wed Jul 18 17:16:37 BRT 2012;0;
+activescaffold;active_scaffold;closed;Andrey Novikov;Fri Jul 13 03:12:49 BRT 2012;Fri Jul 13 10:19:48 BRT 2012;0;
+activescaffold;active_scaffold;closed;Greg Gershman;Thu Jul 12 11:44:14 BRT 2012;Fri Jul 13 03:46:09 BRT 2012;0;
+activescaffold;active_scaffold;closed;Hernán Astudillo;Mon Jul 09 18:20:37 BRT 2012;Tue Jul 10 08:35:32 BRT 2012;0;
+activescaffold;active_scaffold;closed;null;Fri Jul 06 13:58:30 BRT 2012;Fri Jul 06 15:24:13 BRT 2012;0;
+activescaffold;active_scaffold;closed;null;Wed Jun 20 10:23:16 BRT 2012;Mon Jan 28 19:04:31 BRST 2013;222;
+activescaffold;active_scaffold;closed;Carlos Puchol;Tue Jun 19 17:55:49 BRT 2012;Thu Jun 21 12:29:21 BRT 2012;1;
+activescaffold;active_scaffold;closed;null;Tue Jun 19 04:07:15 BRT 2012;Tue Aug 07 05:47:59 BRT 2012;49;
+activescaffold;active_scaffold;closed;Andrey Novikov;Fri Jun 15 01:43:15 BRT 2012;Fri Jun 15 03:54:45 BRT 2012;0;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Tue Jun 12 07:49:52 BRT 2012;Tue Jun 12 11:35:12 BRT 2012;0;
+activescaffold;active_scaffold;closed;Carlos Puchol;Sat Jun 02 20:30:28 BRT 2012;Tue Jun 19 04:30:50 BRT 2012;16;
+activescaffold;active_scaffold;closed;Nick Rogers;Wed May 16 13:30:52 BRT 2012;Wed May 16 17:26:39 BRT 2012;0;
+activescaffold;active_scaffold;closed;null;Thu May 03 17:06:17 BRT 2012;Fri May 04 11:46:14 BRT 2012;0;
+activescaffold;active_scaffold;closed;null;Tue May 01 17:04:30 BRT 2012;Thu May 03 09:13:42 BRT 2012;1;
+activescaffold;active_scaffold;closed;Nick Rogers;Tue May 01 13:36:05 BRT 2012;Tue May 01 16:24:07 BRT 2012;0;
+activescaffold;active_scaffold;closed;Jonas Bang Christensen;Thu Apr 26 04:05:44 BRT 2012;Fri Apr 27 06:48:10 BRT 2012;1;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Fri Apr 20 07:44:08 BRT 2012;Fri Apr 27 06:53:09 BRT 2012;6;
+activescaffold;active_scaffold;closed;Dennis Prochniak;Tue Apr 17 09:39:52 BRT 2012;Mon May 07 19:05:35 BRT 2012;20;
+activescaffold;active_scaffold;closed;Jonas Bang Christensen;Wed Apr 11 08:34:57 BRT 2012;Fri Apr 05 09:34:25 BRT 2013;359;
+activescaffold;active_scaffold;closed;Nick Rogers;Sat Mar 24 20:11:06 BRT 2012;Wed Mar 28 07:13:24 BRT 2012;3;
+activescaffold;active_scaffold;closed;null;Wed Mar 21 08:25:37 BRT 2012;Thu Mar 22 05:18:14 BRT 2012;0;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Sat Mar 17 08:28:56 BRT 2012;Wed Mar 28 06:54:30 BRT 2012;10;
+activescaffold;active_scaffold;closed;null;Thu Mar 15 21:50:53 BRT 2012;Wed Mar 21 20:51:56 BRT 2012;5;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Tue Mar 13 17:22:09 BRT 2012;Wed Mar 14 05:21:42 BRT 2012;0;
+activescaffold;active_scaffold;closed;Andrey Novikov;Mon Mar 12 02:31:02 BRT 2012;Tue Mar 13 05:25:54 BRT 2012;1;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Sun Mar 11 10:27:14 BRT 2012;Fri Jun 07 16:45:29 BRT 2013;453;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Fri Mar 09 20:34:49 BRT 2012;Mon Mar 12 09:38:15 BRT 2012;2;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Thu Mar 08 07:12:56 BRT 2012;Thu Mar 08 14:20:04 BRT 2012;0;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Wed Mar 07 07:46:30 BRT 2012;Thu Mar 08 14:20:11 BRT 2012;1;
+activescaffold;active_scaffold;closed;Nick Rogers;Tue Mar 06 13:38:25 BRT 2012;Tue Mar 06 13:40:44 BRT 2012;0;
+activescaffold;active_scaffold;closed;Dave Smylie;Tue Mar 06 00:28:18 BRT 2012;Thu Mar 15 09:15:38 BRT 2012;9;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Fri Mar 02 16:19:54 BRT 2012;Tue Mar 06 19:16:30 BRT 2012;4;
+activescaffold;active_scaffold;closed;null;Mon Feb 27 18:52:44 BRT 2012;Tue Feb 28 05:56:11 BRT 2012;0;
+activescaffold;active_scaffold;closed;Blake Watters;Fri Feb 24 16:45:33 BRST 2012;Wed Apr 10 05:59:55 BRT 2013;410;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Sat Feb 18 08:39:14 BRST 2012;Wed Feb 22 12:57:34 BRST 2012;4;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Wed Feb 15 13:13:02 BRST 2012;Wed Feb 15 14:06:39 BRST 2012;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Fri Feb 10 15:10:50 BRST 2012;Wed Feb 15 14:06:42 BRST 2012;4;
+activescaffold;active_scaffold;closed;null;Thu Feb 09 06:51:50 BRST 2012;Tue Oct 08 19:38:43 BRT 2013;607;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Sat Feb 04 19:15:25 BRST 2012;Tue Feb 07 07:06:33 BRST 2012;2;
+activescaffold;active_scaffold;closed;Bryan Mundie;Fri Feb 03 21:39:05 BRST 2012;Mon Feb 06 11:46:53 BRST 2012;2;
+activescaffold;active_scaffold;closed;Nick Rogers;Thu Feb 02 16:26:45 BRST 2012;Fri Feb 03 07:44:19 BRST 2012;0;
+activescaffold;active_scaffold;closed;null;Tue Jan 31 10:53:22 BRST 2012;Tue Jan 31 11:10:43 BRST 2012;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Mon Jan 30 13:44:33 BRST 2012;Tue Jan 31 06:41:20 BRST 2012;0;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Mon Jan 30 08:29:40 BRST 2012;Mon Jul 02 09:38:49 BRT 2012;154;
+activescaffold;active_scaffold;closed;Adam Spiers;Sun Jan 29 11:23:47 BRST 2012;Mon Jan 30 10:01:26 BRST 2012;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Sat Jan 28 20:02:12 BRST 2012;Mon Jan 30 13:45:27 BRST 2012;1;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Fri Jan 27 19:15:05 BRST 2012;Mon Jan 30 10:48:21 BRST 2012;2;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Fri Jan 27 18:26:54 BRST 2012;Mon Jan 30 10:55:13 BRST 2012;2;
+activescaffold;active_scaffold;closed;Craig Walker;Fri Jan 27 15:44:38 BRST 2012;Mon Jan 30 14:36:22 BRST 2012;2;
+activescaffold;active_scaffold;closed;Ville Lautanala;Fri Jan 27 10:39:06 BRST 2012;Fri Jan 27 14:11:04 BRST 2012;0;
+activescaffold;active_scaffold;closed;Jonathan Childress;Wed Jan 25 18:28:05 BRST 2012;Mon Jan 30 10:59:19 BRST 2012;4;
+activescaffold;active_scaffold;closed;null;Wed Jan 25 07:11:03 BRST 2012;Wed Jan 25 08:02:17 BRST 2012;0;
+activescaffold;active_scaffold;closed;Steve Iannopollo;Wed Jan 25 00:10:15 BRST 2012;Mon Jan 30 10:33:34 BRST 2012;5;
+activescaffold;active_scaffold;closed;Craig Walker;Tue Jan 24 16:24:53 BRST 2012;Wed Jan 25 08:01:01 BRST 2012;0;
+activescaffold;active_scaffold;closed;null;Mon Jan 23 13:18:37 BRST 2012;Tue Jan 31 09:14:56 BRST 2012;7;
+activescaffold;active_scaffold;closed;Andrew Smith;Fri Jan 20 20:43:00 BRST 2012;Thu Mar 01 18:27:24 BRT 2012;40;
+activescaffold;active_scaffold;closed;Nick Rogers;Fri Jan 20 12:20:27 BRST 2012;Mon Jan 23 06:31:15 BRST 2012;2;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Fri Jan 20 12:09:17 BRST 2012;Mon Jan 23 14:52:23 BRST 2012;3;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Thu Jan 19 19:32:42 BRST 2012;Wed Jan 25 08:02:47 BRST 2012;5;
+activescaffold;active_scaffold;closed;Kevin Sylvestre;Tue Jan 10 20:59:57 BRST 2012;Wed Aug 29 17:02:29 BRT 2012;231;
+activescaffold;active_scaffold;open;Adam Spiers;Sun Jan 08 23:23:02 BRST 2012;null;1379;
+activescaffold;active_scaffold;closed;Adam Spiers;Sun Jan 08 17:32:23 BRST 2012;Mon Jan 09 07:41:28 BRST 2012;0;
+activescaffold;active_scaffold;open;Adam Spiers;Sun Jan 08 16:05:30 BRST 2012;null;1379;
+activescaffold;active_scaffold;closed;Adam Spiers;Sun Jan 08 11:06:56 BRST 2012;Mon Jan 28 19:07:24 BRST 2013;386;
+activescaffold;active_scaffold;closed;null;Fri Jan 06 22:30:30 BRST 2012;Mon Jan 16 06:48:54 BRST 2012;9;
+activescaffold;active_scaffold;closed;Kevin Whitaker;Fri Jan 06 18:29:41 BRST 2012;Fri Jan 06 19:00:41 BRST 2012;0;
+activescaffold;active_scaffold;closed;Jonas Bang Christensen;Wed Jan 04 11:01:56 BRST 2012;Mon Jan 09 07:01:29 BRST 2012;4;
+activescaffold;active_scaffold;closed;James Cook;Tue Dec 20 02:54:09 BRST 2011;Thu Dec 22 07:18:20 BRST 2011;2;
+activescaffold;active_scaffold;closed;Andrey Novikov;Sun Dec 18 09:48:59 BRST 2011;Mon Dec 19 07:07:31 BRST 2011;0;
+activescaffold;active_scaffold;closed;Erik Ordway;Fri Dec 09 21:24:49 BRST 2011;Tue Dec 13 16:41:05 BRST 2011;3;
+activescaffold;active_scaffold;closed;null;Fri Dec 09 13:18:24 BRST 2011;Tue Dec 13 08:56:12 BRST 2011;3;
+activescaffold;active_scaffold;closed;null;Wed Dec 07 08:26:40 BRST 2011;Mon Dec 12 07:38:14 BRST 2011;4;
+activescaffold;active_scaffold;closed;null;Wed Dec 07 08:02:38 BRST 2011;Wed Dec 07 08:17:17 BRST 2011;0;
+activescaffold;active_scaffold;closed;null;Tue Dec 06 14:20:58 BRST 2011;Mon Dec 19 07:52:10 BRST 2011;12;
+activescaffold;active_scaffold;closed;null;Mon Dec 05 14:49:02 BRST 2011;Wed Dec 07 08:04:44 BRST 2011;1;
+activescaffold;active_scaffold;open;Michael Richardson;Thu Dec 01 14:46:48 BRST 2011;null;1417;
+activescaffold;active_scaffold;closed;Rami Grossman;Wed Nov 30 07:36:49 BRST 2011;Wed Nov 30 08:18:48 BRST 2011;0;
+activescaffold;active_scaffold;closed;null;Mon Nov 28 11:58:43 BRST 2011;Mon Nov 28 12:17:19 BRST 2011;0;
+activescaffold;active_scaffold;closed;null;Fri Nov 25 19:03:54 BRST 2011;Mon Jul 02 09:43:28 BRT 2012;219;
+activescaffold;active_scaffold;closed;Karim Helal;Fri Nov 25 09:46:57 BRST 2011;Fri Nov 25 09:55:43 BRST 2011;0;
+activescaffold;active_scaffold;closed;Karim Helal;Tue Nov 22 16:19:29 BRST 2011;Wed Nov 23 09:18:16 BRST 2011;0;
+activescaffold;active_scaffold;closed;Karim Helal;Mon Nov 21 15:58:01 BRST 2011;Tue Nov 22 15:26:38 BRST 2011;0;
+activescaffold;active_scaffold;closed;Benjamin Atkin;Sun Nov 20 21:05:16 BRST 2011;Mon Nov 21 06:40:05 BRST 2011;0;
+activescaffold;active_scaffold;closed;Claas Abert;Sun Nov 20 10:55:28 BRST 2011;Wed Nov 23 06:37:48 BRST 2011;2;
+activescaffold;active_scaffold;closed;Jim James;Thu Nov 17 17:22:08 BRST 2011;Fri Nov 18 06:22:56 BRST 2011;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Wed Nov 16 13:07:33 BRST 2011;Wed Nov 16 14:51:47 BRST 2011;0;
+activescaffold;active_scaffold;closed;null;Fri Nov 11 20:35:27 BRST 2011;Mon Nov 14 07:24:54 BRST 2011;2;
+activescaffold;active_scaffold;closed;bitcoinerS;Wed Nov 09 00:19:22 BRST 2011;Mon Jul 02 09:44:29 BRT 2012;236;
+activescaffold;active_scaffold;closed;Karim Helal;Tue Nov 08 18:12:20 BRST 2011;Mon Nov 21 15:24:52 BRST 2011;12;
+activescaffold;active_scaffold;closed;Chris Gahan;Wed Nov 02 18:55:27 BRST 2011;Thu Feb 26 06:12:29 BRT 2015;1211;
+activescaffold;active_scaffold;closed;bitcoinerS;Mon Oct 31 16:05:05 BRST 2011;Tue Nov 08 06:38:50 BRST 2011;7;
+activescaffold;active_scaffold;closed;Karim Helal;Mon Oct 31 13:15:48 BRST 2011;Wed Nov 09 09:36:29 BRST 2011;8;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Thu Oct 27 12:17:55 BRST 2011;Thu Oct 27 13:48:18 BRST 2011;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Wed Oct 26 13:51:41 BRST 2011;Thu Oct 27 06:18:56 BRST 2011;0;
+activescaffold;active_scaffold;closed;Robb Shecter;Wed Oct 26 03:10:06 BRST 2011;Fri Nov 18 06:24:44 BRST 2011;23;
+activescaffold;active_scaffold;closed;Hans Masing;Thu Oct 13 14:26:59 BRT 2011;Thu Oct 20 09:26:27 BRST 2011;6;
+activescaffold;active_scaffold;closed;HereC;Wed Oct 12 17:49:54 BRT 2011;Wed Oct 19 12:06:29 BRST 2011;6;
+activescaffold;active_scaffold;closed;HereC;Wed Oct 12 17:45:08 BRT 2011;Wed Oct 19 12:07:42 BRST 2011;6;
+activescaffold;active_scaffold;closed;Jurek Prokop;Tue Oct 11 09:06:37 BRT 2011;Thu Oct 13 11:34:37 BRT 2011;2;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Sat Oct 08 18:15:36 BRT 2011;Wed Oct 19 11:55:42 BRST 2011;10;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Sun Oct 02 10:40:16 BRT 2011;Tue Oct 04 05:29:56 BRT 2011;1;
+activescaffold;active_scaffold;open;Claudius Nicolae;Sat Oct 01 14:20:45 BRT 2011;null;1478;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Sat Oct 01 13:04:35 BRT 2011;Wed Oct 19 11:58:16 BRST 2011;17;
+activescaffold;active_scaffold;closed;Andrea Tore;Fri Sep 30 12:36:30 BRT 2011;Tue Oct 04 06:16:25 BRT 2011;3;
+activescaffold;active_scaffold;closed;G. Montard;Thu Sep 29 18:28:21 BRT 2011;Fri Sep 30 04:45:16 BRT 2011;0;
+activescaffold;active_scaffold;closed;Claudius Nicolae;Thu Sep 29 08:11:40 BRT 2011;Thu Sep 29 09:41:00 BRT 2011;0;
+activescaffold;active_scaffold;closed;Jurek Prokop;Wed Sep 28 07:28:10 BRT 2011;Wed Sep 28 08:28:20 BRT 2011;0;
+activescaffold;active_scaffold;closed;Andrea Tore;Sun Sep 25 17:49:51 BRT 2011;Mon Sep 26 04:49:30 BRT 2011;0;
+activescaffold;active_scaffold;closed;Andrea Tore;Sun Sep 25 04:49:40 BRT 2011;Sun Sep 25 17:51:05 BRT 2011;0;
+activescaffold;active_scaffold;closed;Brian Miller;Sun Sep 25 04:14:00 BRT 2011;Mon Sep 26 04:47:49 BRT 2011;1;
+activescaffold;active_scaffold;closed;Brian Miller;Mon Sep 12 20:56:42 BRT 2011;Tue Sep 13 04:31:05 BRT 2011;0;
+activescaffold;active_scaffold;closed;Sergey Fedorov;Mon Sep 05 09:26:32 BRT 2011;Mon Sep 05 10:05:07 BRT 2011;0;
+activescaffold;active_scaffold;closed;null;Wed Aug 31 14:14:11 BRT 2011;Thu Sep 01 03:27:46 BRT 2011;0;
+activescaffold;active_scaffold;closed;Wes Gamble;Mon Aug 22 17:03:16 BRT 2011;Tue Aug 23 03:17:26 BRT 2011;0;
+activescaffold;active_scaffold;closed;null;Sun Aug 07 03:29:03 BRT 2011;Mon Aug 08 04:10:22 BRT 2011;1;
+activescaffold;active_scaffold;closed;KARASZI István;Mon Jun 27 12:59:25 BRT 2011;Mon Aug 08 04:20:04 BRT 2011;41;
+activescaffold;active_scaffold;closed;Waynn Lue;Thu Jun 02 04:37:10 BRT 2011;Thu Jun 02 05:10:20 BRT 2011;0;
+activescaffold;active_scaffold;closed;Alejandro León;Mon May 30 06:27:31 BRT 2011;Mon May 30 06:28:28 BRT 2011;0;
+activescaffold;active_scaffold;closed;Rob DiCiuccio;Thu Apr 28 15:53:01 BRT 2011;Fri Apr 29 04:43:37 BRT 2011;0;
+activescaffold;active_scaffold;closed;Ahmed;Thu Oct 14 06:51:37 BRT 2010;Thu Oct 14 12:37:37 BRT 2010;0;
+activescaffold;active_scaffold;closed;Adam Spiers;Sun Sep 26 08:25:55 BRT 2010;Tue Jun 28 04:17:56 BRT 2011;274;
+activescaffold;active_scaffold;closed;KARASZI István;Fri Sep 24 11:31:46 BRT 2010;Mon Sep 27 13:19:10 BRT 2010;3;
+activescaffold;active_scaffold;closed;C. Spencer Beggs;Thu Sep 17 13:23:44 BRT 2009;Fri Sep 18 04:10:20 BRT 2009;0;
+activescaffold;active_scaffold;closed;C. Spencer Beggs;Thu Sep 17 13:20:52 BRT 2009;Fri Sep 18 04:11:46 BRT 2009;0;
+activescaffold;active_scaffold;closed;C. Spencer Beggs;Thu Sep 17 13:17:19 BRT 2009;Fri Sep 18 04:15:43 BRT 2009;0;
+activescaffold;active_scaffold;closed;Bob Sleys;Thu Sep 03 09:50:39 BRT 2009;Thu Sep 03 11:31:42 BRT 2009;0;
+activescaffold;active_scaffold;closed;null;Tue Aug 25 09:19:45 BRT 2009;Wed Sep 28 06:09:01 BRT 2011;763;
+activescaffold;active_scaffold;closed;null;Sat Aug 22 01:02:02 BRT 2009;Wed Sep 28 06:09:18 BRT 2011;767;
+activescaffold;active_scaffold;closed;null;Mon Aug 17 02:19:24 BRT 2009;Tue Aug 18 06:14:34 BRT 2009;1;
+activescaffold;active_scaffold;closed;Gabriel Sobrinho;Wed Aug 12 21:35:07 BRT 2009;Thu Aug 13 05:39:15 BRT 2009;0;
+activescaffold;active_scaffold;closed;null;Sun Aug 09 22:55:28 BRT 2009;Mon Aug 10 06:35:17 BRT 2009;0;
+activescaffold;active_scaffold;closed;Jose Fernandez;Thu Aug 06 20:35:12 BRT 2009;Fri Sep 18 04:43:54 BRT 2009;42;
+activescaffold;active_scaffold;closed;C. Spencer Beggs;Wed Aug 05 17:55:32 BRT 2009;Thu Aug 06 06:55:40 BRT 2009;0;
+activescaffold;active_scaffold;closed;Andrey Voronkov;Sun Aug 02 15:01:39 BRT 2009;Wed Sep 28 06:09:45 BRT 2011;786;
+activescaffold;active_scaffold;closed;null;Fri Jul 31 21:41:12 BRT 2009;Sun Aug 02 16:28:43 BRT 2009;1;
+activescaffold;active_scaffold;closed;Nathan Zook;Wed Jul 29 21:06:55 BRT 2009;Thu Jul 30 12:21:04 BRT 2009;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Tue Jul 28 06:30:19 BRT 2009;Wed Sep 28 06:10:17 BRT 2011;791;
+activescaffold;active_scaffold;closed;Kieran Pilkington;Thu Jul 23 23:49:08 BRT 2009;Wed Sep 28 06:10:00 BRT 2011;796;
+activescaffold;active_scaffold;closed;Andrey Voronkov;Tue Jul 21 10:34:45 BRT 2009;Thu Jul 23 06:59:41 BRT 2009;1;
+activescaffold;active_scaffold;closed;Enrico Bianco;Fri Jul 17 15:27:01 BRT 2009;Thu Jul 23 12:55:49 BRT 2009;5;
+activescaffold;active_scaffold;closed;Sam Woodard;Tue Jul 14 15:04:09 BRT 2009;Wed Sep 28 06:08:46 BRT 2011;805;
+activescaffold;active_scaffold;closed;Andrew Williams;Fri Jul 10 03:47:12 BRT 2009;Thu Jul 23 07:07:25 BRT 2009;13;
+activescaffold;active_scaffold;closed;Enrico Bianco;Fri Jul 03 20:36:06 BRT 2009;Wed Sep 28 06:13:08 BRT 2011;816;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Fri Jul 03 14:18:55 BRT 2009;Thu Jul 23 07:26:38 BRT 2009;19;
+activescaffold;active_scaffold;closed;Andrey Voronkov;Fri Jul 03 07:42:20 BRT 2009;Thu Jul 23 07:03:48 BRT 2009;19;
+activescaffold;active_scaffold;closed;null;Wed Jul 01 02:46:30 BRT 2009;Wed Jul 01 05:43:12 BRT 2009;0;
+activescaffold;active_scaffold;closed;null;Mon Jun 29 03:30:55 BRT 2009;Wed Jul 01 05:38:28 BRT 2009;2;
+activescaffold;active_scaffold;closed;Kieran Pilkington;Sun Jun 28 21:15:58 BRT 2009;Wed Jul 01 04:24:49 BRT 2009;2;
+activescaffold;active_scaffold;closed;Andrey Voronkov;Sun Jun 28 06:37:45 BRT 2009;Wed Jul 01 04:23:35 BRT 2009;2;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Mon Jun 15 14:42:43 BRT 2009;Wed Sep 28 06:11:42 BRT 2011;834;
+activescaffold;active_scaffold;closed;Darien Kindlund;Mon Jun 15 04:19:59 BRT 2009;Mon Jun 15 04:47:48 BRT 2009;0;
+activescaffold;active_scaffold;closed;Nick Rogers;Thu Jun 11 20:23:42 BRT 2009;Wed Sep 28 06:13:25 BRT 2011;838;
+activescaffold;active_scaffold;closed;santosh k;Wed Jun 10 01:17:15 BRT 2009;Wed Sep 28 06:14:04 BRT 2011;840;
+activescaffold;active_scaffold;closed;Andrey Voronkov;Thu Jun 04 06:01:51 BRT 2009;Thu Jun 04 07:21:02 BRT 2009;0;
+activescaffold;active_scaffold;closed;Andrey Voronkov;Wed Jun 03 23:09:25 BRT 2009;Thu Jun 04 04:39:18 BRT 2009;0;
+activescaffold;active_scaffold;closed;Carl;Tue Jun 02 18:03:51 BRT 2009;Wed Jun 03 06:36:04 BRT 2009;0;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Tue Jun 02 11:36:28 BRT 2009;Fri Jun 05 17:15:36 BRT 2009;3;
+activescaffold;active_scaffold;closed;Andrey Korobkov;Tue Jun 02 11:16:33 BRT 2009;Wed Jun 03 05:06:01 BRT 2009;0;
+activescaffold;active_scaffold;closed;Carl;Sat May 30 15:44:48 BRT 2009;Mon Jun 01 19:16:59 BRT 2009;2;
+activescaffold;active_scaffold;closed;Tim Griffin;Thu May 28 17:10:12 BRT 2009;Fri May 29 03:55:53 BRT 2009;0;
+activescaffold;active_scaffold;closed;Kieran Pilkington;Tue May 26 19:11:24 BRT 2009;Wed Sep 28 06:12:17 BRT 2011;854;
+activescaffold;active_scaffold;closed;Darien Kindlund;Mon May 25 16:42:13 BRT 2009;Mon May 25 16:46:00 BRT 2009;0;
+activescaffold;active_scaffold;closed;null;Sun May 24 19:45:15 BRT 2009;Tue Jun 16 05:27:27 BRT 2009;22;
+activescaffold;active_scaffold;closed;santosh k;Fri May 22 10:26:48 BRT 2009;Wed Sep 28 06:12:47 BRT 2011;858;
+activescaffold;active_scaffold;closed;santosh k;Fri May 22 10:19:14 BRT 2009;Fri May 22 10:25:12 BRT 2009;0;
+activescaffold;active_scaffold;closed;Carl;Tue May 19 11:12:11 BRT 2009;Tue May 19 13:11:15 BRT 2009;0;
+activescaffold;active_scaffold;closed;Carl;Tue May 19 11:08:03 BRT 2009;Wed May 20 04:01:20 BRT 2009;0;
+activescaffold;active_scaffold;closed;Nathan Zook;Mon May 18 22:36:03 BRT 2009;Tue May 19 03:46:47 BRT 2009;0;
+activescaffold;active_scaffold;closed;Carl;Mon May 18 15:55:15 BRT 2009;Tue May 19 10:59:17 BRT 2009;0;
+activescaffold;active_scaffold;closed;Carl;Sat May 16 00:05:23 BRT 2009;Tue May 19 11:29:10 BRT 2009;3;
+activescaffold;active_scaffold;closed;Kieran Pilkington;Thu May 07 20:35:12 BRT 2009;Wed Sep 28 06:12:34 BRT 2011;873;
+activescaffold;active_scaffold;closed;Nathan Zook;Wed Apr 29 12:24:11 BRT 2009;Mon May 04 12:45:06 BRT 2009;5;
+activescaffold;active_scaffold;closed;null;Tue Apr 28 22:41:49 BRT 2009;Mon May 04 16:29:20 BRT 2009;5;
+activescaffold;active_scaffold;closed;null;Sun Apr 19 18:54:09 BRT 2009;Thu May 21 12:17:23 BRT 2009;31;
+
+haikuwebdev;aftimagr;closed;TJ Stankus;Wed Jun 10 23:00:58 BRT 2009;Wed Apr 29 16:48:30 BRT 2015;2148;
+
+
+activescaffold;active_scaffold_sortable;open;Mark McDonald;Sat Nov 15 13:32:49 BRST 2014;null;337;
+activescaffold;active_scaffold_sortable;closed;Schema Design;Sun Mar 23 13:03:09 BRT 2014;Mon Mar 24 00:12:04 BRT 2014;0;
+activescaffold;active_scaffold_sortable;open;Hernán Astudillo;Tue Nov 05 15:01:55 BRST 2013;null;712;
+activescaffold;active_scaffold_sortable;closed;Hernán Astudillo;Mon Mar 25 17:59:44 BRT 2013;Tue Sep 17 19:02:22 BRT 2013;176;
+activescaffold;active_scaffold_sortable;open;null;Tue Jun 19 10:32:45 BRT 2012;null;1217;
+activescaffold;active_scaffold_sortable;closed;Claas Abert;Sun Jan 22 15:43:54 BRST 2012;Mon Jan 23 06:50:28 BRST 2012;0;
+activescaffold;active_scaffold_sortable;closed;Adam Spiers;Thu Jan 12 13:41:31 BRST 2012;Mon Jan 16 10:43:01 BRST 2012;3;
+activescaffold;active_scaffold_sortable;open;Mark McDonald;Sun Dec 26 23:35:10 BRST 2010;null;1757;
+activescaffold;active_scaffold_sortable;closed;Antonio Bardazzi;Fri Oct 15 07:31:24 BRT 2010;Fri Oct 15 13:43:51 BRT 2010;0;
+
+
+
+
+
+
+
+
+granth;titleize;open;null;Wed May 13 03:17:46 BRT 2015;null;159;
+granth;titleize;closed;Jake Craige;Thu Oct 23 12:08:10 BRST 2014;Thu Oct 23 12:17:48 BRST 2014;0;
+granth;titleize;closed;Bryan Braun;Fri Jun 13 14:46:30 BRT 2014;Fri Jun 13 15:51:50 BRT 2014;0;
+granth;titleize;open;Connor Prussin;Thu Apr 17 01:01:00 BRT 2014;null;550;
+granth;titleize;open;Casey Stehlik;Wed Nov 06 02:35:49 BRST 2013;null;712;
+granth;titleize;closed;Aaron Kirley;Wed Mar 06 23:25:19 BRT 2013;Thu Mar 07 23:10:57 BRT 2013;0;
+granth;titleize;closed;Jayme Deffenbaugh;Thu Feb 21 04:03:24 BRT 2013;Thu Mar 07 22:20:34 BRT 2013;14;
+granth;titleize;closed;Jayme Deffenbaugh;Thu Feb 21 02:58:19 BRT 2013;Thu Feb 21 03:50:50 BRT 2013;0;
+granth;titleize;closed;Scott Pullen;Mon May 14 17:08:07 BRT 2012;Thu Mar 07 23:05:59 BRT 2013;297;
+granth;titleize;closed;Oliver Searle-Barnes;Fri Apr 15 07:12:28 BRT 2011;Fri Apr 22 13:09:11 BRT 2011;7;
+granth;titleize;closed;Sean Porter;Thu Jul 15 21:01:50 BRT 2010;Thu Jul 22 19:18:09 BRT 2010;6;
+
+
+vanntastic;ar_helper;open;null;Mon Oct 05 11:51:50 BRT 2015;null;14;
+
+
+
+
+
+tbueno;delicious-ext;closed;Austin Ziegler;Tue Oct 15 23:12:53 BRT 2013;Thu Oct 16 10:58:43 BRT 2014;365;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+luislavena;win32console;open;Michael Stahnke;Thu Jul 23 15:08:33 BRT 2015;null;87;
+luislavena;win32console;closed;null;Thu Jul 11 04:14:53 BRT 2013;Thu Jul 11 10:36:47 BRT 2013;0;
+luislavena;win32console;closed;Ken Barber;Thu May 10 11:59:20 BRT 2012;Thu May 10 14:09:51 BRT 2012;0;
+luislavena;win32console;closed;null;Mon Apr 30 10:58:18 BRT 2012;Mon Apr 30 14:33:07 BRT 2012;0;
+luislavena;win32console;closed;Oleg Sukhodolsky;Wed Apr 25 06:23:48 BRT 2012;Fri May 11 07:41:30 BRT 2012;16;
+luislavena;win32console;closed;Garry Shutler;Mon Apr 23 12:09:56 BRT 2012;Mon Apr 23 12:35:40 BRT 2012;0;
+luislavena;win32console;closed;Ken Barber;Tue Apr 10 07:29:30 BRT 2012;Sun Apr 15 20:23:31 BRT 2012;5;
+luislavena;win32console;open;John Mair;Wed Oct 12 23:32:24 BRT 2011;null;1467;
+luislavena;win32console;closed;null;Wed Mar 30 06:05:00 BRT 2011;Wed Mar 30 09:09:55 BRT 2011;0;
+luislavena;win32console;closed;Ar Vicco;Thu Oct 28 06:09:49 BRST 2010;Sat Dec 11 04:48:07 BRST 2010;43;
+luislavena;win32console;closed;Gordon Thiesfeld;Mon Oct 25 18:45:46 BRST 2010;Fri Dec 10 20:45:36 BRST 2010;46;
+luislavena;win32console;open;null;Wed Aug 25 14:48:33 BRT 2010;null;1880;
+luislavena;win32console;open;Roger Pack;Thu May 20 23:32:00 BRT 2010;null;1977;
+luislavena;win32console;closed;Philipp Kursawe;Wed Mar 03 07:17:01 BRT 2010;Wed Mar 03 07:36:57 BRT 2010;0;
+luislavena;win32console;closed;Charles Roper;Wed Feb 17 10:13:35 BRST 2010;Sun Mar 07 12:03:10 BRT 2010;18;
+luislavena;win32console;closed;Vít Ondruch;Tue Jan 12 18:28:33 BRST 2010;Fri Mar 12 05:33:56 BRT 2010;58;
+luislavena;win32console;closed;Jure Srsen;Fri Nov 27 15:24:27 BRST 2009;Fri Nov 27 15:29:58 BRST 2009;0;
+luislavena;win32console;closed;Jon;Sun Oct 11 17:06:46 BRT 2009;Tue Dec 29 20:47:07 BRST 2009;79;
+
+
+
+
+
+
+sebasmagri;portage;closed;neilwightman;Sun Nov 04 05:11:38 BRST 2012;Sun Nov 04 14:23:23 BRST 2012;0;
+
+
+
+
+
+
+
+
+
+
+death;webwatch;closed;Deleted user;Tue Jan 21 17:31:13 BRST 2014;Wed Jan 22 20:32:53 BRST 2014;1;
+
+
+
+
+
+
+
+
+
+
+
+
+timcharper;calendar_date_select_demo;open;Zak Nixon;Fri Mar 05 11:50:14 BRT 2010;null;2054;
+
+activescaffold;file_column;open;EBIHARA, Yuichiro;Wed Aug 04 03:42:51 BRT 2010;null;1902;
+
+kjk;web-arslexis;closed;Deleted user;Tue Jan 21 17:38:15 BRST 2014;Sat Jun 28 02:42:43 BRT 2014;157;
+
+activescaffold;active_scaffold_demo;closed;Arthur Lee;Tue Jun 15 14:03:36 BRT 2010;Wed Jun 16 13:53:09 BRT 2010;0;
+
+
+
+trondn;memcached;open;Steve Yen;Fri Jan 20 21:03:37 BRST 2012;null;1367;
+trondn;memcached;open;null;Wed Sep 21 11:27:34 BRT 2011;null;1489;
+trondn;memcached;open;Park JunHyun;Tue Jan 18 04:53:52 BRST 2011;null;1735;
+trondn;memcached;open;Steve Yen;Tue Sep 14 20:46:49 BRT 2010;null;1860;
+trondn;memcached;open;Steve Yen;Thu Sep 09 02:01:15 BRT 2010;null;1866;
+
+dustin;snippets;closed;Chad Kouse;Sun Jan 06 02:22:44 BRST 2013;Sun Jan 06 06:10:39 BRST 2013;0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pistos;m4dbi;closed;Benjamin Fleischer;Thu Aug 01 14:02:48 BRT 2013;Wed Aug 07 18:30:19 BRT 2013;6;
+Pistos;m4dbi;closed;Joshua Kifer;Sat Jan 30 01:40:12 BRST 2010;Mon Feb 01 20:13:39 BRST 2010;2;
+Pistos;m4dbi;closed;Joshua Kifer;Sat Jan 30 01:31:26 BRST 2010;Tue Feb 16 02:24:45 BRST 2010;17;
+Pistos;m4dbi;closed;Joshua Kifer;Fri Jan 29 06:46:23 BRST 2010;Sun Jan 31 01:28:18 BRST 2010;1;
+
+
+
+
+
+
+
+
+
+
+
+sproutit;sproutcore-samples;open;null;Mon Dec 24 09:52:39 BRST 2012;null;1029;
+sproutit;sproutcore-samples;open;Gabriel Reiser;Wed Mar 02 15:02:57 BRT 2011;null;1692;
+sproutit;sproutcore-samples;open;Peter Wagenet;Mon Sep 13 18:11:55 BRT 2010;null;1861;
+sproutit;sproutcore-samples;open;Chris Scott;Tue Apr 20 13:21:26 BRT 2010;null;2008;
+sproutit;sproutcore-samples;closed;Chris Scott;Tue Apr 20 13:15:47 BRT 2010;Tue Apr 20 13:29:56 BRT 2010;0;
+sproutit;sproutcore-samples;closed;Chris Scott;Tue Apr 20 13:04:07 BRT 2010;Tue Apr 20 13:29:47 BRT 2010;0;
+sproutit;sproutcore-samples;open;Chris Scott;Tue Apr 20 13:00:52 BRT 2010;null;2008;
+sproutit;sproutcore-samples;closed;Chris Scott;Tue Apr 20 12:57:49 BRT 2010;Tue Apr 20 13:29:05 BRT 2010;0;
+sproutit;sproutcore-samples;open;Chris Scott;Tue Apr 20 12:55:43 BRT 2010;null;2008;
+sproutit;sproutcore-samples;open;Vlad Filippov;Sat Mar 20 22:26:06 BRT 2010;null;2038;
+
+
+
+
+
+
+
+bterlson;reddit;open;Alexandre Croteau-Pothier;Thu Sep 11 21:10:34 BRT 2014;null;402;
+bterlson;reddit;closed;Mike Danko;Mon Jul 02 16:39:19 BRT 2012;Mon Jul 02 21:13:15 BRT 2012;0;
+bterlson;reddit;closed;David Fisher;Wed Dec 21 05:25:41 BRST 2011;Mon Jul 02 21:13:17 BRT 2012;194;
+bterlson;reddit;closed;Chetan Surpur;Sat Oct 22 10:39:27 BRST 2011;Sat Oct 22 15:54:05 BRST 2011;0;
+
+samuel;lua-quadtree;open;null;Sat Jun 06 10:55:29 BRT 2015;null;135;
+
+
+niklas;vimmate;open;Niklas H;Thu Aug 25 11:10:42 BRT 2011;null;1516;
+niklas;vimmate;open;Niklas H;Fri Jun 03 08:30:37 BRT 2011;null;1599;
+niklas;vimmate;open;Abhas Abhinav;Mon Mar 07 05:19:02 BRT 2011;null;1687;
+niklas;vimmate;open;Sundar Raman;Thu Dec 17 17:49:09 BRST 2009;null;2131;
+niklas;vimmate;open;Niklas H;Sat Nov 28 15:53:33 BRST 2009;null;2151;
+niklas;vimmate;open;Niklas H;Wed Nov 25 13:58:41 BRST 2009;null;2154;
+niklas;vimmate;closed;Rafael A. Salazar;Thu Nov 12 14:11:50 BRST 2009;Sat Nov 14 16:50:06 BRST 2009;2;
+
+vicaya;hypertable;open;Mike Lockhart;Tue Jun 17 15:18:23 BRT 2014;null;489;
+
+
+
+
+
+
+
+bjeanes;tv-renamer;closed;Matt Polito;Sun Apr 08 09:46:24 BRT 2012;Sun Apr 08 11:54:56 BRT 2012;0;
+bjeanes;tv-renamer;closed;Greg Schoen;Sun Jan 15 19:07:45 BRST 2012;Mon Jan 16 02:25:48 BRST 2012;0;
+bjeanes;tv-renamer;closed;Greg Schoen;Sun Jan 15 18:11:26 BRST 2012;Sun Jan 15 18:41:32 BRST 2012;0;
+bjeanes;tv-renamer;closed;Mark Gandolfo;Sun Feb 07 21:05:41 BRST 2010;Sun May 04 05:44:23 BRT 2014;1546;
+
+sjlombardo;acts_as_network;open;null;Thu Jun 16 17:12:03 BRT 2011;null;1585;
+sjlombardo;acts_as_network;closed;null;Thu Jun 16 16:55:14 BRT 2011;Thu Jun 16 19:27:15 BRT 2011;0;
+sjlombardo;acts_as_network;closed;null;Fri Mar 18 13:19:43 BRT 2011;Mon Mar 21 18:07:04 BRT 2011;3;
+
+
+
+suratpyari;blogging_app;open;Deleted user;Tue Jan 21 17:39:10 BRST 2014;null;635;
+
+
+
+
+
+
+
+
+
+
+
+nuggetwheat;hypertable;closed;Stanislav Yudin;Tue Jan 18 12:49:14 BRST 2011;Fri Jan 21 18:03:38 BRST 2011;3;
+
+Spakman;jobby;closed;Mark Somerville;Mon Mar 29 21:19:33 BRT 2010;Tue May 04 07:22:55 BRT 2010;35;
+Spakman;jobby;open;Mark Somerville;Sun Mar 28 14:46:45 BRT 2010;null;2031;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xlymian;git;open;null;Fri Jan 25 23:28:29 BRST 2013;null;996;
+
+
+
+
+
+
+
+
+
+
+
+
+
+evanfarrar;opensprints;open;Charlie Whitney;Mon Sep 15 13:22:53 BRT 2014;null;399;
+evanfarrar;opensprints;open;Morgan 'ARR!' Allen;Thu Aug 05 09:49:24 BRT 2010;null;1901;
+evanfarrar;opensprints;open;Luke Orland;Sat Oct 17 13:48:24 BRT 2009;null;2193;
+evanfarrar;opensprints;open;null;Tue Sep 22 01:05:24 BRT 2009;null;2218;
+evanfarrar;opensprints;open;null;Tue Sep 22 00:12:48 BRT 2009;null;2218;
+evanfarrar;opensprints;open;null;Tue Sep 22 00:00:17 BRT 2009;null;2218;
+evanfarrar;opensprints;open;null;Mon Sep 21 23:47:11 BRT 2009;null;2218;
+evanfarrar;opensprints;open;null;Mon Sep 21 23:41:16 BRT 2009;null;2218;
+evanfarrar;opensprints;open;null;Mon Sep 21 23:30:10 BRT 2009;null;2218;
+evanfarrar;opensprints;closed;Jonathan Morrison;Sun Sep 20 04:49:37 BRT 2009;Tue Sep 22 02:00:14 BRT 2009;1;
+evanfarrar;opensprints;closed;null;Sun Sep 20 02:31:41 BRT 2009;Mon Sep 21 00:38:39 BRT 2009;0;
+evanfarrar;opensprints;closed;null;Sun Sep 20 02:29:27 BRT 2009;Mon Sep 21 18:58:28 BRT 2009;1;
+evanfarrar;opensprints;closed;null;Sun Sep 20 02:26:36 BRT 2009;Tue Sep 22 01:58:13 BRT 2009;1;
+evanfarrar;opensprints;closed;null;Sun Sep 20 02:25:59 BRT 2009;Sun Sep 20 04:45:45 BRT 2009;0;
+evanfarrar;opensprints;closed;null;Sun Sep 20 02:24:08 BRT 2009;Mon Sep 21 00:42:12 BRT 2009;0;
+evanfarrar;opensprints;closed;null;Sun Sep 20 02:23:18 BRT 2009;Sun Sep 20 03:04:25 BRT 2009;0;
+evanfarrar;opensprints;closed;null;Sun Sep 20 02:20:24 BRT 2009;Sun Sep 20 03:04:37 BRT 2009;0;
+evanfarrar;opensprints;closed;null;Sun Sep 20 02:18:51 BRT 2009;Mon Sep 21 18:34:17 BRT 2009;1;
+evanfarrar;opensprints;closed;null;Sun Sep 20 02:16:43 BRT 2009;Sun Sep 20 23:00:34 BRT 2009;0;
+evanfarrar;opensprints;closed;null;Sun Sep 20 02:13:45 BRT 2009;Mon Sep 21 00:40:32 BRT 2009;0;
+evanfarrar;opensprints;closed;null;Sun Sep 20 02:12:40 BRT 2009;Sun Sep 20 22:57:34 BRT 2009;0;
+evanfarrar;opensprints;closed;null;Sun Sep 20 02:10:32 BRT 2009;Mon Sep 21 00:40:09 BRT 2009;0;
+evanfarrar;opensprints;open;null;Sun Sep 20 02:08:05 BRT 2009;null;2220;
+evanfarrar;opensprints;closed;null;Sun Sep 20 02:05:50 BRT 2009;Mon Sep 21 12:11:09 BRT 2009;1;
+evanfarrar;opensprints;closed;null;Sun Sep 20 02:00:48 BRT 2009;Sun Sep 20 02:08:17 BRT 2009;0;
+evanfarrar;opensprints;open;null;Sun Sep 20 01:57:34 BRT 2009;null;2220;
+evanfarrar;opensprints;closed;null;Sun Sep 20 01:53:27 BRT 2009;Mon Sep 21 02:04:34 BRT 2009;1;
+evanfarrar;opensprints;open;null;Sun Sep 20 01:51:24 BRT 2009;null;2220;
+evanfarrar;opensprints;closed;null;Sun Sep 20 01:46:15 BRT 2009;Sun Sep 20 02:56:36 BRT 2009;0;
+evanfarrar;opensprints;open;null;Sun Sep 20 01:44:35 BRT 2009;null;2220;
+evanfarrar;opensprints;closed;null;Sun Sep 20 01:43:11 BRT 2009;Mon Sep 21 18:36:30 BRT 2009;1;
+evanfarrar;opensprints;open;null;Sun Sep 20 01:41:07 BRT 2009;null;2220;
+evanfarrar;opensprints;open;null;Sun Sep 20 01:36:53 BRT 2009;null;2220;
+evanfarrar;opensprints;closed;null;Sun Sep 20 01:35:51 BRT 2009;Mon Sep 21 00:32:41 BRT 2009;0;
+evanfarrar;opensprints;closed;null;Sun Sep 20 01:32:54 BRT 2009;Sun Sep 20 03:08:07 BRT 2009;0;
+evanfarrar;opensprints;closed;Jonathan Morrison;Sun Sep 20 01:14:02 BRT 2009;Sun Sep 20 22:04:23 BRT 2009;0;
+evanfarrar;opensprints;closed;Jonathan Morrison;Sun Sep 20 00:19:06 BRT 2009;Sun Sep 20 03:04:58 BRT 2009;0;
+evanfarrar;opensprints;closed;Jonathan Morrison;Sun Sep 20 00:09:43 BRT 2009;Sun Sep 20 03:05:19 BRT 2009;0;
+evanfarrar;opensprints;closed;Jonathan Morrison;Sun Sep 20 00:03:14 BRT 2009;Sun Sep 20 03:05:10 BRT 2009;0;
+evanfarrar;opensprints;closed;Jonathan Morrison;Sat Sep 19 23:54:36 BRT 2009;Sun Sep 20 22:04:47 BRT 2009;0;
+evanfarrar;opensprints;open;Jonathan Morrison;Sat Sep 19 23:46:27 BRT 2009;null;2220;
+evanfarrar;opensprints;open;Jonathan Morrison;Sat Sep 19 23:00:19 BRT 2009;null;2220;
+evanfarrar;opensprints;closed;Jonathan Morrison;Sat Sep 19 22:59:08 BRT 2009;Mon Sep 21 02:02:54 BRT 2009;1;
+evanfarrar;opensprints;open;Jonathan Morrison;Sat Sep 19 22:29:56 BRT 2009;null;2220;
+evanfarrar;opensprints;open;Jonathan Morrison;Sat Sep 19 22:11:12 BRT 2009;null;2220;
+evanfarrar;opensprints;open;Jonathan Morrison;Sat Sep 19 22:04:23 BRT 2009;null;2220;
+evanfarrar;opensprints;open;Jonathan Morrison;Sat Sep 19 22:00:53 BRT 2009;null;2220;
+evanfarrar;opensprints;closed;Jonathan Morrison;Sat Sep 19 21:55:29 BRT 2009;Sun Sep 20 22:54:19 BRT 2009;1;
+evanfarrar;opensprints;open;Jonathan Morrison;Sat Sep 19 21:53:15 BRT 2009;null;2220;
+evanfarrar;opensprints;closed;Jonathan Morrison;Sat Sep 19 21:49:47 BRT 2009;Wed Sep 23 05:03:17 BRT 2009;3;
+evanfarrar;opensprints;closed;Jonathan Morrison;Sat Sep 19 21:47:26 BRT 2009;Mon Sep 21 00:40:44 BRT 2009;1;
+evanfarrar;opensprints;closed;Jonathan Morrison;Sat Sep 19 19:44:52 BRT 2009;Sun Sep 20 01:52:24 BRT 2009;0;
+evanfarrar;opensprints;closed;Jonathan Morrison;Sat Sep 19 19:42:46 BRT 2009;Mon Sep 21 18:44:56 BRT 2009;1;
+evanfarrar;opensprints;open;Jonathan Morrison;Sat Sep 19 18:51:44 BRT 2009;null;2220;
+evanfarrar;opensprints;closed;Jonathan Morrison;Sat Sep 19 18:31:08 BRT 2009;Mon Sep 21 19:13:30 BRT 2009;2;
+evanfarrar;opensprints;open;Jonathan Morrison;Sat Sep 19 18:25:19 BRT 2009;null;2220;
+evanfarrar;opensprints;open;Jonathan Morrison;Sat Sep 19 18:23:18 BRT 2009;null;2220;
+evanfarrar;opensprints;open;Jonathan Morrison;Sat Sep 19 18:08:05 BRT 2009;null;2221;
+evanfarrar;opensprints;open;Jonathan Morrison;Sat Sep 19 18:04:59 BRT 2009;null;2221;
+evanfarrar;opensprints;closed;Jonathan Morrison;Sat Sep 19 18:02:53 BRT 2009;Mon Sep 21 19:37:20 BRT 2009;2;
+evanfarrar;opensprints;closed;Jonathan Morrison;Sat Sep 19 17:55:05 BRT 2009;Mon Sep 21 02:01:07 BRT 2009;1;
+evanfarrar;opensprints;closed;Jonathan Morrison;Sat Sep 19 17:47:05 BRT 2009;Sun Sep 20 01:09:23 BRT 2009;0;
+evanfarrar;opensprints;closed;Jonathan Morrison;Fri Sep 18 23:25:59 BRT 2009;Sat Sep 19 19:06:16 BRT 2009;0;
+evanfarrar;opensprints;closed;Jonathan Morrison;Fri Sep 18 23:24:24 BRT 2009;Sat Sep 19 23:27:30 BRT 2009;1;
+evanfarrar;opensprints;closed;Jonathan Morrison;Fri Sep 18 23:20:18 BRT 2009;Sat Sep 19 22:31:45 BRT 2009;0;
+evanfarrar;opensprints;closed;Jonathan Morrison;Fri Sep 18 18:31:49 BRT 2009;Fri Sep 18 21:30:11 BRT 2009;0;
+evanfarrar;opensprints;open;Jonathan Morrison;Fri Sep 18 18:26:59 BRT 2009;null;2221;
+evanfarrar;opensprints;closed;Jonathan Morrison;Fri Sep 18 18:24:51 BRT 2009;Mon Sep 21 19:38:32 BRT 2009;3;
+evanfarrar;opensprints;open;Jonathan Morrison;Fri Sep 18 18:05:17 BRT 2009;null;2222;
+evanfarrar;opensprints;closed;Jonathan Morrison;Fri Sep 18 18:03:53 BRT 2009;Fri Sep 18 18:58:23 BRT 2009;0;
+evanfarrar;opensprints;open;Jonathan Morrison;Fri Sep 18 18:01:30 BRT 2009;null;2222;
+evanfarrar;opensprints;closed;Jonathan Morrison;Fri Sep 18 18:00:57 BRT 2009;Fri Sep 18 18:57:52 BRT 2009;0;
+evanfarrar;opensprints;closed;Jonathan Morrison;Fri Sep 18 17:59:17 BRT 2009;Fri Sep 18 19:00:35 BRT 2009;0;
+evanfarrar;opensprints;closed;Jonathan Morrison;Fri Sep 18 17:56:33 BRT 2009;Fri Sep 18 18:59:21 BRT 2009;0;
+evanfarrar;opensprints;open;Jonathan Morrison;Fri Sep 18 17:38:15 BRT 2009;null;2222;
+evanfarrar;opensprints;closed;Jonathan Morrison;Fri Sep 18 17:34:51 BRT 2009;Fri Sep 18 17:45:32 BRT 2009;0;
+evanfarrar;opensprints;open;Jonathan Morrison;Thu Sep 17 02:03:14 BRT 2009;null;2223;
+evanfarrar;opensprints;closed;Jonathan Morrison;Thu Sep 17 02:01:13 BRT 2009;Thu Sep 17 20:28:09 BRT 2009;0;
+evanfarrar;opensprints;open;Jonathan Morrison;Thu Sep 17 01:57:32 BRT 2009;null;2223;
+evanfarrar;opensprints;closed;Jonathan Morrison;Thu Sep 17 01:56:18 BRT 2009;Fri Sep 18 19:05:21 BRT 2009;1;
+evanfarrar;opensprints;open;Jonathan Morrison;Thu Sep 17 01:52:23 BRT 2009;null;2223;
+evanfarrar;opensprints;open;Jonathan Morrison;Thu Sep 17 01:51:22 BRT 2009;null;2223;
+evanfarrar;opensprints;closed;Jonathan Morrison;Thu Sep 17 01:50:55 BRT 2009;Fri Sep 18 20:58:55 BRT 2009;1;
+evanfarrar;opensprints;closed;Jonathan Morrison;Thu Sep 17 01:48:15 BRT 2009;Thu Sep 17 18:03:57 BRT 2009;0;
+evanfarrar;opensprints;closed;Jonathan Morrison;Thu Sep 17 01:46:05 BRT 2009;Sat Sep 19 22:35:48 BRT 2009;2;
+evanfarrar;opensprints;closed;Jonathan Morrison;Thu Sep 17 01:44:41 BRT 2009;Thu Sep 17 18:00:50 BRT 2009;0;
+evanfarrar;opensprints;open;Jonathan Morrison;Thu Sep 17 01:42:42 BRT 2009;null;2223;
+evanfarrar;opensprints;open;Jonathan Morrison;Thu Sep 17 01:37:34 BRT 2009;null;2223;
+
+
+
+
+
+
+
+
+
+gslin;albumexpander;closed;Grey Lee;Fri Mar 02 13:32:14 BRT 2012;Sun Mar 04 20:15:10 BRT 2012;2;
+
+
+jnicklas;templater;closed;pedro mg;Thu Dec 12 01:20:49 BRST 2013;Fri Dec 13 00:07:11 BRST 2013;0;
+jnicklas;templater;open;Jacob Atkins;Sun May 22 12:08:04 BRT 2011;null;1611;
+jnicklas;templater;open;Nicos Gollan;Mon Apr 25 10:51:46 BRT 2011;null;1638;
+jnicklas;templater;open;jonah honeyman;Wed Mar 09 07:46:08 BRT 2011;null;1685;
+jnicklas;templater;open;Thomas Reynolds;Thu Oct 01 20:23:07 BRT 2009;null;2208;
+jnicklas;templater;closed;Scott Langley;Tue May 19 15:59:26 BRT 2009;Wed May 20 13:02:27 BRT 2009;0;
+jnicklas;templater;closed;Michael Barton;Wed May 13 16:48:47 BRT 2009;Thu May 14 07:26:09 BRT 2009;0;
+
+djcp;radiant-fckeditor;open;null;Tue Jan 10 07:50:45 BRST 2012;null;1378;
+djcp;radiant-fckeditor;open;Gun.io Robot;Thu Oct 27 08:29:28 BRST 2011;null;1453;
+djcp;radiant-fckeditor;open;Mathijs Koenraadt;Tue Jan 19 14:24:48 BRST 2010;null;2099;
+djcp;radiant-fckeditor;open;Deleted user;Tue Sep 29 12:44:25 BRT 2009;null;2211;
+djcp;radiant-fckeditor;open;null;Tue Jun 30 21:20:30 BRT 2009;null;2301;
+
+francois;clitt;open;Riley Guerin;Sun Jul 15 20:28:52 BRT 2012;null;1190;
+
+
+samsouder;titlecase;open;Omer Lachish-Rauchwerger;Wed Nov 14 06:10:24 BRST 2012;null;1069;
+samsouder;titlecase;closed;Charles Roper;Wed Jan 11 12:43:16 BRST 2012;Wed Jan 11 13:27:17 BRST 2012;0;
+samsouder;titlecase;open;Laust Rud Jacobsen;Fri Dec 10 08:14:41 BRST 2010;null;1774;
+
+
+walf443;rack-auth-ip;closed;Marc Roberts;Thu Oct 25 09:30:44 BRST 2012;Thu Oct 25 21:01:17 BRST 2012;0;
+walf443;rack-auth-ip;closed;null;Tue Oct 23 06:52:31 BRST 2012;Tue Oct 23 19:56:44 BRST 2012;0;
+walf443;rack-auth-ip;closed;Marc Roberts;Thu Oct 18 13:21:27 BRT 2012;Sun Oct 21 12:17:42 BRST 2012;2;
+
+planetbeing;iphonelinux;open;Kira;Sun Sep 07 18:54:35 BRT 2014;null;406;
+planetbeing;iphonelinux;open;Sanketh Mopuru;Mon Jul 22 02:55:44 BRT 2013;null;819;
+planetbeing;iphonelinux;closed;null;Mon Sep 24 00:30:44 BRT 2012;Fri Feb 08 02:43:06 BRST 2013;137;
+planetbeing;iphonelinux;open;Nathan Broadbent;Fri Oct 15 05:33:50 BRT 2010;null;1830;
+planetbeing;iphonelinux;open;Stavros Korokithakis;Mon May 24 13:21:21 BRT 2010;null;1974;
+planetbeing;iphonelinux;closed;Simone Margaritelli;Thu May 20 23:44:56 BRT 2010;Fri May 21 00:33:07 BRT 2010;0;
+planetbeing;iphonelinux;open;null;Thu May 13 13:55:51 BRT 2010;null;1985;
+planetbeing;iphonelinux;closed;Joe Larson;Sun May 09 17:15:13 BRT 2010;Sun May 09 17:58:47 BRT 2010;0;
+planetbeing;iphonelinux;closed;Jan Grewe;Sat May 08 08:22:50 BRT 2010;Sat May 08 09:05:04 BRT 2010;0;
+planetbeing;iphonelinux;open;Zeno R.R. Davatz;Thu Apr 29 12:20:00 BRT 2010;null;1999;
+planetbeing;iphonelinux;open;Christian Ziegenrücker;Thu Apr 29 03:36:18 BRT 2010;null;1999;
+planetbeing;iphonelinux;open;Zeno R.R. Davatz;Mon Apr 26 10:55:43 BRT 2010;null;2002;
+planetbeing;iphonelinux;open;null;Sun Apr 25 12:41:53 BRT 2010;null;2003;
+planetbeing;iphonelinux;open;Eric;Sat Apr 24 01:34:08 BRT 2010;null;2004;
+planetbeing;iphonelinux;closed;Furious Scissors;Thu Apr 22 02:23:26 BRT 2010;Tue Apr 27 07:25:58 BRT 2010;5;
+planetbeing;iphonelinux;closed;null;Sun Mar 28 14:12:43 BRT 2010;Mon Apr 05 06:30:48 BRT 2010;7;
+planetbeing;iphonelinux;closed;null;Fri Mar 26 17:00:56 BRT 2010;Sat Mar 27 16:41:33 BRT 2010;0;
+
+grosser;acts_as_searchable;closed;Philippe Vaucher;Mon Apr 23 11:27:29 BRT 2012;Mon Apr 23 11:27:54 BRT 2012;0;
+
+
+
+
+
+tslocke;rubydoctest;closed;Go Sueyoshi;Sun Nov 30 05:47:07 BRST 2014;Wed Dec 31 05:10:10 BRST 2014;30;
+tslocke;rubydoctest;open;Jakukyo Friel;Wed Nov 26 06:18:05 BRST 2014;null;327;
+tslocke;rubydoctest;open;Jakukyo Friel;Wed Nov 26 05:40:10 BRST 2014;null;327;
+tslocke;rubydoctest;open;Jakukyo Friel;Wed Nov 05 08:45:11 BRST 2014;null;348;
+tslocke;rubydoctest;open;Travis VanDusseldorp;Thu Oct 30 03:41:19 BRST 2014;null;354;
+tslocke;rubydoctest;open;Yuji Yamamoto;Sat Sep 06 21:11:17 BRT 2014;null;407;
+tslocke;rubydoctest;closed;Taylor Fausak;Wed Aug 20 11:25:34 BRT 2014;Fri Sep 11 10:28:29 BRT 2015;386;
+tslocke;rubydoctest;closed;Taylor Fausak;Wed Aug 20 11:08:46 BRT 2014;Fri Sep 11 10:28:40 BRT 2015;386;
+tslocke;rubydoctest;closed;Victor Goff;Sat Jan 25 17:20:13 BRST 2014;Sun Jan 26 00:53:51 BRST 2014;0;
+tslocke;rubydoctest;open;Alan Justino da Silva;Tue May 29 19:47:12 BRT 2012;null;1237;
+tslocke;rubydoctest;closed;Alan Justino da Silva;Tue May 29 19:22:01 BRT 2012;Tue May 29 19:23:29 BRT 2012;0;
+tslocke;rubydoctest;closed;Alan Justino da Silva;Fri May 25 18:14:17 BRT 2012;Fri May 25 18:31:56 BRT 2012;0;
+tslocke;rubydoctest;open;No GUI;Fri Oct 07 16:49:21 BRT 2011;null;1473;
+tslocke;rubydoctest;open;Roger Pack;Thu Sep 01 17:39:06 BRT 2011;null;1509;
+tslocke;rubydoctest;closed;Da;Wed Jul 06 18:05:07 BRT 2011;Mon Jul 11 21:04:31 BRT 2011;5;
+tslocke;rubydoctest;open;Matthew Lyon;Thu Jan 07 03:56:22 BRST 2010;null;2111;
+
+vanto;trac-cc;open;Ryan J Ollos;Thu Feb 19 23:24:13 BRST 2015;null;241;
+
+
+death;reddit-mode;closed;Jonas Bernoulli;Fri Dec 07 13:42:50 BRST 2012;Sat Dec 08 06:05:04 BRST 2012;0;
+death;reddit-mode;closed;Jonas Bernoulli;Wed Dec 05 19:18:04 BRST 2012;Mon Dec 10 19:19:25 BRST 2012;5;
+death;reddit-mode;closed;Jonas Bernoulli;Wed Aug 29 20:38:54 BRT 2012;Tue Dec 04 23:14:31 BRST 2012;97;
+death;reddit-mode;open;Simon Pratt;Tue Jul 12 15:54:52 BRT 2011;null;1560;
+
+
+
+apeiros;breezeforms;open;Aria Stewart;Thu Dec 23 03:09:19 BRST 2010;null;1761;
+
+mislav;standardista;open;Jeffrey Jones;Wed Feb 16 05:53:24 BRST 2011;null;1706;
+mislav;standardista;closed;Louise Crow;Mon Feb 14 16:10:17 BRST 2011;Mon Feb 14 20:07:59 BRST 2011;0;
+
+
+
+
+
+
+
+
+lukebayes;project-sprouts;open;null;Sun Oct 27 05:41:43 BRST 2013;null;722;
+lukebayes;project-sprouts;open;Gun.io Robot;Sun Oct 30 09:54:28 BRST 2011;null;1450;
+lukebayes;project-sprouts;open;Chad Remesch;Sun Jul 24 11:25:36 BRT 2011;null;1548;
+lukebayes;project-sprouts;open;Luke Bayes;Fri Jul 22 15:14:55 BRT 2011;null;1550;
+lukebayes;project-sprouts;closed;Alan Pinstein;Fri Jul 08 23:30:30 BRT 2011;Sat Jul 09 15:49:46 BRT 2011;0;
+lukebayes;project-sprouts;closed;Dmitry Zinovyev;Fri Dec 17 14:23:32 BRST 2010;Wed Jan 26 15:16:21 BRST 2011;40;
+lukebayes;project-sprouts;closed;Michael Delaney;Thu Nov 25 05:46:24 BRST 2010;Wed Jan 26 15:15:55 BRST 2011;62;
+lukebayes;project-sprouts;closed;Alan Pinstein;Wed Nov 17 21:14:47 BRST 2010;Tue Nov 30 00:00:33 BRST 2010;12;
+lukebayes;project-sprouts;closed;Alan Pinstein;Wed Oct 13 01:45:20 BRT 2010;Wed Jan 26 15:15:37 BRST 2011;105;
+lukebayes;project-sprouts;closed;Robert Peters;Fri Oct 01 17:11:10 BRT 2010;Sat Nov 13 00:12:59 BRST 2010;42;
+lukebayes;project-sprouts;closed;Nikita Dudnik;Tue Sep 21 10:19:10 BRT 2010;Wed Jan 26 15:15:20 BRST 2011;127;
+lukebayes;project-sprouts;closed;Ben Mills;Tue Sep 14 16:01:09 BRT 2010;Wed Oct 13 22:31:57 BRT 2010;29;
+lukebayes;project-sprouts;closed;null;Mon Jul 12 01:14:38 BRT 2010;Wed Jan 26 15:14:36 BRST 2011;198;
+lukebayes;project-sprouts;closed;null;Sun Jul 11 15:50:07 BRT 2010;Wed Jan 26 15:14:02 BRST 2011;198;
+lukebayes;project-sprouts;closed;null;Mon Jun 21 23:47:27 BRT 2010;Wed Jan 26 15:13:13 BRST 2011;218;
+lukebayes;project-sprouts;closed;Akshay Gupta;Tue Jun 15 05:17:04 BRT 2010;Wed Jan 26 15:13:00 BRST 2011;225;
+lukebayes;project-sprouts;closed;Stefan;Sun May 09 19:03:39 BRT 2010;Wed Jan 26 15:12:44 BRST 2011;261;
+lukebayes;project-sprouts;closed;Mike Pearson;Wed May 05 17:57:43 BRT 2010;Wed Jan 26 15:12:27 BRST 2011;265;
+lukebayes;project-sprouts;closed;Ben Mills;Thu Apr 01 15:55:40 BRT 2010;Thu Apr 01 21:06:39 BRT 2010;0;
+lukebayes;project-sprouts;closed;Peter Chanthamynavong;Thu Mar 25 04:33:45 BRT 2010;Wed Jan 26 15:12:01 BRST 2011;307;
+lukebayes;project-sprouts;closed;Peter Chanthamynavong;Tue Mar 23 08:18:31 BRT 2010;Wed Jan 26 15:11:28 BRST 2011;309;
+lukebayes;project-sprouts;closed;null;Sat Feb 20 08:13:47 BRST 2010;Wed Jan 26 15:08:53 BRST 2011;340;
+lukebayes;project-sprouts;closed;Luke Bayes;Tue Feb 16 01:33:32 BRST 2010;Tue Feb 16 05:20:02 BRST 2010;0;
+lukebayes;project-sprouts;closed;Deleted user;Mon Feb 01 07:38:31 BRST 2010;Wed Jan 26 23:08:08 BRST 2011;359;
+lukebayes;project-sprouts;closed;Rodrigo Benenson;Thu Jan 28 07:08:43 BRST 2010;Wed Jan 26 15:07:27 BRST 2011;363;
+lukebayes;project-sprouts;closed;Rodrigo Benenson;Thu Jan 28 06:32:59 BRST 2010;Thu Jan 28 15:16:45 BRST 2010;0;
+lukebayes;project-sprouts;closed;null;Thu Dec 17 04:44:35 BRST 2009;Wed Jan 26 15:06:05 BRST 2011;405;
+lukebayes;project-sprouts;closed;null;Thu Dec 17 03:53:37 BRST 2009;Wed Jan 26 15:04:08 BRST 2011;405;
+lukebayes;project-sprouts;closed;null;Wed Dec 16 19:00:06 BRST 2009;Thu Mar 04 15:14:21 BRT 2010;77;
+lukebayes;project-sprouts;closed;Zachery Hostens;Sun Dec 06 19:49:07 BRST 2009;Wed Jan 26 15:03:31 BRST 2011;415;
+lukebayes;project-sprouts;closed;Luke Bayes;Tue Oct 20 16:00:52 BRST 2009;Wed Jan 26 14:48:57 BRST 2011;462;
+lukebayes;project-sprouts;closed;Wout;Thu Oct 15 17:45:01 BRT 2009;Wed Jan 26 22:33:47 BRST 2011;468;
+lukebayes;project-sprouts;closed;Nikita Dudnik;Sat Oct 03 09:34:26 BRT 2009;Fri Oct 30 02:44:31 BRST 2009;26;
+lukebayes;project-sprouts;closed;Nikita Dudnik;Sat Oct 03 09:28:25 BRT 2009;Fri Oct 30 02:43:21 BRST 2009;26;
+lukebayes;project-sprouts;closed;Nikita Dudnik;Sat Oct 03 09:26:28 BRT 2009;Fri Oct 30 02:35:01 BRST 2009;26;
+lukebayes;project-sprouts;closed;Clifford Heath;Fri Oct 02 05:04:01 BRT 2009;Fri Oct 02 14:02:48 BRT 2009;0;
+lukebayes;project-sprouts;closed;Jan K;Fri Sep 25 13:35:38 BRT 2009;Fri Oct 30 02:43:57 BRST 2009;34;
+lukebayes;project-sprouts;closed;Lance Pollard;Tue Sep 22 03:11:45 BRT 2009;Wed Jan 26 15:02:27 BRST 2011;491;
+lukebayes;project-sprouts;closed;Lance Pollard;Mon Sep 21 20:45:35 BRT 2009;Fri Oct 30 02:47:08 BRST 2009;38;
+lukebayes;project-sprouts;closed;Lance Pollard;Mon Sep 21 19:07:57 BRT 2009;Wed Jan 26 15:02:05 BRST 2011;491;
+lukebayes;project-sprouts;closed;Lance Pollard;Mon Sep 21 18:13:49 BRT 2009;Wed Jan 26 15:00:46 BRST 2011;491;
+lukebayes;project-sprouts;closed;Lance Pollard;Mon Sep 21 02:56:53 BRT 2009;Wed Jan 26 14:37:00 BRST 2011;492;
+lukebayes;project-sprouts;closed;Lance Pollard;Sun Sep 20 18:09:32 BRT 2009;Sun Sep 20 18:29:53 BRT 2009;0;
+lukebayes;project-sprouts;closed;Ali Mills;Thu Sep 17 19:38:25 BRT 2009;Wed Sep 23 13:51:53 BRT 2009;5;
+lukebayes;project-sprouts;closed;Myers Carpenter;Tue Sep 15 13:01:45 BRT 2009;Tue Sep 15 13:55:20 BRT 2009;0;
+lukebayes;project-sprouts;closed;Luke Bayes;Wed Aug 19 18:53:57 BRT 2009;Sat Aug 22 21:29:39 BRT 2009;3;
+lukebayes;project-sprouts;closed;Luke Bayes;Wed Aug 19 18:52:03 BRT 2009;Sat Aug 22 22:08:09 BRT 2009;3;
+lukebayes;project-sprouts;closed;Luke Bayes;Fri Jul 31 15:10:51 BRT 2009;Wed Jan 26 14:42:50 BRST 2011;543;
+lukebayes;project-sprouts;closed;Luke Bayes;Tue Jul 28 14:00:28 BRT 2009;Wed Jan 26 14:44:48 BRST 2011;547;
+lukebayes;project-sprouts;closed;Luke Bayes;Tue Jul 28 13:59:51 BRT 2009;Sat Aug 22 21:47:15 BRT 2009;25;
+lukebayes;project-sprouts;closed;Luke Bayes;Fri Jul 24 12:59:29 BRT 2009;Wed Jan 26 14:43:54 BRST 2011;551;
+lukebayes;project-sprouts;closed;Luke Bayes;Fri Jul 24 12:58:53 BRT 2009;Fri Oct 30 02:45:20 BRST 2009;97;
+lukebayes;project-sprouts;closed;Luke Bayes;Tue Jul 14 19:37:20 BRT 2009;Wed Jan 26 14:41:42 BRST 2011;560;
+lukebayes;project-sprouts;closed;Luke Bayes;Sat Jul 04 15:31:17 BRT 2009;Wed Jan 26 14:40:10 BRST 2011;570;
+lukebayes;project-sprouts;closed;Luke Bayes;Sat Jul 04 15:30:08 BRT 2009;Sat Jul 04 15:58:07 BRT 2009;0;
+lukebayes;project-sprouts;closed;David Marr;Wed Jun 24 00:48:42 BRT 2009;Wed Jan 26 14:34:23 BRST 2011;581;
+lukebayes;project-sprouts;closed;Luke Bayes;Fri May 22 15:04:14 BRT 2009;Wed Mar 03 06:40:49 BRT 2010;284;
+lukebayes;project-sprouts;closed;Luke Bayes;Tue May 05 13:31:43 BRT 2009;Sat May 09 13:56:30 BRT 2009;4;
+lukebayes;project-sprouts;closed;Robert Penner;Fri May 01 02:03:25 BRT 2009;Wed Jan 26 14:35:52 BRST 2011;635;
+lukebayes;project-sprouts;closed;Luke Bayes;Sun Apr 19 14:34:49 BRT 2009;Wed Jan 26 14:50:21 BRST 2011;647;
+lukebayes;project-sprouts;closed;Luke Bayes;Sun Apr 19 05:05:32 BRT 2009;Wed Jul 01 01:37:15 BRT 2009;72;
+lukebayes;project-sprouts;closed;Luke Bayes;Sat Apr 18 09:47:48 BRT 2009;Sat Apr 18 21:32:49 BRT 2009;0;
+lukebayes;project-sprouts;closed;Luke Bayes;Sat Apr 18 04:42:54 BRT 2009;Wed Jan 26 14:55:44 BRST 2011;648;
+lukebayes;project-sprouts;closed;Luke Bayes;Sat Apr 18 04:42:03 BRT 2009;Wed Jan 26 14:58:35 BRST 2011;648;
+lukebayes;project-sprouts;closed;Luke Bayes;Sat Apr 18 04:41:00 BRT 2009;Wed Jan 26 14:51:53 BRST 2011;648;
+lukebayes;project-sprouts;closed;Luke Bayes;Sat Apr 18 04:39:25 BRT 2009;Wed Jan 26 14:57:02 BRST 2011;648;
+lukebayes;project-sprouts;closed;Luke Bayes;Sat Apr 18 04:38:48 BRT 2009;Wed Jan 26 14:56:20 BRST 2011;648;
+lukebayes;project-sprouts;closed;Luke Bayes;Sat Apr 18 04:38:12 BRT 2009;Wed Jan 26 14:50:45 BRST 2011;648;
+lukebayes;project-sprouts;closed;Luke Bayes;Sat Apr 18 04:37:35 BRT 2009;Wed Jan 26 14:56:44 BRST 2011;648;
+lukebayes;project-sprouts;closed;Luke Bayes;Sat Apr 18 04:36:58 BRT 2009;Wed Jan 26 15:02:53 BRST 2011;648;
+lukebayes;project-sprouts;closed;Luke Bayes;Sat Apr 18 04:34:06 BRT 2009;Sun Apr 19 05:03:44 BRT 2009;1;
+lukebayes;project-sprouts;closed;Luke Bayes;Fri Apr 17 22:03:54 BRT 2009;Wed Jan 26 14:54:15 BRST 2011;648;
+lukebayes;project-sprouts;closed;Luke Bayes;Fri Apr 17 22:03:17 BRT 2009;Wed Mar 03 06:41:02 BRT 2010;319;
+lukebayes;project-sprouts;closed;Luke Bayes;Fri Apr 17 22:02:25 BRT 2009;Wed Jan 26 14:52:32 BRST 2011;648;
+lukebayes;project-sprouts;closed;Luke Bayes;Fri Apr 17 22:01:33 BRT 2009;Sun Apr 19 01:48:37 BRT 2009;1;
+
+petertodd;alternate-pace;open;Deleted user;Tue Jan 21 17:32:56 BRST 2014;null;636;
+
+
+mojombo;egitd;open;Andrew Thompson;Thu May 31 18:39:56 BRT 2012;null;1235;
+
+lutzky;ttime;open;null;Mon Mar 16 14:57:40 BRT 2015;null;217;
+lutzky;ttime;closed;Alon Amster;Wed Aug 21 13:01:31 BRT 2013;Fri Sep 06 19:15:18 BRT 2013;16;
+lutzky;ttime;closed;Ohad Lutzky;Thu Jul 11 14:21:51 BRT 2013;Fri Jul 12 06:13:45 BRT 2013;0;
+lutzky;ttime;closed;Ohad Lutzky;Thu Jul 11 14:19:20 BRT 2013;Fri Jul 12 07:31:37 BRT 2013;0;
+lutzky;ttime;closed;Haggai Eran;Fri Mar 04 10:25:16 BRT 2011;Fri Mar 04 19:24:40 BRT 2011;0;
+lutzky;ttime;open;Ohad Lutzky;Sat Jan 15 14:02:25 BRST 2011;null;1738;
+lutzky;ttime;open;Ohad Lutzky;Sat Jan 15 14:02:04 BRST 2011;null;1738;
+lutzky;ttime;open;Ohad Lutzky;Sat Jan 15 14:01:09 BRST 2011;null;1738;
+lutzky;ttime;open;Ohad Lutzky;Sat Jan 15 13:59:44 BRST 2011;null;1738;
+lutzky;ttime;open;Ohad Lutzky;Sat Jan 15 13:59:12 BRST 2011;null;1738;
+lutzky;ttime;open;Ohad Lutzky;Sat Jan 15 13:58:45 BRST 2011;null;1738;
+lutzky;ttime;open;Ohad Lutzky;Sat Jan 15 13:58:01 BRST 2011;null;1738;
+lutzky;ttime;open;Ohad Lutzky;Sat Jan 15 13:57:22 BRST 2011;null;1738;
+lutzky;ttime;open;Ohad Lutzky;Sat Jan 15 13:54:57 BRST 2011;null;1738;
+lutzky;ttime;open;Ohad Lutzky;Sat Jan 15 13:53:50 BRST 2011;null;1738;
+lutzky;ttime;open;Ohad Lutzky;Sat Jan 15 13:49:56 BRST 2011;null;1738;
+lutzky;ttime;open;Ohad Lutzky;Sat Jan 15 13:48:35 BRST 2011;null;1738;
+lutzky;ttime;open;Ohad Lutzky;Sat Jan 15 13:43:38 BRST 2011;null;1738;
+lutzky;ttime;closed;Amit Elbaz;Fri Jan 14 08:37:03 BRST 2011;Fri Jan 14 10:54:33 BRST 2011;0;
+lutzky;ttime;open;Ohad Lutzky;Tue Aug 17 16:42:21 BRT 2010;null;1889;
+lutzky;ttime;open;Ohad Lutzky;Tue Aug 17 12:57:37 BRT 2010;null;1889;
+lutzky;ttime;open;Ohad Lutzky;Sat Aug 14 06:21:59 BRT 2010;null;1892;
+lutzky;ttime;closed;Ohad Lutzky;Fri Aug 13 19:18:38 BRT 2010;Sat Jan 15 13:51:46 BRST 2011;154;
+lutzky;ttime;closed;Ohad Lutzky;Fri Feb 26 14:00:54 BRT 2010;Fri Aug 13 19:19:36 BRT 2010;168;
+
+

@@ -81,10 +81,10 @@ public class Reader {
 					String[] linhaDivida = linha.split(" ");
 					Repositorio r = new Repositorio(linhaDivida[2], linhaDivida[9], client); 
 					if(!r.getRepositoryName().equals("Vazio")){
-						r.downloadCommits(commitService, userService);
+						//r.downloadCommits(commitService, userService);
 						r.calculaQuantidadesIssues(consolidadoLabel);
-						r.defeitosCorrigidosCommitOrigemCSV();
-						r.calculaIssuesFechadosCommit();
+						//r.defeitosCorrigidosCommitOrigemCSV();
+						//r.calculaIssuesFechadosCommit();
 						MetodosAuxiliares.analiseMarcacao(consolidadoLabel, marcacoes, r);
 						Writer.printConteudoCSV(r, cont);
 						Writer.printConteudoRepositorioIssuesCSV(r, cont, client);
@@ -246,6 +246,50 @@ public class Reader {
 			consolidado.add(label);	
 		}
 		return consolidado;
+	}
+	
+	public static void consolidaLoc (String arquivo){
+		String pastaOrigem = "F:/Saidas";
+		File pastaGeral = new File (pastaOrigem);
+		File [] pastas = pastaGeral.listFiles();
+		for(File p : pastas){
+			if(p != null){
+				File [] files = p.listFiles();
+				for(File f : files){
+					if(f.getName() == "loc.txt"){
+						int loc = retiraLoc(f);
+					}
+				}
+			}
+		}
+		
+	}
+
+	public static int retiraLoc(File f) {
+		int loc = 0;
+		int contValue = 0;
+		try {
+			String texto = retornaConteudo(f);
+			int index = texto.indexOf("SUM");
+			String [] linhaLoc = texto.substring(index).split("\\W");
+			
+			for(String l : linhaLoc){
+				if(!l.equals("")){
+					contValue++;
+					if(contValue == 4){
+						return Integer.parseInt(l);
+					}
+				}
+			}
+			
+			
+			
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		return loc;
 	}
 	
 

@@ -1,0 +1,10 @@
+
+breakpointer;ajax-rdoc;GunioRobot;Gun.io Robot;User;REPORTER;false;true;Thu Oct 27 04:34:18 BRST 2011
+breakpointer;ajax-rdoc;jnunemaker;John Nunemaker;User;DEVELOPER;true;false;Mon Jun 30 15:43:46 BRT 2008
+
+pengwynn;ujs_sort_helper;likebees;Busy;User;DEVELOPER;true;true;Thu Oct 13 11:33:31 BRT 2011
+pengwynn;ujs_sort_helper;twalpole;Thomas Walpole;User;REPORTER;false;true;Fri Jul 17 23:29:57 BRT 2009
+pengwynn;ujs_sort_helper;pengwynn;Wynn Netherland;User;DEVELOPER;true;false;Fri Oct 14 10:14:00 BRT 2011
+
+grigio;xmp-manager;mrsvan;null;User;REPORTER;false;true;Fri Apr 24 08:58:36 BRT 2009
+grigio;xmp-manager;grigio;Luigi Maselli;User;DEVELOPER;true;false;Mon Apr 21 13:27:08 BRT 2008

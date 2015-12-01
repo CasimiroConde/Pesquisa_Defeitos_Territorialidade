@@ -1,0 +1,82 @@
+
+________________||||Repositório: rails Cont: 3231||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: dotfiles Cont: 3232||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: cs430-project Cont: 3233||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: hiccup Cont: 3234||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: hack Cont: 3235||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: workflow Cont: 3236||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: cloudrcs Cont: 3237||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: python-challenge Cont: 3238||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: rr Cont: 3239||||_________________________
+Listas de Labels:
+Tipo MarcaçãoLABELNome Label: QUESTION ; Quantidade: 4
+Tipo MarcaçãoLABELNome Label: TASK ; Quantidade: 5
+Tipo MarcaçãoLABELNome Label: BUG ; Quantidade: 20
+Tipo MarcaçãoLABELNome Label: HARDER ; Quantidade: 5
+Tipo MarcaçãoLABELNome Label: NEED MORE INFO ; Quantidade: 3
+Tipo MarcaçãoLABELNome Label: FEATURE ; Quantidade: 5
+Tipo MarcaçãoLABELNome Label: RE-ASSESS ; Quantidade: 1
+Tipo MarcaçãoLABELNome Label: INVALID ; Quantidade: 2
+Listas de Milestones:
+Nome Milestone: 1.0.5 ; Quantidade: 14
+Nome Milestone: 1.1.0 ; Quantidade: 13
+
+________________||||Repositório: firefox_searchplugins Cont: 3240||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: ropen Cont: 3241||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: netwalk Cont: 3242||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: gitmagic Cont: 3243||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: make_abstract Cont: 3244||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: ruote-transition Cont: 3245||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: rbvimeo Cont: 3246||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: cruisecontrolrb Cont: 3247||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: blog Cont: 3248||||_________________________
+Listas de Labels:
+Listas de Milestones:

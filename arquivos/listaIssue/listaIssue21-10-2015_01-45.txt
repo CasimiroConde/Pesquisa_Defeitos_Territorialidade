@@ -1,0 +1,357 @@
+
+davidB;scala-maven-plugin;open;Iulian Dragos;Fri Oct 16 07:08:06 BRT 2015;null;4;
+davidB;scala-maven-plugin;open;null;Fri Oct 16 05:18:30 BRT 2015;null;4;
+davidB;scala-maven-plugin;open;Andrei Pozolotin;Mon Sep 14 12:40:06 BRT 2015;null;36;
+davidB;scala-maven-plugin;closed;Daniel Khashabi;Mon Aug 24 21:32:27 BRT 2015;Tue Aug 25 12:53:39 BRT 2015;0;
+davidB;scala-maven-plugin;closed;Tobias Roeser;Mon Jun 15 05:32:11 BRT 2015;Mon Jun 15 06:15:34 BRT 2015;0;
+davidB;scala-maven-plugin;closed;Daniel Dietrich;Thu May 28 18:45:11 BRT 2015;Sun Jun 07 10:42:52 BRT 2015;9;
+davidB;scala-maven-plugin;closed;Bitdeli Chef;Tue May 19 08:23:09 BRT 2015;Tue May 19 08:26:33 BRT 2015;0;
+davidB;scala-maven-plugin;closed;Tobias Roeser;Thu Apr 23 05:39:35 BRT 2015;Sun Jun 07 10:42:52 BRT 2015;45;
+davidB;scala-maven-plugin;closed;Madhukara Phatak;Mon Apr 20 03:19:08 BRT 2015;Sun Apr 26 08:09:29 BRT 2015;6;
+davidB;scala-maven-plugin;closed;Trevor Hartman;Thu Feb 12 18:40:03 BRST 2015;Wed Mar 04 14:10:01 BRT 2015;19;
+davidB;scala-maven-plugin;open;null;Wed Feb 11 10:29:47 BRST 2015;null;251;
+davidB;scala-maven-plugin;closed;Robson Roberto Souza Peixoto;Tue Jan 27 23:27:57 BRST 2015;Sun Jun 07 05:59:07 BRT 2015;130;
+davidB;scala-maven-plugin;open;Kevin Meredith;Tue Nov 18 12:41:58 BRST 2014;null;336;
+davidB;scala-maven-plugin;open;Charlie Mordant;Mon Nov 17 09:20:19 BRST 2014;null;337;
+davidB;scala-maven-plugin;closed;Kevin Meredith;Sat Nov 01 13:22:44 BRST 2014;Sat Nov 01 19:19:13 BRST 2014;0;
+davidB;scala-maven-plugin;open;Jan Galinski;Thu Oct 16 08:30:30 BRT 2014;null;369;
+davidB;scala-maven-plugin;closed;David Pérez Carmona;Fri Oct 03 08:59:06 BRT 2014;Mon Oct 06 05:10:22 BRT 2014;2;
+davidB;scala-maven-plugin;closed;Prashant Sharma;Wed Sep 03 03:44:59 BRT 2014;Wed Sep 03 05:15:02 BRT 2014;0;
+davidB;scala-maven-plugin;open;Semiao Marco;Mon Aug 11 04:27:41 BRT 2014;null;435;
+davidB;scala-maven-plugin;closed;David Pérez Carmona;Fri Jun 27 06:36:27 BRT 2014;Fri Jun 27 07:13:56 BRT 2014;0;
+davidB;scala-maven-plugin;closed;Alexey Ermakov;Fri Jun 20 13:21:15 BRT 2014;Sat Jun 21 04:51:23 BRT 2014;0;
+davidB;scala-maven-plugin;open;Guillaume Yziquel;Wed Jun 18 08:52:06 BRT 2014;null;489;
+davidB;scala-maven-plugin;closed;Alexey Ermakov;Wed Jun 11 14:05:25 BRT 2014;Sat Jun 21 04:51:23 BRT 2014;9;
+davidB;scala-maven-plugin;closed;Ross MacLeod;Mon May 12 10:51:36 BRT 2014;Fri Jun 20 15:33:01 BRT 2014;39;
+davidB;scala-maven-plugin;closed;Kevin Meredith;Thu May 01 11:58:25 BRT 2014;Thu May 08 15:25:38 BRT 2014;7;
+davidB;scala-maven-plugin;closed;Kevin Meredith;Thu Apr 17 14:00:43 BRT 2014;Thu Apr 17 14:36:41 BRT 2014;0;
+davidB;scala-maven-plugin;open;Martin Burger;Thu Apr 17 13:40:17 BRT 2014;null;551;
+davidB;scala-maven-plugin;open;Evgeny Chukreev;Thu Apr 10 12:38:03 BRT 2014;null;558;
+davidB;scala-maven-plugin;closed;João Cerdeira;Mon Mar 31 11:53:23 BRT 2014;Wed Jul 16 03:58:28 BRT 2014;106;
+davidB;scala-maven-plugin;open;Aleksandr Panzin;Wed Feb 26 13:39:48 BRT 2014;null;601;
+davidB;scala-maven-plugin;closed;Deleted user;Tue Jan 21 17:38:24 BRST 2014;Wed Jan 22 11:26:47 BRST 2014;0;
+davidB;scala-maven-plugin;closed;Michael Pilquist;Mon Jan 06 19:39:07 BRST 2014;Mon Jan 06 19:43:03 BRST 2014;0;
+davidB;scala-maven-plugin;closed;Lukasz Byczynski;Sun Nov 03 19:15:18 BRST 2013;Fri Aug 15 07:11:52 BRT 2014;284;
+davidB;scala-maven-plugin;closed;null;Fri Sep 27 05:28:08 BRT 2013;Fri Sep 27 07:54:54 BRT 2013;0;
+davidB;scala-maven-plugin;closed;Eric Lindvall;Tue Sep 24 19:35:40 BRT 2013;Wed Sep 25 04:19:13 BRT 2013;0;
+davidB;scala-maven-plugin;closed;null;Mon Sep 09 01:17:11 BRT 2013;Tue Sep 10 02:22:40 BRT 2013;1;
+davidB;scala-maven-plugin;open;s17t.net;Wed Aug 21 11:28:23 BRT 2013;null;790;
+davidB;scala-maven-plugin;closed;Christopher Hunt;Sun Jul 21 21:22:57 BRT 2013;Mon Jul 22 12:08:33 BRT 2013;0;
+davidB;scala-maven-plugin;closed;Eric Vantillard;Thu Jul 11 14:29:12 BRT 2013;Fri Jul 12 06:49:00 BRT 2013;0;
+davidB;scala-maven-plugin;open;Eric Vantillard;Thu Jul 11 12:08:42 BRT 2013;null;831;
+davidB;scala-maven-plugin;open;Stephen Samuel;Sun Jul 07 15:28:48 BRT 2013;null;835;
+davidB;scala-maven-plugin;closed;Kohsuke Yatoh;Wed Jun 05 08:28:33 BRT 2013;Thu Jun 06 11:18:40 BRT 2013;1;
+davidB;scala-maven-plugin;closed;Juha Heljoranta;Sat May 18 13:08:50 BRT 2013;Fri May 24 10:15:27 BRT 2013;5;
+davidB;scala-maven-plugin;closed;null;Thu May 09 05:29:02 BRT 2013;Thu May 09 14:35:26 BRT 2013;0;
+davidB;scala-maven-plugin;closed;Deleted user;Mon Apr 22 19:06:49 BRT 2013;Tue Apr 23 14:26:11 BRT 2013;0;
+davidB;scala-maven-plugin;closed;null;Tue Mar 26 14:12:46 BRT 2013;Tue Apr 23 12:42:13 BRT 2013;27;
+davidB;scala-maven-plugin;closed;Li Ry;Sun Mar 17 12:46:58 BRT 2013;Wed Mar 20 09:01:38 BRT 2013;2;
+davidB;scala-maven-plugin;closed;Li Ry;Sun Mar 17 12:46:13 BRT 2013;Wed Mar 20 09:00:30 BRT 2013;2;
+davidB;scala-maven-plugin;closed;Mark Hammons;Sun Mar 17 09:11:58 BRT 2013;Tue Apr 23 10:09:49 BRT 2013;37;
+davidB;scala-maven-plugin;closed;Martin Burger;Mon Feb 25 09:55:07 BRT 2013;Mon Feb 25 13:13:46 BRT 2013;0;
+davidB;scala-maven-plugin;open;Galder Zamarreño;Tue Feb 19 19:36:15 BRT 2013;null;973;
+davidB;scala-maven-plugin;closed;Nickolay Mazurkin;Thu Feb 14 07:22:55 BRST 2013;Sat Feb 16 02:56:04 BRST 2013;1;
+davidB;scala-maven-plugin;closed;null;Wed Feb 13 11:21:47 BRST 2013;Tue Apr 23 14:26:10 BRT 2013;69;
+davidB;scala-maven-plugin;closed;Jestan Nirojan;Tue Jan 29 03:15:19 BRST 2013;Mon Feb 04 10:57:15 BRST 2013;6;
+davidB;scala-maven-plugin;closed;Max Lanin;Wed Jan 23 19:16:12 BRST 2013;Thu Jan 24 05:05:24 BRST 2013;0;
+davidB;scala-maven-plugin;closed;Iulian Dragos;Tue Jan 15 13:10:28 BRST 2013;Tue Apr 23 10:12:39 BRT 2013;97;
+davidB;scala-maven-plugin;closed;Shai Yallin;Tue Jan 08 20:26:39 BRST 2013;Fri Jan 11 10:29:27 BRST 2013;2;
+davidB;scala-maven-plugin;closed;Shai Yallin;Tue Jan 08 16:47:16 BRST 2013;Fri Jan 11 10:29:28 BRST 2013;2;
+davidB;scala-maven-plugin;closed;Shai Yallin;Tue Jan 08 11:14:01 BRST 2013;Sun Jan 13 09:11:55 BRST 2013;4;
+davidB;scala-maven-plugin;closed;null;Tue Dec 18 11:58:53 BRST 2012;Mon Jan 07 17:53:25 BRST 2013;20;
+davidB;scala-maven-plugin;closed;Peter Vlugter;Thu Nov 29 19:27:59 BRST 2012;Mon Jan 07 12:03:41 BRST 2013;38;
+davidB;scala-maven-plugin;closed;Nikita Volkov;Tue Oct 23 10:56:33 BRST 2012;Wed Jan 16 13:38:34 BRST 2013;85;
+davidB;scala-maven-plugin;open;null;Fri Oct 12 07:14:13 BRT 2012;null;1103;
+davidB;scala-maven-plugin;closed;Travis;Tue Sep 04 17:10:53 BRT 2012;Tue Sep 04 18:16:28 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Galder Zamarreño;Wed Aug 29 15:24:16 BRT 2012;Mon Jan 07 12:25:48 BRST 2013;130;
+davidB;scala-maven-plugin;closed;Galder Zamarreño;Wed Aug 29 15:11:48 BRT 2012;Mon Jan 07 20:02:45 BRST 2013;131;
+davidB;scala-maven-plugin;closed;Galder Zamarreño;Wed Aug 29 10:47:13 BRT 2012;Mon Jan 07 13:49:59 BRST 2013;131;
+davidB;scala-maven-plugin;closed;Peter Vlugter;Fri Aug 24 13:41:34 BRT 2012;Mon Jan 07 12:21:26 BRST 2013;135;
+davidB;scala-maven-plugin;closed;null;Fri Aug 17 15:54:26 BRT 2012;Mon Jan 07 12:31:16 BRST 2013;142;
+davidB;scala-maven-plugin;open;Hiram Chirino;Sun Aug 12 10:55:19 BRT 2012;null;1164;
+davidB;scala-maven-plugin;closed;kenji yoshida;Fri Aug 10 14:27:36 BRT 2012;Wed Nov 07 23:20:57 BRST 2012;89;
+davidB;scala-maven-plugin;open;Matt Hughes;Thu Aug 09 12:00:45 BRT 2012;null;1167;
+davidB;scala-maven-plugin;closed;Josh Suereth;Wed Aug 08 09:58:24 BRT 2012;Wed Aug 08 10:20:55 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Josh Suereth;Tue Aug 07 10:36:43 BRT 2012;Wed Aug 08 09:56:32 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Peter Vlugter;Mon Aug 06 23:23:58 BRT 2012;Tue Aug 07 10:11:31 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Andres Taylor;Mon Aug 06 14:54:34 BRT 2012;Tue Aug 07 05:50:02 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Peter Vlugter;Mon Aug 06 02:49:40 BRT 2012;Mon Aug 06 14:54:49 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Matthias Friedrich;Thu Jul 19 16:25:50 BRT 2012;Wed Aug 08 18:07:04 BRT 2012;20;
+davidB;scala-maven-plugin;closed;Peter Vlugter;Thu Jun 28 23:59:27 BRT 2012;Fri Jun 29 04:35:06 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Yury Molchan;Wed Jun 27 11:55:05 BRT 2012;Wed Jun 27 12:05:14 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Yury Molchan;Wed Jun 27 07:29:11 BRT 2012;Wed Jun 27 12:05:15 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Peter Vlugter;Wed May 30 22:39:18 BRT 2012;Wed May 30 22:41:23 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Peter Vlugter;Wed May 30 22:31:45 BRT 2012;Wed May 30 22:35:57 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Peter Vlugter;Fri May 25 02:41:30 BRT 2012;Fri May 25 04:48:20 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Peter Vlugter;Fri May 25 01:44:44 BRT 2012;Fri May 25 04:45:27 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Peter Vlugter;Thu May 24 23:56:57 BRT 2012;Fri May 25 01:31:13 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Peter Vlugter;Tue May 15 02:23:16 BRT 2012;Thu May 24 16:34:39 BRT 2012;9;
+davidB;scala-maven-plugin;closed;Simon Søndergaard;Fri May 11 14:49:47 BRT 2012;Fri May 25 01:29:29 BRT 2012;13;
+davidB;scala-maven-plugin;closed;John Lonergan;Wed Apr 25 10:48:35 BRT 2012;Wed Aug 08 18:01:05 BRT 2012;105;
+davidB;scala-maven-plugin;closed;Alex Hvostov;Fri Mar 23 23:07:32 BRT 2012;Sat Mar 24 12:21:49 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Daniel Lundin;Mon Mar 19 10:58:24 BRT 2012;Tue Mar 20 06:51:15 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Lutz Hühnken;Mon Mar 19 07:35:14 BRT 2012;Mon Mar 19 07:43:50 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Ted Nyman;Sun Mar 18 20:26:55 BRT 2012;Mon Mar 19 06:19:06 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Scott Emmons;Tue Mar 06 18:12:10 BRT 2012;Sun Mar 18 16:16:19 BRT 2012;11;
+davidB;scala-maven-plugin;closed;Galder Zamarreño;Mon Mar 05 15:45:28 BRT 2012;Mon Mar 05 17:11:36 BRT 2012;0;
+davidB;scala-maven-plugin;closed;Galder Zamarreño;Sun Mar 04 16:17:06 BRT 2012;Tue Mar 06 06:04:59 BRT 2012;1;
+davidB;scala-maven-plugin;closed;Ted Nyman;Sun Mar 04 06:32:16 BRT 2012;Sun Mar 18 13:02:50 BRT 2012;14;
+davidB;scala-maven-plugin;closed;Josh Suereth;Wed Feb 22 13:49:55 BRST 2012;Thu Feb 23 10:22:27 BRST 2012;0;
+davidB;scala-maven-plugin;closed;Christoph Höger;Wed Feb 08 07:15:28 BRST 2012;Sun Mar 18 14:39:11 BRT 2012;39;
+davidB;scala-maven-plugin;closed;Francois Armand;Thu Feb 02 10:01:47 BRST 2012;Sun Mar 18 16:16:19 BRT 2012;45;
+davidB;scala-maven-plugin;closed;Zac Duncan;Fri Dec 16 22:20:24 BRST 2011;Tue Mar 13 19:49:49 BRT 2012;87;
+davidB;scala-maven-plugin;closed;null;Thu Dec 15 11:16:25 BRST 2011;Thu Dec 15 17:58:45 BRST 2011;0;
+davidB;scala-maven-plugin;open;Ted Nyman;Tue Dec 13 16:27:03 BRST 2011;null;1407;
+davidB;scala-maven-plugin;open;Stan Lewis;Thu Dec 08 18:12:47 BRST 2011;null;1412;
+davidB;scala-maven-plugin;closed;Andrei Pozolotin;Sun Dec 04 00:28:57 BRST 2011;Thu Dec 08 18:47:00 BRST 2011;4;
+davidB;scala-maven-plugin;closed;Graham Lea;Tue Nov 29 09:12:14 BRST 2011;Mon Feb 27 20:45:36 BRT 2012;90;
+davidB;scala-maven-plugin;closed;Raphael Parree;Thu Nov 03 10:25:59 BRST 2011;Thu Nov 03 10:26:38 BRST 2011;0;
+davidB;scala-maven-plugin;closed;Evgeny Chukreev;Tue Nov 01 11:48:53 BRST 2011;Tue Nov 01 14:07:29 BRST 2011;0;
+davidB;scala-maven-plugin;closed;Andrei Pozolotin;Tue Oct 25 16:57:25 BRST 2011;Mon Jan 07 20:27:34 BRST 2013;440;
+davidB;scala-maven-plugin;closed;Erik Hetzner;Fri Sep 30 15:06:43 BRT 2011;Tue Nov 01 14:08:49 BRST 2011;31;
+davidB;scala-maven-plugin;closed;Erik Hetzner;Thu Sep 29 19:10:29 BRT 2011;Mon Jan 07 20:07:37 BRST 2013;466;
+davidB;scala-maven-plugin;closed;Erik Hetzner;Thu Sep 29 17:07:03 BRT 2011;Sun Mar 18 13:01:49 BRT 2012;170;
+davidB;scala-maven-plugin;closed;Michael Schmitz;Thu Sep 15 02:52:05 BRT 2011;Sun Apr 01 13:08:57 BRT 2012;199;
+davidB;scala-maven-plugin;closed;null;Mon Sep 12 08:15:06 BRT 2011;Mon Sep 12 16:01:00 BRT 2011;0;
+davidB;scala-maven-plugin;closed;Arnaud Bailly;Wed Aug 24 11:54:29 BRT 2011;Wed Aug 24 12:29:58 BRT 2011;0;
+davidB;scala-maven-plugin;closed;null;Sat Aug 20 20:46:12 BRT 2011;Sat Aug 20 20:50:50 BRT 2011;0;
+davidB;scala-maven-plugin;closed;Hubert Behaghel;Thu Aug 04 10:32:30 BRT 2011;Sun Aug 21 18:37:59 BRT 2011;17;
+davidB;scala-maven-plugin;closed;Stefan Endrullis;Sun Jul 31 14:28:33 BRT 2011;Mon Aug 01 16:57:06 BRT 2011;1;
+davidB;scala-maven-plugin;closed;Tommy Chheng;Tue Jun 14 21:27:56 BRT 2011;Sun Jul 10 18:55:10 BRT 2011;25;
+davidB;scala-maven-plugin;closed;Tommy Chheng;Mon Jun 13 14:20:46 BRT 2011;Sun Aug 21 18:37:59 BRT 2011;69;
+davidB;scala-maven-plugin;open;null;Mon Jun 13 05:41:09 BRT 2011;null;1590;
+davidB;scala-maven-plugin;closed;null;Tue Jun 07 12:32:57 BRT 2011;Sun Jun 12 16:20:03 BRT 2011;5;
+davidB;scala-maven-plugin;closed;David Bernard;Fri May 20 08:44:49 BRT 2011;Sun Aug 21 16:02:02 BRT 2011;93;
+davidB;scala-maven-plugin;closed;David Bernard;Fri May 20 08:40:32 BRT 2011;Sun Aug 21 15:13:42 BRT 2011;93;
+davidB;scala-maven-plugin;open;Graham Lea;Tue May 03 01:24:13 BRT 2011;null;1632;
+davidB;scala-maven-plugin;closed;null;Fri Apr 15 12:58:15 BRT 2011;Sun Aug 21 18:37:59 BRT 2011;128;
+davidB;scala-maven-plugin;closed;Kozio?ek;Sat Apr 09 12:42:19 BRT 2011;Wed Dec 14 10:20:53 BRST 2011;248;
+davidB;scala-maven-plugin;open;null;Thu Mar 24 10:49:26 BRT 2011;null;1671;
+davidB;scala-maven-plugin;closed;null;Thu Mar 17 11:59:42 BRT 2011;Thu Mar 17 14:15:05 BRT 2011;0;
+davidB;scala-maven-plugin;closed;null;Wed Mar 16 18:24:16 BRT 2011;Tue Dec 13 14:00:02 BRST 2011;271;
+davidB;scala-maven-plugin;closed;Paul Vodra;Fri Mar 11 18:21:44 BRT 2011;Thu Apr 14 16:55:43 BRT 2011;33;
+davidB;scala-maven-plugin;closed;null;Thu Mar 10 16:56:54 BRT 2011;Wed Jan 16 09:47:47 BRST 2013;677;
+davidB;scala-maven-plugin;open;Andreas Sewe;Thu Feb 24 08:54:56 BRT 2011;null;1699;
+davidB;scala-maven-plugin;closed;Brian Schlining;Tue Dec 21 15:55:15 BRST 2010;Wed Dec 22 00:25:42 BRST 2010;0;
+davidB;scala-maven-plugin;closed;null;Tue Nov 23 11:46:46 BRST 2010;Mon Jan 07 20:26:40 BRST 2013;776;
+davidB;scala-maven-plugin;closed;Jim Hurne;Wed Nov 17 01:24:39 BRST 2010;Mon Nov 22 07:48:30 BRST 2010;5;
+davidB;scala-maven-plugin;closed;Ingo Fischer;Sat Aug 14 18:32:05 BRT 2010;Mon Aug 16 13:03:14 BRT 2010;1;
+davidB;scala-maven-plugin;closed;James Strachan;Fri Jul 30 13:22:27 BRT 2010;Wed Aug 04 05:05:23 BRT 2010;4;
+davidB;scala-maven-plugin;closed;James Strachan;Fri Jul 30 13:17:04 BRT 2010;Tue Dec 13 13:26:45 BRST 2011;501;
+davidB;scala-maven-plugin;closed;Ross A. Baker;Mon Jul 19 04:48:28 BRT 2010;Tue Jul 20 00:57:40 BRT 2010;0;
+davidB;scala-maven-plugin;closed;Anthony Whitford;Sun Jul 04 15:47:47 BRT 2010;Mon Aug 16 13:05:09 BRT 2010;42;
+davidB;scala-maven-plugin;closed;Andreas Joseph Krogh;Fri Jul 02 21:25:59 BRT 2010;Sat Jul 03 06:38:41 BRT 2010;0;
+davidB;scala-maven-plugin;open;Ingo Fischer;Fri May 14 15:23:57 BRT 2010;null;1985;
+davidB;scala-maven-plugin;closed;null;Thu May 06 19:57:39 BRT 2010;Sun Mar 18 14:42:37 BRT 2012;681;
+davidB;scala-maven-plugin;closed;James Strachan;Mon Apr 12 15:35:39 BRT 2010;Tue Apr 13 09:06:19 BRT 2010;0;
+davidB;scala-maven-plugin;closed;Luke Nezda;Sun Feb 21 13:53:55 BRT 2010;Wed Apr 28 20:05:15 BRT 2010;66;
+davidB;scala-maven-plugin;closed;David Bernard;Thu Feb 11 06:22:03 BRST 2010;Mon Jan 07 20:09:33 BRST 2013;1061;
+davidB;scala-maven-plugin;open;Michael Armbrust;Tue Jan 05 04:33:20 BRST 2010;null;2114;
+davidB;scala-maven-plugin;closed;Sebastian Riedel;Mon Jan 04 14:30:37 BRST 2010;Wed Apr 28 20:03:21 BRT 2010;114;
+davidB;scala-maven-plugin;closed;Luke Patterson;Mon Dec 21 14:58:21 BRST 2009;Mon Jan 07 20:17:02 BRST 2013;1113;
+davidB;scala-maven-plugin;closed;Indrajit Raychaudhuri;Sat Dec 19 13:54:51 BRST 2009;Wed Apr 28 19:56:15 BRT 2010;130;
+davidB;scala-maven-plugin;closed;Charlie Knudsen;Thu Dec 10 06:21:40 BRST 2009;Fri Jan 29 18:25:43 BRST 2010;50;
+davidB;scala-maven-plugin;closed;Rob Dickens;Mon Nov 23 11:11:35 BRST 2009;Mon Jan 07 20:18:12 BRST 2013;1141;
+davidB;scala-maven-plugin;closed;David Bernard;Mon Nov 16 13:27:50 BRST 2009;Sat Nov 21 11:21:30 BRST 2009;4;
+davidB;scala-maven-plugin;open;David Bernard;Mon Nov 16 12:07:02 BRST 2009;null;2164;
+davidB;scala-maven-plugin;closed;Josh Suereth;Sat Nov 14 17:07:46 BRST 2009;Sat Nov 21 13:04:09 BRST 2009;6;
+davidB;scala-maven-plugin;closed;David Bernard;Sun Oct 25 13:10:57 BRST 2009;Wed Apr 28 21:32:02 BRT 2010;185;
+davidB;scala-maven-plugin;closed;Anthony Whitford;Sun Oct 11 05:22:17 BRT 2009;Sat Nov 21 11:40:52 BRST 2009;41;
+davidB;scala-maven-plugin;closed;Deleted user;Fri Oct 09 13:03:46 BRT 2009;Thu May 24 10:58:59 BRT 2012;957;
+davidB;scala-maven-plugin;closed;Deleted user;Fri Oct 09 12:27:18 BRT 2009;Thu Mar 18 19:54:42 BRT 2010;160;
+davidB;scala-maven-plugin;closed;Deleted user;Thu Oct 08 15:35:35 BRT 2009;Sun Oct 25 20:24:05 BRST 2009;17;
+davidB;scala-maven-plugin;closed;Indrajit Raychaudhuri;Sun Sep 13 06:14:03 BRT 2009;Sat Sep 26 14:51:39 BRT 2009;13;
+davidB;scala-maven-plugin;closed;David Bernard;Mon Sep 07 09:54:54 BRT 2009;Sat Sep 26 17:15:42 BRT 2009;19;
+davidB;scala-maven-plugin;closed;zora tung;Mon Aug 03 20:01:35 BRT 2009;Sat Sep 26 13:19:35 BRT 2009;53;
+davidB;scala-maven-plugin;closed;zora tung;Mon Aug 03 19:56:46 BRT 2009;Sat Sep 26 15:06:39 BRT 2009;53;
+davidB;scala-maven-plugin;closed;David Boon;Fri Jul 31 17:21:29 BRT 2009;Sat Aug 29 09:48:19 BRT 2009;28;
+davidB;scala-maven-plugin;closed;David Boon;Fri Jul 31 16:58:00 BRT 2009;Mon Aug 03 17:27:59 BRT 2009;3;
+davidB;scala-maven-plugin;closed;Josh Suereth;Wed Jul 22 12:35:22 BRT 2009;Thu Jul 23 01:02:09 BRT 2009;0;
+davidB;scala-maven-plugin;closed;Josh Suereth;Sun Jul 05 10:43:01 BRT 2009;Sun Jan 13 08:42:58 BRST 2013;1287;
+davidB;scala-maven-plugin;closed;Sean Griffin;Thu Jul 02 16:46:48 BRT 2009;Wed Jul 22 22:57:37 BRT 2009;20;
+davidB;scala-maven-plugin;closed;Josh Suereth;Wed Jul 01 09:38:38 BRT 2009;Sat Nov 21 11:22:43 BRST 2009;143;
+davidB;scala-maven-plugin;closed;Josh Suereth;Thu May 28 16:53:47 BRT 2009;Wed Jul 22 22:57:56 BRT 2009;55;
+davidB;scala-maven-plugin;closed;Josh Suereth;Sun May 03 21:37:57 BRT 2009;Fri Jul 24 15:51:50 BRT 2009;81;
+
+jhubert;ruby-date-recur;open;Alexis Rondeau;Thu Jul 15 14:15:28 BRT 2010;null;1923;
+
+
+GUI;after_commit;open;Colin Curtin;Sat Nov 06 03:14:55 BRST 2010;null;1809;
+GUI;after_commit;open;Andrey Melnik;Tue Nov 24 18:42:40 BRST 2009;null;2156;
+
+
+
+
+
+
+
+
+
+
+WardCunningham;morse;closed;Travis Brown;Wed Feb 06 23:43:00 BRST 2013;Thu Feb 07 00:32:49 BRST 2013;0;
+WardCunningham;morse;closed;Dmitry;Fri Jun 17 19:49:48 BRT 2011;Thu Feb 07 00:32:49 BRST 2013;600;
+WardCunningham;morse;closed;Wesley J. Landaker;Sat Jan 15 03:01:45 BRST 2011;Sun Jan 23 06:56:39 BRST 2011;8;
+
+
+
+
+AntonyBlakey;smalltalk.tmbundle;closed;Andrew Pennebaker;Sat Aug 06 01:11:31 BRT 2011;Wed Aug 17 17:41:48 BRT 2011;11;
+
+
+
+matthewfallshaw;change_tempo;closed;Alain Ravet;Wed May 22 08:56:51 BRT 2013;Wed May 22 10:00:24 BRT 2013;0;
+
+
+
+
+
+commonthread;flickr_fu;open;Dennis Hägler;Sat Jul 04 10:59:22 BRT 2015;null;108;
+commonthread;flickr_fu;closed;Dennis Hägler;Sat Jul 04 08:41:11 BRT 2015;Sat Jul 04 10:14:34 BRT 2015;0;
+commonthread;flickr_fu;open;Max Calabrese;Fri Apr 10 12:38:15 BRT 2015;null;193;
+commonthread;flickr_fu;closed;Max Calabrese;Thu Apr 09 18:18:53 BRT 2015;Mon Apr 13 07:55:33 BRT 2015;3;
+commonthread;flickr_fu;open;Max Calabrese;Mon Apr 06 09:00:36 BRT 2015;null;197;
+commonthread;flickr_fu;closed;Roel van Dijk;Thu Feb 19 16:27:19 BRST 2015;Thu Feb 19 16:28:14 BRST 2015;0;
+commonthread;flickr_fu;closed;null;Tue Sep 02 09:42:16 BRT 2014;Mon Sep 08 10:27:58 BRT 2014;6;
+commonthread;flickr_fu;closed;Jon Connolly;Thu Jul 10 02:26:00 BRT 2014;Thu Feb 19 16:19:04 BRST 2015;224;
+commonthread;flickr_fu;open;Jamie;Mon Jun 16 12:04:01 BRT 2014;null;491;
+commonthread;flickr_fu;closed;Mohd Anas;Mon Feb 03 07:02:33 BRST 2014;Tue Feb 04 06:58:59 BRST 2014;0;
+commonthread;flickr_fu;closed;Austin Ziegler;Tue Oct 15 23:30:10 BRT 2013;Thu Oct 16 10:56:55 BRT 2014;365;
+commonthread;flickr_fu;closed;Sebastian Korfmann;Mon Oct 22 02:39:55 BRST 2012;Sun Oct 28 14:43:52 BRST 2012;6;
+commonthread;flickr_fu;closed;Sijmen Mulder;Wed Jul 25 10:39:51 BRT 2012;Sat Aug 11 05:41:37 BRT 2012;16;
+commonthread;flickr_fu;closed;Edwin Mourant;Tue Jul 17 04:01:43 BRT 2012;Sat Aug 11 05:43:47 BRT 2012;25;
+commonthread;flickr_fu;open;null;Tue Feb 14 03:49:03 BRST 2012;null;1344;
+commonthread;flickr_fu;closed;null;Tue Feb 14 02:22:38 BRST 2012;Sat Aug 11 05:45:21 BRT 2012;179;
+commonthread;flickr_fu;open;Maciej Bi?as;Sat Jan 28 13:36:42 BRST 2012;null;1361;
+commonthread;flickr_fu;closed;Roel van Dijk;Mon Jan 16 18:09:58 BRST 2012;Thu Jan 19 19:09:29 BRST 2012;3;
+commonthread;flickr_fu;open;Rob la Lau;Tue Jul 12 04:23:41 BRT 2011;null;1561;
+commonthread;flickr_fu;closed;Carl Drinkwater;Wed Jun 01 13:21:04 BRT 2011;Thu Oct 17 16:15:52 BRT 2013;869;
+commonthread;flickr_fu;closed;Benson Kalahar;Mon May 31 00:32:04 BRT 2010;Thu Jan 19 19:19:09 BRST 2012;598;
+commonthread;flickr_fu;open;Ivan Kocienski;Mon Mar 15 14:39:23 BRT 2010;null;2045;
+commonthread;flickr_fu;closed;Tomas Barton;Wed Mar 10 06:45:28 BRT 2010;Thu Jan 19 19:11:57 BRST 2012;680;
+commonthread;flickr_fu;closed;Tomas Barton;Fri Mar 05 09:29:50 BRT 2010;Thu Jan 19 19:22:10 BRST 2012;685;
+commonthread;flickr_fu;open;Steven Haddox;Tue Nov 17 16:27:19 BRST 2009;null;2163;
+commonthread;flickr_fu;closed;Beef;Tue Nov 17 15:50:30 BRST 2009;Thu Jan 19 19:13:15 BRST 2012;793;
+commonthread;flickr_fu;closed;Ryan McGeary;Thu Sep 24 00:05:17 BRT 2009;Thu Jan 19 19:29:40 BRST 2012;847;
+commonthread;flickr_fu;closed;Neil Rickards;Sat Jun 06 12:16:45 BRT 2009;Sat Jun 06 12:22:37 BRT 2009;0;
+commonthread;flickr_fu;open;CsZ;Thu Apr 23 16:35:26 BRT 2009;null;2371;
+
+kevinclark;dust;open;Phil Dibowitz;Fri Mar 02 16:14:22 BRT 2012;null;1327;
+kevinclark;dust;closed;Brian Donovan;Mon Mar 16 15:58:14 BRT 2009;Mon Mar 16 16:09:59 BRT 2009;0;
+
+
+
+
+cjbottaro;without_callbacks;open;Scott Diedrick;Thu Aug 18 15:23:40 BRT 2011;null;1524;
+cjbottaro;without_callbacks;open;Kai Krakow;Fri Nov 19 10:40:33 BRST 2010;null;1796;
+
+
+
+
+
+
+adkron;sinatratumblog;closed;Matthias Günther;Tue Apr 23 16:48:41 BRT 2013;Tue Apr 23 20:08:21 BRT 2013;0;
+
+
+
+ngerakines;erlang_twitter;closed;Ed Tsech;Sun Feb 19 17:41:45 BRST 2012;Sun Feb 19 21:38:12 BRST 2012;0;
+ngerakines;erlang_twitter;open;Deleted user;Sun Nov 27 07:20:05 BRST 2011;null;1423;
+ngerakines;erlang_twitter;open;lbt05;Fri May 20 04:21:44 BRT 2011;null;1614;
+ngerakines;erlang_twitter;open;JLM;Mon May 16 05:13:34 BRT 2011;null;1618;
+ngerakines;erlang_twitter;open;David N. Welton;Tue May 18 07:54:03 BRT 2010;null;1981;
+
+adambair;fu-fu;open;Fullware;Thu Jun 24 18:46:49 BRT 2010;null;1944;
+adambair;fu-fu;open;null;Wed Nov 11 15:08:11 BRST 2009;null;2169;
+adambair;fu-fu;closed;Kris Leech;Wed Oct 07 11:12:09 BRT 2009;Wed Oct 07 11:32:20 BRT 2009;0;
+
+
+
+credmp;color-theme-arjen;closed;Denis Klykvin;Tue Oct 01 06:33:16 BRT 2013;Wed Jan 08 16:43:58 BRST 2014;99;
+credmp;color-theme-arjen;closed;Denis Klykvin;Mon Aug 19 08:00:16 BRT 2013;Wed Jan 08 17:13:45 BRST 2014;142;
+
+
+
+
+
+
+
+
+bchiu;merb_forgery_protection;open;Voker57;Sat Apr 10 11:11:33 BRT 2010;null;2019;
+
+subwindow;negative-captcha;open;Slava Ptsarev;Wed Aug 12 00:48:00 BRT 2015;null;70;
+subwindow;negative-captcha;open;Emil Sågfors;Wed May 20 06:00:04 BRT 2015;null;153;
+subwindow;negative-captcha;open;null;Fri Mar 27 03:35:05 BRT 2015;null;207;
+subwindow;negative-captcha;open;Vesa Laakso;Wed Mar 25 05:11:30 BRT 2015;null;209;
+subwindow;negative-captcha;open;Peter Berg;Fri Jan 30 19:26:23 BRST 2015;null;263;
+subwindow;negative-captcha;closed;Nick Mamonov;Thu Jan 22 13:40:30 BRST 2015;Thu Jan 22 13:44:45 BRST 2015;0;
+subwindow;negative-captcha;open;Maximilian Schulz;Wed Jan 21 18:09:04 BRST 2015;null;272;
+subwindow;negative-captcha;open;Emil Sågfors;Mon Dec 29 14:37:03 BRST 2014;null;295;
+subwindow;negative-captcha;closed;James Hibbard;Mon Dec 08 07:24:39 BRST 2014;Mon Dec 08 10:14:43 BRST 2014;0;
+subwindow;negative-captcha;closed;Augustin Riedinger;Wed Jul 23 06:58:54 BRT 2014;Thu Jan 22 13:45:09 BRST 2015;183;
+subwindow;negative-captcha;open;Michael Wheeler;Tue Jul 15 00:36:49 BRT 2014;null;463;
+subwindow;negative-captcha;closed;null;Sun Apr 27 23:45:52 BRT 2014;Mon Jun 02 15:16:44 BRT 2014;35;
+subwindow;negative-captcha;closed;null;Tue Apr 08 09:31:47 BRT 2014;Tue Apr 08 09:47:27 BRT 2014;0;
+subwindow;negative-captcha;closed;Claudio Contin;Thu Mar 27 17:51:46 BRT 2014;Thu Mar 27 18:01:35 BRT 2014;0;
+subwindow;negative-captcha;open;Augustin Riedinger;Mon Jan 20 08:53:25 BRST 2014;null;638;
+subwindow;negative-captcha;closed;James Hibbard;Mon Nov 04 08:45:26 BRST 2013;Tue Nov 05 12:15:39 BRST 2013;1;
+subwindow;negative-captcha;closed;Benjamin Botwin;Fri Oct 11 18:46:35 BRT 2013;Tue Nov 05 12:16:32 BRST 2013;24;
+subwindow;negative-captcha;open;Stephen Touset;Fri Oct 04 16:26:47 BRT 2013;null;746;
+subwindow;negative-captcha;closed;null;Mon Sep 30 08:16:43 BRT 2013;Mon Sep 30 16:17:52 BRT 2013;0;
+subwindow;negative-captcha;closed;Honza Pokorny;Mon Sep 30 04:37:42 BRT 2013;Mon Sep 30 12:55:12 BRT 2013;0;
+subwindow;negative-captcha;closed;Yan Pritzker;Mon Jul 22 13:10:03 BRT 2013;Mon Jun 02 15:17:58 BRT 2014;315;
+subwindow;negative-captcha;closed;Evgenii Neumerzhitckii;Sat Jul 06 02:49:56 BRT 2013;Tue Jul 09 16:31:34 BRT 2013;3;
+subwindow;negative-captcha;open;Erik Peterson;Fri Jul 05 12:42:52 BRT 2013;null;837;
+subwindow;negative-captcha;closed;Evgenii Neumerzhitckii;Thu Jul 04 21:40:32 BRT 2013;Sat Jul 06 02:51:22 BRT 2013;1;
+subwindow;negative-captcha;closed;Slava Ptsarev;Thu Jul 04 15:27:46 BRT 2013;Tue Nov 05 12:17:36 BRST 2013;123;
+subwindow;negative-captcha;closed;null;Wed Jun 26 18:18:18 BRT 2013;Thu Jun 27 10:35:02 BRT 2013;0;
+subwindow;negative-captcha;closed;Dave Gantenbein;Tue Jun 18 20:23:52 BRT 2013;Fri Jul 05 12:46:11 BRT 2013;16;
+subwindow;negative-captcha;closed;null;Sun Jun 16 23:26:16 BRT 2013;Mon Jun 17 22:08:49 BRT 2013;0;
+subwindow;negative-captcha;closed;null;Sun Jun 16 23:25:33 BRT 2013;Mon Jun 17 18:52:50 BRT 2013;0;
+subwindow;negative-captcha;closed;Dennis Monsewicz;Tue May 07 12:36:19 BRT 2013;Mon Sep 30 14:11:46 BRT 2013;146;
+subwindow;negative-captcha;closed;Clemens Kofler;Wed Apr 10 13:04:04 BRT 2013;Thu Apr 11 08:29:24 BRT 2013;0;
+subwindow;negative-captcha;closed;Édouard Brière;Tue Mar 05 16:11:31 BRT 2013;Fri Mar 15 12:54:27 BRT 2013;9;
+subwindow;negative-captcha;closed;Phil Cohen;Mon Dec 24 17:38:57 BRST 2012;Thu Dec 27 16:02:29 BRST 2012;2;
+subwindow;negative-captcha;closed;Evgenii Neumerzhitckii;Sun Nov 25 23:48:01 BRST 2012;Mon Nov 26 00:59:20 BRST 2012;0;
+subwindow;negative-captcha;closed;Evgenii Neumerzhitckii;Fri Nov 23 03:32:13 BRST 2012;Mon Nov 26 00:59:35 BRST 2012;2;
+subwindow;negative-captcha;closed;Kevin Triemstra;Tue Oct 23 23:45:51 BRST 2012;Thu Jan 22 13:44:45 BRST 2015;820;
+subwindow;negative-captcha;closed;null;Mon Oct 01 05:41:05 BRT 2012;Mon Oct 22 16:28:19 BRST 2012;21;
+subwindow;negative-captcha;closed;null;Tue Sep 11 19:44:47 BRT 2012;Sat Sep 15 13:32:29 BRT 2012;3;
+subwindow;negative-captcha;closed;null;Tue Sep 11 11:40:10 BRT 2012;Mon Oct 22 16:26:03 BRST 2012;41;
+subwindow;negative-captcha;closed;Nils Landt;Tue Jul 10 12:00:50 BRT 2012;Tue Jul 10 12:37:13 BRT 2012;0;
+subwindow;negative-captcha;closed;Nathan Samson;Wed May 30 12:43:28 BRT 2012;Tue Nov 05 12:18:06 BRST 2013;523;
+subwindow;negative-captcha;closed;James Dunn;Wed May 30 00:49:03 BRT 2012;Fri Jun 08 16:29:25 BRT 2012;9;
+subwindow;negative-captcha;closed;Kevin Tyll;Mon Feb 27 16:17:51 BRT 2012;Mon Oct 22 16:29:19 BRST 2012;238;
+subwindow;negative-captcha;closed;Kiril Momchilov;Wed Jan 04 08:27:15 BRST 2012;Mon Oct 22 16:26:15 BRST 2012;292;
+subwindow;negative-captcha;closed;null;Mon Oct 10 14:57:57 BRT 2011;Fri Jun 08 16:32:20 BRT 2012;242;
+subwindow;negative-captcha;closed;null;Mon Oct 10 14:55:37 BRT 2011;Mon Sep 30 14:12:32 BRT 2013;720;
+subwindow;negative-captcha;closed;null;Fri Sep 30 09:54:38 BRT 2011;Fri Jun 08 16:31:21 BRT 2012;252;
+subwindow;negative-captcha;closed;Claudio Contin;Thu Sep 01 23:18:53 BRT 2011;Thu Sep 01 23:24:24 BRT 2011;0;
+subwindow;negative-captcha;closed;Stefan Tseng;Wed Jun 08 22:32:04 BRT 2011;Thu Jul 14 16:05:55 BRT 2011;35;
+subwindow;negative-captcha;closed;Damien Mathieu;Wed Apr 07 16:15:17 BRT 2010;Tue Sep 27 14:36:48 BRT 2011;537;
+
+
+
+
+
+
+
+
+
+
+
+
+lackac;callout;open;David Schoonover;Sun Dec 26 07:35:46 BRST 2010;null;1759;
+
+
+
+
+
+
+zeuz;travian;open;Anton Relin;Mon Oct 19 03:32:16 BRST 2015;null;1;
+zeuz;travian;closed;HostOnNet.com;Sat Mar 20 18:17:38 BRT 2010;Tue Mar 23 13:26:55 BRT 2010;2;
+
+
+
+myers;id3v2;closed;Aggelos Kolaitis;Mon Jun 30 16:51:01 BRT 2014;Tue Aug 19 12:20:42 BRT 2014;49;
+myers;id3v2;open;Alexander Foremny;Sun Oct 07 17:56:07 BRT 2012;null;1108;
+
+

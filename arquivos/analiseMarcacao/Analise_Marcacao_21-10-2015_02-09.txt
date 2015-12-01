@@ -1,0 +1,37 @@
+
+________________||||Repositório: rubyspec Cont: 4238||||_________________________
+Listas de Labels:
+Tipo MarcaçãoLABELNome Label: TODO ; Quantidade: 4
+Tipo MarcaçãoLABELNome Label: 2.2 ; Quantidade: 8
+Tipo MarcaçãoLABELNome Label: SUPPORT ; Quantidade: 1
+Listas de Milestones:
+
+________________||||Repositório: gigolojoe Cont: 4239||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: merb_cache_more Cont: 4240||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: dh-fcgi-test Cont: 4241||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: ruby-events Cont: 4242||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: fu2 Cont: 4243||||_________________________
+Listas de Labels:
+Tipo MarcaçãoLABELNome Label: FEATURE ; Quantidade: 2
+Tipo MarcaçãoLABELNome Label: BUG ; Quantidade: 3
+Listas de Milestones:
+
+________________||||Repositório: ruby-benchmark-suite Cont: 4244||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: issuetracker Cont: 4245||||_________________________
+Listas de Labels:
+Listas de Milestones:

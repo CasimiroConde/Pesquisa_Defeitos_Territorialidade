@@ -1,0 +1,83 @@
+
+evan;interlock;crowbot;Louise Crow;User;DEVELOPER;true;true;Wed Feb 23 10:30:01 BRT 2011
+evan;interlock;conradwt;Conrad Taylor;User;REPORTER;false;true;Thu Oct 14 18:05:09 BRT 2010
+evan;interlock;smingins;Shane Mingins;User;REPORTER;false;true;Thu Jul 08 23:54:32 BRT 2010
+evan;interlock;evan;Evan Weaver;User;DEVELOPER;true;false;Mon Nov 12 01:45:56 BRST 2007
+evan;interlock;brett;Brett Eisenberg;User;DEVELOPER;true;false;Mon Oct 27 14:24:59 BRST 2008
+evan;interlock;sujal;sujal;User;DEVELOPER;true;false;Tue Jul 15 17:16:12 BRT 2008
+evan;interlock;ChrisNolan;Chris Nolan.ca;User;DEVELOPER;true;false;Mon Sep 08 02:18:48 BRT 2008
+evan;interlock;sudothinker;Michael Murray;User;DEVELOPER;true;false;Mon Aug 25 16:29:32 BRT 2008
+
+rmanalan;exception_notification;NZKoz;Michael Koziarski;User;DEVELOPER;true;false;Thu Jun 05 13:24:14 BRT 2008
+rmanalan;exception_notification;dhh;David Heinemeier Hansson;User;DEVELOPER;true;false;Sat Oct 29 13:16:10 BRST 2005
+rmanalan;exception_notification;jamis;Jamis Buck;User;DEVELOPER;true;false;Sat Oct 29 22:00:58 BRST 2005
+
+TekNoLogic;fuzzylogic;tekkub;Tekkub;User;DEVELOPER;true;false;Sat Dec 16 18:25:19 BRST 2006
+TekNoLogic;fuzzylogic;kergoth;Christopher Larson;User;DEVELOPER;true;false;Wed Apr 09 18:38:20 BRT 2008
+
+saucytiger;livepipe.net-documentation;saucytiger;null;User;DEVELOPER;true;false;Tue Jun 10 19:38:20 BRT 2008
+
+ornitorrincos;archinator;angvp;Angel Velasquez;User;DEVELOPER;true;false;Mon Oct 03 00:52:49 BRT 2011
+ornitorrincos;archinator;ornitorrincos;Imanol Celaya;User;DEVELOPER;true;false;Wed Jun 11 20:03:46 BRT 2008
+
+
+shuber;restful_rails;shuber;Sean Huber;User;DEVELOPER;true;false;Tue Jul 21 13:59:42 BRT 2009
+
+duncanbeevers;populate_association_lazily;duncanbeevers;Duncan Beevers;User;DEVELOPER;true;false;Tue Jun 10 21:18:08 BRT 2008
+
+bpokosh;nifty-generators;bpokosh;Brian Pokosh;User;DEVELOPER;true;false;Tue Jun 10 22:34:16 BRT 2008
+bpokosh;nifty-generators;ryanb;Ryan Bates;User;DEVELOPER;true;false;Tue May 06 01:46:07 BRT 2008
+bpokosh;nifty-generators;drnic;Dr Nic Williams;User;DEVELOPER;true;false;Tue May 06 03:05:13 BRT 2008
+
+jaz303;clicky;jaz303;Jason Frame;User;DEVELOPER;true;false;Tue Jun 10 22:20:49 BRT 2008
+
+apeiros;silverplatter-irc;henrikhodne;Henrik Hodne;User;REPORTER;false;true;Mon Jun 22 07:48:40 BRT 2009
+apeiros;silverplatter-irc;apeiros;Stefan Rusterholz;User;DEVELOPER;true;false;Sun Jun 15 23:35:06 BRT 2008
+
+trotter;belongs_to_demeter;trotter;Trotter Cashion;User;DEVELOPER;true;false;Thu Jun 05 23:39:50 BRT 2008
+
+
+agateau;svnci;agateau;Aurélien Gâteau;User;DEVELOPER;true;false;Thu Aug 05 07:27:48 BRT 2010
+
+samaaron;monome;samaaron;Sam Aaron;User;DEVELOPER;true;false;Wed Jun 11 11:02:57 BRT 2008
+
+semdinsp;stomp_message;semdinsp;Scott Sproule;User;DEVELOPER;true;false;Mon Jun 23 00:05:19 BRT 2008
+
+underlog;active-forms;underlog;Petyo Ivanov;User;DEVELOPER;true;false;Wed Jun 11 11:20:23 BRT 2008
+
+reinh;wizardry;reinh;Rein Henrichs;User;DEVELOPER;true;false;Wed Jun 11 11:49:38 BRT 2008
+
+redondos;gmailcontacts;redondos;Angelo Olivera;User;DEVELOPER;true;false;Thu Feb 15 17:00:57 BRST 2007
+
+collectiveidea;globalize;heythisisnate;Nate Clark;User;DEVELOPER;true;false;Mon Jun 09 18:58:02 BRT 2008
+collectiveidea;globalize;yannlugrin;Yann Lugrin;User;DEVELOPER;true;false;Fri Oct 13 11:27:49 BRT 2006
+collectiveidea;globalize;jsierles2;null;User;DEVELOPER;true;false;Sun Apr 29 14:27:59 BRT 2007
+collectiveidea;globalize;joshmh;Josh Harvey;User;DEVELOPER;true;false;Wed May 23 21:49:33 BRT 2007
+collectiveidea;globalize;saimonmoore;Saimon Moore;User;DEVELOPER;true;false;Wed Jan 17 22:16:48 BRST 2007
+
+bpokosh;useful-tmbundles;bpokosh;Brian Pokosh;User;DEVELOPER;true;false;Wed Jun 11 11:47:30 BRT 2008
+
+
+eadz;title_helper;DefV;Jan De Poorter;User;DEVELOPER;true;false;Thu Apr 17 09:26:11 BRT 2008
+
+
+pptaszynski;changepitch;pptaszynski;Pawe? Ptaszy?ski;User;DEVELOPER;true;false;Wed Jun 11 15:07:14 BRT 2008
+
+neshmi;attachment_fu;neshmi;Matthew Vincent;User;DEVELOPER;true;false;Wed Jun 11 13:08:55 BRT 2008
+neshmi;attachment_fu;technoweenie;risk danger olson;User;DEVELOPER;true;false;Mon Jan 07 21:11:21 BRST 2008
+neshmi;attachment_fu;eadz;Eaden;User;DEVELOPER;true;false;Mon Jun 09 01:46:19 BRT 2008
+neshmi;attachment_fu;crafterm;Marcus Crafter;User;DEVELOPER;true;false;Thu Feb 21 05:16:53 BRT 2008
+neshmi;attachment_fu;nbibler;Nathaniel Bibler;User;DEVELOPER;true;false;Fri May 16 16:59:54 BRT 2008
+neshmi;attachment_fu;redinger;Christopher;User;DEVELOPER;true;false;Wed May 07 22:59:41 BRT 2008
+neshmi;attachment_fu;drnic;Dr Nic Williams;User;DEVELOPER;true;false;Wed Apr 23 01:06:29 BRT 2008
+neshmi;attachment_fu;francois;François Beausoleil;User;DEVELOPER;true;false;Tue Mar 11 11:09:34 BRT 2008
+neshmi;attachment_fu;rsanheim;Rob Sanheim;User;DEVELOPER;true;false;Tue Feb 26 12:42:05 BRT 2008
+neshmi;attachment_fu;rmm5t;Ryan McGeary;User;DEVELOPER;true;false;Thu Mar 13 19:41:19 BRT 2008
+neshmi;attachment_fu;zsombor;Dee Zsombor;User;DEVELOPER;true;false;Thu Mar 13 16:26:03 BRT 2008
+neshmi;attachment_fu;nicksieger;Nick Sieger;User;DEVELOPER;true;false;Tue Mar 04 12:25:11 BRT 2008
+neshmi;attachment_fu;ericallam;Eric Allam;User;DEVELOPER;true;false;Wed Feb 27 13:04:36 BRT 2008
+
+arydjmal;to_csv;fjfish;Francis Fish;User;REPORTER;false;true;Tue Aug 16 05:16:17 BRT 2011
+arydjmal;to_csv;troy;Troy Davis;User;DEVELOPER;true;true;Mon Feb 21 15:58:20 BRT 2011
+arydjmal;to_csv;sekrett;Alexander Zubkov;User;REPORTER;false;true;Sat Aug 07 14:07:21 BRT 2010
+arydjmal;to_csv;arydjmal;Ary Djmal;User;DEVELOPER;true;false;Wed Jun 11 13:08:39 BRT 2008

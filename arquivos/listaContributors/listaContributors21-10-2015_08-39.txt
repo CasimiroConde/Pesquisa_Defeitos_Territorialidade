@@ -1,0 +1,369 @@
+
+drd;rails;josh;Joshua Peek;User;DEVELOPER;true;false;Sat Mar 29 17:50:09 BRT 2008
+drd;rails;dhh;David Heinemeier Hansson;User;DEVELOPER;true;false;Tue Nov 23 23:04:44 BRST 2004
+drd;rails;technoweenie;risk danger olson;User;DEVELOPER;true;false;Sun Mar 05 20:41:17 BRT 2006
+drd;rails;jeremy;Jeremy Daer;User;DEVELOPER;true;false;Sat Jun 11 17:26:07 BRT 2005
+drd;rails;NZKoz;Michael Koziarski;User;DEVELOPER;true;false;Thu Oct 06 01:15:14 BRT 2005
+drd;rails;lifo;Pratik;User;DEVELOPER;true;false;Tue Mar 04 22:26:24 BRT 2008
+drd;rails;gbuesing;Geoff Buesing;User;DEVELOPER;true;false;Sat Nov 24 01:57:11 BRST 2007
+drd;rails;robbyrussell;Robby Russell;User;DEVELOPER;true;false;Wed May 14 21:17:24 BRT 2008
+drd;rails;pjb3;Paul Barry;User;DEVELOPER;true;false;Tue May 06 01:52:12 BRT 2008
+drd;rails;tobi;Tobias Lütke;User;DEVELOPER;true;false;Tue Apr 29 15:57:21 BRT 2008
+drd;rails;stephencelis;Stephen Celis;User;DEVELOPER;true;false;Sat Apr 12 20:43:38 BRT 2008
+drd;rails;ddollar;David Dollar;User;DEVELOPER;true;false;Fri Apr 11 19:25:11 BRT 2008
+drd;rails;jamis;Jamis Buck;User;DEVELOPER;true;false;Sun May 29 13:36:22 BRT 2005
+drd;rails;sstephenson;Sam Stephenson;User;DEVELOPER;true;false;Sun Apr 17 23:16:13 BRT 2005
+drd;rails;madrobby;Thomas Fuchs;User;DEVELOPER;true;false;Sun Sep 25 03:53:42 BRT 2005
+drd;rails;seckar;Nicholas Seckar;User;DEVELOPER;true;false;Thu Jul 07 16:23:35 BRT 2005
+drd;rails;csshsh;Florian Weber;User;DEVELOPER;true;false;Fri Oct 14 17:33:39 BRT 2005
+drd;rails;bitserf;Leon Breedt;User;DEVELOPER;true;false;Fri Feb 18 08:38:40 BRST 2005
+
+eventualbuddha;dust;kevinclark;Kevin Clark;User;DEVELOPER;true;false;Sat May 31 21:42:31 BRT 2008
+
+maiha;dsl_accessor;esad;Esad Hajdarevic;User;REPORTER;false;true;Tue Aug 10 23:49:05 BRT 2010
+maiha;dsl_accessor;maiha;null;User;DEVELOPER;true;false;Sun Jun 01 21:20:09 BRT 2008
+
+rubyspec;mspec;balasankarc;Balasankar C;User;REPORTER;false;true;Mon Jun 22 13:29:58 BRT 2015
+rubyspec;mspec;vais;Vais Salikhov;User;REPORTER;false;true;Sat Apr 18 22:09:01 BRT 2015
+rubyspec;mspec;nirvdrum;Kevin Menard;User;REPORTER;false;true;Tue Mar 17 12:25:34 BRT 2015
+rubyspec;mspec;eregon;Benoit Daloze;User;REPORTER;true;true;Sun Jul 29 08:56:26 BRT 2012
+rubyspec;mspec;elia;Elia Schito;User;DEVELOPER;true;true;Sat Jun 08 10:07:53 BRT 2013
+rubyspec;mspec;L2G;Larry Gilbert;User;REPORTER;false;true;Tue Nov 25 16:03:03 BRST 2014
+rubyspec;mspec;jc00ke;Jesse Cooke;User;DEVELOPER;true;true;Mon Jan 09 03:38:20 BRST 2012
+rubyspec;mspec;ELLIOTTCABLE;null;User;DEVELOPER;true;true;Sun Jul 06 20:27:38 BRT 2014
+rubyspec;mspec;chrisseaton;Chris Seaton;User;REPORTER;true;true;Sat Jun 08 03:08:14 BRT 2013
+rubyspec;mspec;kachick;Kenichi Kamiya;User;REPORTER;true;true;Fri Jun 14 01:36:45 BRT 2013
+rubyspec;mspec;iainbeeston;Iain Beeston;User;REPORTER;true;true;Sat Aug 10 02:11:38 BRT 2013
+rubyspec;mspec;ryoqun;Ryo Onodera;User;DEVELOPER;true;true;Sun Sep 30 13:16:34 BRT 2012
+rubyspec;mspec;timfel;Tim Felgentreff;User;DEVELOPER;true;true;Mon Jul 19 10:52:09 BRT 2010
+rubyspec;mspec;shugo;Shugo Maeda;User;DEVELOPER;true;true;Thu Jan 10 14:46:46 BRST 2013
+rubyspec;mspec;mkb;mkb;User;DEVELOPER;true;true;Wed Dec 05 23:30:51 BRST 2012
+rubyspec;mspec;alex;Alex Gaynor;User;REPORTER;false;true;Wed Oct 03 18:48:14 BRT 2012
+rubyspec;mspec;voxik;Vít Ondruch;User;DEVELOPER;true;true;Mon Sep 24 12:13:29 BRT 2012
+rubyspec;mspec;shirosaki;Hiroshi Shirosaki;User;DEVELOPER;true;true;Sat Aug 25 09:16:18 BRT 2012
+rubyspec;mspec;rdp;Roger Pack;User;DEVELOPER;true;true;Wed Jun 27 18:52:56 BRT 2012
+rubyspec;mspec;Zoxc;null;User;REPORTER;false;true;Sun May 27 06:29:06 BRT 2012
+rubyspec;mspec;jfirebaugh;John Firebaugh;User;DEVELOPER;true;true;Sun Dec 04 04:55:35 BRST 2011
+rubyspec;mspec;nurse;NARUSE, Yui;User;DEVELOPER;true;true;Thu Oct 20 10:23:22 BRST 2011
+rubyspec;mspec;brixen;Brian Shirai;User;DEVELOPER;true;true;Sat May 17 20:06:12 BRT 2008
+rubyspec;mspec;ghost;Deleted user;User;REPORTER;false;true;Thu Dec 01 09:48:54 BRST 2011
+rubyspec;mspec;gkubaryk;null;User;DEVELOPER;true;true;Tue Aug 16 23:31:32 BRT 2011
+rubyspec;mspec;epitron;Chris Gahan;User;REPORTER;false;true;Sat Jun 18 16:40:57 BRT 2011
+rubyspec;mspec;hosiawak;Karol Hosiawa;User;REPORTER;false;true;Wed Jun 08 19:25:51 BRT 2011
+rubyspec;mspec;Gibheer;Gibheer;User;REPORTER;true;true;Tue May 03 07:23:48 BRT 2011
+rubyspec;mspec;regularfry;Alex Young;User;REPORTER;false;true;Fri Mar 18 05:56:45 BRT 2011
+rubyspec;mspec;headius;Charles Oliver Nutter;User;REPORTER;false;true;Fri Dec 10 03:55:38 BRST 2010
+rubyspec;mspec;runpaint;null;User;DEVELOPER;true;true;Thu Jun 04 14:45:26 BRT 2009
+rubyspec;mspec;rue;Eero Saynatkari;User;DEVELOPER;true;false;Fri May 16 02:03:20 BRT 2008
+rubyspec;mspec;luislavena;Luis Lavena;User;DEVELOPER;true;false;Sun May 18 01:30:37 BRT 2008
+rubyspec;mspec;marcandre;Marc-André Lafortune;User;DEVELOPER;true;false;Mon May 04 19:29:40 BRT 2009
+rubyspec;mspec;nicksieger;Nick Sieger;User;DEVELOPER;true;false;Wed May 14 14:22:18 BRT 2008
+rubyspec;mspec;ujihisa;null;User;DEVELOPER;true;false;Fri May 01 17:22:00 BRT 2009
+rubyspec;mspec;alloy;Eloy Durán;User;DEVELOPER;true;false;Sun Apr 05 13:09:12 BRT 2009
+rubyspec;mspec;jredville;Jim Deville;User;DEVELOPER;true;false;Thu Jul 24 03:27:40 BRT 2008
+rubyspec;mspec;febuiles;Federico Builes;User;DEVELOPER;true;false;Wed Jun 25 20:16:28 BRT 2008
+rubyspec;mspec;yugui;Yuki Yugui Sonoda;User;DEVELOPER;true;false;Fri Oct 31 02:00:42 BRST 2008
+rubyspec;mspec;arthurschreiber;Arthur Schreiber;User;DEVELOPER;true;false;Fri May 16 12:21:30 BRT 2008
+rubyspec;mspec;btakita;Brian Takita;User;DEVELOPER;true;false;Sat May 31 01:57:42 BRT 2008
+rubyspec;mspec;mernen;Daniel Luz;User;DEVELOPER;true;false;Tue May 20 07:50:41 BRT 2008
+
+jacius;rebirth;jacius;John Croisant;User;DEVELOPER;true;false;Tue May 27 04:20:30 BRT 2008
+
+
+ukstudio;acts_as_bits;hsbt;SHIBATA Hiroshi;User;DEVELOPER;true;true;Wed Aug 20 11:33:40 BRT 2014
+ukstudio;acts_as_bits;ukstudio;AKAMATSU Yuki;User;DEVELOPER;true;true;Mon May 27 00:01:45 BRT 2013
+ukstudio;acts_as_bits;yuroyoro;Tomohito Ozaki;User;DEVELOPER;true;false;Wed Mar 14 04:42:50 BRT 2012
+ukstudio;acts_as_bits;maiha;null;User;DEVELOPER;true;false;Tue Jun 03 23:19:17 BRT 2008
+
+wfarr;newskit;wfarr;Will Farrington;User;DEVELOPER;true;false;Sun Jun 01 22:22:42 BRT 2008
+
+nuance;java-nlp-utils;nuance;Matt Jones;User;DEVELOPER;true;false;Mon Jun 02 04:41:22 BRT 2008
+
+
+kmeister2000;mtdweb;kmeister2000;Karl Meisterheim;User;DEVELOPER;true;false;Wed May 07 23:01:09 BRT 2008
+kmeister2000;mtdweb;mdiep;Matt Diephouse;User;DEVELOPER;true;false;Thu May 01 12:39:33 BRT 2008
+
+dcolthorp;rspec;dchelimsky;David Chelimsky;User;DEVELOPER;true;false;Wed Feb 27 01:50:12 BRT 2008
+dcolthorp;rspec;btakita;Brian Takita;User;DEVELOPER;true;false;Thu Apr 10 04:21:43 BRT 2008
+dcolthorp;rspec;patmaddox;Pat Maddox;User;DEVELOPER;true;false;Wed Feb 27 08:23:30 BRT 2008
+dcolthorp;rspec;pd;Kyle Hargraves;User;DEVELOPER;true;false;Mon Apr 07 01:35:07 BRT 2008
+
+pdxrod;clearcut;pdxrod;null;User;DEVELOPER;true;false;Mon Jun 02 00:49:53 BRT 2008
+
+
+tenderlove;betabrite;vinnyjth;Vincent Wilson;User;REPORTER;false;true;Sun Aug 17 15:19:55 BRT 2014
+tenderlove;betabrite;tenderlove;Aaron Patterson;User;DEVELOPER;true;false;Mon Jul 07 01:41:07 BRT 2008
+
+hagabaka;texter;hagabaka;Yaohan Chen;User;DEVELOPER;true;false;Mon Jun 02 01:57:25 BRT 2008
+
+richdownie;otterlodge;jwhitmire;Jeff Whitmire;User;DEVELOPER;true;false;Fri May 22 23:49:04 BRT 2009
+
+ngerakines;erlang_geohash;ngerakines;Nick Gerakines;User;DEVELOPER;true;false;Mon Jun 02 02:16:05 BRT 2008
+
+fczuardi;teh;btbytes;Pradeep Gowda;User;DEVELOPER;true;false;Wed Apr 23 03:16:49 BRT 2008
+
+francois;workling;francois;François Beausoleil;User;DEVELOPER;true;false;Mon Jun 02 02:30:48 BRT 2008
+francois;workling;purzelrakete;Rany Keddo;User;DEVELOPER;true;false;Wed Apr 02 14:12:59 BRT 2008
+
+mysz;downloads;mysz;Marcin Sztolcman;User;DEVELOPER;true;false;Mon Jun 02 03:55:03 BRT 2008
+
+pjf;games-everquest-loglineparser;pjf;Paul Fenwick;User;DEVELOPER;true;false;Tue Aug 16 02:43:36 BRT 2005
+
+tsukkee;tasko-vim;tsukkee;Takayuki Tsukitani;User;DEVELOPER;true;false;Mon Jun 02 04:23:07 BRT 2008
+
+saimonmoore;fiveruns_tuneup;bruce;Bruce Williams;User;DEVELOPER;true;false;Thu May 08 16:54:19 BRT 2008
+saimonmoore;fiveruns_tuneup;efalcao;Eric Falcao;User;DEVELOPER;true;false;Fri May 30 05:13:13 BRT 2008
+saimonmoore;fiveruns_tuneup;bdainton;Brian Dainton;User;DEVELOPER;true;false;Mon May 12 14:49:40 BRT 2008
+saimonmoore;fiveruns_tuneup;therealadam;Adam Keys;User;DEVELOPER;true;false;Thu May 29 16:34:13 BRT 2008
+
+intinig;ruby-benchmark-suite;intinig;Giovanni Intini;User;DEVELOPER;true;false;Mon Jun 02 07:10:16 BRT 2008
+intinig;ruby-benchmark-suite;acangiano;Antonio Cangiano;User;DEVELOPER;true;false;Sun Jun 01 20:39:31 BRT 2008
+
+diclophis;myringr;diclophis;Jon Bardin;User;DEVELOPER;true;false;Wed Jun 25 04:55:37 BRT 2008
+
+
+kumo;me-money;kumo;Robert Clarke;User;DEVELOPER;true;false;Mon Jun 02 06:18:43 BRT 2008
+
+tanz;ruby-on-rails-tmbundle;lawrencepit;Lawrence Pit;User;DEVELOPER;true;false;Thu May 22 00:10:18 BRT 2008
+tanz;ruby-on-rails-tmbundle;drnic;Dr Nic Williams;User;DEVELOPER;true;false;Sun May 11 21:54:17 BRT 2008
+
+shachi;plugindb;shachi;Kazuyuki Koizuka;User;DEVELOPER;true;false;Mon Jun 02 07:11:19 BRT 2008
+
+melo;search-in-project-with-ack-tmcommand;melo;Pedro Melo;User;DEVELOPER;true;false;Mon Jun 02 06:26:31 BRT 2008
+
+koenigm;hartmut;derhans;null;User;DEVELOPER;true;false;Sun Jun 01 07:40:37 BRT 2008
+
+ismasan;webrat;brynary;Bryan Helmkamp;User;DEVELOPER;true;false;Sun Mar 02 17:14:52 BRT 2008
+ismasan;webrat;lukemelia;Luke Melia;User;DEVELOPER;true;false;Wed Mar 12 03:04:41 BRT 2008
+ismasan;webrat;nicksieger;Nick Sieger;User;DEVELOPER;true;false;Thu Apr 17 13:31:40 BRT 2008
+ismasan;webrat;joevandyk;Joe Van Dyk;User;DEVELOPER;true;false;Sun Apr 13 20:02:35 BRT 2008
+ismasan;webrat;pd;Kyle Hargraves;User;DEVELOPER;true;false;Sat Apr 12 18:07:33 BRT 2008
+
+gyulalaszlo;continuous_scroller_js;gyulalaszlo;Gyula László;User;DEVELOPER;true;false;Mon Jun 02 08:44:28 BRT 2008
+
+ismasan;acts_as_taggable_on_steroids;ryanfelton;Ryan Felton;User;DEVELOPER;true;false;Mon Mar 31 13:45:35 BRT 2008
+ismasan;acts_as_taggable_on_steroids;mattetti;Matt Aimonetti;User;DEVELOPER;true;false;Fri Mar 07 21:06:44 BRT 2008
+
+ariya;screenie;kensington;null;User;REPORTER;false;true;Thu Apr 05 09:10:33 BRT 2012
+ariya;screenie;deejay1;?ukasz Jerna?;User;DEVELOPER;true;true;Sun Jan 18 11:07:28 BRST 2009
+ariya;screenie;till213;Oliver Knoll;User;DEVELOPER;true;false;Sat Dec 11 01:22:42 BRST 2010
+ariya;screenie;slubman;Nicolas Doualot;User;DEVELOPER;true;false;Sat Sep 06 15:42:00 BRT 2008
+ariya;screenie;ariya;Ariya Hidayat;User;DEVELOPER;true;false;Mon Jun 02 09:57:04 BRT 2008
+
+
+hanneswu;insoshi;mhartl;Michael Hartl;User;DEVELOPER;true;false;Mon Feb 18 20:18:20 BRT 2008
+hanneswu;insoshi;long;Long Nguyen;User;DEVELOPER;true;false;Wed Apr 09 21:20:30 BRT 2008
+hanneswu;insoshi;calas;Jorge Calás;User;DEVELOPER;true;false;Thu Apr 17 20:27:25 BRT 2008
+hanneswu;insoshi;raulparolari;Raul Parolari;User;DEVELOPER;true;false;Mon Mar 03 22:44:19 BRT 2008
+
+amoore;sms--send--us--ipipi;amoore;Andrew Moore;User;DEVELOPER;true;false;Mon Jun 02 11:24:29 BRT 2008
+
+cccarey;dotnetxmlswfchart;cccarey;Christian Carey;User;DEVELOPER;true;false;Mon Jun 02 11:53:13 BRT 2008
+
+joelw;database_form;zapnap;Nick Plante;User;DEVELOPER;true;false;Tue Mar 04 12:28:46 BRT 2008
+
+jandot;ruby-ucsc-api;jandot;Jan Aerts;User;DEVELOPER;true;false;Mon Jun 02 12:40:21 BRT 2008
+
+jarkko;dm-core;jarkko;Jarkko Laine;User;DEVELOPER;true;false;Mon Jun 02 13:00:20 BRT 2008
+jarkko;dm-core;somebee;Sindre Aarsaether;User;DEVELOPER;true;false;Mon Apr 28 09:15:21 BRT 2008
+jarkko;dm-core;markbates;Mark Bates;User;DEVELOPER;true;false;Fri May 30 19:18:03 BRT 2008
+jarkko;dm-core;advany;Abdul-Rahman Advany;User;DEVELOPER;true;false;Mon May 19 16:33:45 BRT 2008
+jarkko;dm-core;sam;Sam Smoot;User;DEVELOPER;true;false;Tue Feb 26 19:15:06 BRT 2008
+jarkko;dm-core;myabc;Alex Coles;User;DEVELOPER;true;false;Wed Apr 02 11:19:57 BRT 2008
+jarkko;dm-core;rughetto;null;User;DEVELOPER;true;false;Wed May 21 02:09:24 BRT 2008
+jarkko;dm-core;wycats;Yehuda Katz;User;DEVELOPER;true;false;Tue Apr 15 03:48:06 BRT 2008
+jarkko;dm-core;joe;null;User;DEVELOPER;true;false;Fri May 16 17:36:51 BRT 2008
+jarkko;dm-core;sporkmonger;Bob Aman;User;DEVELOPER;true;false;Sat May 03 14:36:33 BRT 2008
+jarkko;dm-core;tpitale;Tony Pitale;User;DEVELOPER;true;false;Wed Mar 19 19:47:46 BRT 2008
+jarkko;dm-core;cypher;Markus Prinz;User;DEVELOPER;true;false;Tue May 13 17:08:57 BRT 2008
+jarkko;dm-core;bernerdschaefer;Bernerd Schaefer;User;DEVELOPER;true;false;Thu Mar 27 23:44:39 BRT 2008
+jarkko;dm-core;Bauerpauer;Scott Bauer;User;DEVELOPER;true;false;Sun Mar 23 01:47:17 BRT 2008
+jarkko;dm-core;benburkert;Ben Burkert;User;DEVELOPER;true;false;Fri Mar 28 20:24:33 BRT 2008
+jarkko;dm-core;krobertson;Ken Robertson;User;DEVELOPER;true;false;Fri May 09 12:43:31 BRT 2008
+jarkko;dm-core;myobie;Nathan;User;DEVELOPER;true;false;Thu May 08 10:49:30 BRT 2008
+jarkko;dm-core;atmos;Corey Donohoe;User;DEVELOPER;true;false;Wed May 07 20:15:41 BRT 2008
+jarkko;dm-core;be9;Oleg Dashevskii;User;DEVELOPER;true;false;Mon May 05 16:48:15 BRT 2008
+jarkko;dm-core;foysavas;Foy Savas;User;DEVELOPER;true;false;Wed Apr 23 18:07:59 BRT 2008
+jarkko;dm-core;david;David Leal;User;DEVELOPER;true;false;Sat Mar 22 15:25:39 BRT 2008
+
+72squared;glu-php;Jakobo;Jakob Heuser;User;DEVELOPER;true;true;Mon Jan 24 18:06:18 BRST 2011
+
+
+diasjorge;bash-completion-extras;calas;Jorge Calás;User;DEVELOPER;true;false;Mon May 26 08:56:17 BRT 2008
+
+dbora;mephisto;technoweenie;risk danger olson;User;DEVELOPER;true;false;Wed Dec 19 18:18:05 BRST 2007
+dbora;mephisto;isaackearse;null;User;DEVELOPER;true;false;Sat Mar 29 02:53:25 BRT 2008
+dbora;mephisto;francois;François Beausoleil;User;DEVELOPER;true;false;Mon Mar 03 11:57:58 BRT 2008
+dbora;mephisto;svenfuchs;Sven Fuchs;User;DEVELOPER;true;false;Wed Feb 06 19:27:46 BRST 2008
+dbora;mephisto;psq;Pascal;User;DEVELOPER;true;false;Sat Dec 22 07:15:37 BRST 2007
+
+mvdetsen;mvdetsen;crawshaw;David Crawshaw;User;DEVELOPER;true;false;Tue Nov 14 18:30:54 BRST 2006
+
+roddotnet;clearcut;pdxrod;null;User;DEVELOPER;true;false;Mon Jun 02 00:49:53 BRT 2008
+
+mikeweber;restful-textmate-bundle;mikeweber;Mike Weber;User;DEVELOPER;true;false;Mon Jun 02 15:33:32 BRT 2008
+
+cmorss;dm-core;somebee;Sindre Aarsaether;User;DEVELOPER;true;false;Mon Apr 28 09:15:21 BRT 2008
+cmorss;dm-core;markbates;Mark Bates;User;DEVELOPER;true;false;Fri May 30 19:18:03 BRT 2008
+cmorss;dm-core;advany;Abdul-Rahman Advany;User;DEVELOPER;true;false;Mon May 19 16:33:45 BRT 2008
+cmorss;dm-core;sam;Sam Smoot;User;DEVELOPER;true;false;Tue Feb 26 19:15:06 BRT 2008
+cmorss;dm-core;myabc;Alex Coles;User;DEVELOPER;true;false;Wed Apr 02 11:19:57 BRT 2008
+cmorss;dm-core;rughetto;null;User;DEVELOPER;true;false;Wed May 21 02:09:24 BRT 2008
+cmorss;dm-core;wycats;Yehuda Katz;User;DEVELOPER;true;false;Tue Apr 15 03:48:06 BRT 2008
+cmorss;dm-core;joe;null;User;DEVELOPER;true;false;Fri May 16 17:36:51 BRT 2008
+cmorss;dm-core;sporkmonger;Bob Aman;User;DEVELOPER;true;false;Sat May 03 14:36:33 BRT 2008
+cmorss;dm-core;tpitale;Tony Pitale;User;DEVELOPER;true;false;Wed Mar 19 19:47:46 BRT 2008
+cmorss;dm-core;cypher;Markus Prinz;User;DEVELOPER;true;false;Tue May 13 17:08:57 BRT 2008
+cmorss;dm-core;bernerdschaefer;Bernerd Schaefer;User;DEVELOPER;true;false;Thu Mar 27 23:44:39 BRT 2008
+cmorss;dm-core;Bauerpauer;Scott Bauer;User;DEVELOPER;true;false;Sun Mar 23 01:47:17 BRT 2008
+cmorss;dm-core;benburkert;Ben Burkert;User;DEVELOPER;true;false;Fri Mar 28 20:24:33 BRT 2008
+cmorss;dm-core;krobertson;Ken Robertson;User;DEVELOPER;true;false;Fri May 09 12:43:31 BRT 2008
+cmorss;dm-core;myobie;Nathan;User;DEVELOPER;true;false;Thu May 08 10:49:30 BRT 2008
+cmorss;dm-core;atmos;Corey Donohoe;User;DEVELOPER;true;false;Wed May 07 20:15:41 BRT 2008
+cmorss;dm-core;be9;Oleg Dashevskii;User;DEVELOPER;true;false;Mon May 05 16:48:15 BRT 2008
+cmorss;dm-core;foysavas;Foy Savas;User;DEVELOPER;true;false;Wed Apr 23 18:07:59 BRT 2008
+cmorss;dm-core;david;David Leal;User;DEVELOPER;true;false;Sat Mar 22 15:25:39 BRT 2008
+
+nogoth;gitjour;nogoth;Ben Livingood;User;DEVELOPER;true;false;Mon Jun 02 16:32:26 BRT 2008
+nogoth;gitjour;alexvollmer;Alex Vollmer;User;DEVELOPER;true;false;Thu Jun 05 00:58:23 BRT 2008
+nogoth;gitjour;drnic;Dr Nic Williams;User;DEVELOPER;true;false;Tue Jun 03 00:02:12 BRT 2008
+nogoth;gitjour;evanphx;Evan Phoenix;User;DEVELOPER;true;false;Sun Jun 01 02:59:08 BRT 2008
+nogoth;gitjour;ntalbott;Nathaniel Talbott;User;DEVELOPER;true;false;Sat May 31 12:50:31 BRT 2008
+nogoth;gitjour;chad;Chad Fowler;User;DEVELOPER;true;false;Thu May 29 14:29:07 BRT 2008
+nogoth;gitjour;nicksieger;Nick Sieger;User;DEVELOPER;true;false;Sat May 31 19:41:54 BRT 2008
+nogoth;gitjour;adkron;Amos King;User;DEVELOPER;true;false;Sat May 31 19:14:32 BRT 2008
+nogoth;gitjour;ggoodale;Grant Goodale;User;DEVELOPER;true;false;Sat May 31 16:24:22 BRT 2008
+nogoth;gitjour;skwp;Yan Pritzker;User;DEVELOPER;true;false;Sat May 31 16:10:04 BRT 2008
+nogoth;gitjour;dysinger;Tim Dysinger;User;DEVELOPER;true;false;Sat May 31 16:04:32 BRT 2008
+
+veganstraightedge;htmldog;veganstraightedge;Shane Becker;User;DEVELOPER;true;false;Mon Jun 02 16:35:33 BRT 2008
+
+oneman;rawdod;oneman;David Richards;User;DEVELOPER;true;false;Sun Sep 30 14:04:10 BRT 2007
+
+golgote;frigo;golgote;Bertrand Mansion;User;DEVELOPER;true;false;Mon Jun 02 16:52:36 BRT 2008
+
+mbleigh;subdomain-fu;udayakiran;Udaya Kiran;User;REPORTER;false;true;Tue Sep 29 06:21:56 BRT 2015
+mbleigh;subdomain-fu;jaredbeck;Jared Beck;User;REPORTER;false;true;Mon Dec 29 21:23:24 BRST 2014
+mbleigh;subdomain-fu;csph8;null;User;REPORTER;false;true;Thu Nov 28 13:05:19 BRST 2013
+mbleigh;subdomain-fu;rishav;Rishav Rastogi;User;DEVELOPER;true;true;Fri Jul 26 16:33:47 BRT 2013
+mbleigh;subdomain-fu;pusewicz;Piotr Usewicz;User;REPORTER;false;true;Sun May 26 06:02:05 BRT 2013
+mbleigh;subdomain-fu;alekseenkoss77;null;User;REPORTER;false;true;Sat Oct 13 12:54:09 BRT 2012
+mbleigh;subdomain-fu;the-teacher;Ilya N. Zykin;User;REPORTER;false;true;Tue Aug 28 09:44:58 BRT 2012
+mbleigh;subdomain-fu;shedd;Robert Shedd;User;REPORTER;false;true;Fri Apr 20 13:37:53 BRT 2012
+mbleigh;subdomain-fu;dieuit07;dieu;User;REPORTER;false;true;Wed Mar 21 06:28:01 BRT 2012
+mbleigh;subdomain-fu;JackPott;Chris Austin;User;REPORTER;false;true;Tue Dec 20 10:40:57 BRST 2011
+mbleigh;subdomain-fu;key88sf;null;User;REPORTER;false;true;Fri Jul 22 15:07:41 BRT 2011
+mbleigh;subdomain-fu;kylev;Kyle VanderBeek;User;REPORTER;false;true;Fri Jun 24 20:03:05 BRT 2011
+mbleigh;subdomain-fu;pboling;Peter Boling;User;DEVELOPER;true;true;Mon Aug 24 18:25:18 BRT 2009
+mbleigh;subdomain-fu;ghazel;Greg Hazel;User;REPORTER;false;true;Mon May 02 04:38:24 BRT 2011
+mbleigh;subdomain-fu;rykov;Michael Rykov;User;DEVELOPER;true;true;Thu Sep 17 17:40:48 BRT 2009
+mbleigh;subdomain-fu;ajh;Andy Hartford;User;REPORTER;false;true;Tue Aug 31 20:01:54 BRT 2010
+mbleigh;subdomain-fu;irregular;César Cejudo;User;REPORTER;false;true;Sun Aug 08 01:28:55 BRT 2010
+mbleigh;subdomain-fu;benschwarz;Ben Schwarz;User;REPORTER;false;true;Wed Feb 10 03:03:44 BRST 2010
+mbleigh;subdomain-fu;alPacino;null;User;REPORTER;false;true;Thu Aug 05 07:31:35 BRT 2010
+mbleigh;subdomain-fu;mcculloughsean;Sean McCullough;User;REPORTER;false;true;Sun Jul 11 20:52:34 BRT 2010
+mbleigh;subdomain-fu;s01ipsist;null;User;REPORTER;false;true;Sun May 09 22:52:38 BRT 2010
+mbleigh;subdomain-fu;acatighera;Alexandru Catighera;User;REPORTER;false;true;Wed Mar 31 19:02:11 BRT 2010
+mbleigh;subdomain-fu;jeanmartin;Jan Schwenzien;User;REPORTER;false;true;Thu Mar 25 08:23:34 BRT 2010
+mbleigh;subdomain-fu;alfrednerstu;Alfred;User;REPORTER;false;true;Fri Mar 12 16:50:41 BRT 2010
+mbleigh;subdomain-fu;EmFi;Emery Finkelstein;User;REPORTER;false;true;Thu Feb 11 20:48:06 BRST 2010
+mbleigh;subdomain-fu;ekampp;Emil Kampp;User;REPORTER;false;true;Sun Jan 10 23:51:09 BRST 2010
+mbleigh;subdomain-fu;f10i;Al-Faisal El-Dajani;User;REPORTER;false;true;Wed Dec 30 12:11:08 BRST 2009
+mbleigh;subdomain-fu;technicalpickles;Josh Nichols;User;REPORTER;false;true;Wed Dec 02 20:00:05 BRST 2009
+mbleigh;subdomain-fu;mihar;Miha Rebernik;User;REPORTER;false;true;Fri Sep 04 08:26:55 BRT 2009
+mbleigh;subdomain-fu;joslynesser;null;User;DEVELOPER;true;false;Wed Oct 12 14:37:25 BRT 2011
+mbleigh;subdomain-fu;leehambley;Lee Hambley;User;DEVELOPER;true;false;Wed Feb 23 09:41:14 BRT 2011
+mbleigh;subdomain-fu;gix;Nico Rieck;User;DEVELOPER;true;false;Wed Nov 03 11:07:29 BRST 2010
+mbleigh;subdomain-fu;ramontayag;Ramon Tayag;User;DEVELOPER;true;false;Fri Oct 22 02:55:13 BRST 2010
+mbleigh;subdomain-fu;danielmorrison;Daniel Morrison;User;DEVELOPER;true;false;Wed May 12 22:36:33 BRT 2010
+mbleigh;subdomain-fu;lerrua;Igor P. Leroy;User;DEVELOPER;true;false;Fri Sep 10 17:07:05 BRT 2010
+mbleigh;subdomain-fu;nhowell;Nick Howell;User;DEVELOPER;true;false;Tue Apr 06 22:07:47 BRT 2010
+mbleigh;subdomain-fu;arctickiwi;Jonathon Horsman;User;DEVELOPER;true;false;Wed Jan 20 13:48:59 BRST 2010
+mbleigh;subdomain-fu;ryland;ry;User;DEVELOPER;true;false;Thu Sep 17 12:21:44 BRT 2009
+mbleigh;subdomain-fu;loe;Andrew Loe;User;DEVELOPER;true;false;Fri Jul 31 15:39:27 BRT 2009
+mbleigh;subdomain-fu;eric;Eric Lindvall;User;DEVELOPER;true;false;Thu May 21 19:46:34 BRT 2009
+mbleigh;subdomain-fu;account-settings;a;User;DEVELOPER;true;false;Fri Apr 17 13:10:32 BRT 2009
+mbleigh;subdomain-fu;etaque;Emilien Taque;User;DEVELOPER;true;false;Sat Apr 04 15:06:01 BRT 2009
+mbleigh;subdomain-fu;jcoby;null;User;DEVELOPER;true;false;Mon Dec 15 13:37:36 BRST 2008
+mbleigh;subdomain-fu;morhekil;Oleg Ivanov;User;DEVELOPER;true;false;Sat Nov 01 12:04:58 BRST 2008
+mbleigh;subdomain-fu;zachhale;Zach Hale;User;DEVELOPER;true;false;Wed Oct 22 16:28:10 BRST 2008
+mbleigh;subdomain-fu;ajn;Alex Neill;User;DEVELOPER;true;false;Tue Jul 29 19:23:06 BRT 2008
+
+u196598;insoshi;mhartl;Michael Hartl;User;DEVELOPER;true;false;Mon Feb 18 20:18:20 BRT 2008
+u196598;insoshi;long;Long Nguyen;User;DEVELOPER;true;false;Wed Apr 09 21:20:30 BRT 2008
+u196598;insoshi;calas;Jorge Calás;User;DEVELOPER;true;false;Thu Apr 17 20:27:25 BRT 2008
+u196598;insoshi;raulparolari;Raul Parolari;User;DEVELOPER;true;false;Mon Mar 03 22:44:19 BRT 2008
+
+hoverbird;chance;ralovely;Raphael Campardou;User;DEVELOPER;true;true;Tue Sep 17 09:11:47 BRT 2013
+hoverbird;chance;hoverbird;Patrick Ewing;User;DEVELOPER;true;false;Mon Jun 02 18:01:57 BRT 2008
+
+duncanbeevers;prototype;duncanbeevers;Duncan Beevers;User;DEVELOPER;true;false;Mon Jun 02 18:05:17 BRT 2008
+duncanbeevers;prototype;savetheclocktower;Andrew Dupont;User;DEVELOPER;true;false;Tue Oct 16 00:21:24 BRST 2007
+duncanbeevers;prototype;tobie;Tobie Langel;User;DEVELOPER;true;false;Sat Oct 13 07:55:52 BRT 2007
+duncanbeevers;prototype;madrobby;Thomas Fuchs;User;DEVELOPER;true;false;Fri Jan 19 16:01:43 BRST 2007
+duncanbeevers;prototype;DanielVF;Daniel Von Fange;User;DEVELOPER;true;false;Thu Apr 24 13:22:54 BRT 2008
+duncanbeevers;prototype;sstephenson;Sam Stephenson;User;DEVELOPER;true;false;Thu Jan 18 20:24:27 BRST 2007
+
+andyh;typo3-automation;andyh;Andy Henson;User;DEVELOPER;true;false;Mon Jun 02 19:06:26 BRT 2008
+
+
+methodmissing;rails;methodmissing;Lourens Naudé;User;DEVELOPER;true;false;Thu Jun 12 09:32:59 BRT 2008
+methodmissing;rails;josh;Joshua Peek;User;DEVELOPER;true;false;Sat Mar 29 17:50:09 BRT 2008
+methodmissing;rails;gbuesing;Geoff Buesing;User;DEVELOPER;true;false;Sat Nov 24 01:57:11 BRST 2007
+methodmissing;rails;lifo;Pratik;User;DEVELOPER;true;false;Tue Mar 04 22:26:24 BRT 2008
+methodmissing;rails;jeremy;Jeremy Daer;User;DEVELOPER;true;false;Sat Jun 11 17:26:07 BRT 2005
+methodmissing;rails;dhh;David Heinemeier Hansson;User;DEVELOPER;true;false;Tue Nov 23 23:04:44 BRST 2004
+methodmissing;rails;NZKoz;Michael Koziarski;User;DEVELOPER;true;false;Thu Oct 06 01:15:14 BRT 2005
+methodmissing;rails;technoweenie;risk danger olson;User;DEVELOPER;true;false;Sun Mar 05 20:41:17 BRT 2006
+methodmissing;rails;fcheung;Frederick Cheung;User;DEVELOPER;true;false;Thu Dec 18 23:02:21 BRST 2008
+methodmissing;rails;wycats;Yehuda Katz;User;DEVELOPER;true;false;Fri Dec 26 19:37:42 BRST 2008
+methodmissing;rails;FooBarWidget;Hongli Lai;User;DEVELOPER;true;false;Sun Aug 31 06:09:16 BRT 2008
+methodmissing;rails;madrobby;Thomas Fuchs;User;DEVELOPER;true;false;Sun Sep 25 03:53:42 BRT 2005
+methodmissing;rails;Manfred;Manfred Stienstra;User;DEVELOPER;true;false;Sun Sep 21 12:21:30 BRT 2008
+methodmissing;rails;jamis;Jamis Buck;User;DEVELOPER;true;false;Sun May 29 13:36:22 BRT 2005
+methodmissing;rails;nicksieger;Nick Sieger;User;DEVELOPER;true;false;Tue Apr 15 10:32:05 BRT 2008
+methodmissing;rails;svenfuchs;Sven Fuchs;User;DEVELOPER;true;false;Thu Jun 19 11:25:27 BRT 2008
+methodmissing;rails;tarmo;Tarmo Tänav;User;DEVELOPER;true;false;Fri Aug 22 03:44:38 BRT 2008
+methodmissing;rails;robbyrussell;Robby Russell;User;DEVELOPER;true;false;Wed May 14 21:17:24 BRT 2008
+methodmissing;rails;pjb3;Paul Barry;User;DEVELOPER;true;false;Tue May 06 01:52:12 BRT 2008
+methodmissing;rails;tobi;Tobias Lütke;User;DEVELOPER;true;false;Tue Apr 29 15:57:21 BRT 2008
+methodmissing;rails;stephencelis;Stephen Celis;User;DEVELOPER;true;false;Sat Apr 12 20:43:38 BRT 2008
+methodmissing;rails;ddollar;David Dollar;User;DEVELOPER;true;false;Fri Apr 11 19:25:11 BRT 2008
+methodmissing;rails;sstephenson;Sam Stephenson;User;DEVELOPER;true;false;Sun Apr 17 23:16:13 BRT 2005
+methodmissing;rails;seckar;Nicholas Seckar;User;DEVELOPER;true;false;Thu Jul 07 16:23:35 BRT 2005
+methodmissing;rails;csshsh;Florian Weber;User;DEVELOPER;true;false;Fri Oct 14 17:33:39 BRT 2005
+methodmissing;rails;bitserf;Leon Breedt;User;DEVELOPER;true;false;Fri Feb 18 08:38:40 BRST 2005
+
+DarkSwoop;attachment_fu_hacks;DarkSwoop;Benjamin Behr;User;DEVELOPER;true;false;Mon Jun 02 19:10:46 BRT 2008
+
+FooBarWidget;rubyenterpriseedition;FooBarWidget;Hongli Lai;User;DEVELOPER;true;false;Fri Jun 27 13:46:06 BRT 2008
+FooBarWidget;rubyenterpriseedition;shyouhei;Urabe, Shyouhei;User;DEVELOPER;true;false;Sun Nov 26 07:34:32 BRST 2006
+FooBarWidget;rubyenterpriseedition;akr;null;User;DEVELOPER;true;false;Mon Dec 10 04:52:47 BRST 2001
+FooBarWidget;rubyenterpriseedition;nobu;Nobuyoshi Nakada;User;DEVELOPER;true;false;Tue Jul 24 12:11:02 BRT 2001
+FooBarWidget;rubyenterpriseedition;knu;Akinori MUSHA;User;DEVELOPER;true;false;Tue Jan 09 15:11:36 BRST 2001
+FooBarWidget;rubyenterpriseedition;eban;eban;User;DEVELOPER;true;false;Sat May 13 13:13:31 BRT 2000
+FooBarWidget;rubyenterpriseedition;nurse;NARUSE, Yui;User;DEVELOPER;true;false;Wed Nov 03 05:30:42 BRST 2004
+FooBarWidget;rubyenterpriseedition;unak;null;User;DEVELOPER;true;false;Sun Jan 14 07:22:24 BRST 2001
+FooBarWidget;rubyenterpriseedition;drbrain;Eric Hodel;User;DEVELOPER;true;false;Wed Jun 14 17:42:36 BRT 2006
+FooBarWidget;rubyenterpriseedition;shugo;Shugo Maeda;User;DEVELOPER;true;false;Mon Dec 20 01:27:48 BRST 1999
+FooBarWidget;rubyenterpriseedition;kou;Kouhei Sutou;User;DEVELOPER;true;false;Sun Jun 27 00:23:29 BRT 2004
+FooBarWidget;rubyenterpriseedition;nahi;Hiroshi Nakamura;User;DEVELOPER;true;false;Sat Feb 23 06:40:58 BRT 2002
+
+peter123;rails;lifo;Pratik;User;DEVELOPER;true;false;Tue Mar 04 22:26:24 BRT 2008
+peter123;rails;jeremy;Jeremy Daer;User;DEVELOPER;true;false;Sat Jun 11 17:26:07 BRT 2005
+peter123;rails;josh;Joshua Peek;User;DEVELOPER;true;false;Sat Mar 29 17:50:09 BRT 2008
+peter123;rails;dhh;David Heinemeier Hansson;User;DEVELOPER;true;false;Tue Nov 23 23:04:44 BRST 2004
+peter123;rails;technoweenie;risk danger olson;User;DEVELOPER;true;false;Sun Mar 05 20:41:17 BRT 2006
+peter123;rails;NZKoz;Michael Koziarski;User;DEVELOPER;true;false;Thu Oct 06 01:15:14 BRT 2005
+peter123;rails;gbuesing;Geoff Buesing;User;DEVELOPER;true;false;Sat Nov 24 01:57:11 BRST 2007
+peter123;rails;robbyrussell;Robby Russell;User;DEVELOPER;true;false;Wed May 14 21:17:24 BRT 2008
+peter123;rails;pjb3;Paul Barry;User;DEVELOPER;true;false;Tue May 06 01:52:12 BRT 2008
+peter123;rails;tobi;Tobias Lütke;User;DEVELOPER;true;false;Tue Apr 29 15:57:21 BRT 2008
+peter123;rails;stephencelis;Stephen Celis;User;DEVELOPER;true;false;Sat Apr 12 20:43:38 BRT 2008
+peter123;rails;ddollar;David Dollar;User;DEVELOPER;true;false;Fri Apr 11 19:25:11 BRT 2008
+peter123;rails;jamis;Jamis Buck;User;DEVELOPER;true;false;Sun May 29 13:36:22 BRT 2005
+peter123;rails;sstephenson;Sam Stephenson;User;DEVELOPER;true;false;Sun Apr 17 23:16:13 BRT 2005
+peter123;rails;madrobby;Thomas Fuchs;User;DEVELOPER;true;false;Sun Sep 25 03:53:42 BRT 2005
+peter123;rails;seckar;Nicholas Seckar;User;DEVELOPER;true;false;Thu Jul 07 16:23:35 BRT 2005
+peter123;rails;csshsh;Florian Weber;User;DEVELOPER;true;false;Fri Oct 14 17:33:39 BRT 2005
+peter123;rails;bitserf;Leon Breedt;User;DEVELOPER;true;false;Fri Feb 18 08:38:40 BRST 2005

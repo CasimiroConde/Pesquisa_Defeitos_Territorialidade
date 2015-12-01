@@ -10345,8 +10345,6 @@ USER NAME: scharfie     REPOSITORY NAME: harvest-slate-theme
 
 USER NAME: dekart     REPOSITORY NAME: mygiftapp
 
-USER NAME: frugalware     REPOSITORY NAME: frugalware-stable
-
 USER NAME: felipec     REPOSITORY NAME: libgmsn
 
 USER NAME: ymendel     REPOSITORY NAME: fsevents

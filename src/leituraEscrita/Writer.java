@@ -134,6 +134,7 @@ public static void printConteudoRepositorioIssuesCSV(Repositorio repositorio, in
 						buffer.append(i.getState() + ";" );
 						UserService userService = new UserService(client);
 						User user = userService.getUser(i.getUser().getLogin());
+						buffer.append(i.getId() + ";");
 						buffer.append(user.getName() + ";");
 						buffer.append(i.getCreatedAt()+ ";");
 						buffer.append(i.getClosedAt()+ ";");

@@ -1,0 +1,7 @@
+
+breakpointer;ajax-rdoc;open;Gun.io Robot;Thu Oct 27 04:34:18 BRST 2011;null;1447;
+
+pengwynn;ujs_sort_helper;closed;Busy;Thu Oct 13 11:34:12 BRT 2011;Fri Oct 14 10:14:06 BRT 2011;0;
+pengwynn;ujs_sort_helper;open;Thomas Walpole;Fri Jul 17 23:29:57 BRT 2009;null;2278;
+
+grigio;xmp-manager;closed;null;Fri Apr 24 08:58:36 BRT 2009;Tue May 12 14:10:53 BRT 2009;18;

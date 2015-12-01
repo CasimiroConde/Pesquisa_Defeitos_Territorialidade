@@ -20,6 +20,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import leituraEscrita.ConsolidadorDeArquivos;
 import leituraEscrita.Reader;
 import leituraEscrita.Writer;
 import marcacoesIssues.TipoMarcacao;
@@ -50,10 +51,10 @@ public class Main {
 	static String nomeArquivoMarcacaoConsolidado =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseMarcacao/Consolidado/Analise_Marcacao_Consolidado_"+ dateFormat.format(cal.getTime()) +".txt";	
 	static String nomeArquivoListaIssue =  "C:/Users/Casimiro/git/Territorialidade/arquivos/listaIssue/listaIssue"+ dateFormat.format(cal.getTime()) +".txt";	
 	static String nomeArquivoContributors =  "C:/Users/Casimiro/git/Territorialidade/arquivos/listaContributors/listaContributors"+ dateFormat.format(cal.getTime()) +".txt";	
-	
+	static String pastaLoc = "F:/Saidas";
 	
 	static int TAMANHO_AMOSTRA = 9999;
-	static int INICIO = 1550;
+	static int INICIO = 5518;
 	
 	public static void main(String[] args) throws IOException, RequestException, NoSuchPageException, InterruptedException {
 		
@@ -70,7 +71,7 @@ public class Main {
 		
 		//Autentica Cliente e inicializa serviços
 		GitHubClient client = new GitHubClient();
-		client.setOAuth2Token("b331adcd6c7d36ab36a7bca4f100f49e4154ec87");
+		client.setOAuth2Token("ce6462789d56de70b8f5bee6cce6a6fa95379eb1");
 		CommitService commitService = new CommitService(client);
 		IssueService issueService = new IssueService(client);
 		UserService userService = new UserService(client);
@@ -81,9 +82,12 @@ public class Main {
 		//Inicializa Repositórios
 		//ArrayList<Repositorio> repositorios = Reader.inicializaListaRepositórios(client, TAMANHO_AMOSTRA);
 		//ArrayList<Repositorio> repositorios = Reader.executeListaSimples(client, TAMANHO_AMOSTRA);
-		ArrayList<MarcacaoIssue> marcacoes = new ArrayList<MarcacaoIssue>();
+		//ArrayList<MarcacaoIssue> marcacoes = new ArrayList<MarcacaoIssue>();
 				
-		Reader.executeListaComAnalise(client, TAMANHO_AMOSTRA, INICIO, consolidadoLabel, marcacoes);
+		//***********Reader.executeListaComAnalise(client, TAMANHO_AMOSTRA, INICIO, consolidadoLabel, marcacoes);
+		
+		//ConsolidadorDeArquivos.consolidador();
+		ConsolidadorDeArquivos.consolidaLoc(pastaLoc);
 		
 		
 		

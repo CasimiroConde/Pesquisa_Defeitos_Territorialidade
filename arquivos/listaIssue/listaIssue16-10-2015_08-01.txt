@@ -1,0 +1,1606 @@
+
+
+
+
+
+
+Fingertips;passengerpane;open;null;Mon Mar 31 13:56:02 BRT 2014;null;563;
+Fingertips;passengerpane;open;Matthias Frick;Mon Nov 19 22:51:53 BRST 2012;null;1060;
+Fingertips;passengerpane;open;György Frivolt;Fri Dec 02 06:11:39 BRST 2011;null;1414;
+Fingertips;passengerpane;closed;Midwire;Fri Oct 21 17:53:28 BRST 2011;Wed Jan 18 05:55:25 BRST 2012;88;
+Fingertips;passengerpane;open;Keenan Brock;Thu Oct 13 15:43:44 BRT 2011;null;1463;
+Fingertips;passengerpane;closed;T. Weston Kendall;Mon Sep 19 18:44:56 BRT 2011;Mon Sep 19 18:46:08 BRT 2011;0;
+Fingertips;passengerpane;open;Eloy Durán;Mon Sep 05 06:48:24 BRT 2011;null;1502;
+Fingertips;passengerpane;open;André Medeiros;Thu Jul 28 12:55:06 BRT 2011;null;1540;
+Fingertips;passengerpane;open;Tys von Gaza;Thu Jul 21 15:58:17 BRT 2011;null;1547;
+Fingertips;passengerpane;open;null;Thu Jul 07 18:12:55 BRT 2011;null;1561;
+Fingertips;passengerpane;closed;Linked by Air;Wed Jun 29 08:46:05 BRT 2011;Thu Jun 30 06:14:54 BRT 2011;0;
+Fingertips;passengerpane;closed;Marc Lipovsky;Sat Jun 25 19:44:57 BRT 2011;Tue Jun 28 08:44:24 BRT 2011;2;
+Fingertips;passengerpane;closed;null;Thu Jun 23 22:05:27 BRT 2011;Fri Jun 24 08:02:28 BRT 2011;0;
+Fingertips;passengerpane;closed;Alex;Tue Jun 07 16:03:43 BRT 2011;Thu Jun 09 17:32:48 BRT 2011;2;
+Fingertips;passengerpane;open;Aleksey Gureiev;Sat Mar 12 15:20:54 BRT 2011;null;1678;
+Fingertips;passengerpane;closed;John Kassimatis;Fri Mar 04 15:47:59 BRT 2011;Thu Mar 10 10:54:32 BRT 2011;5;
+Fingertips;passengerpane;open;Levi Figueira;Mon Jan 31 14:52:35 BRST 2011;null;1718;
+Fingertips;passengerpane;closed;Yehuda Katz;Sat Jan 22 23:54:58 BRST 2011;Tue Jan 25 08:38:38 BRST 2011;2;
+Fingertips;passengerpane;closed;Shaun McDonald;Sun Dec 26 19:39:07 BRST 2010;Mon Dec 27 06:56:55 BRST 2010;0;
+Fingertips;passengerpane;open;Jason Amster;Fri Nov 19 17:51:35 BRST 2010;null;1791;
+Fingertips;passengerpane;closed;Arthur Gunn;Tue Nov 16 11:01:43 BRST 2010;Tue Dec 14 13:38:27 BRST 2010;28;
+Fingertips;passengerpane;open;John Wang;Mon Oct 25 23:52:40 BRST 2010;null;1816;
+Fingertips;passengerpane;closed;Jaden Carver;Thu Sep 23 21:36:45 BRT 2010;Fri Sep 24 11:49:51 BRT 2010;0;
+Fingertips;passengerpane;closed;Roman Stets;Wed Sep 22 07:13:51 BRT 2010;Wed Sep 22 15:15:10 BRT 2010;0;
+Fingertips;passengerpane;open;Josh Goebel;Tue Sep 07 05:37:23 BRT 2010;null;1865;
+Fingertips;passengerpane;closed;Aron Allen;Mon Sep 06 10:37:16 BRT 2010;Mon Sep 06 18:23:12 BRT 2010;0;
+Fingertips;passengerpane;closed;millisami;Wed Jul 28 02:11:03 BRT 2010;Wed Jul 28 14:18:15 BRT 2010;0;
+Fingertips;passengerpane;closed;Gaspard Bucher (bumagy);Mon Jun 21 12:00:34 BRT 2010;Mon Jun 21 20:58:14 BRT 2010;0;
+Fingertips;passengerpane;closed;Brian Bokor;Fri Jun 11 11:26:56 BRT 2010;Fri Jun 11 20:16:53 BRT 2010;0;
+Fingertips;passengerpane;closed;Manfred Stienstra;Mon Jun 07 04:41:54 BRT 2010;Fri Jun 11 13:16:53 BRT 2010;4;
+Fingertips;passengerpane;closed;Marc Lipovsky;Sun May 23 10:12:10 BRT 2010;Sun May 23 17:40:12 BRT 2010;0;
+Fingertips;passengerpane;closed;Brian Bokor;Sat Apr 17 19:33:25 BRT 2010;Fri Jun 11 20:24:35 BRT 2010;55;
+Fingertips;passengerpane;closed;Elevation;Thu Apr 01 21:14:14 BRT 2010;Fri Jul 02 15:29:00 BRT 2010;91;
+Fingertips;passengerpane;closed;Remington Splettstoesser;Wed Mar 24 06:48:35 BRT 2010;Wed Mar 24 08:36:15 BRT 2010;0;
+Fingertips;passengerpane;closed;Jared Moody;Mon Mar 22 21:14:01 BRT 2010;Thu Mar 25 18:56:15 BRT 2010;2;
+Fingertips;passengerpane;closed;Mark Ciccarello;Fri Mar 19 23:19:00 BRT 2010;Mon Mar 22 08:51:59 BRT 2010;2;
+Fingertips;passengerpane;closed;Chris Bloom;Tue Mar 16 12:09:38 BRT 2010;Mon Mar 22 09:47:10 BRT 2010;5;
+Fingertips;passengerpane;open;Walter Lee Davis;Fri Feb 05 02:57:21 BRST 2010;null;2079;
+Fingertips;passengerpane;closed;Tarun Sukhani;Fri Jan 29 03:31:52 BRST 2010;Sat Jan 30 09:39:33 BRST 2010;1;
+Fingertips;passengerpane;closed;Michael Berkompas;Wed Jan 27 14:42:42 BRST 2010;Tue Feb 16 07:38:36 BRST 2010;19;
+Fingertips;passengerpane;closed;Primitus;Wed Jan 27 03:12:55 BRST 2010;Wed Jun 29 08:44:50 BRT 2011;518;
+Fingertips;passengerpane;open;Eloy Durán;Tue Jan 19 07:10:31 BRST 2010;null;2096;
+Fingertips;passengerpane;closed;Joshua Pinter;Tue Jan 12 13:52:14 BRST 2010;Thu Feb 25 08:31:12 BRT 2010;43;
+Fingertips;passengerpane;open;Gerard de Brieder;Mon Jan 11 11:49:39 BRST 2010;null;2103;
+Fingertips;passengerpane;open;Firebelly Design;Fri Jan 08 18:09:32 BRST 2010;null;2106;
+Fingertips;passengerpane;closed;Manfred Stienstra;Mon Dec 21 10:20:10 BRST 2009;Wed Jan 13 08:16:16 BRST 2010;22;
+Fingertips;passengerpane;closed;Deleted user;Thu Dec 17 13:02:22 BRST 2009;Fri Jun 11 20:22:02 BRT 2010;176;
+Fingertips;passengerpane;closed;Tony Coconate;Wed Dec 02 14:47:43 BRST 2009;Wed Jan 13 08:13:31 BRST 2010;41;
+Fingertips;passengerpane;closed;Steve;Wed Nov 25 23:35:26 BRST 2009;Wed Jan 13 08:09:06 BRST 2010;48;
+Fingertips;passengerpane;closed;Manfred Stienstra;Wed Nov 04 05:58:09 BRST 2009;Wed Nov 04 08:04:08 BRST 2009;0;
+Fingertips;passengerpane;closed;Thijs van der Vossen;Tue Nov 03 17:30:57 BRST 2009;Wed Nov 04 08:48:10 BRST 2009;0;
+Fingertips;passengerpane;closed;Eloy Durán;Wed Oct 28 10:38:25 BRST 2009;Mon Jan 31 19:42:49 BRST 2011;460;
+Fingertips;passengerpane;closed;Sean Mullen;Wed Oct 14 12:21:06 BRT 2009;Tue Nov 03 14:40:21 BRST 2009;20;
+Fingertips;passengerpane;closed;Sean Mullen;Tue Oct 13 17:39:41 BRT 2009;Tue Nov 03 14:34:44 BRST 2009;20;
+Fingertips;passengerpane;closed;Marc Lipovsky;Thu Oct 08 09:18:41 BRT 2009;Thu Oct 08 14:15:46 BRT 2009;0;
+Fingertips;passengerpane;closed;Ben Bleything;Tue Oct 06 10:12:44 BRT 2009;Tue Oct 06 11:07:54 BRT 2009;0;
+Fingertips;passengerpane;open;Keith Gaddis;Wed Sep 23 13:50:24 BRT 2009;null;2213;
+Fingertips;passengerpane;closed;Eloy Durán;Tue Sep 22 04:39:50 BRT 2009;Tue Nov 03 14:21:33 BRST 2009;42;
+Fingertips;passengerpane;closed;Adam Salter;Mon Sep 21 09:22:29 BRT 2009;Mon Sep 21 09:30:58 BRT 2009;0;
+Fingertips;passengerpane;closed;Christophe Porteneuve;Thu Sep 17 08:15:38 BRT 2009;Mon Sep 21 05:54:30 BRT 2009;3;
+Fingertips;passengerpane;closed;Tony Coconate;Tue Sep 15 17:46:28 BRT 2009;Mon Nov 09 19:23:55 BRST 2009;55;
+Fingertips;passengerpane;closed;Tony Coconate;Tue Sep 15 17:44:47 BRT 2009;Tue Nov 03 14:13:41 BRST 2009;48;
+Fingertips;passengerpane;closed;null;Tue Sep 08 12:10:32 BRT 2009;Tue Sep 08 12:47:35 BRT 2009;0;
+Fingertips;passengerpane;closed;Frederik;Tue Sep 08 09:38:27 BRT 2009;Wed Sep 09 10:14:48 BRT 2009;1;
+Fingertips;passengerpane;closed;Joost Schuur;Mon Sep 07 19:52:14 BRT 2009;Mon Sep 21 07:43:25 BRT 2009;13;
+Fingertips;passengerpane;closed;Tys von Gaza;Sat Sep 05 17:19:37 BRT 2009;Sat Sep 05 19:30:41 BRT 2009;0;
+Fingertips;passengerpane;closed;Ron Valente;Wed Sep 02 14:38:25 BRT 2009;Wed Sep 02 19:43:22 BRT 2009;0;
+Fingertips;passengerpane;closed;Ryan Bigg;Tue Sep 01 18:32:42 BRT 2009;Tue Sep 01 19:27:22 BRT 2009;0;
+Fingertips;passengerpane;closed;Gabriel Rinaldi;Tue Jul 14 10:37:36 BRT 2009;Mon Aug 31 10:40:37 BRT 2009;48;
+Fingertips;passengerpane;open;Eloy Durán;Fri Jun 19 06:26:32 BRT 2009;null;2310;
+Fingertips;passengerpane;closed;Eloy Durán;Fri Jun 19 06:24:42 BRT 2009;Wed Sep 02 10:33:38 BRT 2009;75;
+Fingertips;passengerpane;open;Eloy Durán;Fri Jun 19 06:18:45 BRT 2009;null;2310;
+Fingertips;passengerpane;closed;Eloy Durán;Fri Jun 19 06:04:21 BRT 2009;Mon Aug 31 13:17:04 BRT 2009;73;
+Fingertips;passengerpane;open;Eloy Durán;Fri Jun 19 05:18:14 BRT 2009;null;2310;
+Fingertips;passengerpane;closed;Eloy Durán;Fri Jun 19 04:04:31 BRT 2009;Tue Sep 01 08:22:37 BRT 2009;74;
+Fingertips;passengerpane;closed;Brendon Muir;Fri Jun 19 03:44:15 BRT 2009;Thu Jan 14 12:12:55 BRST 2010;209;
+
+
+
+
+
+tuffy;python-audio-tools;open;null;Wed Oct 07 15:58:24 BRT 2015;null;8;
+tuffy;python-audio-tools;closed;null;Sun Oct 04 00:13:01 BRT 2015;Mon Oct 05 13:33:39 BRT 2015;1;
+tuffy;python-audio-tools;closed;null;Sat Oct 03 11:43:13 BRT 2015;Mon Oct 05 17:52:18 BRT 2015;2;
+tuffy;python-audio-tools;open;Adam;Tue Sep 29 16:11:14 BRT 2015;null;16;
+tuffy;python-audio-tools;closed;null;Sun Sep 27 05:31:06 BRT 2015;Mon Sep 28 20:18:29 BRT 2015;1;
+tuffy;python-audio-tools;open;null;Mon Jul 27 08:58:30 BRT 2015;null;81;
+tuffy;python-audio-tools;open;null;Mon Jul 06 12:03:24 BRT 2015;null;101;
+tuffy;python-audio-tools;open;null;Sat Jun 06 23:01:28 BRT 2015;null;131;
+tuffy;python-audio-tools;open;null;Sat Jun 06 21:06:21 BRT 2015;null;131;
+tuffy;python-audio-tools;open;Adam;Tue May 26 07:37:18 BRT 2015;null;143;
+tuffy;python-audio-tools;open;Flug;Sun Mar 22 20:28:07 BRT 2015;null;207;
+tuffy;python-audio-tools;open;null;Wed Jan 14 21:26:59 BRST 2015;null;274;
+tuffy;python-audio-tools;open;Henrique Ferreiro;Fri Jan 09 20:01:38 BRST 2015;null;279;
+tuffy;python-audio-tools;closed;null;Wed Dec 03 16:04:59 BRST 2014;Sat Dec 06 21:51:46 BRST 2014;3;
+tuffy;python-audio-tools;closed;null;Fri Nov 07 12:18:28 BRST 2014;Sat Dec 06 21:52:21 BRST 2014;29;
+tuffy;python-audio-tools;closed;Jean Menezes da Rocha;Thu Oct 23 15:23:17 BRST 2014;Thu Oct 23 19:36:40 BRST 2014;0;
+tuffy;python-audio-tools;open;null;Fri Oct 03 11:30:31 BRT 2014;null;377;
+tuffy;python-audio-tools;open;null;Thu Oct 02 08:37:17 BRT 2014;null;379;
+tuffy;python-audio-tools;closed;null;Wed Sep 24 17:05:25 BRT 2014;Sun Dec 07 18:26:42 BRST 2014;74;
+tuffy;python-audio-tools;closed;Mike H;Thu Sep 18 14:56:40 BRT 2014;Fri Sep 19 12:28:06 BRT 2014;0;
+tuffy;python-audio-tools;closed;null;Tue Sep 02 00:33:19 BRT 2014;Wed Sep 10 14:22:42 BRT 2014;8;
+tuffy;python-audio-tools;open;null;Fri Jul 25 13:11:55 BRT 2014;null;447;
+tuffy;python-audio-tools;open;null;Thu Jul 17 11:00:09 BRT 2014;null;455;
+tuffy;python-audio-tools;open;theduke;Fri Jun 27 06:41:10 BRT 2014;null;476;
+tuffy;python-audio-tools;open;Lauri Võsandi;Sun Jun 15 06:31:46 BRT 2014;null;488;
+tuffy;python-audio-tools;open;Deleted user;Thu Jun 12 12:33:03 BRT 2014;null;490;
+tuffy;python-audio-tools;open;null;Fri May 09 16:20:14 BRT 2014;null;524;
+tuffy;python-audio-tools;open;null;Mon Apr 21 07:16:25 BRT 2014;null;543;
+tuffy;python-audio-tools;open;null;Sat Mar 29 11:21:37 BRT 2014;null;565;
+tuffy;python-audio-tools;closed;William Clemens;Tue Feb 04 14:44:34 BRST 2014;Fri Feb 07 01:57:43 BRST 2014;2;
+tuffy;python-audio-tools;closed;Glenn Franxman;Sat Jan 25 22:34:16 BRST 2014;Sat Jan 25 22:45:02 BRST 2014;0;
+tuffy;python-audio-tools;open;Yuv;Sat Jan 18 10:42:11 BRST 2014;null;635;
+tuffy;python-audio-tools;closed;Matthew White;Sat Jan 11 04:31:29 BRST 2014;Sun Jan 26 13:42:46 BRST 2014;15;
+tuffy;python-audio-tools;closed;null;Sat Nov 16 06:59:37 BRST 2013;Tue Mar 18 06:21:57 BRT 2014;121;
+tuffy;python-audio-tools;open;David Blewett;Mon Nov 04 01:02:31 BRST 2013;null;711;
+tuffy;python-audio-tools;open;null;Thu Oct 17 17:36:54 BRT 2013;null;728;
+tuffy;python-audio-tools;open;null;Wed Oct 16 10:28:08 BRT 2013;null;729;
+tuffy;python-audio-tools;closed;null;Fri Aug 30 14:45:26 BRT 2013;Mon Sep 02 22:25:24 BRT 2013;3;
+tuffy;python-audio-tools;closed;null;Fri Aug 30 12:48:26 BRT 2013;Mon Sep 02 22:22:51 BRT 2013;3;
+tuffy;python-audio-tools;open;null;Tue Aug 06 16:49:00 BRT 2013;null;800;
+tuffy;python-audio-tools;open;Void Main;Thu Jul 11 04:44:11 BRT 2013;null;827;
+tuffy;python-audio-tools;closed;Rudolf Vavruch;Wed Jun 05 20:42:33 BRT 2013;Thu Jun 06 20:14:35 BRT 2013;0;
+tuffy;python-audio-tools;open;Emanuel Danci;Mon May 20 17:40:31 BRT 2013;null;878;
+tuffy;python-audio-tools;open;null;Tue Apr 30 06:53:56 BRT 2013;null;899;
+tuffy;python-audio-tools;closed;James Atchue;Fri Mar 08 17:44:07 BRT 2013;Thu May 23 16:33:08 BRT 2013;75;
+tuffy;python-audio-tools;open;Carl Fürstenberg;Wed Feb 06 10:14:59 BRST 2013;null;981;
+tuffy;python-audio-tools;open;null;Thu Jan 03 20:57:51 BRST 2013;null;1015;
+tuffy;python-audio-tools;open;Miranda;Sun Nov 18 15:59:05 BRST 2012;null;1061;
+tuffy;python-audio-tools;open;Wesley Bitter;Thu Nov 08 14:56:15 BRST 2012;null;1071;
+tuffy;python-audio-tools;open;Deleted user;Fri Mar 23 12:57:02 BRT 2012;null;1301;
+tuffy;python-audio-tools;closed;Peter Lemenkov;Tue Dec 13 18:14:38 BRST 2011;Mon Dec 26 22:54:03 BRST 2011;13;
+tuffy;python-audio-tools;closed;amy wieliczka;Tue Jun 28 14:11:43 BRT 2011;Tue Jun 28 14:40:01 BRT 2011;0;
+tuffy;python-audio-tools;open;null;Mon Sep 27 21:06:26 BRT 2010;null;1844;
+tuffy;python-audio-tools;closed;Jakukyo Friel;Mon Aug 02 06:09:53 BRT 2010;Tue Aug 03 04:01:03 BRT 2010;0;
+tuffy;python-audio-tools;open;null;Sat Mar 27 10:51:53 BRT 2010;null;2028;
+tuffy;python-audio-tools;open;null;Fri Dec 18 15:08:13 BRST 2009;null;2127;
+
+
+
+Shopify;liquid;closed;Jonathan Chen;Wed Oct 14 13:06:12 BRT 2015;Wed Oct 14 13:08:37 BRT 2015;0;
+Shopify;liquid;closed;@tomgertin;Mon Sep 28 23:25:15 BRT 2015;Tue Sep 29 13:08:30 BRT 2015;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Fri Sep 25 20:39:17 BRT 2015;Fri Sep 25 20:48:09 BRT 2015;0;
+Shopify;liquid;closed;null;Fri Sep 25 19:59:22 BRT 2015;Tue Sep 29 22:05:10 BRT 2015;4;
+Shopify;liquid;closed;Steven Langbroek;Tue Sep 15 09:22:12 BRT 2015;Wed Sep 16 10:55:57 BRT 2015;1;
+Shopify;liquid;closed;Michaël Gallego;Wed Sep 02 12:28:45 BRT 2015;Tue Oct 06 16:13:01 BRT 2015;34;
+Shopify;liquid;closed;Amol Pujari;Wed Sep 02 05:27:25 BRT 2015;Wed Sep 02 05:30:24 BRT 2015;0;
+Shopify;liquid;closed;Douglas G. Allen;Wed Sep 02 00:20:16 BRT 2015;Wed Sep 02 02:33:48 BRT 2015;0;
+Shopify;liquid;closed;Líverton Oliveira;Mon Aug 24 17:21:50 BRT 2015;Mon Aug 24 17:29:05 BRT 2015;0;
+Shopify;liquid;open;Daniel Black;Fri Aug 21 17:39:36 BRT 2015;null;55;
+Shopify;liquid;open;Larry Archer;Fri Aug 21 14:03:24 BRT 2015;null;55;
+Shopify;liquid;open;Nick Pearson;Thu Aug 20 12:14:51 BRT 2015;null;56;
+Shopify;liquid;closed;Wesley Heung;Wed Aug 12 22:07:25 BRT 2015;Wed Aug 12 22:14:19 BRT 2015;0;
+Shopify;liquid;closed;Mike Bridge;Tue Aug 11 17:12:28 BRT 2015;Tue Oct 06 16:15:30 BRT 2015;55;
+Shopify;liquid;closed;Coderapper;Tue Aug 11 09:14:18 BRT 2015;Wed Aug 12 15:01:40 BRT 2015;1;
+Shopify;liquid;closed;null;Wed Aug 05 22:55:49 BRT 2015;Wed Aug 05 23:03:19 BRT 2015;0;
+Shopify;liquid;closed;null;Wed Aug 05 22:50:08 BRT 2015;Wed Aug 05 22:51:22 BRT 2015;0;
+Shopify;liquid;closed;Luc Bettaieb;Tue Aug 04 04:20:34 BRT 2015;Tue Aug 04 11:53:25 BRT 2015;0;
+Shopify;liquid;open;Danny Guinther;Sun Aug 02 10:59:02 BRT 2015;null;74;
+Shopify;liquid;closed;Dylan Thacker-Smith;Thu Jul 30 23:52:50 BRT 2015;Fri Jul 31 01:43:56 BRT 2015;0;
+Shopify;liquid;open;Wesley Heung;Thu Jul 30 18:00:44 BRT 2015;null;77;
+Shopify;liquid;closed;Robin Monjo;Tue Jul 28 10:31:35 BRT 2015;Tue Jul 28 10:57:15 BRT 2015;0;
+Shopify;liquid;closed;Florian Weingarten;Fri Jul 24 12:05:18 BRT 2015;Fri Jul 24 12:13:46 BRT 2015;0;
+Shopify;liquid;closed;Akinori MUSHA;Fri Jul 24 01:39:36 BRT 2015;Fri Jul 24 11:50:52 BRT 2015;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Thu Jul 23 17:21:02 BRT 2015;Thu Jul 23 17:34:49 BRT 2015;0;
+Shopify;liquid;closed;Cédric Boutillier;Thu Jul 23 16:06:59 BRT 2015;Thu Jul 23 17:34:49 BRT 2015;0;
+Shopify;liquid;closed;Shadroid;Thu Jul 23 12:58:40 BRT 2015;Thu Jul 23 13:01:55 BRT 2015;0;
+Shopify;liquid;closed;Andrew Anderson;Wed Jul 22 16:09:19 BRT 2015;Wed Jul 22 16:17:42 BRT 2015;0;
+Shopify;liquid;open;Florian Weingarten;Tue Jul 21 20:41:56 BRT 2015;null;86;
+Shopify;liquid;closed;Florian Weingarten;Fri Jul 17 11:10:09 BRT 2015;Fri Jul 17 12:19:06 BRT 2015;0;
+Shopify;liquid;closed;null;Fri Jul 17 06:37:16 BRT 2015;Fri Jul 17 12:19:06 BRT 2015;0;
+Shopify;liquid;open;Dylan Thacker-Smith;Mon Jul 13 23:44:39 BRT 2015;null;94;
+Shopify;liquid;open;Akinori MUSHA;Mon Jul 13 03:07:56 BRT 2015;null;95;
+Shopify;liquid;closed;@tomgertin;Sun Jul 12 19:41:43 BRT 2015;Tue Oct 06 16:16:29 BRT 2015;85;
+Shopify;liquid;closed;Dylan Thacker-Smith;Thu Jul 09 17:22:04 BRT 2015;Fri Jul 10 15:51:36 BRT 2015;0;
+Shopify;liquid;closed;Justin Li;Thu Jul 09 14:18:30 BRT 2015;Thu Jul 09 14:24:28 BRT 2015;0;
+Shopify;liquid;closed;Alexander.Iljushkin;Thu Jul 09 13:04:54 BRT 2015;Tue Oct 06 16:16:39 BRT 2015;89;
+Shopify;liquid;closed;Dylan Thacker-Smith;Thu Jul 09 12:26:56 BRT 2015;Thu Jul 09 12:42:41 BRT 2015;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Wed Jul 08 21:02:53 BRT 2015;Wed Jul 08 21:50:20 BRT 2015;0;
+Shopify;liquid;closed;Justin Li;Wed Jul 08 18:37:39 BRT 2015;Wed Jul 08 18:47:27 BRT 2015;0;
+Shopify;liquid;closed;null;Tue Jul 07 17:27:13 BRT 2015;Tue Oct 06 16:17:02 BRT 2015;90;
+Shopify;liquid;closed;Dylan Thacker-Smith;Sun Jul 05 05:27:10 BRT 2015;Wed Jul 08 20:48:55 BRT 2015;3;
+Shopify;liquid;closed;Dylan Thacker-Smith;Sun Jul 05 01:15:44 BRT 2015;Tue Jul 07 17:23:10 BRT 2015;2;
+Shopify;liquid;closed;Dylan Thacker-Smith;Sat Jul 04 23:14:33 BRT 2015;Tue Jul 07 16:49:58 BRT 2015;2;
+Shopify;liquid;closed;Dylan Thacker-Smith;Sat Jul 04 14:54:32 BRT 2015;Tue Jul 07 16:49:43 BRT 2015;3;
+Shopify;liquid;closed;Loren Hale;Sat Jul 04 05:16:43 BRT 2015;Mon Aug 03 21:50:14 BRT 2015;30;
+Shopify;liquid;closed;Mike Bridge;Fri Jul 03 01:08:22 BRT 2015;Mon Jul 06 14:37:45 BRT 2015;3;
+Shopify;liquid;closed;Gaurav Chande;Thu Jul 02 17:19:34 BRT 2015;Thu Jul 02 17:28:38 BRT 2015;0;
+Shopify;liquid;open;Justin Li;Fri Jun 26 14:01:42 BRT 2015;null;111;
+Shopify;liquid;closed;Zoe Rooney;Thu Jun 25 17:04:26 BRT 2015;Thu Jun 25 17:30:09 BRT 2015;0;
+Shopify;liquid;closed;Loren Hale;Thu Jun 25 00:49:10 BRT 2015;Sat Jul 04 01:53:45 BRT 2015;9;
+Shopify;liquid;open;Samuel Volin;Tue Jun 23 16:09:02 BRT 2015;null;114;
+Shopify;liquid;closed;Justin Li;Fri Jun 19 12:59:47 BRT 2015;Tue Jun 23 11:40:05 BRT 2015;3;
+Shopify;liquid;closed;Florian Weingarten;Tue Jun 16 12:09:31 BRT 2015;Tue Jun 16 12:10:08 BRT 2015;0;
+Shopify;liquid;closed;David Cornu;Tue Jun 16 12:09:05 BRT 2015;Tue Jun 16 12:31:20 BRT 2015;0;
+Shopify;liquid;closed;Carson Reinke;Mon Jun 15 15:16:17 BRT 2015;Fri Jun 19 12:38:14 BRT 2015;3;
+Shopify;liquid;closed;Carson Reinke;Mon Jun 15 14:20:24 BRT 2015;Mon Jun 15 15:08:57 BRT 2015;0;
+Shopify;liquid;closed;Maya Benari;Thu Jun 11 20:01:13 BRT 2015;Thu Jun 11 20:08:28 BRT 2015;0;
+Shopify;liquid;closed;Adam George;Thu Jun 11 19:02:02 BRT 2015;Thu Jun 11 20:26:48 BRT 2015;0;
+Shopify;liquid;closed;Florian Weingarten;Fri Jun 05 15:53:26 BRT 2015;Mon Jun 08 17:52:57 BRT 2015;3;
+Shopify;liquid;closed;Florian Weingarten;Thu Jun 04 23:55:52 BRT 2015;Fri Jun 05 11:27:05 BRT 2015;0;
+Shopify;liquid;closed;Loren Hale;Thu Jun 04 23:18:54 BRT 2015;Thu Jun 04 23:21:01 BRT 2015;0;
+Shopify;liquid;closed;Florian Weingarten;Thu Jun 04 14:17:14 BRT 2015;Thu Jun 04 14:40:14 BRT 2015;0;
+Shopify;liquid;closed;Florian Weingarten;Thu Jun 04 13:31:26 BRT 2015;Thu Jun 04 14:09:48 BRT 2015;0;
+Shopify;liquid;closed;Florian Weingarten;Thu Jun 04 12:49:46 BRT 2015;Wed Jun 10 17:37:01 BRT 2015;6;
+Shopify;liquid;closed;Gaurav Chande;Wed Jun 03 17:05:59 BRT 2015;Thu Jun 04 12:19:24 BRT 2015;0;
+Shopify;liquid;closed;Filipe Goncalves;Wed Jun 03 11:44:17 BRT 2015;Wed Jun 03 12:11:18 BRT 2015;0;
+Shopify;liquid;closed;Loren Hale;Wed Jun 03 03:56:59 BRT 2015;Thu Aug 06 01:56:09 BRT 2015;63;
+Shopify;liquid;closed;Loren Hale;Wed Jun 03 03:34:21 BRT 2015;Wed Jun 03 03:41:19 BRT 2015;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Wed Jun 03 03:34:00 BRT 2015;Wed Jun 03 11:58:38 BRT 2015;0;
+Shopify;liquid;closed;Gaurav Chande;Wed Jun 03 00:48:25 BRT 2015;Thu Jun 04 12:57:44 BRT 2015;1;
+Shopify;liquid;closed;Dylan Thacker-Smith;Tue Jun 02 17:10:24 BRT 2015;Tue Jun 02 17:41:15 BRT 2015;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Tue Jun 02 17:07:11 BRT 2015;Wed Jun 03 02:43:56 BRT 2015;0;
+Shopify;liquid;closed;Justin Li;Tue Jun 02 16:06:08 BRT 2015;Tue Jun 02 16:58:15 BRT 2015;0;
+Shopify;liquid;closed;Justin Li;Tue Jun 02 11:57:34 BRT 2015;Tue Jun 02 12:38:45 BRT 2015;0;
+Shopify;liquid;open;Ellis Michael;Fri May 29 15:29:32 BRT 2015;null;139;
+Shopify;liquid;closed;Justin Li;Thu May 28 17:07:39 BRT 2015;Thu May 28 17:45:09 BRT 2015;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Thu May 28 15:50:29 BRT 2015;Thu May 28 16:00:57 BRT 2015;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Thu May 28 13:08:07 BRT 2015;Thu May 28 17:20:42 BRT 2015;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Wed May 27 20:10:27 BRT 2015;Thu May 28 12:38:44 BRT 2015;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Mon May 25 16:45:12 BRT 2015;Tue May 26 11:43:23 BRT 2015;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Mon May 25 15:29:37 BRT 2015;Thu Jun 04 16:28:12 BRT 2015;10;
+Shopify;liquid;closed;Dylan Thacker-Smith;Fri May 22 16:12:39 BRT 2015;Mon May 25 13:11:10 BRT 2015;2;
+Shopify;liquid;closed;Guillermo Guerrero Ibarra;Fri May 15 04:13:25 BRT 2015;Fri May 15 09:14:03 BRT 2015;0;
+Shopify;liquid;open;Justin Li;Thu May 14 15:41:45 BRT 2015;null;154;
+Shopify;liquid;closed;Justin Li;Thu May 14 15:38:54 BRT 2015;Thu May 28 17:33:55 BRT 2015;14;
+Shopify;liquid;closed;Justin Li;Thu May 14 15:01:46 BRT 2015;Thu May 28 17:33:54 BRT 2015;14;
+Shopify;liquid;closed;Florian Weingarten;Thu May 14 11:45:39 BRT 2015;Thu May 14 17:19:02 BRT 2015;0;
+Shopify;liquid;open;Bill Parrott;Wed May 13 19:05:09 BRT 2015;null;155;
+Shopify;liquid;closed;Justin Li;Wed May 13 18:43:33 BRT 2015;Fri May 15 22:43:54 BRT 2015;2;
+Shopify;liquid;closed;Jean Boussier;Wed May 13 16:32:38 BRT 2015;Wed May 13 16:45:22 BRT 2015;0;
+Shopify;liquid;closed;Florian Weingarten;Wed May 13 15:03:26 BRT 2015;Thu May 14 11:41:32 BRT 2015;0;
+Shopify;liquid;closed;Florian Weingarten;Tue May 12 23:48:25 BRT 2015;Wed May 13 01:06:35 BRT 2015;0;
+Shopify;liquid;closed;Justin Li;Tue May 12 18:08:32 BRT 2015;Fri May 15 22:48:57 BRT 2015;3;
+Shopify;liquid;open;Justin Li;Tue May 12 15:07:38 BRT 2015;null;156;
+Shopify;liquid;open;Justin Li;Tue May 12 14:11:56 BRT 2015;null;156;
+Shopify;liquid;closed;Justin Li;Mon May 11 19:02:23 BRT 2015;Tue May 12 11:50:13 BRT 2015;0;
+Shopify;liquid;closed;Andrew Rove (Rover);Mon May 11 16:37:47 BRT 2015;Wed May 13 15:36:46 BRT 2015;1;
+Shopify;liquid;closed;Andrew Rove (Rover);Mon May 11 16:15:44 BRT 2015;Mon May 11 16:33:56 BRT 2015;0;
+Shopify;liquid;closed;null;Mon May 11 05:28:45 BRT 2015;Tue May 12 11:52:24 BRT 2015;1;
+Shopify;liquid;closed;Loren Hale;Thu May 07 06:08:46 BRT 2015;Thu May 07 14:59:22 BRT 2015;0;
+Shopify;liquid;closed;Martin Hanzel;Sun May 03 22:04:16 BRT 2015;Tue May 12 14:19:24 BRT 2015;8;
+Shopify;liquid;closed;Florian Weingarten;Fri Apr 24 12:25:51 BRT 2015;Mon Apr 27 12:56:13 BRT 2015;3;
+Shopify;liquid;closed;????;Fri Apr 24 04:57:38 BRT 2015;Fri Apr 24 12:23:26 BRT 2015;0;
+Shopify;liquid;closed;Justin Li;Mon Apr 20 18:36:43 BRT 2015;Wed Apr 22 00:33:13 BRT 2015;1;
+Shopify;liquid;closed;Justin Li;Mon Apr 20 11:16:23 BRT 2015;Mon Apr 20 11:22:19 BRT 2015;0;
+Shopify;liquid;closed;Justin Li;Sun Apr 19 23:42:15 BRT 2015;Mon Apr 20 11:22:19 BRT 2015;0;
+Shopify;liquid;closed;Frank-Robert Kline;Sun Apr 19 21:07:55 BRT 2015;Thu Jun 11 20:38:30 BRT 2015;52;
+Shopify;liquid;closed;null;Fri Apr 17 08:35:32 BRT 2015;Mon Apr 27 13:18:36 BRT 2015;10;
+Shopify;liquid;closed;Timothy Choi;Wed Apr 15 03:50:25 BRT 2015;Wed Apr 15 13:40:03 BRT 2015;0;
+Shopify;liquid;closed;Thierry Joyal;Thu Apr 02 10:23:44 BRT 2015;Thu Apr 02 13:02:48 BRT 2015;0;
+Shopify;liquid;open;Arthur Nogueira Neves;Mon Mar 30 14:14:06 BRT 2015;null;199;
+Shopify;liquid;closed;Mike Bridge;Fri Mar 27 20:16:03 BRT 2015;Thu Jun 18 17:15:18 BRT 2015;82;
+Shopify;liquid;closed;Mike Bridge;Fri Mar 27 17:06:48 BRT 2015;Tue Jun 09 16:55:28 BRT 2015;73;
+Shopify;liquid;closed;Justin Li;Wed Mar 25 15:56:17 BRT 2015;Wed Apr 22 00:34:29 BRT 2015;27;
+Shopify;liquid;closed;Justin Li;Wed Mar 25 02:37:00 BRT 2015;Wed Mar 25 02:42:22 BRT 2015;0;
+Shopify;liquid;closed;Dorian;Tue Mar 24 10:09:23 BRT 2015;Tue Mar 24 11:21:22 BRT 2015;0;
+Shopify;liquid;closed;John Feminella;Thu Mar 19 11:40:14 BRT 2015;Thu Mar 19 11:48:52 BRT 2015;0;
+Shopify;liquid;closed;Parker Moore;Fri Mar 13 19:30:03 BRT 2015;Sat Mar 28 00:01:16 BRT 2015;14;
+Shopify;liquid;closed;Marius Andreiana;Mon Mar 09 08:58:33 BRT 2015;Mon Mar 09 10:53:57 BRT 2015;0;
+Shopify;liquid;closed;James Stewart;Fri Mar 06 16:48:16 BRT 2015;Fri Mar 06 17:08:33 BRT 2015;0;
+Shopify;liquid;open;Marten Veldthuis;Tue Mar 03 11:50:17 BRT 2015;null;226;
+Shopify;liquid;closed;Ivan Youroff;Sat Feb 28 09:39:09 BRT 2015;Sun Apr 19 15:53:57 BRT 2015;50;
+Shopify;liquid;closed;Aaron Renoir;Fri Feb 27 15:48:20 BRT 2015;Fri Feb 27 16:00:12 BRT 2015;0;
+Shopify;liquid;closed;null;Fri Feb 27 07:51:03 BRT 2015;Sun Mar 01 22:48:17 BRT 2015;2;
+Shopify;liquid;closed;Dorian;Wed Feb 25 11:29:39 BRT 2015;Tue Jun 09 15:25:08 BRT 2015;104;
+Shopify;liquid;closed;Tanguy Krotoff;Tue Feb 24 09:15:33 BRT 2015;Tue May 12 14:19:24 BRT 2015;77;
+Shopify;liquid;closed;Loren Hale;Tue Feb 24 02:17:43 BRT 2015;Tue Feb 24 07:11:31 BRT 2015;0;
+Shopify;liquid;closed;Justin Li;Sat Feb 21 23:50:31 BRST 2015;Wed Apr 22 00:37:20 BRT 2015;59;
+Shopify;liquid;closed;Paolo G. Giarrusso;Thu Feb 19 17:24:22 BRST 2015;Thu Feb 19 17:30:21 BRST 2015;0;
+Shopify;liquid;closed;null;Tue Feb 17 19:46:40 BRST 2015;Wed Feb 18 13:14:56 BRST 2015;0;
+Shopify;liquid;closed;Dmitry Verkhoturov;Mon Feb 16 12:00:25 BRST 2015;Tue May 19 08:36:47 BRT 2015;91;
+Shopify;liquid;open;Timothy Choi;Mon Feb 09 05:31:03 BRST 2015;null;249;
+Shopify;liquid;closed;Timothy Choi;Mon Feb 09 05:14:27 BRST 2015;Mon Feb 09 11:30:20 BRST 2015;0;
+Shopify;liquid;closed;Jonathan Martin;Thu Feb 05 17:40:09 BRST 2015;Tue Jul 07 16:49:43 BRT 2015;151;
+Shopify;liquid;closed;Justin Li;Wed Feb 04 15:46:24 BRST 2015;Wed Mar 25 02:22:35 BRT 2015;48;
+Shopify;liquid;closed;Dylan Thacker-Smith;Tue Feb 03 16:54:24 BRST 2015;Wed Feb 04 21:07:51 BRST 2015;1;
+Shopify;liquid;closed;Nick Pearson;Tue Feb 03 13:04:53 BRST 2015;Wed Feb 04 21:07:51 BRST 2015;1;
+Shopify;liquid;closed;Anthony Ramella;Sun Feb 01 15:45:52 BRST 2015;Sun Feb 01 15:48:27 BRST 2015;0;
+Shopify;liquid;closed;Parker Moore;Sat Jan 31 17:58:20 BRST 2015;Tue Jun 09 15:23:14 BRT 2015;128;
+Shopify;liquid;closed;Shaba Abhiram;Thu Jan 29 20:46:41 BRST 2015;Thu Jan 29 21:55:17 BRST 2015;0;
+Shopify;liquid;closed;William Entriken;Wed Jan 28 21:46:09 BRST 2015;Tue Jun 09 15:22:38 BRT 2015;131;
+Shopify;liquid;open;tetchi;Mon Jan 26 20:55:11 BRST 2015;null;262;
+Shopify;liquid;closed;Arthur Nogueira Neves;Fri Jan 23 13:22:22 BRST 2015;Sat Jan 24 00:24:04 BRST 2015;0;
+Shopify;liquid;closed;Kyle McAlpine;Thu Jan 22 16:25:49 BRST 2015;Thu Jan 22 16:37:12 BRST 2015;0;
+Shopify;liquid;closed;Mosciatti S.;Thu Jan 22 07:36:21 BRST 2015;Tue Jun 09 15:21:34 BRT 2015;138;
+Shopify;liquid;closed;Mosciatti S.;Tue Jan 20 02:39:58 BRST 2015;Tue Jan 20 03:24:05 BRST 2015;0;
+Shopify;liquid;closed;Parker Moore;Tue Jan 13 19:05:45 BRST 2015;Tue Jun 09 15:20:43 BRT 2015;146;
+Shopify;liquid;open;Paul Robert Lloyd;Fri Jan 09 19:53:15 BRST 2015;null;279;
+Shopify;liquid;closed;Florian Weingarten;Fri Jan 09 12:16:32 BRST 2015;Sun Jan 11 02:27:00 BRST 2015;1;
+Shopify;liquid;closed;David Leonard;Thu Jan 08 22:50:36 BRST 2015;Sun Jan 11 02:27:00 BRST 2015;2;
+Shopify;liquid;closed;Alfred Xing;Fri Dec 26 22:42:11 BRST 2014;Tue Dec 30 16:15:10 BRST 2014;3;
+Shopify;liquid;closed;Parker Moore;Fri Dec 26 19:33:53 BRST 2014;Tue Dec 30 16:15:04 BRST 2014;3;
+Shopify;liquid;closed;Alfred Xing;Thu Dec 25 18:11:13 BRST 2014;Tue Dec 30 19:51:02 BRST 2014;5;
+Shopify;liquid;closed;Carson Reinke;Fri Dec 19 19:19:23 BRST 2014;Sat Jan 31 03:02:52 BRST 2015;42;
+Shopify;liquid;closed;Paul Kuruvilla;Wed Dec 17 01:34:22 BRST 2014;Wed Mar 25 02:22:35 BRT 2015;98;
+Shopify;liquid;closed;Kelley Reynolds;Tue Dec 16 13:39:52 BRST 2014;Wed Mar 25 02:22:04 BRT 2015;98;
+Shopify;liquid;closed;Misagh Moayyed;Mon Dec 15 18:30:21 BRST 2014;Mon Dec 15 18:39:21 BRST 2014;0;
+Shopify;liquid;closed;Thomas Reggi;Fri Dec 12 20:24:25 BRST 2014;Fri Dec 12 23:42:39 BRST 2014;0;
+Shopify;liquid;closed;null;Fri Dec 12 13:28:34 BRST 2014;Fri Dec 12 14:33:24 BRST 2014;0;
+Shopify;liquid;closed;Sebastian Szturo;Wed Dec 10 02:32:58 BRST 2014;Wed Dec 10 02:36:12 BRST 2014;0;
+Shopify;liquid;closed;Marius Andreiana;Sun Dec 07 10:09:51 BRST 2014;Sun Dec 07 13:13:25 BRST 2014;0;
+Shopify;liquid;closed;Thomas Reggi;Thu Dec 04 21:09:47 BRST 2014;Thu Jun 04 14:24:59 BRT 2015;181;
+Shopify;liquid;closed;Justin Li;Thu Dec 04 19:29:06 BRST 2014;Thu Dec 11 19:05:41 BRST 2014;6;
+Shopify;liquid;closed;Justin Li;Tue Dec 02 17:39:27 BRST 2014;Wed Dec 03 15:52:10 BRST 2014;0;
+Shopify;liquid;open;Parker Moore;Sat Nov 22 21:19:40 BRST 2014;null;327;
+Shopify;liquid;closed;Alexander Ross;Wed Nov 19 07:51:33 BRST 2014;Wed Nov 19 11:02:58 BRST 2014;0;
+Shopify;liquid;closed;Adam George;Tue Nov 18 01:03:14 BRST 2014;Tue Nov 18 01:11:47 BRST 2014;0;
+Shopify;liquid;closed;Anatol Broder;Sun Nov 16 14:21:17 BRST 2014;Fri Nov 21 15:43:19 BRST 2014;5;
+Shopify;liquid;closed;Justin Li;Wed Nov 12 19:12:39 BRST 2014;Wed Nov 12 20:22:16 BRST 2014;0;
+Shopify;liquid;closed;Justin Li;Wed Nov 12 03:17:08 BRST 2014;Fri Dec 05 18:10:16 BRST 2014;23;
+Shopify;liquid;closed;Rick Beton;Sat Nov 08 09:01:58 BRST 2014;Mon Nov 10 12:44:39 BRST 2014;2;
+Shopify;liquid;closed;Florian Weingarten;Fri Nov 07 00:02:43 BRST 2014;Wed Nov 12 13:46:58 BRST 2014;5;
+Shopify;liquid;closed;Josh Kalderimis;Thu Nov 06 23:54:25 BRST 2014;Fri Nov 07 00:06:52 BRST 2014;0;
+Shopify;liquid;closed;Justin Li;Wed Nov 05 23:46:16 BRST 2014;Thu Nov 06 16:03:15 BRST 2014;0;
+Shopify;liquid;closed;Justin Li;Wed Nov 05 13:58:26 BRST 2014;Wed Nov 05 15:05:21 BRST 2014;0;
+Shopify;liquid;closed;Justin Li;Tue Nov 04 16:36:26 BRST 2014;Tue Nov 04 17:02:14 BRST 2014;0;
+Shopify;liquid;closed;Justin Li;Wed Oct 29 13:32:31 BRST 2014;Thu Oct 30 23:59:26 BRST 2014;1;
+Shopify;liquid;closed;Vladimir Krylov;Tue Oct 28 15:50:28 BRST 2014;Tue Jun 09 15:17:40 BRT 2015;223;
+Shopify;liquid;closed;Justin Li;Mon Oct 27 15:35:42 BRST 2014;Mon Oct 27 15:56:11 BRST 2014;0;
+Shopify;liquid;closed;Justin Li;Thu Oct 23 13:24:16 BRST 2014;Fri Oct 24 23:37:46 BRST 2014;1;
+Shopify;liquid;closed;Justin Li;Thu Oct 23 13:15:49 BRST 2014;Mon Oct 27 15:37:53 BRST 2014;4;
+Shopify;liquid;closed;Justin Li;Thu Oct 23 12:28:31 BRST 2014;Mon Apr 20 10:18:39 BRT 2015;178;
+Shopify;liquid;closed;Justin Li;Thu Oct 23 12:07:18 BRST 2014;Thu Oct 23 12:12:41 BRST 2014;0;
+Shopify;liquid;closed;Justin Li;Wed Oct 22 17:51:04 BRST 2014;Wed Mar 25 02:26:08 BRT 2015;153;
+Shopify;liquid;closed;Pedro Henrique Passalini;Wed Oct 22 14:07:51 BRST 2014;Wed Oct 22 17:39:45 BRST 2014;0;
+Shopify;liquid;closed;Justin Li;Tue Oct 21 14:11:29 BRST 2014;Tue Oct 21 17:06:34 BRST 2014;0;
+Shopify;liquid;closed;null;Sat Oct 18 18:40:28 BRT 2014;Sat Oct 18 19:52:58 BRT 2014;0;
+Shopify;liquid;open;Parker Moore;Sat Oct 18 18:02:37 BRT 2014;null;362;
+Shopify;liquid;closed;Dylan Thacker-Smith;Sat Oct 18 15:57:46 BRT 2014;Mon Oct 20 15:57:17 BRST 2014;1;
+Shopify;liquid;closed;Florian Weingarten;Fri Oct 17 20:24:45 BRT 2014;Sat Oct 18 11:19:02 BRT 2014;0;
+Shopify;liquid;closed;null;Fri Oct 17 15:30:19 BRT 2014;Tue Jun 09 21:50:04 BRT 2015;235;
+Shopify;liquid;closed;Justin Li;Fri Oct 17 14:33:19 BRT 2014;Fri Oct 17 14:45:48 BRT 2014;0;
+Shopify;liquid;closed;Florian Weingarten;Fri Oct 17 13:18:04 BRT 2014;Fri Oct 17 13:32:00 BRT 2014;0;
+Shopify;liquid;closed;null;Fri Oct 17 10:34:17 BRT 2014;Tue May 12 11:50:13 BRT 2015;207;
+Shopify;liquid;closed;null;Thu Oct 16 08:17:49 BRT 2014;Thu Oct 16 10:55:15 BRT 2014;0;
+Shopify;liquid;closed;Florian Weingarten;Wed Oct 15 16:28:35 BRT 2014;Wed Oct 15 16:42:53 BRT 2014;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Tue Oct 14 04:57:25 BRT 2014;Mon Nov 03 20:34:39 BRST 2014;20;
+Shopify;liquid;closed;Parker Moore;Sun Oct 12 18:28:18 BRT 2014;Tue Jun 09 15:14:42 BRT 2015;239;
+Shopify;liquid;open;Joost Hietbrink;Fri Oct 10 09:45:11 BRT 2014;null;371;
+Shopify;liquid;closed;Florian Weingarten;Fri Oct 03 18:03:05 BRT 2014;Sat Oct 04 12:53:30 BRT 2014;0;
+Shopify;liquid;closed;Florian Weingarten;Thu Oct 02 18:39:24 BRT 2014;Fri Oct 03 08:57:16 BRT 2014;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Wed Oct 01 20:56:30 BRT 2014;Wed Oct 01 21:02:09 BRT 2014;0;
+Shopify;liquid;closed;Craig Day;Wed Oct 01 19:43:08 BRT 2014;Mon Nov 17 18:54:56 BRST 2014;46;
+Shopify;liquid;closed;Jacob Lichner;Tue Sep 30 15:41:58 BRT 2014;Fri Oct 17 10:52:28 BRT 2014;16;
+Shopify;liquid;closed;Florian Weingarten;Thu Sep 18 07:38:49 BRT 2014;Thu Sep 18 16:05:37 BRT 2014;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Mon Sep 15 18:32:49 BRT 2014;Mon Sep 15 18:41:41 BRT 2014;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Mon Sep 15 17:33:17 BRT 2014;Mon Sep 15 18:43:34 BRT 2014;0;
+Shopify;liquid;closed;Espen Antonsen;Sun Sep 14 00:49:55 BRT 2014;Sun Sep 14 06:12:10 BRT 2014;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Fri Sep 12 18:18:24 BRT 2014;Tue Oct 14 04:03:31 BRT 2014;31;
+Shopify;liquid;closed;Dylan Thacker-Smith;Fri Sep 12 18:07:11 BRT 2014;Mon Sep 15 10:53:54 BRT 2014;2;
+Shopify;liquid;closed;Dylan Thacker-Smith;Fri Sep 12 17:50:36 BRT 2014;Mon Sep 15 10:56:08 BRT 2014;2;
+Shopify;liquid;closed;Dylan Thacker-Smith;Fri Sep 12 11:18:32 BRT 2014;Fri Oct 17 14:12:46 BRT 2014;35;
+Shopify;liquid;closed;Dylan Thacker-Smith;Fri Sep 12 10:57:44 BRT 2014;Fri Apr 17 18:12:03 BRT 2015;217;
+Shopify;liquid;closed;James Reid-Smith;Thu Sep 11 20:32:03 BRT 2014;Mon Apr 27 13:13:36 BRT 2015;227;
+Shopify;liquid;closed;Evan Huus;Thu Sep 11 19:14:27 BRT 2014;Mon Sep 22 14:43:35 BRT 2014;10;
+Shopify;liquid;closed;Dylan Thacker-Smith;Thu Sep 11 14:51:26 BRT 2014;Thu Sep 11 15:27:52 BRT 2014;0;
+Shopify;liquid;closed;Thomas Reggi;Tue Sep 09 11:46:02 BRT 2014;Thu Jun 04 14:22:57 BRT 2015;268;
+Shopify;liquid;closed;Jason Hiltz-Laforge;Mon Sep 08 13:16:38 BRT 2014;Mon Sep 08 13:56:44 BRT 2014;0;
+Shopify;liquid;closed;Matthias Frick;Fri Aug 29 13:28:47 BRT 2014;Sun Aug 31 13:15:54 BRT 2014;1;
+Shopify;liquid;closed;Tristan Hume;Thu Aug 28 16:07:48 BRT 2014;Fri Apr 17 14:08:05 BRT 2015;231;
+Shopify;liquid;closed;David Jacquel;Wed Aug 27 17:58:50 BRT 2014;Wed Aug 27 17:59:38 BRT 2014;0;
+Shopify;liquid;closed;David Jacquel;Wed Aug 27 17:54:47 BRT 2014;Thu Aug 28 12:00:43 BRT 2014;0;
+Shopify;liquid;open;Thomas Reggi;Wed Aug 27 14:13:20 BRT 2014;null;414;
+Shopify;liquid;closed;Bogdan Gusiev;Wed Aug 27 09:46:24 BRT 2014;Wed Aug 27 10:06:39 BRT 2014;0;
+Shopify;liquid;closed;Ron Jonk;Wed Aug 27 09:38:08 BRT 2014;Wed Aug 27 09:47:18 BRT 2014;0;
+Shopify;liquid;closed;Diogo Beato;Sun Aug 24 14:48:49 BRT 2014;Wed Mar 25 02:42:38 BRT 2015;212;
+Shopify;liquid;closed;Daniel Nordness;Sat Aug 23 23:04:04 BRT 2014;Sat Aug 23 23:21:39 BRT 2014;0;
+Shopify;liquid;closed;Parker Moore;Fri Aug 22 14:16:26 BRT 2014;Tue Jun 09 15:19:05 BRT 2015;291;
+Shopify;liquid;closed;Jason Hiltz-Laforge;Thu Aug 21 15:47:14 BRT 2014;Fri Apr 17 11:26:35 BRT 2015;238;
+Shopify;liquid;closed;Tristan Hume;Thu Aug 21 12:41:33 BRT 2014;Tue Aug 26 14:40:06 BRT 2014;5;
+Shopify;liquid;closed;Joan.R;Tue Aug 19 15:46:41 BRT 2014;Thu Aug 21 05:20:05 BRT 2014;1;
+Shopify;liquid;closed;Bogdan Gusiev;Mon Aug 18 10:21:52 BRT 2014;Mon Aug 18 15:58:08 BRT 2014;0;
+Shopify;liquid;open;null;Sun Aug 17 16:39:54 BRT 2014;null;424;
+Shopify;liquid;closed;Derrick Reimer;Fri Aug 15 12:50:00 BRT 2014;Fri Aug 15 15:05:39 BRT 2014;0;
+Shopify;liquid;closed;Jason Roelofs;Fri Aug 15 12:05:17 BRT 2014;Thu Aug 21 12:51:31 BRT 2014;6;
+Shopify;liquid;closed;Florian Weingarten;Thu Aug 14 13:13:34 BRT 2014;Mon Sep 08 18:15:53 BRT 2014;25;
+Shopify;liquid;closed;Parker Moore;Wed Aug 13 16:52:01 BRT 2014;Wed Aug 13 18:04:13 BRT 2014;0;
+Shopify;liquid;closed;Tristan Hume;Wed Aug 13 10:37:54 BRT 2014;Wed Aug 13 13:07:35 BRT 2014;0;
+Shopify;liquid;closed;Tristan Hume;Tue Aug 12 10:30:36 BRT 2014;Tue Aug 12 11:08:05 BRT 2014;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Tue Aug 12 07:53:18 BRT 2014;Fri Apr 17 18:13:23 BRT 2015;248;
+Shopify;liquid;closed;Florian Weingarten;Mon Aug 11 23:16:59 BRT 2014;Tue Aug 12 17:05:52 BRT 2014;0;
+Shopify;liquid;closed;Tristan Hume;Mon Aug 11 13:01:28 BRT 2014;Mon Aug 11 14:06:51 BRT 2014;0;
+Shopify;liquid;closed;Tristan Hume;Mon Aug 11 11:45:48 BRT 2014;Mon Aug 11 16:37:49 BRT 2014;0;
+Shopify;liquid;closed;Jean Boussier;Thu Aug 07 15:02:27 BRT 2014;Fri Aug 08 01:13:35 BRT 2014;0;
+Shopify;liquid;closed;Florian Weingarten;Wed Aug 06 12:49:26 BRT 2014;Sun Aug 10 17:40:54 BRT 2014;4;
+Shopify;liquid;closed;Henrique Alves;Wed Aug 06 12:03:02 BRT 2014;Wed Aug 06 12:09:51 BRT 2014;0;
+Shopify;liquid;closed;David Jacquel;Wed Aug 06 07:11:25 BRT 2014;Wed Aug 06 12:12:25 BRT 2014;0;
+Shopify;liquid;closed;Florian Weingarten;Tue Aug 05 13:46:56 BRT 2014;Tue Aug 05 15:00:45 BRT 2014;0;
+Shopify;liquid;closed;Florian Weingarten;Mon Aug 04 13:47:55 BRT 2014;Tue Aug 05 12:14:01 BRT 2014;0;
+Shopify;liquid;closed;Parker Moore;Thu Jul 31 18:50:55 BRT 2014;Thu Jul 31 18:54:02 BRT 2014;0;
+Shopify;liquid;closed;Pat Hawks;Thu Jul 31 18:22:20 BRT 2014;Tue May 12 14:19:24 BRT 2015;284;
+Shopify;liquid;closed;Florian Weingarten;Tue Jul 29 10:25:59 BRT 2014;Mon Aug 11 23:17:08 BRT 2014;13;
+Shopify;liquid;closed;Florian Weingarten;Mon Jul 28 17:38:58 BRT 2014;Mon Aug 11 16:22:43 BRT 2014;13;
+Shopify;liquid;closed;Florian Weingarten;Mon Jul 28 13:38:08 BRT 2014;Tue Jul 29 10:05:23 BRT 2014;0;
+Shopify;liquid;closed;Tom Burns;Mon Jul 28 11:19:49 BRT 2014;Wed Jul 30 12:43:31 BRT 2014;2;
+Shopify;liquid;closed;Parker Moore;Thu Jul 24 16:47:51 BRT 2014;Wed Sep 23 01:15:37 BRT 2015;425;
+Shopify;liquid;closed;Jason Hiltz-Laforge;Thu Jul 24 15:35:07 BRT 2014;Thu Jul 24 16:04:36 BRT 2014;0;
+Shopify;liquid;closed;Florian Weingarten;Thu Jul 24 10:39:53 BRT 2014;Thu Jul 24 11:51:02 BRT 2014;0;
+Shopify;liquid;closed;Mika Mustalahti;Thu Jul 24 08:38:57 BRT 2014;Tue Jul 29 10:34:46 BRT 2014;5;
+Shopify;liquid;closed;Jason Hiltz-Laforge;Wed Jul 23 23:30:10 BRT 2014;Wed Jul 23 23:35:13 BRT 2014;0;
+Shopify;liquid;open;Florian Weingarten;Wed Jul 23 19:46:07 BRT 2014;null;449;
+Shopify;liquid;closed;Jason Hiltz-Laforge;Wed Jul 23 16:21:32 BRT 2014;Wed Jul 23 17:24:24 BRT 2014;0;
+Shopify;liquid;closed;Stefan Bauckmeier;Wed Jul 23 13:49:42 BRT 2014;Mon Jul 28 13:50:10 BRT 2014;5;
+Shopify;liquid;closed;Dylan Thacker-Smith;Wed Jul 23 00:57:35 BRT 2014;Mon Aug 11 18:17:54 BRT 2014;19;
+Shopify;liquid;closed;Florian Weingarten;Tue Jul 22 18:43:10 BRT 2014;Tue Jul 22 19:12:19 BRT 2014;0;
+Shopify;liquid;closed;Florian Weingarten;Tue Jul 22 18:18:18 BRT 2014;Wed Jul 23 10:07:26 BRT 2014;0;
+Shopify;liquid;closed;Parker Moore;Tue Jul 22 14:08:43 BRT 2014;Tue Jul 22 14:22:40 BRT 2014;0;
+Shopify;liquid;closed;Gray Gilmore;Mon Jul 21 19:52:53 BRT 2014;Wed Jul 23 10:19:28 BRT 2014;1;
+Shopify;liquid;closed;Jason Hiltz-Laforge;Mon Jul 21 17:09:23 BRT 2014;Tue Jul 22 12:22:58 BRT 2014;0;
+Shopify;liquid;closed;Jason Hiltz-Laforge;Mon Jul 21 16:57:44 BRT 2014;Tue Jul 22 12:22:33 BRT 2014;0;
+Shopify;liquid;closed;Jason Hiltz-Laforge;Mon Jul 21 16:51:37 BRT 2014;Tue Jul 22 13:59:05 BRT 2014;0;
+Shopify;liquid;closed;Jason Hiltz-Laforge;Sun Jul 20 11:17:47 BRT 2014;Mon Jul 21 13:29:58 BRT 2014;1;
+Shopify;liquid;closed;Jason Hiltz-Laforge;Wed Jul 16 17:40:44 BRT 2014;Thu Jul 17 13:16:24 BRT 2014;0;
+Shopify;liquid;closed;Jason Hiltz-Laforge;Wed Jul 16 12:35:22 BRT 2014;Wed Jul 16 17:41:31 BRT 2014;0;
+Shopify;liquid;closed;Jason Hiltz-Laforge;Tue Jul 15 15:54:21 BRT 2014;Wed Jul 16 12:36:32 BRT 2014;0;
+Shopify;liquid;closed;Mads Ohm Larsen;Mon Jul 14 09:36:11 BRT 2014;Tue Jul 22 18:00:05 BRT 2014;8;
+Shopify;liquid;closed;Florian Weingarten;Tue Jul 08 11:50:24 BRT 2014;Tue Jul 08 12:31:19 BRT 2014;0;
+Shopify;liquid;closed;Thierry Joyal;Mon Jul 07 17:38:28 BRT 2014;Tue Jul 08 12:29:44 BRT 2014;0;
+Shopify;liquid;closed;David Cornu;Wed Jul 02 14:33:52 BRT 2014;Thu Jul 03 13:01:50 BRT 2014;0;
+Shopify;liquid;closed;Tony Zou;Mon Jun 30 18:17:38 BRT 2014;Mon Jun 30 18:19:37 BRT 2014;0;
+Shopify;liquid;closed;Jean Boussier;Sat Jun 28 17:25:29 BRT 2014;Wed Jul 02 12:04:38 BRT 2014;3;
+Shopify;liquid;closed;Dominik Wilkowski;Sat Jun 28 01:18:08 BRT 2014;Tue Aug 05 12:14:15 BRT 2014;38;
+Shopify;liquid;closed;Benjamin Stein;Mon Jun 23 12:25:47 BRT 2014;Tue Jun 24 11:28:49 BRT 2014;0;
+Shopify;liquid;closed;Jean Boussier;Mon Jun 23 11:48:09 BRT 2014;Tue Jun 24 11:59:46 BRT 2014;1;
+Shopify;liquid;closed;Manas Tungare;Sat Jun 21 22:33:39 BRT 2014;Fri Aug 01 21:42:22 BRT 2014;40;
+Shopify;liquid;closed;Benjamin Stein;Thu Jun 19 12:53:07 BRT 2014;Mon Jun 23 12:26:21 BRT 2014;3;
+Shopify;liquid;closed;Christian Blais;Mon Jun 16 12:16:27 BRT 2014;Mon Jun 16 12:32:17 BRT 2014;0;
+Shopify;liquid;closed;Carson Shold;Mon Jun 16 11:52:37 BRT 2014;Mon Jun 16 20:31:28 BRT 2014;0;
+Shopify;liquid;closed;Bud Parr;Sun Jun 15 18:25:43 BRT 2014;Mon Jun 23 10:50:59 BRT 2014;7;
+Shopify;liquid;closed;Gaurav Chande;Thu Jun 12 20:18:57 BRT 2014;Tue Jul 22 17:57:35 BRT 2014;39;
+Shopify;liquid;closed;Jason Roelofs;Mon Jun 09 22:20:47 BRT 2014;Wed Aug 13 18:04:29 BRT 2014;64;
+Shopify;liquid;closed;René Föhring;Thu Jun 05 07:25:29 BRT 2014;Thu Jun 05 11:32:47 BRT 2014;0;
+Shopify;liquid;closed;Stu Cox;Mon Jun 02 05:29:32 BRT 2014;Mon Jun 02 14:30:20 BRT 2014;0;
+Shopify;liquid;closed;Jason Roelofs;Fri May 30 17:29:23 BRT 2014;Mon Jun 09 19:10:12 BRT 2014;10;
+Shopify;liquid;closed;Ricardo Bonfocchi;Fri May 30 11:09:09 BRT 2014;Tue Aug 05 09:17:41 BRT 2014;66;
+Shopify;liquid;closed;Mario Olivio Flores;Tue May 20 16:28:29 BRT 2014;Fri Oct 17 20:44:14 BRT 2014;150;
+Shopify;liquid;closed;Ken Dreyer;Sat May 17 20:16:09 BRT 2014;Mon Jul 28 13:39:03 BRT 2014;71;
+Shopify;liquid;closed;kyleaparker;Mon May 12 16:21:35 BRT 2014;Tue May 13 20:32:49 BRT 2014;1;
+Shopify;liquid;closed;Daniel Gaiottino;Tue May 06 11:56:09 BRT 2014;Tue May 06 11:59:15 BRT 2014;0;
+Shopify;liquid;closed;Anatol Broder;Sun May 04 07:33:14 BRT 2014;Sun May 04 20:38:12 BRT 2014;0;
+Shopify;liquid;closed;Dillon Benson;Fri May 02 18:24:33 BRT 2014;Fri May 02 19:15:33 BRT 2014;0;
+Shopify;liquid;closed;Dillon Benson;Thu May 01 23:20:27 BRT 2014;Tue May 06 16:05:18 BRT 2014;4;
+Shopify;liquid;closed;Daniel Gaiottino;Thu May 01 06:35:00 BRT 2014;Tue May 06 11:18:12 BRT 2014;5;
+Shopify;liquid;closed;David Cornu;Wed Apr 30 19:36:02 BRT 2014;Wed Apr 30 21:47:39 BRT 2014;0;
+Shopify;liquid;closed;David Cornu;Wed Apr 30 18:24:02 BRT 2014;Thu May 01 13:56:35 BRT 2014;0;
+Shopify;liquid;closed;Thierry Joyal;Wed Apr 30 17:30:30 BRT 2014;Thu May 01 13:52:06 BRT 2014;0;
+Shopify;liquid;closed;Daniel Gaiottino;Wed Apr 30 06:30:52 BRT 2014;Wed Jul 23 10:26:55 BRT 2014;84;
+Shopify;liquid;closed;Dillon Benson;Wed Apr 30 04:07:59 BRT 2014;Wed Apr 30 09:23:36 BRT 2014;0;
+Shopify;liquid;closed;Florian Weingarten;Tue Apr 29 15:34:00 BRT 2014;Tue Apr 29 16:21:30 BRT 2014;0;
+Shopify;liquid;closed;Bogdan Gusiev;Tue Apr 29 05:36:23 BRT 2014;Tue Apr 29 16:21:30 BRT 2014;0;
+Shopify;liquid;open;Jay Abbott;Sun Apr 27 20:30:21 BRT 2014;null;536;
+Shopify;liquid;closed;atlas jobinson;Sat Apr 26 11:33:14 BRT 2014;Wed Jul 23 10:27:18 BRT 2014;87;
+Shopify;liquid;closed;Derek Johnson;Wed Apr 23 18:17:50 BRT 2014;Thu Apr 24 16:15:58 BRT 2014;0;
+Shopify;liquid;closed;Bogdan Gusiev;Mon Apr 21 10:43:55 BRT 2014;Wed Jul 23 18:03:31 BRT 2014;93;
+Shopify;liquid;closed;Jay Abbott;Wed Apr 16 18:09:22 BRT 2014;Tue Aug 05 10:29:40 BRT 2014;110;
+Shopify;liquid;closed;Jay Abbott;Wed Apr 16 18:05:03 BRT 2014;Tue Jul 29 10:37:09 BRT 2014;103;
+Shopify;liquid;closed;mikey dubs;Sat Apr 12 19:24:33 BRT 2014;Sat Apr 12 21:14:44 BRT 2014;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Fri Apr 11 15:35:51 BRT 2014;Fri Apr 11 16:08:34 BRT 2014;0;
+Shopify;liquid;open;Didier Lafforgue;Tue Apr 08 19:35:42 BRT 2014;null;555;
+Shopify;liquid;closed;René Föhring;Sat Apr 05 07:25:05 BRT 2014;Sat Apr 05 12:46:33 BRT 2014;0;
+Shopify;liquid;closed;Ricardo Bonfocchi;Tue Apr 01 18:45:50 BRT 2014;Wed Apr 02 11:36:38 BRT 2014;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Sat Mar 29 17:06:57 BRT 2014;Mon Mar 31 11:16:37 BRT 2014;1;
+Shopify;liquid;closed;Jean-Marc Giorgi;Sat Mar 29 01:06:35 BRT 2014;Sat Mar 29 01:07:11 BRT 2014;0;
+Shopify;liquid;closed;Jean-Marc Giorgi;Sat Mar 29 00:37:07 BRT 2014;Sat Mar 29 01:04:43 BRT 2014;0;
+Shopify;liquid;closed;Brad Graham;Fri Mar 28 18:32:30 BRT 2014;Sat Mar 29 16:34:53 BRT 2014;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Wed Mar 26 16:16:14 BRT 2014;Wed Mar 26 17:04:39 BRT 2014;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Tue Mar 25 20:21:19 BRT 2014;Wed Mar 26 00:42:18 BRT 2014;0;
+Shopify;liquid;closed;Lydia Krupp-Hunter;Tue Mar 25 11:45:58 BRT 2014;Mon Jul 28 13:52:01 BRT 2014;125;
+Shopify;liquid;closed;Valentin Radulescu;Mon Mar 24 12:21:51 BRT 2014;Tue Jul 29 11:09:32 BRT 2014;126;
+Shopify;liquid;closed;Dylan Thacker-Smith;Fri Mar 21 03:01:05 BRT 2014;Fri Mar 21 14:48:47 BRT 2014;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Thu Mar 20 18:34:10 BRT 2014;Fri Mar 21 01:26:14 BRT 2014;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Thu Mar 20 13:10:20 BRT 2014;Thu Mar 20 19:33:40 BRT 2014;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Wed Mar 19 19:03:18 BRT 2014;Wed Mar 19 19:06:15 BRT 2014;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Tue Mar 18 19:00:36 BRT 2014;Thu Mar 20 17:15:58 BRT 2014;1;
+Shopify;liquid;closed;Dylan Thacker-Smith;Tue Mar 18 17:50:51 BRT 2014;Tue Mar 18 18:16:33 BRT 2014;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Tue Mar 18 14:13:12 BRT 2014;Wed Mar 19 21:53:19 BRT 2014;1;
+Shopify;liquid;closed;Dylan Thacker-Smith;Fri Mar 14 00:46:03 BRT 2014;Fri Mar 14 11:27:47 BRT 2014;0;
+Shopify;liquid;closed;Dylan Thacker-Smith;Thu Mar 13 19:08:03 BRT 2014;Fri Mar 14 11:17:33 BRT 2014;0;
+Shopify;liquid;closed;null;Thu Mar 13 11:29:06 BRT 2014;Sat Mar 29 16:43:22 BRT 2014;16;
+Shopify;liquid;closed;???;Wed Mar 12 00:26:56 BRT 2014;Wed Mar 12 12:18:55 BRT 2014;0;
+Shopify;liquid;closed;Rick Davies;Tue Mar 11 15:25:48 BRT 2014;Fri Mar 21 16:01:27 BRT 2014;10;
+Shopify;liquid;closed;Maximilian Held;Mon Mar 10 15:48:37 BRT 2014;Thu Mar 20 19:00:55 BRT 2014;10;
+Shopify;liquid;closed;Florian Weingarten;Tue Mar 04 11:10:08 BRT 2014;Tue Aug 05 11:22:48 BRT 2014;154;
+Shopify;liquid;closed;Kirill Shirinkin;Wed Feb 26 04:24:56 BRT 2014;Thu Mar 20 19:20:09 BRT 2014;22;
+Shopify;liquid;closed;Dylan Thacker-Smith;Tue Feb 25 02:13:17 BRT 2014;Tue Feb 25 02:18:27 BRT 2014;0;
+Shopify;liquid;closed;Bogdan Gusiev;Fri Feb 21 16:21:50 BRT 2014;Fri Feb 21 17:13:12 BRT 2014;0;
+Shopify;liquid;closed;Anton Andriyevskyy;Fri Feb 14 15:27:50 BRST 2014;Wed Aug 06 00:24:43 BRT 2014;172;
+Shopify;liquid;closed;Robert Kranz;Wed Feb 12 12:16:56 BRST 2014;Thu Mar 20 19:12:00 BRT 2014;36;
+Shopify;liquid;closed;Adam Doeler;Fri Feb 07 17:59:33 BRST 2014;Thu Feb 13 16:45:01 BRST 2014;5;
+Shopify;liquid;closed;Alex Lydiate;Thu Jan 30 11:12:49 BRST 2014;Fri Jan 31 11:18:44 BRST 2014;1;
+Shopify;liquid;closed;Patrick Joyce;Mon Jan 27 00:37:25 BRST 2014;Wed Jul 23 11:48:41 BRT 2014;177;
+Shopify;liquid;closed;Florian Weingarten;Fri Jan 24 14:05:32 BRST 2014;Fri Jan 24 14:09:19 BRST 2014;0;
+Shopify;liquid;closed;Pat Hawks;Wed Jan 22 20:13:05 BRST 2014;Mon Aug 04 13:57:50 BRT 2014;193;
+Shopify;liquid;closed;null;Tue Jan 14 22:18:04 BRST 2014;Tue Jan 14 22:48:36 BRST 2014;0;
+Shopify;liquid;closed;Florian Weingarten;Fri Jan 10 14:23:04 BRST 2014;Fri Jan 10 16:20:41 BRST 2014;0;
+Shopify;liquid;closed;Florian Weingarten;Fri Jan 10 14:19:24 BRST 2014;Fri Jan 10 16:18:38 BRST 2014;0;
+Shopify;liquid;closed;Florian Weingarten;Wed Jan 08 16:01:54 BRST 2014;Wed Jan 08 16:37:48 BRST 2014;0;
+Shopify;liquid;closed;Florian Weingarten;Tue Jan 07 15:37:30 BRST 2014;Mon Mar 24 13:39:41 BRT 2014;75;
+Shopify;liquid;closed;Arthur Nogueira Neves;Tue Jan 07 14:38:41 BRST 2014;Tue Jan 07 14:55:04 BRST 2014;0;
+Shopify;liquid;closed;Arthur Nogueira Neves;Tue Jan 07 14:32:18 BRST 2014;Tue Jan 07 14:34:19 BRST 2014;0;
+Shopify;liquid;closed;null;Tue Dec 24 06:36:49 BRST 2013;Wed Jul 23 12:06:48 BRT 2014;211;
+Shopify;liquid;open;Irvin Fan;Fri Dec 20 04:25:42 BRST 2013;null;665;
+Shopify;liquid;closed;Chris Peters;Wed Dec 18 08:55:03 BRST 2013;Wed Dec 18 13:02:59 BRST 2013;0;
+Shopify;liquid;closed;Mark Benson;Sat Dec 14 18:03:58 BRST 2013;Mon Jul 28 13:48:37 BRT 2014;225;
+Shopify;liquid;closed;Ryan Wood;Thu Dec 12 17:36:28 BRST 2013;Thu Dec 12 19:03:19 BRST 2013;0;
+Shopify;liquid;closed;Cam Song;Tue Dec 10 05:55:23 BRST 2013;Tue Jan 07 13:43:33 BRST 2014;28;
+Shopify;liquid;closed;HU, Pili;Mon Dec 02 03:26:43 BRST 2013;Sat Dec 14 14:04:30 BRST 2013;12;
+Shopify;liquid;closed;Gaurav Chande;Sun Dec 01 23:39:40 BRST 2013;Mon Dec 02 14:57:24 BRST 2013;0;
+Shopify;liquid;closed;Zlatan Vasovi?;Sun Dec 01 06:13:21 BRST 2013;Tue Jul 29 11:07:02 BRT 2014;240;
+Shopify;liquid;closed;Zlatan Vasovi?;Sat Nov 30 15:04:44 BRST 2013;Sat Nov 30 20:38:44 BRST 2013;0;
+Shopify;liquid;closed;Andrei Gladkyi;Sat Nov 30 14:29:12 BRST 2013;Mon Dec 16 17:28:20 BRST 2013;16;
+Shopify;liquid;closed;Florian Weingarten;Fri Nov 29 13:03:32 BRST 2013;Tue Jan 07 12:43:51 BRST 2014;38;
+Shopify;liquid;closed;Tom Burns;Sun Nov 24 15:35:39 BRST 2013;Mon Nov 25 14:12:07 BRST 2013;0;
+Shopify;liquid;closed;Andreas Renberg;Sat Nov 23 05:41:18 BRST 2013;Wed Aug 06 23:23:25 BRT 2014;256;
+Shopify;liquid;closed;J. B. Rainsberger;Tue Nov 19 08:17:13 BRST 2013;Wed Nov 20 14:32:05 BRST 2013;1;
+Shopify;liquid;closed;null;Wed Nov 06 22:15:19 BRST 2013;Tue Jan 07 13:04:53 BRST 2014;61;
+Shopify;liquid;closed;Adam Wong;Mon Nov 04 23:27:00 BRST 2013;Mon Nov 25 13:39:15 BRST 2013;20;
+Shopify;liquid;closed;Julian Nadeau;Sat Nov 02 17:19:44 BRST 2013;Sat Nov 02 17:44:39 BRST 2013;0;
+Shopify;liquid;closed;Florian Weingarten;Thu Oct 31 17:34:57 BRST 2013;Fri Nov 01 10:50:29 BRST 2013;0;
+Shopify;liquid;closed;AJ;Wed Oct 30 16:51:41 BRST 2013;Mon Nov 25 13:39:29 BRST 2013;25;
+Shopify;liquid;closed;Dylan Thacker-Smith;Mon Oct 28 13:26:04 BRST 2013;Mon Oct 28 15:01:48 BRST 2013;0;
+Shopify;liquid;closed;Bouke van der Bijl;Mon Oct 28 10:58:49 BRST 2013;Mon Oct 28 11:39:05 BRST 2013;0;
+Shopify;liquid;closed;Anatol Broder;Sun Oct 27 22:03:43 BRST 2013;Mon Oct 28 15:45:49 BRST 2013;0;
+Shopify;liquid;closed;Joost Hietbrink;Wed Oct 16 06:57:42 BRT 2013;Mon Nov 25 13:53:10 BRST 2013;40;
+Shopify;liquid;closed;Joost Hietbrink;Fri Oct 11 05:27:49 BRT 2013;Sun Apr 06 03:14:17 BRT 2014;176;
+Shopify;liquid;closed;Jon Gelo;Thu Oct 10 19:29:08 BRT 2013;Sat Nov 02 01:35:37 BRST 2013;22;
+Shopify;liquid;closed;Arthur Nogueira Neves;Thu Oct 10 11:45:29 BRT 2013;Thu Oct 10 11:55:08 BRT 2013;0;
+Shopify;liquid;closed;Derrick Reimer;Wed Oct 09 20:11:57 BRT 2013;Fri Oct 11 11:59:22 BRT 2013;1;
+Shopify;liquid;closed;Florian Weingarten;Tue Oct 08 09:20:15 BRT 2013;Wed Oct 09 18:18:22 BRT 2013;1;
+Shopify;liquid;closed;null;Thu Oct 03 04:34:37 BRT 2013;Tue Oct 22 07:28:40 BRST 2013;19;
+Shopify;liquid;closed;Tyler Ball;Fri Sep 20 14:05:30 BRT 2013;Mon Dec 16 14:39:26 BRST 2013;87;
+Shopify;liquid;closed;null;Tue Sep 17 19:33:24 BRT 2013;Wed Jan 08 16:37:48 BRST 2014;112;
+Shopify;liquid;closed;null;Tue Sep 17 19:29:27 BRT 2013;Tue Jan 07 13:07:11 BRST 2014;111;
+Shopify;liquid;closed;Simon Eskildsen;Mon Sep 16 15:36:43 BRT 2013;Mon Sep 16 15:36:48 BRT 2013;0;
+Shopify;liquid;closed;Marino Bonetti;Fri Sep 13 02:18:09 BRT 2013;Mon Sep 16 15:38:13 BRT 2013;3;
+Shopify;liquid;closed;Jerome Cornet;Fri Sep 13 00:45:05 BRT 2013;Mon Sep 23 13:42:58 BRT 2013;10;
+Shopify;liquid;closed;Andriy Tyurnikov;Thu Sep 12 10:13:24 BRT 2013;Tue Apr 01 12:16:04 BRT 2014;201;
+Shopify;liquid;closed;Florian Weingarten;Wed Sep 11 13:35:32 BRT 2013;Wed Sep 11 17:33:28 BRT 2013;0;
+Shopify;liquid;closed;Florian Weingarten;Wed Sep 11 11:03:39 BRT 2013;Wed Sep 11 11:59:45 BRT 2013;0;
+Shopify;liquid;closed;Hideto Ishibashi;Tue Sep 10 11:36:17 BRT 2013;Wed Sep 11 09:40:46 BRT 2013;0;
+Shopify;liquid;closed;Bogdan Gusiev;Fri Sep 06 11:01:48 BRT 2013;Thu Jul 24 11:51:19 BRT 2014;321;
+Shopify;liquid;closed;Tristan Hume;Wed Sep 04 19:18:46 BRT 2013;Sat Sep 07 09:17:30 BRT 2013;2;
+Shopify;liquid;closed;Kristian Dalgård;Wed Sep 04 09:22:39 BRT 2013;Tue Jul 29 11:08:06 BRT 2014;328;
+Shopify;liquid;closed;Bogdan Gusiev;Tue Sep 03 06:44:42 BRT 2013;Tue Sep 03 09:34:44 BRT 2013;0;
+Shopify;liquid;closed;James Tucker;Sat Aug 31 16:06:05 BRT 2013;Mon Jan 13 18:47:51 BRST 2014;135;
+Shopify;liquid;closed;James Tucker;Sat Aug 31 16:05:25 BRT 2013;Mon Nov 25 13:48:39 BRST 2013;85;
+Shopify;liquid;closed;etienne roudeix;Tue Aug 27 06:06:21 BRT 2013;Mon Sep 02 09:17:47 BRT 2013;6;
+Shopify;liquid;closed;Allen Hancock;Sat Aug 24 23:57:57 BRT 2013;Thu Mar 20 23:59:07 BRT 2014;208;
+Shopify;liquid;closed;Dan Dunckel;Thu Aug 22 22:00:43 BRT 2013;Fri Aug 23 17:23:24 BRT 2013;0;
+Shopify;liquid;closed;Tristan Hume;Thu Aug 22 16:14:17 BRT 2013;Thu May 21 00:54:52 BRT 2015;636;
+Shopify;liquid;closed;Tristan Hume;Thu Aug 22 15:52:42 BRT 2013;Tue Aug 27 10:53:34 BRT 2013;4;
+Shopify;liquid;closed;Nick Pearson;Tue Aug 20 12:58:13 BRT 2013;Tue Jan 07 12:48:13 BRST 2014;139;
+Shopify;liquid;closed;Florian Weingarten;Mon Aug 19 12:55:33 BRT 2013;Mon Aug 19 13:48:16 BRT 2013;0;
+Shopify;liquid;closed;Simon Eskildsen;Thu Aug 15 00:32:47 BRT 2013;Fri Aug 30 13:55:06 BRT 2013;15;
+Shopify;liquid;closed;Arthur Nogueira Neves;Wed Aug 14 18:37:08 BRT 2013;Thu Jul 24 11:54:28 BRT 2014;343;
+Shopify;liquid;closed;Florian Weingarten;Thu Aug 08 12:56:31 BRT 2013;Wed Aug 14 17:59:45 BRT 2013;6;
+Shopify;liquid;closed;Florian Weingarten;Wed Jul 31 18:42:20 BRT 2013;Tue Aug 06 11:23:57 BRT 2013;5;
+Shopify;liquid;closed;Alex Coco;Wed Jul 31 12:13:50 BRT 2013;Wed Jul 31 12:33:11 BRT 2013;0;
+Shopify;liquid;closed;Pierre-Yves Jamon;Sun Jul 28 11:25:10 BRT 2013;Mon Aug 04 13:53:09 BRT 2014;372;
+Shopify;liquid;closed;Tristan Hume;Fri Jul 26 14:52:22 BRT 2013;Fri Aug 30 11:12:39 BRT 2013;34;
+Shopify;liquid;closed;Florian Weingarten;Thu Jul 25 23:13:36 BRT 2013;Fri Jul 26 09:45:57 BRT 2013;0;
+Shopify;liquid;closed;Florian Weingarten;Thu Jul 25 18:25:47 BRT 2013;Fri Jul 26 12:30:16 BRT 2013;0;
+Shopify;liquid;closed;Florian Weingarten;Thu Jul 25 18:01:45 BRT 2013;Thu Jul 25 18:10:53 BRT 2013;0;
+Shopify;liquid;closed;Benjamin Fleischer;Wed Jul 24 20:05:14 BRT 2013;Wed Jul 24 20:10:35 BRT 2013;0;
+Shopify;liquid;closed;Florian Weingarten;Wed Jul 24 16:01:59 BRT 2013;Wed Jul 24 16:47:56 BRT 2013;0;
+Shopify;liquid;closed;Florian Weingarten;Mon Jul 22 15:41:14 BRT 2013;Fri Aug 30 11:12:40 BRT 2013;38;
+Shopify;liquid;closed;Brian Willis;Sun Jul 21 21:48:28 BRT 2013;Fri Aug 02 18:53:00 BRT 2013;11;
+Shopify;liquid;closed;Alex Coco;Tue Jul 16 16:53:27 BRT 2013;Tue Aug 12 17:05:52 BRT 2014;392;
+Shopify;liquid;closed;Florian Weingarten;Fri Jul 12 16:57:39 BRT 2013;Tue Jul 22 17:56:44 BRT 2014;375;
+Shopify;liquid;closed;Florian Weingarten;Fri Jul 12 12:32:38 BRT 2013;Fri Aug 30 11:12:40 BRT 2013;48;
+Shopify;liquid;open;Florian Weingarten;Fri Jul 12 11:36:30 BRT 2013;null;825;
+Shopify;liquid;closed;etienne roudeix;Fri Jul 12 10:56:06 BRT 2013;Fri Jul 12 12:04:44 BRT 2013;0;
+Shopify;liquid;closed;Francesco Bigiarini;Fri Jul 12 04:29:21 BRT 2013;Fri Jul 12 11:10:17 BRT 2013;0;
+Shopify;liquid;closed;Jonas Schubert Erlandsson;Mon Jul 01 11:46:40 BRT 2013;Mon Jul 01 11:55:26 BRT 2013;0;
+Shopify;liquid;closed;Göran Bodenschatz;Thu Jun 27 17:18:59 BRT 2013;Thu Jun 27 17:20:25 BRT 2013;0;
+Shopify;liquid;closed;Florian Weingarten;Wed Jun 26 23:46:34 BRT 2013;Thu Jun 27 10:50:29 BRT 2013;0;
+Shopify;liquid;closed;Florian Weingarten;Wed Jun 26 23:31:53 BRT 2013;Tue Jul 02 19:15:55 BRT 2013;5;
+Shopify;liquid;closed;Scott Francis;Wed Jun 26 23:10:48 BRT 2013;Tue Jul 02 19:16:18 BRT 2013;5;
+Shopify;liquid;open;Florian Weingarten;Wed Jun 26 11:00:52 BRT 2013;null;841;
+Shopify;liquid;closed;Nick Pearson;Fri Jun 21 17:14:07 BRT 2013;Tue Jul 02 21:10:13 BRT 2013;11;
+Shopify;liquid;closed;Nick Pearson;Fri Jun 21 15:47:46 BRT 2013;Tue Jul 02 21:10:45 BRT 2013;11;
+Shopify;liquid;open;Roee Shenberg;Thu Jun 20 11:28:03 BRT 2013;null;847;
+Shopify;liquid;closed;dtunes;Wed Jun 19 18:05:03 BRT 2013;Tue Jan 07 13:20:09 BRST 2014;201;
+Shopify;liquid;closed;null;Tue Jun 18 17:47:48 BRT 2013;Fri Jun 21 12:56:34 BRT 2013;2;
+Shopify;liquid;closed;Florian Weingarten;Mon Jun 17 12:49:07 BRT 2013;Mon Jun 17 13:45:10 BRT 2013;0;
+Shopify;liquid;closed;Florian Weingarten;Fri Jun 14 12:18:39 BRT 2013;Sat Jun 15 08:58:51 BRT 2013;0;
+Shopify;liquid;closed;Florian Weingarten;Thu Jun 13 21:42:53 BRT 2013;Fri Jun 14 09:58:38 BRT 2013;0;
+Shopify;liquid;closed;Brian Kim;Thu Jun 13 14:39:19 BRT 2013;Sun Jun 16 09:30:17 BRT 2013;2;
+Shopify;liquid;closed;Matt Brailsford;Thu Jun 13 05:52:34 BRT 2013;Thu Jun 13 05:54:23 BRT 2013;0;
+Shopify;liquid;closed;Peter Schröder;Tue Jun 11 18:25:39 BRT 2013;Thu Jun 13 19:26:00 BRT 2013;2;
+Shopify;liquid;closed;SLaks;Mon Jun 10 23:40:12 BRT 2013;Sat Jun 15 08:59:28 BRT 2013;4;
+Shopify;liquid;closed;Peter Schröder;Sun Jun 09 11:26:03 BRT 2013;Thu Jun 13 16:54:18 BRT 2013;4;
+Shopify;liquid;closed;null;Fri Jun 07 05:31:24 BRT 2013;Thu Jun 13 21:15:44 BRT 2013;6;
+Shopify;liquid;closed;Arthur Nogueira Neves;Thu Jun 06 15:21:32 BRT 2013;Fri Jun 14 09:45:49 BRT 2013;7;
+Shopify;liquid;closed;Arthur Nogueira Neves;Wed Jun 05 17:12:52 BRT 2013;Wed Jun 05 18:07:20 BRT 2013;0;
+Shopify;liquid;closed;Peter Schröder;Tue Jun 04 17:45:56 BRT 2013;Wed Jun 05 13:00:12 BRT 2013;0;
+Shopify;liquid;closed;Florian Weingarten;Thu May 30 13:03:16 BRT 2013;Fri May 31 12:24:30 BRT 2013;0;
+Shopify;liquid;closed;Florian Weingarten;Wed May 29 17:08:10 BRT 2013;Fri May 31 11:23:43 BRT 2013;1;
+Shopify;liquid;closed;Florian Weingarten;Wed May 29 14:29:47 BRT 2013;Fri May 31 11:23:29 BRT 2013;1;
+Shopify;liquid;closed;Yogesh Nagarur;Sat May 25 12:31:53 BRT 2013;Sat May 25 13:43:09 BRT 2013;0;
+Shopify;liquid;closed;Bulat Shakirzyanov;Thu May 23 22:25:36 BRT 2013;Tue Jul 02 21:11:25 BRT 2013;39;
+Shopify;liquid;closed;Scott Mueller;Thu May 23 14:15:38 BRT 2013;Thu May 23 14:19:20 BRT 2013;0;
+Shopify;liquid;closed;Tom Burns;Mon May 20 20:56:53 BRT 2013;Tue May 21 18:46:18 BRT 2013;0;
+Shopify;liquid;closed;James Tucker;Tue May 14 11:53:31 BRT 2013;Sat Aug 31 16:06:47 BRT 2013;109;
+Shopify;liquid;closed;James Tucker;Tue May 14 11:05:46 BRT 2013;Tue May 14 11:52:45 BRT 2013;0;
+Shopify;liquid;closed;Tom Burns;Mon May 13 03:50:08 BRT 2013;Wed May 29 11:51:12 BRT 2013;16;
+Shopify;liquid;closed;Olivier Philippon;Sat May 11 07:18:24 BRT 2013;Tue Jun 04 17:14:22 BRT 2013;24;
+Shopify;liquid;closed;Ryan Hall;Tue Apr 30 14:31:24 BRT 2013;Thu Jun 13 21:16:49 BRT 2013;44;
+Shopify;liquid;closed;Pete Nelson;Mon Apr 29 17:07:50 BRT 2013;Mon Apr 29 17:50:30 BRT 2013;0;
+Shopify;liquid;closed;Ozéias Sant'ana;Tue Apr 23 13:49:19 BRT 2013;Tue Apr 23 14:29:50 BRT 2013;0;
+Shopify;liquid;closed;Juan Artau;Thu Apr 18 16:44:03 BRT 2013;Tue Apr 23 16:02:39 BRT 2013;4;
+Shopify;liquid;closed;Pete Nelson;Fri Apr 12 03:58:16 BRT 2013;Mon Jun 17 13:45:39 BRT 2013;66;
+Shopify;liquid;closed;Sunny Ripert;Tue Apr 02 10:57:11 BRT 2013;Tue Apr 23 02:15:13 BRT 2013;20;
+Shopify;liquid;closed;Keith Rosenberg;Tue Apr 02 10:17:57 BRT 2013;Tue Apr 02 10:31:09 BRT 2013;0;
+Shopify;liquid;closed;Ben Balter;Mon Apr 01 11:31:21 BRT 2013;Wed Jun 05 16:14:00 BRT 2013;65;
+Shopify;liquid;closed;Lydia Krupp-Hunter;Mon Mar 25 16:44:06 BRT 2013;Thu Mar 28 12:01:36 BRT 2013;2;
+Shopify;liquid;closed;Keith Rosenberg;Fri Mar 22 14:22:50 BRT 2013;Fri Mar 22 15:26:48 BRT 2013;0;
+Shopify;liquid;closed;Keith Rosenberg;Mon Mar 18 10:41:20 BRT 2013;Mon Mar 18 10:57:17 BRT 2013;0;
+Shopify;liquid;closed;Jay Strybis;Thu Mar 07 19:34:25 BRT 2013;Wed Jun 05 13:04:53 BRT 2013;89;
+Shopify;liquid;closed;Dylan Thacker-Smith;Fri Mar 01 12:25:28 BRT 2013;Tue Mar 05 17:19:38 BRT 2013;4;
+Shopify;liquid;closed;Daniel Huckstep;Wed Feb 13 21:37:33 BRST 2013;Mon Jun 10 11:46:06 BRT 2013;116;
+Shopify;liquid;closed;w?_is??;Wed Feb 06 03:05:58 BRST 2013;Tue Jun 04 17:09:43 BRT 2013;118;
+Shopify;liquid;closed;Matt Button;Sun Jan 27 12:37:51 BRST 2013;Wed Mar 06 13:07:32 BRT 2013;38;
+Shopify;liquid;closed;Mike Ragalie;Fri Jan 25 18:22:44 BRST 2013;Tue Jul 02 21:11:49 BRT 2013;158;
+Shopify;liquid;closed;Stefan Bauckmeier;Wed Jan 23 15:36:48 BRST 2013;Wed Jul 23 11:58:15 BRT 2014;545;
+Shopify;liquid;closed;Paul Hammant;Tue Jan 15 13:03:56 BRST 2013;Sun Jun 16 09:36:14 BRT 2013;151;
+Shopify;liquid;closed;Arthur Nogueira Neves;Thu Jan 10 02:21:47 BRST 2013;Wed Jun 05 13:06:57 BRT 2013;146;
+Shopify;liquid;closed;null;Wed Jan 09 01:25:33 BRST 2013;Thu Jun 13 21:17:50 BRT 2013;155;
+Shopify;liquid;closed;HU, Pili;Sat Jan 05 02:12:22 BRST 2013;Mon Jun 17 22:54:17 BRT 2013;163;
+Shopify;liquid;closed;Autumn Welles;Thu Jan 03 16:24:29 BRST 2013;Thu Jun 06 01:10:44 BRT 2013;153;
+Shopify;liquid;closed;Adam Tanner;Thu Dec 27 00:22:25 BRST 2012;Tue Apr 23 14:29:54 BRT 2013;117;
+Shopify;liquid;closed;Toby Hsieh;Sun Dec 23 22:54:03 BRST 2012;Wed Jun 05 13:00:13 BRT 2013;163;
+Shopify;liquid;closed;Joseph Crawford;Sat Dec 22 02:31:18 BRST 2012;Tue Jul 02 21:17:37 BRT 2013;192;
+Shopify;liquid;closed;Dylan Thacker-Smith;Tue Dec 18 04:56:04 BRST 2012;Tue Dec 18 16:13:22 BRST 2012;0;
+Shopify;liquid;closed;Luke Holder;Sat Dec 01 12:25:53 BRST 2012;Thu Jun 13 20:35:57 BRT 2013;194;
+Shopify;liquid;closed;Josh Ferguson;Fri Nov 30 00:04:25 BRST 2012;Fri Aug 02 18:59:49 BRT 2013;245;
+Shopify;liquid;closed;FABIANSKI Cédric;Wed Nov 21 11:22:54 BRST 2012;Thu Jun 13 20:37:02 BRT 2013;204;
+Shopify;liquid;closed;Marcus Stollsteimer;Sun Nov 18 07:50:30 BRST 2012;Wed Jun 05 13:10:42 BRT 2013;199;
+Shopify;liquid;closed;null;Thu Nov 15 10:56:16 BRST 2012;Fri Nov 16 07:53:26 BRST 2012;0;
+Shopify;liquid;closed;Dennis Theisen;Mon Oct 29 17:05:53 BRST 2012;Wed Jun 05 18:07:20 BRT 2013;219;
+Shopify;liquid;closed;zhonghua;Thu Oct 25 11:26:08 BRST 2012;Mon Jul 22 16:20:49 BRT 2013;270;
+Shopify;liquid;closed;Jasenko Hadziomeragic;Thu Oct 25 07:02:56 BRST 2012;Thu Oct 25 07:50:54 BRST 2012;0;
+Shopify;liquid;closed;Tom Burns;Mon Oct 22 19:26:44 BRST 2012;Thu Oct 25 13:55:03 BRST 2012;2;
+Shopify;liquid;closed;??;Mon Oct 22 07:11:21 BRST 2012;Wed Jun 12 01:50:42 BRT 2013;232;
+Shopify;liquid;closed;Charles Greene;Thu Oct 18 11:17:11 BRT 2012;Thu Jun 13 19:26:04 BRT 2013;238;
+Shopify;liquid;closed;Mário Ramos;Wed Oct 17 17:49:48 BRT 2012;Wed Jul 23 12:04:07 BRT 2014;643;
+Shopify;liquid;closed;Deleted user;Mon Oct 08 04:13:25 BRT 2012;Sun Jun 16 09:48:14 BRT 2013;251;
+Shopify;liquid;closed;Burke Libbey;Fri Oct 05 13:36:12 BRT 2012;Tue Jun 11 13:42:14 BRT 2013;249;
+Shopify;liquid;closed;Joe Fiorini;Thu Oct 04 10:54:09 BRT 2012;Sun Jun 09 15:59:18 BRT 2013;248;
+Shopify;liquid;closed;Tom Burns;Mon Oct 01 17:12:17 BRT 2012;Mon Oct 01 17:56:42 BRT 2012;0;
+Shopify;liquid;closed;null;Tue Sep 18 10:12:13 BRT 2012;Sun Jun 16 09:53:34 BRT 2013;270;
+Shopify;liquid;closed;null;Fri Sep 14 11:45:33 BRT 2012;Thu Sep 20 12:49:31 BRT 2012;6;
+Shopify;liquid;closed;Nicolás Hock-Isaza;Wed Sep 05 00:30:33 BRT 2012;Fri Sep 14 01:43:34 BRT 2012;9;
+Shopify;liquid;closed;Jon Daniel;Thu Aug 30 18:49:58 BRT 2012;Mon Jul 22 16:17:41 BRT 2013;325;
+Shopify;liquid;closed;Jon Daniel;Tue Aug 21 15:18:39 BRT 2012;Tue Aug 21 17:22:24 BRT 2012;0;
+Shopify;liquid;closed;Paul Barry;Sun Aug 19 08:45:13 BRT 2012;Sun Aug 19 19:08:00 BRT 2012;0;
+Shopify;liquid;open;zhaopeng;Sun Aug 19 02:29:55 BRT 2012;null;1153;
+Shopify;liquid;closed;Super_pokemon;Fri Aug 03 08:12:22 BRT 2012;Fri Aug 03 16:42:57 BRT 2012;0;
+Shopify;liquid;closed;Tim Cuthbertson;Thu Aug 02 09:35:49 BRT 2012;Sun Jun 09 23:04:13 BRT 2013;311;
+Shopify;liquid;closed;Tasos Stathopoulos;Fri Jul 13 09:51:43 BRT 2012;Fri May 17 09:25:07 BRT 2013;307;
+Shopify;liquid;closed;Daniel Puglisi;Fri Jun 29 10:18:27 BRT 2012;Fri Jun 29 11:42:25 BRT 2012;0;
+Shopify;liquid;closed;Hong Xu;Mon Jun 18 00:36:19 BRT 2012;Thu Jun 13 20:39:01 BRT 2013;360;
+Shopify;liquid;closed;Dylan Thacker-Smith;Wed Jun 13 10:35:35 BRT 2012;Wed Jun 20 12:09:31 BRT 2012;7;
+Shopify;liquid;closed;Daniel Schierbeck;Tue Jun 12 05:44:28 BRT 2012;Mon Jul 22 16:18:41 BRT 2013;405;
+Shopify;liquid;closed;Vasiliy Kiryanov;Sat Jun 09 10:42:40 BRT 2012;Sun Jun 16 10:08:19 BRT 2013;371;
+Shopify;liquid;closed;Vasiliy Kiryanov;Thu Jun 07 08:20:21 BRT 2012;Wed Jul 23 12:06:10 BRT 2014;776;
+Shopify;liquid;closed;Andrés Mejía;Thu Jun 07 00:33:10 BRT 2012;Thu Jun 07 16:18:10 BRT 2012;0;
+Shopify;liquid;closed;Jason Normore;Wed Jun 06 12:55:22 BRT 2012;Mon Jun 11 11:53:44 BRT 2012;4;
+Shopify;liquid;closed;Vasiliy Kiryanov;Thu May 31 07:41:17 BRT 2012;Thu Jun 13 16:54:19 BRT 2013;378;
+Shopify;liquid;closed;Newton Ramos Garcia;Tue May 29 09:01:49 BRT 2012;Tue Jan 07 13:23:12 BRST 2014;588;
+Shopify;liquid;closed;Carl Boettiger;Mon May 28 17:29:32 BRT 2012;Mon May 28 19:27:58 BRT 2012;0;
+Shopify;liquid;closed;Derek Johnson;Sun May 27 23:42:01 BRT 2012;Fri Jun 21 14:24:02 BRT 2013;389;
+Shopify;liquid;closed;Daniel Puglisi;Fri May 11 08:52:15 BRT 2012;Sat Aug 03 09:13:49 BRT 2013;449;
+Shopify;liquid;closed;Thomas Reggi;Wed May 09 15:30:42 BRT 2012;Tue Jun 05 03:33:04 BRT 2012;26;
+Shopify;liquid;closed;Michael Green;Tue May 08 20:36:41 BRT 2012;Thu Jun 07 16:06:57 BRT 2012;29;
+Shopify;liquid;closed;Timothy Stone;Fri May 04 20:11:41 BRT 2012;Sun Jun 16 10:14:55 BRT 2013;407;
+Shopify;liquid;closed;Daniel Schierbeck;Thu May 03 08:16:13 BRT 2012;Thu Jun 07 16:20:55 BRT 2012;35;
+Shopify;liquid;closed;Notre Dame Webgroup;Thu Apr 19 11:59:13 BRT 2012;Mon Jun 17 23:14:01 BRT 2013;424;
+Shopify;liquid;closed;Jake Sandlund;Wed Apr 18 11:46:05 BRT 2012;Tue Aug 05 09:23:05 BRT 2014;838;
+Shopify;liquid;closed;James Allardice;Wed Apr 11 12:27:14 BRT 2012;Mon Jun 17 23:11:33 BRT 2013;432;
+Shopify;liquid;closed;James Allardice;Wed Apr 11 12:05:08 BRT 2012;Tue Jun 18 22:52:34 BRT 2013;433;
+Shopify;liquid;closed;akira yamada;Tue Apr 03 05:11:23 BRT 2012;Thu Jun 07 16:04:28 BRT 2012;65;
+Shopify;liquid;closed;Oscar Del Ben;Thu Mar 22 14:57:22 BRT 2012;Sat Apr 14 13:35:20 BRT 2012;22;
+Shopify;liquid;closed;Oscar Del Ben;Thu Mar 22 08:32:50 BRT 2012;Thu Mar 22 10:44:53 BRT 2012;0;
+Shopify;liquid;closed;Carson Reinke;Tue Mar 20 13:47:30 BRT 2012;Tue Jan 07 12:43:31 BRST 2014;657;
+Shopify;liquid;closed;Dan Atkinson;Wed Mar 14 11:59:03 BRT 2012;Wed Mar 14 12:27:43 BRT 2012;0;
+Shopify;liquid;closed;Dennis Theisen;Mon Mar 12 17:42:51 BRT 2012;Mon Mar 12 18:14:31 BRT 2012;0;
+Shopify;liquid;closed;Chris Kelly;Fri Mar 09 05:29:50 BRT 2012;Thu Jun 07 16:14:36 BRT 2012;90;
+Shopify;liquid;closed;Leo Wong;Wed Mar 07 14:49:30 BRT 2012;Tue Jun 18 12:35:43 BRT 2013;467;
+Shopify;liquid;closed;Bjorn Arneson;Tue Mar 06 13:03:50 BRT 2012;Sun Jun 16 10:30:03 BRT 2013;466;
+Shopify;liquid;closed;John Allison;Sun Mar 04 00:58:48 BRT 2012;Tue Jan 07 12:56:15 BRST 2014;674;
+Shopify;liquid;closed;Dennis Theisen;Wed Feb 29 17:17:34 BRT 2012;Wed Feb 29 17:52:16 BRT 2012;0;
+Shopify;liquid;closed;Hong Xu;Tue Feb 28 10:17:29 BRT 2012;Sun Jun 16 10:12:40 BRT 2013;473;
+Shopify;liquid;closed;Patrick Joyce;Fri Feb 24 18:30:55 BRST 2012;Mon Jan 27 00:38:31 BRST 2014;702;
+Shopify;liquid;closed;Dennis Theisen;Wed Feb 22 17:08:25 BRST 2012;Wed Feb 22 18:04:02 BRST 2012;0;
+Shopify;liquid;closed;Rich Morin;Wed Feb 22 15:26:26 BRST 2012;Thu Feb 23 21:12:36 BRST 2012;1;
+Shopify;liquid;closed;Lucas S. Magalhães;Sat Feb 18 03:49:05 BRST 2012;Sat Feb 18 19:29:10 BRST 2012;0;
+Shopify;liquid;closed;Jo Liss;Thu Feb 16 12:44:42 BRST 2012;Mon Jun 17 23:07:19 BRT 2013;487;
+Shopify;liquid;closed;????;Wed Feb 15 06:57:10 BRST 2012;Thu Jun 20 12:54:10 BRT 2013;491;
+Shopify;liquid;closed;Peter P. Gengler;Sat Feb 11 02:28:21 BRST 2012;Sun Jun 16 10:36:11 BRT 2013;491;
+Shopify;liquid;closed;Peter P. Gengler;Fri Feb 10 18:18:48 BRST 2012;Wed Jul 23 10:11:08 BRT 2014;893;
+Shopify;liquid;closed;7rans;Fri Feb 10 16:47:02 BRST 2012;Thu Jun 07 16:21:40 BRT 2012;117;
+Shopify;liquid;closed;Juan Luis Cano Rodríguez;Sun Feb 05 16:00:32 BRST 2012;Fri Aug 17 11:57:01 BRT 2012;193;
+Shopify;liquid;closed;Julian Yap;Fri Feb 03 08:43:27 BRST 2012;Tue Jun 18 22:58:19 BRT 2013;501;
+Shopify;liquid;closed;Zeyi Fan;Tue Jan 31 13:54:19 BRST 2012;Sat Aug 04 02:03:28 BRT 2012;185;
+Shopify;liquid;closed;Casey Chow;Sat Jan 21 16:35:57 BRST 2012;Tue Jan 24 00:14:42 BRST 2012;2;
+Shopify;liquid;closed;Kristian PD;Fri Jan 20 20:00:40 BRST 2012;Tue Jan 31 16:27:44 BRST 2012;10;
+Shopify;liquid;closed;Holger Just;Mon Jan 16 17:36:51 BRST 2012;Mon Jun 17 10:29:42 BRT 2013;517;
+Shopify;liquid;closed;Pavel Vasev;Fri Jan 13 22:59:11 BRST 2012;Sun Jun 16 10:59:11 BRT 2013;519;
+Shopify;liquid;closed;Brad Greenlee;Thu Dec 29 04:05:49 BRST 2011;Sun Jun 16 10:55:35 BRT 2013;535;
+Shopify;liquid;closed;Igor Zubkov;Fri Dec 16 08:29:27 BRST 2011;Fri Dec 16 15:12:08 BRST 2011;0;
+Shopify;liquid;closed;Wes Baker;Sat Nov 26 20:16:12 BRST 2011;Sat Nov 26 20:36:11 BRST 2011;0;
+Shopify;liquid;closed;Cody Robbins;Thu Nov 17 17:18:26 BRST 2011;Thu Nov 17 18:11:20 BRST 2011;0;
+Shopify;liquid;closed;Jiren Patel;Thu Nov 17 04:47:16 BRST 2011;Thu Nov 17 12:08:41 BRST 2011;0;
+Shopify;liquid;closed;Ryan Alyea;Tue Nov 01 17:21:07 BRST 2011;Tue Dec 20 19:58:06 BRST 2011;49;
+Shopify;liquid;closed;Jonathan Rudenberg;Mon Oct 31 12:28:24 BRST 2011;Sun Jun 16 10:56:06 BRT 2013;593;
+Shopify;liquid;closed;Holger Just;Mon Oct 17 17:51:22 BRST 2011;Sun Jun 16 11:02:56 BRT 2013;607;
+Shopify;liquid;closed;Joe Cannatti;Mon Oct 10 16:10:58 BRT 2011;Mon Oct 10 16:15:30 BRT 2011;0;
+Shopify;liquid;closed;7rans;Thu Sep 29 19:46:20 BRT 2011;Sat Oct 15 23:58:40 BRT 2011;16;
+Shopify;liquid;closed;null;Wed Sep 28 11:35:45 BRT 2011;Wed Sep 28 11:48:22 BRT 2011;0;
+Shopify;liquid;closed;Felipe Talavera;Mon Sep 19 16:56:40 BRT 2011;Tue Sep 20 16:31:21 BRT 2011;0;
+Shopify;liquid;closed;Jason Buck;Wed Sep 14 20:17:47 BRT 2011;Wed Sep 14 20:18:53 BRT 2011;0;
+Shopify;liquid;closed;Zac Stewart;Sat Sep 10 10:36:43 BRT 2011;Sat Oct 15 21:25:48 BRT 2011;35;
+Shopify;liquid;closed;Holger Just;Wed Aug 31 20:38:40 BRT 2011;Sun Oct 16 12:23:31 BRST 2011;45;
+Shopify;liquid;closed;Alexander N?g?d?;Sun Aug 28 06:02:39 BRT 2011;Wed Aug 31 22:13:32 BRT 2011;3;
+Shopify;liquid;closed;7rans;Sat Aug 20 16:19:11 BRT 2011;Mon Sep 05 17:01:11 BRT 2011;16;
+Shopify;liquid;closed;7rans;Sat Aug 20 11:39:50 BRT 2011;Sat Aug 20 22:17:14 BRT 2011;0;
+Shopify;liquid;closed;Deleted user;Wed Jul 27 02:15:13 BRT 2011;Wed Jul 27 02:16:54 BRT 2011;0;
+Shopify;liquid;closed;Arkadiy Zabazhanov;Sun Jul 24 14:36:20 BRT 2011;Thu Nov 17 17:13:43 BRST 2011;116;
+Shopify;liquid;closed;Attila Domokos;Wed Jul 13 05:21:02 BRT 2011;Wed Jul 13 08:51:34 BRT 2011;0;
+Shopify;liquid;closed;Mike Kelley;Mon Jul 11 16:23:01 BRT 2011;Mon Jul 11 16:39:07 BRT 2011;0;
+Shopify;liquid;closed;Edgars Beigarts;Thu Jun 30 05:04:58 BRT 2011;Thu Jun 30 17:03:40 BRT 2011;0;
+Shopify;liquid;closed;Richard Metzler;Sun Jun 19 07:52:30 BRT 2011;Mon Jun 20 00:48:04 BRT 2011;0;
+Shopify;liquid;closed;Richard Metzler;Sun Jun 19 07:47:56 BRT 2011;Mon Jun 20 00:48:04 BRT 2011;0;
+Shopify;liquid;closed;Tim Felgentreff;Mon Jun 13 13:15:58 BRT 2011;Fri Jul 01 15:43:28 BRT 2011;18;
+Shopify;liquid;closed;jinleileiking;Fri Jun 03 03:26:20 BRT 2011;Thu Jun 30 17:03:55 BRT 2011;27;
+Shopify;liquid;closed;Ian Johnson;Wed May 25 13:20:30 BRT 2011;Tue Mar 27 11:46:47 BRT 2012;306;
+Shopify;liquid;closed;Derek Clarkson;Thu May 12 01:37:06 BRT 2011;Sun Jun 16 11:05:04 BRT 2013;766;
+Shopify;liquid;closed;Prathan Thananart;Thu Apr 28 03:29:25 BRT 2011;Fri Jul 01 15:42:17 BRT 2011;64;
+Shopify;liquid;closed;Steven Soroka;Sun Apr 24 03:11:09 BRT 2011;Mon Apr 25 12:58:13 BRT 2011;1;
+Shopify;liquid;closed;Mark H. Wilkinson;Tue Apr 12 17:28:12 BRT 2011;Mon Apr 25 12:59:10 BRT 2011;12;
+Shopify;liquid;closed;Mark H. Wilkinson;Tue Apr 12 17:19:20 BRT 2011;Mon Apr 25 13:00:01 BRT 2011;12;
+Shopify;liquid;closed;Toon Claes;Tue Apr 12 17:07:10 BRT 2011;Tue Jul 12 10:11:07 BRT 2011;90;
+Shopify;liquid;closed;Mark H. Wilkinson;Mon Apr 11 18:30:06 BRT 2011;Wed Mar 06 13:03:54 BRT 2013;694;
+Shopify;liquid;closed;Shenouda Bertel;Sat Apr 09 09:29:53 BRT 2011;Mon Jul 11 16:41:34 BRT 2011;93;
+Shopify;liquid;closed;Stefan Schüßler;Mon Apr 04 08:58:37 BRT 2011;Sun Jun 16 09:33:43 BRT 2013;804;
+Shopify;liquid;closed;allenwei;Fri Mar 25 00:14:00 BRT 2011;Sun Mar 27 11:39:50 BRT 2011;2;
+Shopify;liquid;closed;Tiago Matos;Thu Mar 17 18:17:33 BRT 2011;Mon Jul 11 16:52:53 BRT 2011;115;
+Shopify;liquid;closed;Travis D. Warlick, Jr.;Mon Feb 21 00:18:20 BRT 2011;Tue Jan 07 12:47:00 BRST 2014;1051;
+Shopify;liquid;closed;Travis D. Warlick, Jr.;Mon Feb 21 00:13:04 BRT 2011;Sun Jun 16 11:26:22 BRT 2013;846;
+Shopify;liquid;closed;Arkadiy Zabazhanov;Wed Feb 16 12:31:57 BRST 2011;Sun Jul 24 14:35:39 BRT 2011;158;
+Shopify;liquid;closed;Michael He;Wed Feb 16 05:58:44 BRST 2011;Tue Jul 12 10:53:40 BRT 2011;146;
+Shopify;liquid;closed;Marcus Zanona;Tue Feb 15 13:35:04 BRST 2011;Sun Jun 16 11:12:19 BRT 2013;851;
+Shopify;liquid;closed;dave farkas;Mon Jan 31 19:42:12 BRST 2011;Mon Jul 11 17:06:53 BRT 2011;160;
+Shopify;liquid;closed;null;Fri Jan 28 21:10:22 BRST 2011;Sat Jan 29 08:19:05 BRST 2011;0;
+Shopify;liquid;closed;Austin Mills;Mon Jan 10 19:57:44 BRST 2011;Sat Jan 29 07:57:07 BRST 2011;18;
+Shopify;liquid;closed;David Cramer;Fri Dec 24 05:04:41 BRST 2010;Wed Jul 23 12:25:28 BRT 2014;1307;
+Shopify;liquid;closed;David Cramer;Fri Dec 24 05:04:10 BRST 2010;Wed Jun 15 17:03:31 BRT 2011;173;
+Shopify;liquid;closed;Stefan Schüßler;Thu Nov 11 11:50:55 BRST 2010;Mon Jan 31 20:20:31 BRST 2011;81;
+Shopify;liquid;closed;Joey Lomanto;Mon Nov 08 12:34:16 BRST 2010;Mon Jul 11 17:11:13 BRT 2011;245;
+Shopify;liquid;closed;Christopher H. Laco;Sun Nov 07 23:56:39 BRST 2010;Mon Apr 25 13:03:30 BRT 2011;168;
+Shopify;liquid;closed;David Turnbull;Mon Oct 25 21:31:56 BRST 2010;Sun Jun 16 11:13:56 BRT 2013;964;
+Shopify;liquid;closed;Hans de Graaff;Sun Sep 19 08:47:54 BRT 2010;Mon Jul 11 17:12:40 BRT 2011;295;
+Shopify;liquid;closed;Vito Botta;Mon Sep 13 07:57:36 BRT 2010;Sun Jun 16 18:15:52 BRT 2013;1007;
+Shopify;liquid;closed;Marcelo Silveira;Sun Sep 12 00:12:18 BRT 2010;Tue Jan 07 12:49:49 BRST 2014;1213;
+Shopify;liquid;closed;Ramon Tayag;Tue Sep 07 00:11:16 BRT 2010;Fri Mar 11 04:56:05 BRT 2011;185;
+Shopify;liquid;closed;Michael Richardson;Tue Aug 31 18:19:21 BRT 2010;Fri Jul 01 15:48:14 BRT 2011;303;
+Shopify;liquid;closed;James Miller;Wed Aug 25 11:56:25 BRT 2010;Mon Jul 11 17:16:38 BRT 2011;320;
+Shopify;liquid;closed;Diogo Almeida;Wed Aug 25 11:41:18 BRT 2010;Tue Jul 12 10:19:07 BRT 2011;320;
+Shopify;liquid;closed;Diogo Almeida;Tue Aug 24 07:54:44 BRT 2010;Tue Aug 31 21:15:55 BRT 2010;7;
+Shopify;liquid;closed;Diogo Almeida;Tue Aug 24 00:30:29 BRT 2010;Tue May 06 18:09:00 BRT 2014;1351;
+Shopify;liquid;closed;James Miller;Mon Aug 23 22:26:58 BRT 2010;Mon Jul 11 17:17:31 BRT 2011;321;
+Shopify;liquid;closed;Diogo Almeida;Mon Aug 23 20:26:32 BRT 2010;Fri Aug 02 19:06:25 BRT 2013;1074;
+Shopify;liquid;closed;Tobias Lütke;Sun Aug 22 17:58:28 BRT 2010;Mon Mar 31 11:16:38 BRT 2014;1316;
+Shopify;liquid;closed;Diogo Almeida;Sun Aug 22 17:03:55 BRT 2010;Sun Aug 22 17:52:32 BRT 2010;0;
+Shopify;liquid;closed;Thomas Kohler;Mon Aug 02 09:38:57 BRT 2010;Mon Jul 11 17:53:50 BRT 2011;343;
+Shopify;liquid;closed;Cecile Veneziani;Fri Jul 23 12:22:33 BRT 2010;Tue Jan 07 12:53:30 BRST 2014;1264;
+Shopify;liquid;closed;Shenouda Bertel;Sun Jul 11 10:05:56 BRT 2010;Mon Jul 11 17:55:34 BRT 2011;365;
+Shopify;liquid;closed;Stefan Liebenberg;Wed Jul 07 18:41:35 BRT 2010;Fri Jul 09 02:26:31 BRT 2010;1;
+Shopify;liquid;closed;Nimesh;Tue Jul 06 04:08:53 BRT 2010;Wed Jul 07 09:51:42 BRT 2010;1;
+Shopify;liquid;closed;Garrett Bjerkhoel;Thu Jun 03 21:58:31 BRT 2010;Sun Aug 22 18:02:02 BRT 2010;79;
+Shopify;liquid;closed;Corey Tenold;Wed May 26 13:56:24 BRT 2010;Mon Aug 23 21:17:45 BRT 2010;89;
+Shopify;liquid;closed;Stefan Liebenberg;Tue May 25 10:01:15 BRT 2010;Sun Aug 22 17:54:13 BRT 2010;89;
+Shopify;liquid;closed;David Turnbull;Tue Apr 27 23:44:49 BRT 2010;Tue Apr 27 23:50:32 BRT 2010;0;
+Shopify;liquid;closed;Sam Briesemeister;Thu Apr 15 14:12:56 BRT 2010;Mon Jul 11 17:56:24 BRT 2011;452;
+Shopify;liquid;closed;Wander Nauta;Wed Mar 31 13:09:16 BRT 2010;Sun Jun 16 11:23:48 BRT 2013;1172;
+Shopify;liquid;closed;Deleted user;Fri Feb 19 06:22:02 BRST 2010;Sun Aug 22 17:53:22 BRT 2010;184;
+Shopify;liquid;closed;Tom Ward;Tue Jan 19 07:47:50 BRST 2010;Mon Jul 11 17:58:36 BRT 2011;538;
+Shopify;liquid;closed;Ben Ubois;Tue Oct 13 01:50:45 BRT 2009;Tue Aug 24 04:17:45 BRT 2010;315;
+Shopify;liquid;closed;Hugo Camboulive;Tue Oct 06 20:25:51 BRT 2009;Mon Jul 11 17:58:49 BRT 2011;642;
+Shopify;liquid;closed;Michael Larkin;Sat Jul 25 16:49:22 BRT 2009;Tue Jul 12 10:47:05 BRT 2011;716;
+Shopify;liquid;closed;Gerry Shaw;Wed Jun 17 21:54:18 BRT 2009;Tue Feb 23 04:08:38 BRT 2010;250;
+Shopify;liquid;closed;null;Mon Apr 27 13:40:46 BRT 2009;Sun Aug 22 17:52:44 BRT 2010;482;
+Shopify;liquid;closed;Tobias Lütke;Thu Apr 16 19:29:17 BRT 2009;Wed May 06 01:16:15 BRT 2009;19;
+
+
+
+
+
+
+
+
+
+
+mdeiters;semr;closed;Bryan Goldstein;Sat Jun 07 19:38:34 BRT 2014;Sun Jun 08 22:09:06 BRT 2014;1;
+
+
+
+
+jwiegley;emacs-chess;open;Matthew Blount;Mon Apr 20 16:01:42 BRT 2015;null;178;
+jwiegley;emacs-chess;open;Xavier Maillard;Mon Feb 02 21:15:44 BRST 2015;null;255;
+jwiegley;emacs-chess;open;Xavier Maillard;Mon Feb 02 21:13:07 BRST 2015;null;255;
+jwiegley;emacs-chess;open;Enrico Pirani;Mon Jul 14 11:03:29 BRT 2014;null;459;
+jwiegley;emacs-chess;closed;Vladimir Ivanov;Tue Jun 24 23:39:31 BRT 2014;Wed Jun 25 13:44:22 BRT 2014;0;
+jwiegley;emacs-chess;open;Mario Lang;Wed Apr 02 06:40:28 BRT 2014;null;562;
+jwiegley;emacs-chess;open;Anton Nazarov;Wed Feb 05 21:04:01 BRST 2014;null;617;
+jwiegley;emacs-chess;open;Anton Nazarov;Wed Feb 05 04:30:40 BRST 2014;null;618;
+jwiegley;emacs-chess;open;Philippe Vaucher;Sun Sep 15 09:42:39 BRT 2013;null;761;
+
+
+markoa;r2flickr;open;Andrey Okonetchnikov;Mon Dec 06 19:58:55 BRST 2010;null;1774;
+markoa;r2flickr;open;Marko Anastasov;Fri Nov 05 08:41:34 BRST 2010;null;1806;
+
+joshuamiller;cartographer;open;Abram Bailey;Sat May 12 01:12:15 BRT 2012;null;1252;
+joshuamiller;cartographer;open;Robin Boutros;Sat Oct 29 14:22:53 BRST 2011;null;1447;
+joshuamiller;cartographer;open;m.b.;Tue Sep 27 13:55:02 BRT 2011;null;1479;
+joshuamiller;cartographer;open;Peter;Mon Jul 18 08:14:40 BRT 2011;null;1551;
+joshuamiller;cartographer;open;György Frivolt;Tue Jun 21 05:42:16 BRT 2011;null;1578;
+joshuamiller;cartographer;open;Nick Malcolm;Wed Jun 01 21:11:38 BRT 2011;null;1597;
+joshuamiller;cartographer;open;Andreas Sæbjørnsen;Wed May 11 05:01:34 BRT 2011;null;1619;
+joshuamiller;cartographer;open;Gordon Anderson;Fri Apr 01 02:00:56 BRT 2011;null;1659;
+joshuamiller;cartographer;open;Abhishek Parolkar;Thu Mar 24 02:30:21 BRT 2011;null;1667;
+joshuamiller;cartographer;open;Deleted user;Thu Mar 10 02:11:25 BRT 2011;null;1681;
+joshuamiller;cartographer;closed;Ebun Omoni;Sun Feb 27 09:58:16 BRT 2011;Tue Mar 01 15:49:55 BRT 2011;2;
+joshuamiller;cartographer;open;Dave Goodchild;Sun Feb 20 19:05:41 BRT 2011;null;1698;
+joshuamiller;cartographer;closed;Yuri Costa;Tue Feb 08 10:17:04 BRST 2011;Tue Feb 08 13:36:51 BRST 2011;0;
+joshuamiller;cartographer;closed;Yuri Costa;Tue Feb 08 09:28:37 BRST 2011;Tue Feb 08 09:31:14 BRST 2011;0;
+joshuamiller;cartographer;closed;Ritchie Blair;Sat Feb 05 22:58:26 BRST 2011;Tue Mar 01 23:52:25 BRT 2011;24;
+joshuamiller;cartographer;closed;Nic Aitch;Sat Feb 05 00:26:31 BRST 2011;Sat Feb 05 00:28:13 BRST 2011;0;
+joshuamiller;cartographer;closed;Nic Aitch;Fri Feb 04 23:37:32 BRST 2011;Sat Feb 05 00:14:31 BRST 2011;0;
+joshuamiller;cartographer;closed;Deleted user;Sun Jan 16 11:48:57 BRST 2011;Sun Jan 16 12:00:52 BRST 2011;0;
+joshuamiller;cartographer;open;blacktea;Wed Jan 12 21:38:40 BRST 2011;null;1737;
+
+
+
+
+manveru;ramaze;open;null;Mon May 07 15:15:34 BRT 2012;null;1256;
+manveru;ramaze;closed;Diego Viola;Wed Sep 15 20:22:18 BRT 2010;Thu Sep 16 03:24:32 BRT 2010;0;
+manveru;ramaze;closed;null;Mon Jan 25 16:58:46 BRST 2010;Sat Apr 10 07:38:38 BRT 2010;74;
+manveru;ramaze;closed;Petr Ková?;Tue Jan 19 17:30:22 BRST 2010;Sat Apr 10 07:38:22 BRT 2010;80;
+manveru;ramaze;closed;Deleted user;Fri Nov 20 00:59:32 BRST 2009;Sat Apr 10 07:38:10 BRT 2010;141;
+manveru;ramaze;closed;null;Fri Aug 07 16:58:30 BRT 2009;Wed Jan 20 09:37:21 BRST 2010;165;
+manveru;ramaze;closed;eiji.ienaga;Sat Jul 25 08:58:58 BRT 2009;Sat Aug 01 07:28:06 BRT 2009;6;
+manveru;ramaze;closed;Dominik Honnef;Tue May 26 16:28:01 BRT 2009;Sat Apr 10 07:37:22 BRT 2010;318;
+manveru;ramaze;closed;Ryan Grove;Sat Apr 25 20:19:47 BRT 2009;Tue Apr 28 14:24:43 BRT 2009;2;
+
+kernow;javascript_auto_include;open;Alexandre Magno;Wed Jun 23 16:07:41 BRT 2010;null;1940;
+
+
+
+
+
+
+TekNoLogic;Quecho;closed;Keith Constable;Thu Aug 30 22:31:56 BRT 2012;Thu Aug 30 22:47:14 BRT 2012;0;
+TekNoLogic;Quecho;closed;Keith Constable;Thu Aug 30 00:21:23 BRT 2012;Thu Aug 30 22:47:20 BRT 2012;0;
+TekNoLogic;Quecho;closed;Guster;Wed Jun 15 15:04:43 BRT 2011;Wed Jun 15 18:55:13 BRT 2011;0;
+TekNoLogic;Quecho;closed;Claus Kramme;Sat Oct 16 06:51:47 BRT 2010;Sun Oct 17 03:56:55 BRST 2010;0;
+TekNoLogic;Quecho;closed;null;Mon Mar 29 02:13:04 BRT 2010;Wed Mar 31 02:51:41 BRT 2010;2;
+TekNoLogic;Quecho;closed;null;Sun Jan 31 09:26:52 BRST 2010;Sun Oct 17 03:57:09 BRST 2010;258;
+TekNoLogic;Quecho;closed;null;Sun Jan 24 14:43:50 BRST 2010;Sun Jan 24 16:17:10 BRST 2010;0;
+TekNoLogic;Quecho;closed;Orion Shockman;Wed Dec 02 05:56:31 BRST 2009;Sun Dec 20 22:52:01 BRST 2009;18;
+
+ryanb;railscasts;open;Manish shrivastava;Fri Apr 03 06:12:40 BRT 2015;null;196;
+ryanb;railscasts;closed;C.J. Bordeleau;Thu Apr 10 17:47:10 BRT 2014;Wed Apr 23 17:51:15 BRT 2014;13;
+ryanb;railscasts;open;Al Chen;Sat Jun 09 14:27:43 BRT 2012;null;1224;
+ryanb;railscasts;open;null;Sat Apr 14 14:42:24 BRT 2012;null;1280;
+ryanb;railscasts;open;Alexander Dimitrov;Sun Apr 08 12:41:51 BRT 2012;null;1286;
+ryanb;railscasts;open;Sindre Moen;Wed Mar 14 15:54:16 BRT 2012;null;1310;
+ryanb;railscasts;open;null;Tue Feb 07 14:45:23 BRST 2012;null;1347;
+ryanb;railscasts;closed;Mark Kremer;Wed Feb 01 03:43:23 BRST 2012;Wed Feb 01 05:11:09 BRST 2012;0;
+ryanb;railscasts;closed;Steve Richert;Sun Jan 08 15:25:24 BRST 2012;Thu Feb 28 01:49:05 BRT 2013;416;
+ryanb;railscasts;open;null;Thu Dec 22 16:06:25 BRST 2011;null;1393;
+ryanb;railscasts;closed;Brian Alexander;Mon Dec 12 23:36:38 BRST 2011;Wed Feb 01 05:24:41 BRST 2012;50;
+ryanb;railscasts;open;Gonçalo Silva;Sat Nov 05 16:25:46 BRST 2011;null;1440;
+ryanb;railscasts;open;Andrew Davis;Thu Nov 03 13:30:15 BRST 2011;null;1443;
+ryanb;railscasts;open;Tobias L. Maier;Thu Oct 06 10:14:05 BRT 2011;null;1471;
+ryanb;railscasts;open;Kieran Pilkington;Mon Oct 03 01:13:45 BRT 2011;null;1474;
+ryanb;railscasts;closed;Guilherme Costa;Sat Sep 24 22:02:02 BRT 2011;Sat Jun 30 15:54:19 BRT 2012;279;
+ryanb;railscasts;open;Ryan Bates;Sat Sep 24 14:58:19 BRT 2011;null;1483;
+ryanb;railscasts;open;Luigi Maselli;Mon Sep 05 07:03:28 BRT 2011;null;1502;
+ryanb;railscasts;open;Nathan Le Ray;Fri Aug 26 18:24:36 BRT 2011;null;1511;
+ryanb;railscasts;open;Ryan Bates;Mon Aug 22 19:42:53 BRT 2011;null;1515;
+ryanb;railscasts;open;null;Mon Aug 22 07:48:00 BRT 2011;null;1516;
+ryanb;railscasts;open;Deleted user;Tue Aug 16 18:44:52 BRT 2011;null;1521;
+ryanb;railscasts;open;Kieran Pilkington;Mon Aug 01 03:10:00 BRT 2011;null;1537;
+ryanb;railscasts;closed;Kieran Pilkington;Mon Aug 01 03:08:54 BRT 2011;Thu Aug 18 18:38:51 BRT 2011;17;
+ryanb;railscasts;closed;Kieran Pilkington;Sat Jul 30 16:41:36 BRT 2011;Thu Aug 18 18:38:51 BRT 2011;19;
+ryanb;railscasts;closed;Ryan Bates;Fri Jul 29 19:29:02 BRT 2011;Thu Aug 18 18:40:43 BRT 2011;19;
+ryanb;railscasts;closed;Daniel Bruns;Fri Jul 29 18:52:38 BRT 2011;Thu Aug 18 20:12:32 BRT 2011;20;
+ryanb;railscasts;closed;Kieran Pilkington;Wed Jul 27 19:30:28 BRT 2011;Thu Aug 18 18:38:51 BRT 2011;21;
+ryanb;railscasts;closed;Kieran Pilkington;Wed Jul 27 19:29:02 BRT 2011;Thu Aug 18 18:23:50 BRT 2011;21;
+ryanb;railscasts;open;Wilson;Thu Jul 14 16:57:58 BRT 2011;null;1554;
+ryanb;railscasts;closed;Ryan Bates;Tue Jul 12 17:30:34 BRT 2011;Mon Jul 25 18:50:30 BRT 2011;13;
+ryanb;railscasts;closed;Mark Kremer;Tue Jul 12 01:55:26 BRT 2011;Mon Jul 25 20:42:39 BRT 2011;13;
+ryanb;railscasts;open;Deleted user;Tue Jul 05 09:50:07 BRT 2011;null;1564;
+ryanb;railscasts;open;Ryan Bates;Sat Jul 02 21:06:03 BRT 2011;null;1566;
+ryanb;railscasts;closed;Ryan Bates;Sat Jul 02 16:05:21 BRT 2011;Sat Jul 02 16:56:22 BRT 2011;0;
+ryanb;railscasts;closed;Ryan Bates;Sat Jul 02 16:02:40 BRT 2011;Sat Jul 02 17:08:29 BRT 2011;0;
+ryanb;railscasts;open;Mengu Kagan;Fri Jul 01 16:10:12 BRT 2011;null;1567;
+ryanb;railscasts;closed;Shubham Bansal;Fri Jul 01 13:01:44 BRT 2011;Mon Jul 25 20:42:39 BRT 2011;24;
+ryanb;railscasts;closed;Kieran Pilkington;Tue Jun 21 06:58:26 BRT 2011;Fri Jul 01 01:33:37 BRT 2011;9;
+ryanb;railscasts;closed;null;Sat Jun 11 02:17:20 BRT 2011;Mon Jun 13 17:58:25 BRT 2011;2;
+ryanb;railscasts;closed;Ryan Bates;Thu Jun 09 18:46:33 BRT 2011;Thu Aug 18 18:22:44 BRT 2011;69;
+ryanb;railscasts;closed;Ryan Bates;Wed Jun 01 12:57:53 BRT 2011;Wed Jun 01 13:42:39 BRT 2011;0;
+ryanb;railscasts;closed;Ryan Bates;Wed Jun 01 12:56:59 BRT 2011;Wed Jun 01 14:15:40 BRT 2011;0;
+ryanb;railscasts;open;Ryan Bates;Wed Jun 01 12:45:07 BRT 2011;null;1598;
+ryanb;railscasts;closed;Ryan Bates;Wed Jun 01 12:43:12 BRT 2011;Wed Jun 01 13:42:39 BRT 2011;0;
+ryanb;railscasts;closed;Ryan Bates;Fri May 27 13:19:59 BRT 2011;Wed Jun 01 13:42:39 BRT 2011;5;
+ryanb;railscasts;open;Johnneylee Jack Rollins;Sat May 21 08:48:37 BRT 2011;null;1609;
+ryanb;railscasts;closed;uchenna;Wed May 18 19:08:22 BRT 2011;Wed Jun 01 14:15:40 BRT 2011;13;
+ryanb;railscasts;open;Matej Svec;Tue May 17 09:31:53 BRT 2011;null;1613;
+ryanb;railscasts;closed;captproton;Sat May 14 13:17:22 BRT 2011;Tue May 24 18:26:39 BRT 2011;10;
+ryanb;railscasts;closed;Gareth Rees;Wed May 11 20:40:40 BRT 2011;Fri May 13 01:14:30 BRT 2011;1;
+ryanb;railscasts;closed;Deleted user;Sun Apr 24 09:36:35 BRT 2011;Mon Apr 25 13:10:53 BRT 2011;1;
+ryanb;railscasts;closed;Philipp Riemer;Mon Mar 21 17:15:28 BRT 2011;Wed May 11 20:36:35 BRT 2011;51;
+ryanb;railscasts;closed;Semyon Perepelitsa;Wed Jan 05 07:02:14 BRST 2011;Mon Apr 25 13:11:29 BRT 2011;110;
+ryanb;railscasts;closed;Ben Langfeld;Tue Dec 07 11:28:21 BRST 2010;Thu Dec 09 17:11:50 BRST 2010;2;
+ryanb;railscasts;closed;Ryan Bates;Mon Apr 19 14:43:26 BRT 2010;Thu Dec 09 16:56:59 BRST 2010;234;
+ryanb;railscasts;closed;Marc Lipovsky;Fri Oct 23 22:44:59 BRST 2009;Thu Dec 09 16:59:03 BRST 2010;411;
+ryanb;railscasts;closed;Ryan Bates;Sat Jul 18 22:11:46 BRT 2009;Wed May 11 20:34:52 BRT 2011;661;
+ryanb;railscasts;closed;Ryan Bates;Sat Jul 18 20:25:31 BRT 2009;Fri Dec 10 21:36:37 BRST 2010;510;
+ryanb;railscasts;closed;Ryan Bates;Sat Jul 18 20:25:00 BRT 2009;Fri Dec 10 21:36:10 BRST 2010;510;
+
+
+
+
+
+
+technolize;zsh-completions;open;null;Mon Nov 28 23:48:11 BRST 2011;null;1417;
+technolize;zsh-completions;closed;null;Thu Jul 21 13:02:53 BRT 2011;Mon Nov 28 23:47:36 BRST 2011;130;
+
+judofyr;ruby-oembed;open;Jonne Haß;Sat Aug 08 09:33:47 BRT 2015;null;69;
+judofyr;ruby-oembed;closed;tatsuaka;Wed May 27 19:56:38 BRT 2015;Wed May 27 20:09:19 BRT 2015;0;
+judofyr;ruby-oembed;closed;tatsuaka;Sat May 16 22:51:51 BRT 2015;Mon May 25 09:47:06 BRT 2015;8;
+judofyr;ruby-oembed;closed;Javan Makhmali;Thu May 07 11:37:19 BRT 2015;Sun Aug 30 19:34:26 BRT 2015;115;
+judofyr;ruby-oembed;closed;Marcos Wright-Kuhns;Mon Apr 27 15:24:50 BRT 2015;Mon Apr 27 15:28:52 BRT 2015;0;
+judofyr;ruby-oembed;closed;Javan Makhmali;Sat Apr 25 11:29:27 BRT 2015;Sun Apr 26 00:26:52 BRT 2015;0;
+judofyr;ruby-oembed;closed;Philipp Bosch;Thu Mar 05 15:10:09 BRT 2015;Thu Apr 23 20:40:07 BRT 2015;49;
+judofyr;ruby-oembed;closed;Jonne Haß;Sat Feb 14 15:52:15 BRST 2015;Sun Apr 26 00:26:52 BRT 2015;70;
+judofyr;ruby-oembed;closed;Jamie Phelps;Wed Jan 07 02:21:35 BRST 2015;Wed Jan 07 12:58:28 BRST 2015;0;
+judofyr;ruby-oembed;closed;Eliot Shepard;Tue Jan 06 20:37:17 BRST 2015;Wed Jan 07 18:50:34 BRST 2015;0;
+judofyr;ruby-oembed;closed;Maxim Bublis;Mon Jan 05 16:36:07 BRST 2015;Wed Jan 07 19:09:28 BRST 2015;2;
+judofyr;ruby-oembed;closed;Maxim Bublis;Mon Jan 05 16:31:45 BRST 2015;Mon Jan 05 16:33:26 BRST 2015;0;
+judofyr;ruby-oembed;open;Sebastian de Castelberg;Fri Dec 12 21:04:10 BRST 2014;null;307;
+judofyr;ruby-oembed;open;Sven Schwyn;Mon Dec 08 12:52:22 BRST 2014;null;312;
+judofyr;ruby-oembed;closed;Sami Kukkonen;Fri Oct 31 14:16:47 BRST 2014;Fri Oct 31 15:05:48 BRST 2014;0;
+judofyr;ruby-oembed;closed;Sami Kukkonen;Fri Oct 31 09:00:06 BRST 2014;Fri Nov 07 16:54:28 BRST 2014;7;
+judofyr;ruby-oembed;closed;Blake Thomson;Mon Jul 21 13:32:31 BRT 2014;Wed Aug 06 12:20:14 BRT 2014;15;
+judofyr;ruby-oembed;closed;Fla;Sun Jan 26 21:05:09 BRST 2014;Wed Jan 07 19:16:38 BRST 2015;345;
+judofyr;ruby-oembed;closed;null;Tue Dec 03 06:26:30 BRST 2013;Wed Jan 07 19:16:38 BRST 2015;400;
+judofyr;ruby-oembed;open;No GUI;Sat Aug 31 01:06:46 BRT 2013;null;776;
+judofyr;ruby-oembed;open;Dan;Sun Apr 28 15:44:58 BRT 2013;null;901;
+judofyr;ruby-oembed;closed;Greg Tangey;Tue Jan 22 12:05:19 BRST 2013;Tue Jan 22 17:21:28 BRST 2013;0;
+judofyr;ruby-oembed;open;Michael Andrews;Wed Nov 21 23:08:37 BRST 2012;null;1058;
+judofyr;ruby-oembed;open;Michael Andrews;Tue Nov 13 17:57:38 BRST 2012;null;1066;
+judofyr;ruby-oembed;closed;Michael Andrews;Tue Nov 13 00:00:23 BRST 2012;Tue Nov 13 04:18:21 BRST 2012;0;
+judofyr;ruby-oembed;closed;Michael Cohen;Mon Oct 08 17:45:53 BRT 2012;Tue Nov 13 04:18:20 BRST 2012;35;
+judofyr;ruby-oembed;closed;François de Metz;Mon Apr 02 06:17:38 BRT 2012;Sun Nov 18 23:58:30 BRST 2012;230;
+judofyr;ruby-oembed;closed;François de Metz;Sat Mar 31 19:52:15 BRT 2012;Sun Apr 01 19:03:34 BRT 2012;0;
+judofyr;ruby-oembed;closed;François de Metz;Sat Mar 31 19:51:02 BRT 2012;Sun Apr 01 18:31:31 BRT 2012;0;
+judofyr;ruby-oembed;closed;François de Metz;Sat Mar 31 19:49:32 BRT 2012;Mon Nov 19 00:05:52 BRST 2012;232;
+judofyr;ruby-oembed;open;Florian Staudacher;Fri Mar 23 17:31:09 BRT 2012;null;1301;
+judofyr;ruby-oembed;closed;Florian Staudacher;Sat Mar 10 11:42:48 BRT 2012;Sun Mar 11 14:42:59 BRT 2012;1;
+judofyr;ruby-oembed;closed;Hendrik Mans;Mon Feb 20 15:15:37 BRST 2012;Mon Feb 20 15:16:20 BRST 2012;0;
+judofyr;ruby-oembed;closed;Tammo van Lessen;Thu Dec 08 11:08:12 BRST 2011;Mon Mar 12 03:08:18 BRT 2012;94;
+judofyr;ruby-oembed;closed;Jeremy Haile;Mon Dec 05 19:56:12 BRST 2011;Sat Apr 25 23:40:04 BRT 2015;1237;
+judofyr;ruby-oembed;closed;null;Sun Nov 20 20:55:45 BRST 2011;Tue Nov 06 13:54:03 BRST 2012;351;
+judofyr;ruby-oembed;open;null;Sat Sep 24 19:06:26 BRT 2011;null;1482;
+judofyr;ruby-oembed;closed;Bradley Priest;Thu Jul 28 00:26:42 BRT 2011;Thu Jul 28 04:38:49 BRT 2011;0;
+judofyr;ruby-oembed;closed;Matt Wilson;Sat Jul 02 23:29:40 BRT 2011;Sun Jul 10 00:00:17 BRT 2011;7;
+judofyr;ruby-oembed;closed;Florian Günther;Wed Jun 22 15:54:11 BRT 2011;Wed Jun 22 16:55:26 BRT 2011;0;
+judofyr;ruby-oembed;open;Mathias Panzenböck;Wed May 18 14:07:46 BRT 2011;null;1612;
+judofyr;ruby-oembed;open;Marcos Wright-Kuhns;Mon Feb 14 07:55:20 BRST 2011;null;1705;
+judofyr;ruby-oembed;closed;Marcos Wright-Kuhns;Mon Feb 14 07:53:07 BRST 2011;Mon Nov 14 23:59:35 BRST 2011;273;
+judofyr;ruby-oembed;open;Marcos Wright-Kuhns;Fri Feb 11 19:44:25 BRST 2011;null;1707;
+judofyr;ruby-oembed;closed;Ryan Richards;Tue Jan 25 14:38:44 BRST 2011;Tue Jan 25 16:51:14 BRST 2011;0;
+judofyr;ruby-oembed;open;Marcos Wright-Kuhns;Thu Oct 14 03:48:49 BRT 2010;null;1828;
+judofyr;ruby-oembed;closed;Marcos Wright-Kuhns;Thu Oct 14 03:41:51 BRT 2010;Thu Jan 27 13:05:23 BRST 2011;105;
+judofyr;ruby-oembed;open;Marcos Wright-Kuhns;Thu Oct 14 03:33:12 BRT 2010;null;1828;
+judofyr;ruby-oembed;closed;Magnus Holm;Mon Sep 13 11:19:40 BRT 2010;Mon Oct 11 14:43:11 BRT 2010;28;
+judofyr;ruby-oembed;closed;Mark Sands;Sun May 16 23:03:14 BRT 2010;Tue Sep 21 10:40:47 BRT 2010;127;
+judofyr;ruby-oembed;closed;Simon Schoeters;Sat Mar 13 08:55:16 BRT 2010;Sun Feb 06 14:39:40 BRST 2011;330;
+
+
+
+caillette;novelang;open;Laurent Caillette;Sat Jun 08 14:59:20 BRT 2013;null;860;
+caillette;novelang;open;Laurent Caillette;Sat Dec 10 06:31:28 BRST 2011;null;1406;
+caillette;novelang;open;Laurent Caillette;Sat Dec 10 06:05:19 BRST 2011;null;1406;
+caillette;novelang;open;Laurent Caillette;Mon Sep 12 12:43:38 BRT 2011;null;1495;
+caillette;novelang;open;Laurent Caillette;Sat Apr 02 03:21:38 BRT 2011;null;1658;
+caillette;novelang;closed;Laurent Caillette;Sat Feb 26 10:45:01 BRT 2011;Sat Apr 02 03:23:39 BRT 2011;34;
+caillette;novelang;open;Laurent Caillette;Tue Feb 08 12:06:35 BRST 2011;null;1711;
+caillette;novelang;open;Laurent Caillette;Tue Feb 08 08:47:08 BRST 2011;null;1711;
+caillette;novelang;closed;Laurent Caillette;Fri Feb 04 08:16:32 BRST 2011;Sat Feb 05 10:04:55 BRST 2011;1;
+caillette;novelang;closed;Laurent Caillette;Sat Jan 22 21:33:07 BRST 2011;Tue Feb 01 18:30:08 BRST 2011;9;
+caillette;novelang;closed;Laurent Caillette;Thu Jan 20 17:47:48 BRST 2011;Tue Feb 01 19:06:48 BRST 2011;12;
+caillette;novelang;closed;Laurent Caillette;Thu Jan 20 06:51:43 BRST 2011;Wed Feb 02 05:18:30 BRST 2011;12;
+caillette;novelang;open;Laurent Caillette;Tue Jan 11 13:09:37 BRST 2011;null;1739;
+caillette;novelang;open;Laurent Caillette;Mon Jan 03 06:39:33 BRST 2011;null;1747;
+caillette;novelang;closed;Laurent Caillette;Sun Jan 02 07:33:01 BRST 2011;Mon Jan 03 20:55:25 BRST 2011;1;
+caillette;novelang;open;Laurent Caillette;Mon Dec 27 19:13:04 BRST 2010;null;1753;
+caillette;novelang;closed;Laurent Caillette;Sun Dec 26 18:26:33 BRST 2010;Mon Dec 27 19:11:37 BRST 2010;1;
+caillette;novelang;closed;Laurent Caillette;Thu Dec 23 16:41:02 BRST 2010;Sun Dec 26 13:15:49 BRST 2010;2;
+caillette;novelang;closed;Laurent Caillette;Thu Dec 23 16:40:18 BRST 2010;Sun Dec 26 13:14:10 BRST 2010;2;
+caillette;novelang;open;Laurent Caillette;Wed Dec 22 05:35:53 BRST 2010;null;1759;
+caillette;novelang;open;Laurent Caillette;Wed Dec 22 05:28:14 BRST 2010;null;1759;
+caillette;novelang;closed;Laurent Caillette;Thu Dec 16 07:05:41 BRST 2010;Tue Feb 01 19:53:22 BRST 2011;47;
+caillette;novelang;open;Laurent Caillette;Tue Dec 07 19:09:24 BRST 2010;null;1773;
+caillette;novelang;closed;Laurent Caillette;Wed Oct 20 05:35:33 BRST 2010;Sat Nov 27 19:21:36 BRST 2010;38;
+caillette;novelang;closed;Laurent Caillette;Thu Oct 07 04:04:09 BRT 2010;Thu Oct 07 04:18:41 BRT 2010;0;
+caillette;novelang;closed;Laurent Caillette;Sun Aug 22 10:04:24 BRT 2010;Wed Feb 02 05:11:28 BRST 2011;163;
+caillette;novelang;closed;Laurent Caillette;Sun Aug 08 12:49:49 BRT 2010;Sun Aug 29 05:21:47 BRT 2010;20;
+caillette;novelang;open;Laurent Caillette;Fri Jul 09 22:15:51 BRT 2010;null;1924;
+caillette;novelang;closed;Laurent Caillette;Thu Mar 04 06:17:16 BRT 2010;Tue Feb 01 19:53:40 BRST 2011;334;
+caillette;novelang;closed;Laurent Caillette;Sun Feb 21 09:02:54 BRT 2010;Sun Feb 21 09:21:12 BRT 2010;0;
+caillette;novelang;closed;Laurent Caillette;Sat Feb 13 05:25:46 BRST 2010;Thu Mar 04 08:20:56 BRT 2010;19;
+caillette;novelang;closed;Laurent Caillette;Sat Feb 13 05:21:57 BRST 2010;Sun Feb 21 08:51:12 BRT 2010;8;
+caillette;novelang;closed;Laurent Caillette;Wed Jan 13 06:44:29 BRST 2010;Thu Jan 14 20:36:00 BRST 2010;1;
+caillette;novelang;closed;Laurent Caillette;Mon Jan 04 06:57:12 BRST 2010;Mon Jan 04 18:07:24 BRST 2010;0;
+caillette;novelang;open;Laurent Caillette;Mon Jan 04 06:56:39 BRST 2010;null;2111;
+caillette;novelang;open;Laurent Caillette;Sun Dec 06 07:14:12 BRST 2009;null;2140;
+caillette;novelang;open;Laurent Caillette;Sun Nov 15 05:42:55 BRST 2009;null;2161;
+caillette;novelang;closed;Laurent Caillette;Fri Nov 13 20:16:56 BRST 2009;Mon Jan 11 19:24:42 BRST 2010;58;
+caillette;novelang;open;Laurent Caillette;Wed Sep 30 04:32:51 BRT 2009;null;2207;
+caillette;novelang;closed;Laurent Caillette;Sun Sep 27 13:19:09 BRT 2009;Thu Sep 09 18:23:04 BRT 2010;347;
+caillette;novelang;closed;Laurent Caillette;Sun Sep 27 03:56:56 BRT 2009;Sun Sep 27 11:38:48 BRT 2009;0;
+caillette;novelang;open;Laurent Caillette;Fri Sep 25 08:43:00 BRT 2009;null;2212;
+caillette;novelang;closed;Laurent Caillette;Wed Sep 16 08:23:00 BRT 2009;Sun Feb 21 13:23:36 BRT 2010;158;
+caillette;novelang;closed;Laurent Caillette;Wed Sep 16 08:10:38 BRT 2009;Sat Feb 05 10:06:53 BRST 2011;507;
+caillette;novelang;open;Laurent Caillette;Fri Sep 11 13:47:53 BRT 2009;null;2226;
+caillette;novelang;open;Laurent Caillette;Thu Sep 10 08:02:48 BRT 2009;null;2227;
+caillette;novelang;open;Laurent Caillette;Thu Sep 10 04:55:58 BRT 2009;null;2227;
+caillette;novelang;open;Laurent Caillette;Wed Sep 09 09:04:49 BRT 2009;null;2228;
+caillette;novelang;closed;Laurent Caillette;Wed Sep 09 07:07:38 BRT 2009;Sun Aug 29 05:23:25 BRT 2010;353;
+caillette;novelang;open;Laurent Caillette;Sun Sep 06 10:50:07 BRT 2009;null;2231;
+caillette;novelang;open;Laurent Caillette;Sat Sep 05 05:33:17 BRT 2009;null;2232;
+caillette;novelang;closed;Laurent Caillette;Sat Aug 29 05:10:59 BRT 2009;Thu Sep 10 04:29:22 BRT 2009;11;
+caillette;novelang;closed;Laurent Caillette;Sat Aug 22 17:41:54 BRT 2009;Sun Aug 23 12:59:52 BRT 2009;0;
+caillette;novelang;closed;Laurent Caillette;Mon Aug 17 04:13:57 BRT 2009;Sun Aug 23 12:59:52 BRT 2009;6;
+caillette;novelang;closed;Laurent Caillette;Tue Aug 11 18:05:13 BRT 2009;Wed Aug 19 04:37:22 BRT 2009;7;
+caillette;novelang;closed;Laurent Caillette;Tue Aug 11 18:02:07 BRT 2009;Sun Aug 16 04:23:33 BRT 2009;4;
+caillette;novelang;closed;Laurent Caillette;Thu Aug 06 08:10:06 BRT 2009;Sat Jan 22 21:39:36 BRST 2011;534;
+caillette;novelang;closed;Laurent Caillette;Wed Aug 05 02:45:22 BRT 2009;Sat Aug 08 02:03:59 BRT 2009;2;
+caillette;novelang;closed;Laurent Caillette;Sat Aug 01 04:30:02 BRT 2009;Sun Aug 02 08:02:05 BRT 2009;1;
+caillette;novelang;closed;Laurent Caillette;Sat Aug 01 04:23:49 BRT 2009;Sun Aug 02 13:41:21 BRT 2009;1;
+caillette;novelang;open;Laurent Caillette;Fri Jul 31 12:40:31 BRT 2009;null;2268;
+caillette;novelang;closed;Laurent Caillette;Wed Jul 29 07:28:34 BRT 2009;Sat Aug 29 05:11:58 BRT 2009;30;
+caillette;novelang;closed;Laurent Caillette;Wed Jul 29 07:27:12 BRT 2009;Thu Jan 14 20:36:00 BRST 2010;169;
+caillette;novelang;closed;Laurent Caillette;Wed Jul 29 07:23:47 BRT 2009;Wed Jul 29 07:27:47 BRT 2009;0;
+caillette;novelang;closed;Laurent Caillette;Wed Jul 29 07:23:39 BRT 2009;Wed Jul 29 07:27:47 BRT 2009;0;
+caillette;novelang;closed;Laurent Caillette;Mon Jul 27 03:10:54 BRT 2009;Thu Jul 30 03:50:44 BRT 2009;3;
+caillette;novelang;open;Laurent Caillette;Sun Jul 26 15:29:37 BRT 2009;null;2273;
+caillette;novelang;open;Laurent Caillette;Sun Jul 26 10:01:58 BRT 2009;null;2273;
+caillette;novelang;closed;Laurent Caillette;Sun Jul 26 07:42:41 BRT 2009;Sun Aug 02 05:33:18 BRT 2009;6;
+caillette;novelang;closed;Laurent Caillette;Sun Jul 26 07:38:32 BRT 2009;Sun Jul 26 09:50:17 BRT 2009;0;
+caillette;novelang;closed;Laurent Caillette;Fri Jul 24 06:36:46 BRT 2009;Sun Jul 26 07:36:59 BRT 2009;2;
+caillette;novelang;open;Laurent Caillette;Tue Jul 21 12:10:14 BRT 2009;null;2278;
+caillette;novelang;closed;Laurent Caillette;Tue Jul 21 10:22:37 BRT 2009;Sun Jul 26 07:17:24 BRT 2009;4;
+caillette;novelang;closed;Laurent Caillette;Mon Jul 20 06:40:18 BRT 2009;Sun Aug 16 07:14:34 BRT 2009;27;
+caillette;novelang;closed;Laurent Caillette;Sat Jul 18 16:41:20 BRT 2009;Sat Jul 18 16:44:12 BRT 2009;0;
+caillette;novelang;closed;Laurent Caillette;Fri Jul 17 10:21:49 BRT 2009;Sat Jul 18 16:34:59 BRT 2009;1;
+caillette;novelang;closed;Laurent Caillette;Wed Jul 15 04:59:38 BRT 2009;Sat Jul 18 17:25:39 BRT 2009;3;
+caillette;novelang;open;Laurent Caillette;Tue Jul 14 12:11:39 BRT 2009;null;2285;
+caillette;novelang;closed;Laurent Caillette;Sun Jul 12 15:04:22 BRT 2009;Thu Jan 07 10:21:53 BRST 2010;178;
+caillette;novelang;closed;Laurent Caillette;Mon Jun 29 03:48:55 BRT 2009;Thu Sep 09 18:27:15 BRT 2010;437;
+caillette;novelang;closed;Laurent Caillette;Mon Jun 22 14:41:36 BRT 2009;Wed Jan 06 21:26:30 BRST 2010;198;
+caillette;novelang;closed;Laurent Caillette;Sat Jun 20 03:33:37 BRT 2009;Sun Aug 29 05:24:10 BRT 2010;435;
+caillette;novelang;closed;Laurent Caillette;Fri Jun 19 16:40:30 BRT 2009;Fri Jun 19 16:53:09 BRT 2009;0;
+caillette;novelang;closed;Laurent Caillette;Fri Jun 19 16:40:30 BRT 2009;Fri Jun 19 16:41:42 BRT 2009;0;
+caillette;novelang;closed;Laurent Caillette;Thu Jun 18 04:10:31 BRT 2009;Thu Jun 18 14:51:50 BRT 2009;0;
+caillette;novelang;closed;Laurent Caillette;Wed Jun 17 12:52:37 BRT 2009;Fri Jun 19 16:18:09 BRT 2009;2;
+caillette;novelang;closed;Laurent Caillette;Wed Jun 17 10:41:32 BRT 2009;Mon Aug 03 15:34:28 BRT 2009;47;
+caillette;novelang;closed;Laurent Caillette;Wed Jun 17 10:37:29 BRT 2009;Mon Jun 22 02:36:44 BRT 2009;4;
+caillette;novelang;closed;Laurent Caillette;Tue Jun 16 09:09:07 BRT 2009;Fri Jun 19 16:43:12 BRT 2009;3;
+caillette;novelang;open;Laurent Caillette;Tue Jun 16 08:56:53 BRT 2009;null;2313;
+caillette;novelang;closed;Laurent Caillette;Mon Jun 15 08:22:01 BRT 2009;Fri Jun 19 16:43:12 BRT 2009;4;
+caillette;novelang;closed;Laurent Caillette;Mon Jun 15 08:13:24 BRT 2009;Sat Aug 15 15:06:56 BRT 2009;61;
+caillette;novelang;closed;Laurent Caillette;Mon Jun 15 06:32:55 BRT 2009;Fri Jun 19 16:51:28 BRT 2009;4;
+caillette;novelang;closed;Laurent Caillette;Sat Jun 13 03:26:25 BRT 2009;Sun Jun 14 18:23:16 BRT 2009;1;
+caillette;novelang;closed;Laurent Caillette;Sun Jun 07 06:37:33 BRT 2009;Mon Jan 03 20:54:09 BRST 2011;575;
+caillette;novelang;closed;Laurent Caillette;Sun Jun 07 05:56:03 BRT 2009;Sun Jun 07 14:16:12 BRT 2009;0;
+caillette;novelang;open;Laurent Caillette;Fri May 29 07:43:17 BRT 2009;null;2331;
+caillette;novelang;closed;Laurent Caillette;Thu May 28 10:58:11 BRT 2009;Sun Aug 29 05:26:35 BRT 2010;457;
+caillette;novelang;closed;Laurent Caillette;Wed May 27 18:54:10 BRT 2009;Mon Jun 01 17:56:09 BRT 2009;4;
+caillette;novelang;open;Laurent Caillette;Wed May 27 18:51:03 BRT 2009;null;2332;
+caillette;novelang;open;Laurent Caillette;Wed May 27 18:33:05 BRT 2009;null;2332;
+caillette;novelang;open;Laurent Caillette;Wed May 27 05:47:28 BRT 2009;null;2333;
+caillette;novelang;closed;Laurent Caillette;Tue May 26 18:56:35 BRT 2009;Mon Jun 01 17:52:08 BRT 2009;5;
+caillette;novelang;open;Laurent Caillette;Mon May 25 06:52:51 BRT 2009;null;2335;
+caillette;novelang;closed;Laurent Caillette;Sun May 24 16:42:30 BRT 2009;Fri May 29 07:44:22 BRT 2009;4;
+caillette;novelang;closed;Laurent Caillette;Sat May 23 07:35:42 BRT 2009;Sat May 23 10:58:42 BRT 2009;0;
+caillette;novelang;closed;Laurent Caillette;Sat May 23 07:21:13 BRT 2009;Sat May 23 10:13:59 BRT 2009;0;
+caillette;novelang;closed;Laurent Caillette;Fri May 22 03:33:29 BRT 2009;Sun Aug 22 10:06:15 BRT 2010;457;
+caillette;novelang;open;Laurent Caillette;Thu May 21 08:16:49 BRT 2009;null;2339;
+caillette;novelang;closed;Laurent Caillette;Wed May 20 11:48:00 BRT 2009;Wed Dec 22 05:38:43 BRST 2010;580;
+caillette;novelang;closed;Laurent Caillette;Tue May 19 17:43:07 BRT 2009;Tue May 19 17:43:57 BRT 2009;0;
+caillette;novelang;closed;Laurent Caillette;Tue May 19 03:59:30 BRT 2009;Tue May 19 17:43:57 BRT 2009;0;
+caillette;novelang;closed;Laurent Caillette;Sat May 16 07:48:12 BRT 2009;Sat May 16 12:14:12 BRT 2009;0;
+caillette;novelang;closed;Laurent Caillette;Thu May 14 07:59:32 BRT 2009;Sun May 17 18:21:30 BRT 2009;3;
+caillette;novelang;open;Laurent Caillette;Mon May 11 15:49:16 BRT 2009;null;2348;
+caillette;novelang;closed;Laurent Caillette;Sun May 10 03:36:41 BRT 2009;Sun May 10 03:52:08 BRT 2009;0;
+caillette;novelang;closed;Laurent Caillette;Sat May 09 12:29:41 BRT 2009;Sun May 17 14:38:42 BRT 2009;8;
+caillette;novelang;closed;Laurent Caillette;Sat May 09 11:02:24 BRT 2009;Sun May 10 03:10:18 BRT 2009;0;
+caillette;novelang;closed;Laurent Caillette;Fri May 08 09:20:18 BRT 2009;Sun May 10 03:52:08 BRT 2009;1;
+caillette;novelang;closed;Laurent Caillette;Sat May 02 11:08:02 BRT 2009;Mon May 11 15:12:45 BRT 2009;9;
+caillette;novelang;open;Laurent Caillette;Fri Apr 24 13:09:31 BRT 2009;null;2366;
+caillette;novelang;closed;Laurent Caillette;Fri Apr 24 09:26:23 BRT 2009;Sat Nov 27 19:19:05 BRST 2010;582;
+caillette;novelang;closed;Laurent Caillette;Fri Apr 24 06:22:44 BRT 2009;Wed May 27 18:37:27 BRT 2009;33;
+caillette;novelang;closed;Laurent Caillette;Sat Apr 18 07:58:53 BRT 2009;Thu Apr 23 14:27:03 BRT 2009;5;
+caillette;novelang;open;Laurent Caillette;Sat Apr 18 07:58:51 BRT 2009;null;2372;
+
+
+duritong;puppet-nagios;closed;Tomas Barton;Mon Sep 30 11:14:11 BRT 2013;Mon Sep 30 14:43:42 BRT 2013;0;
+duritong;puppet-nagios;closed;null;Mon Jun 17 17:31:45 BRT 2013;Mon Feb 17 18:48:23 BRT 2014;245;
+duritong;puppet-nagios;closed;Jeffrey Zhang;Fri Jun 07 05:54:42 BRT 2013;Fri Jun 07 06:14:34 BRT 2013;0;
+duritong;puppet-nagios;closed;Erik Froese;Tue May 01 12:16:59 BRT 2012;Sat May 05 11:58:32 BRT 2012;3;
+duritong;puppet-nagios;closed;Erik Froese;Tue May 01 12:12:31 BRT 2012;Sat May 05 11:59:20 BRT 2012;3;
+duritong;puppet-nagios;closed;Christian G. Warden;Wed Feb 01 23:04:06 BRST 2012;Thu Feb 02 07:10:54 BRST 2012;0;
+duritong;puppet-nagios;closed;Spike Morelli;Wed Mar 02 19:49:37 BRT 2011;Thu Mar 03 10:48:16 BRT 2011;0;
+duritong;puppet-nagios;closed;Spike Morelli;Wed Mar 02 12:23:45 BRT 2011;Wed Mar 02 23:13:46 BRT 2011;0;
+
+
+
+paul;resourceful;closed;null;Tue Feb 25 15:49:55 BRT 2014;Sun Aug 23 06:32:22 BRT 2015;543;
+paul;resourceful;open;null;Thu May 19 18:46:30 BRT 2011;null;1610;
+paul;resourceful;open;null;Thu May 19 18:45:46 BRT 2011;null;1610;
+paul;resourceful;closed;Peter Williams;Fri Apr 22 20:40:08 BRT 2011;Mon Apr 25 13:56:49 BRT 2011;2;
+paul;resourceful;closed;Peter Williams;Fri Apr 22 20:31:39 BRT 2011;Thu May 26 14:34:44 BRT 2011;33;
+
+
+
+
+
+
+
+
+
+
+
+
+
+relevance;tarantula;open;Akshat Pradhan;Sat Nov 29 22:19:50 BRST 2014;null;320;
+relevance;tarantula;open;Akshat Pradhan;Sat Nov 29 22:11:47 BRST 2014;null;320;
+relevance;tarantula;open;null;Thu Oct 24 18:45:36 BRST 2013;null;721;
+relevance;tarantula;open;Alex Escalante;Fri Jul 26 17:10:18 BRT 2013;null;811;
+relevance;tarantula;open;rliberal;Fri Jul 05 11:03:00 BRT 2013;null;833;
+relevance;tarantula;open;z;Wed Apr 03 05:15:15 BRT 2013;null;926;
+relevance;tarantula;closed;z;Thu Mar 28 08:32:10 BRT 2013;Fri May 24 17:45:00 BRT 2013;57;
+relevance;tarantula;closed;z;Thu Mar 28 08:27:10 BRT 2013;Fri Apr 12 11:58:14 BRT 2013;15;
+relevance;tarantula;open;Steven Bristol;Fri Jan 04 16:48:35 BRST 2013;null;1014;
+relevance;tarantula;closed;Wittmer, Christian;Sat Jul 14 16:20:27 BRT 2012;Sun Jul 15 04:15:01 BRT 2012;0;
+relevance;tarantula;closed;null;Tue Apr 03 04:05:22 BRT 2012;Wed Apr 04 08:37:52 BRT 2012;1;
+relevance;tarantula;open;Ryan Graham;Sat Mar 10 04:16:57 BRT 2012;null;1315;
+relevance;tarantula;closed;Sarah Pimentel;Tue Feb 14 16:36:57 BRST 2012;Wed Jan 23 18:59:40 BRST 2013;344;
+relevance;tarantula;closed;Jamie Kite;Tue Jan 03 19:33:18 BRST 2012;Mon Feb 20 21:32:41 BRST 2012;48;
+relevance;tarantula;closed;null;Thu Dec 01 17:22:46 BRST 2011;Tue Jan 03 19:36:08 BRST 2012;33;
+relevance;tarantula;closed;null;Tue Aug 09 07:54:18 BRT 2011;Tue Feb 21 07:00:02 BRST 2012;195;
+relevance;tarantula;closed;Luca Invernizzi;Thu Jun 23 21:38:54 BRT 2011;Tue Jan 03 18:25:20 BRST 2012;193;
+relevance;tarantula;closed;null;Tue May 24 16:27:49 BRT 2011;Fri Mar 09 13:03:08 BRT 2012;289;
+relevance;tarantula;closed;Alexander Markov;Sun Oct 10 08:09:59 BRT 2010;Mon Feb 20 21:39:59 BRST 2012;498;
+relevance;tarantula;closed;rob golkosky;Fri Jun 04 21:31:23 BRT 2010;Fri Feb 24 19:39:21 BRST 2012;629;
+relevance;tarantula;closed;Jess Martin;Tue Apr 27 18:04:38 BRT 2010;Mon Feb 20 21:53:19 BRST 2012;664;
+relevance;tarantula;closed;null;Thu Feb 04 16:22:56 BRST 2010;Fri Mar 09 13:04:09 BRT 2012;763;
+relevance;tarantula;closed;Mark Goris;Tue Feb 02 19:03:43 BRST 2010;Mon Feb 20 22:03:02 BRST 2012;748;
+relevance;tarantula;closed;Garland Heart Development;Mon Oct 26 22:41:20 BRST 2009;Fri Mar 09 13:03:52 BRT 2012;864;
+relevance;tarantula;open;Glenn Vanderburg;Thu Sep 24 12:19:20 BRT 2009;null;2213;
+relevance;tarantula;closed;Sam Umbach;Mon Sep 14 01:19:21 BRT 2009;Thu Sep 24 19:43:33 BRT 2009;10;
+relevance;tarantula;closed;Sam Umbach;Fri Sep 11 02:34:43 BRT 2009;Mon Feb 20 21:54:41 BRST 2012;892;
+relevance;tarantula;closed;Chad Humphries;Thu Aug 20 09:39:11 BRT 2009;Fri Aug 21 12:16:59 BRT 2009;1;
+relevance;tarantula;open;Glenn Vanderburg;Sat Jun 20 22:45:11 BRT 2009;null;2308;
+relevance;tarantula;closed;Glenn Vanderburg;Sat Jun 20 22:38:36 BRT 2009;Fri Sep 04 12:15:27 BRT 2009;75;
+relevance;tarantula;closed;Glenn Vanderburg;Sat Jun 20 14:10:55 BRT 2009;Fri Sep 04 12:14:36 BRT 2009;75;
+relevance;tarantula;open;Deleted user;Sun May 17 11:20:00 BRT 2009;null;2343;
+relevance;tarantula;closed;Deleted user;Sun May 17 11:19:50 BRT 2009;Wed Jul 16 22:20:07 BRT 2014;1886;
+relevance;tarantula;closed;Deleted user;Sun May 17 11:19:44 BRT 2009;Fri May 22 16:33:08 BRT 2009;5;
+relevance;tarantula;open;Deleted user;Sun May 17 11:19:36 BRT 2009;null;2343;
+relevance;tarantula;closed;Deleted user;Sun May 17 11:19:29 BRT 2009;Fri May 29 13:06:55 BRT 2009;12;
+relevance;tarantula;closed;Deleted user;Sun May 17 11:19:19 BRT 2009;Fri May 22 12:57:32 BRT 2009;5;
+
+
+
+alx;rfeedfinder;open;Adam Fields;Mon Jul 22 18:30:35 BRT 2013;null;815;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+potionfactory;potionstore;closed;Alex Kleshchevnikov;Wed Dec 19 15:39:14 BRST 2012;Mon Jan 14 19:57:06 BRST 2013;26;
+potionfactory;potionstore;closed;Alex Kleshchevnikov;Wed Dec 19 15:37:09 BRST 2012;Mon Jan 14 20:03:05 BRST 2013;26;
+potionfactory;potionstore;open;Ben Mills;Tue May 22 12:42:02 BRT 2012;null;1242;
+potionfactory;potionstore;open;ExpanDrive Inc;Mon Mar 19 12:14:50 BRT 2012;null;1306;
+potionfactory;potionstore;open;Torsten Curdt;Fri Dec 16 22:42:34 BRST 2011;null;1399;
+potionfactory;potionstore;closed;ExpanDrive Inc;Thu Oct 21 18:17:01 BRST 2010;Mon May 30 22:09:02 BRT 2011;221;
+
+
+
+
+
+
+
+
+jkramer;post-fm;open;null;Fri Apr 25 03:03:26 BRT 2014;null;539;
+jkramer;post-fm;open;Steven Saus;Tue Dec 11 20:31:43 BRST 2012;null;1038;
+
+
+swdyh;quilt;closed;Lail Brown;Mon Aug 19 12:33:55 BRT 2013;Mon Aug 19 23:34:14 BRT 2013;0;
+swdyh;quilt;open;null;Thu Apr 28 01:20:44 BRT 2011;null;1632;
+swdyh;quilt;closed;Todd A. Jacobs;Fri Oct 15 10:34:01 BRT 2010;Fri Oct 15 14:00:45 BRT 2010;0;
+
+
+
+
+
+
+maxlapshin;nmea;closed;David Douglas;Mon Jan 12 20:11:36 BRST 2015;Mon Jan 12 21:18:40 BRST 2015;0;
+
+maxlapshin;exiv2;open;Matt Colyer;Thu Dec 30 20:51:00 BRST 2010;null;1750;
+maxlapshin;exiv2;open;Max Lapshin;Sat Aug 29 02:39:36 BRT 2009;null;2239;
+
+
+
+
+esobchenko;rest-google;open;Daniel Perrett;Wed Aug 29 08:19:52 BRT 2012;null;1143;
+esobchenko;rest-google;open;Daniel Perrett;Wed Aug 29 08:09:56 BRT 2012;null;1143;
+
+esobchenko;cache-weak;open;David Steinbrunner;Sun Oct 06 18:47:48 BRT 2013;null;739;
+
+
+
+
+
+
+
+
+jomz;radiant-tags-extension;closed;Josh Lohrman;Wed May 23 16:43:11 BRT 2012;Sun Jun 03 12:25:35 BRT 2012;10;
+jomz;radiant-tags-extension;closed;Benny Degezelle;Sun May 06 08:19:00 BRT 2012;Sun May 06 08:24:16 BRT 2012;0;
+jomz;radiant-tags-extension;closed;Jason Taylor;Tue Jan 31 02:34:35 BRST 2012;Fri Feb 03 09:20:00 BRST 2012;3;
+jomz;radiant-tags-extension;closed;Wedy Chainy;Mon Jan 09 02:02:58 BRST 2012;Mon Jan 16 18:59:00 BRST 2012;7;
+jomz;radiant-tags-extension;closed;Ryan Mathews;Tue Nov 22 17:13:42 BRST 2011;Tue Nov 22 17:33:20 BRST 2011;0;
+jomz;radiant-tags-extension;closed;Ryan Mathews;Tue Nov 22 16:08:59 BRST 2011;Tue Nov 22 16:54:46 BRST 2011;0;
+jomz;radiant-tags-extension;closed;Gerrit Kaiser;Wed Nov 09 19:12:47 BRST 2011;Thu Nov 10 07:26:20 BRST 2011;0;
+jomz;radiant-tags-extension;closed;Josh Lohrman;Thu Nov 03 19:45:50 BRST 2011;Thu Nov 03 19:46:45 BRST 2011;0;
+jomz;radiant-tags-extension;closed;Josh Lohrman;Thu Nov 03 19:43:08 BRST 2011;Thu Nov 03 19:47:06 BRST 2011;0;
+jomz;radiant-tags-extension;open;Joel Oliveira;Sun Oct 09 20:50:00 BRT 2011;null;1467;
+jomz;radiant-tags-extension;closed;Kips Davenport;Wed Jul 20 09:22:14 BRT 2011;Wed Jul 27 13:45:21 BRT 2011;7;
+jomz;radiant-tags-extension;closed;Douglas Tan;Wed Jul 20 01:30:42 BRT 2011;Sun May 06 08:24:16 BRT 2012;291;
+jomz;radiant-tags-extension;open;youleaf;Fri Jul 08 07:36:07 BRT 2011;null;1561;
+jomz;radiant-tags-extension;closed;Kips Davenport;Mon Jul 04 19:25:03 BRT 2011;Mon Jul 04 20:01:51 BRT 2011;0;
+jomz;radiant-tags-extension;closed;Gerrit Kaiser;Fri Apr 22 15:14:48 BRT 2011;Sat Jun 11 21:13:51 BRT 2011;50;
+jomz;radiant-tags-extension;closed;Gerrit Kaiser;Fri Apr 22 15:13:10 BRT 2011;Sat Jun 11 21:15:15 BRT 2011;50;
+jomz;radiant-tags-extension;closed;Gerrit Kaiser;Tue Mar 22 21:41:12 BRT 2011;Tue Mar 29 12:15:43 BRT 2011;6;
+jomz;radiant-tags-extension;closed;Gerrit Kaiser;Sat Mar 19 10:57:47 BRT 2011;Tue Mar 29 13:09:08 BRT 2011;10;
+jomz;radiant-tags-extension;closed;Gerrit Kaiser;Sat Mar 19 10:24:27 BRT 2011;Tue Mar 29 13:12:48 BRT 2011;10;
+jomz;radiant-tags-extension;closed;Edmund Haselwanter;Wed Jan 26 10:09:11 BRST 2011;Tue Mar 29 12:11:15 BRT 2011;62;
+jomz;radiant-tags-extension;open;Ross Laird;Fri Jan 21 13:23:55 BRST 2011;null;1729;
+jomz;radiant-tags-extension;closed;Ross Laird;Tue Dec 21 21:17:20 BRST 2010;Wed Dec 22 11:48:25 BRST 2010;0;
+jomz;radiant-tags-extension;open;I?ja Ketris;Tue Oct 05 10:30:55 BRT 2010;null;1837;
+jomz;radiant-tags-extension;closed;David Cato;Mon Sep 20 02:07:34 BRT 2010;Fri Jan 07 20:35:20 BRST 2011;109;
+jomz;radiant-tags-extension;closed;Jeff Casimir;Tue Sep 14 20:42:25 BRT 2010;Fri Jan 07 12:39:43 BRST 2011;114;
+jomz;radiant-tags-extension;closed;Edmund Haselwanter;Thu Sep 09 15:14:58 BRT 2010;Tue Jan 11 21:04:15 BRST 2011;124;
+jomz;radiant-tags-extension;closed;Jon Kinney;Thu Oct 15 01:12:36 BRT 2009;Sat Jun 11 21:18:25 BRT 2011;604;
+jomz;radiant-tags-extension;closed;Sandeep Srinivasa;Sat Sep 12 01:20:42 BRT 2009;Wed Sep 23 05:29:13 BRT 2009;11;
+jomz;radiant-tags-extension;closed;Konstantin Antipin;Sat Jun 20 12:58:12 BRT 2009;Wed Sep 23 05:32:26 BRT 2009;94;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rmm5t;strip_attributes;closed;Braulio Carreno;Mon Aug 24 15:40:55 BRT 2015;Mon Aug 24 15:55:42 BRT 2015;0;
+rmm5t;strip_attributes;closed;Eli Duke;Wed May 13 12:18:15 BRT 2015;Wed May 13 15:49:24 BRT 2015;0;
+rmm5t;strip_attributes;closed;Owen Ben Davies;Mon Feb 09 15:11:32 BRST 2015;Tue Feb 10 22:23:58 BRST 2015;1;
+rmm5t;strip_attributes;closed;Greg Dowling;Wed Jan 21 15:27:32 BRST 2015;Wed Jan 21 16:55:34 BRST 2015;0;
+rmm5t;strip_attributes;open;Sushma Girish;Tue Dec 16 23:48:16 BRST 2014;null;303;
+rmm5t;strip_attributes;open;Sushma Girish;Mon Dec 15 02:41:25 BRST 2014;null;305;
+rmm5t;strip_attributes;closed;Patrick Oscity;Thu Oct 02 06:13:22 BRT 2014;Thu Oct 02 13:24:55 BRT 2014;0;
+rmm5t;strip_attributes;closed;Bruno Freitas;Sat Sep 06 12:02:55 BRT 2014;Sat Sep 06 12:19:04 BRT 2014;0;
+rmm5t;strip_attributes;closed;Daniel Ackerman;Wed Jul 23 16:14:40 BRT 2014;Wed Jul 23 16:36:18 BRT 2014;0;
+rmm5t;strip_attributes;closed;Emiliano Zilocchi;Tue Jul 15 09:38:26 BRT 2014;Tue Jul 15 10:42:37 BRT 2014;0;
+rmm5t;strip_attributes;closed;Juan Ku Quintana;Thu May 29 17:50:08 BRT 2014;Thu May 29 18:15:41 BRT 2014;0;
+rmm5t;strip_attributes;open;Nikola Chochkov;Mon May 12 07:38:20 BRT 2014;null;522;
+rmm5t;strip_attributes;closed;Dominik Menke;Mon Mar 24 05:43:18 BRT 2014;Mon Mar 24 12:12:17 BRT 2014;0;
+rmm5t;strip_attributes;closed;Michael Dungan;Sun Mar 02 06:49:37 BRT 2014;Sun Mar 02 19:40:36 BRT 2014;0;
+rmm5t;strip_attributes;closed;Jason Barnabe;Tue Jan 14 18:26:16 BRST 2014;Thu Jan 16 21:09:01 BRST 2014;2;
+rmm5t;strip_attributes;closed;Dafeng;Thu Jan 09 01:39:48 BRST 2014;Wed Jan 15 17:58:30 BRST 2014;6;
+rmm5t;strip_attributes;closed;Jonathan Lim;Wed Jul 17 10:50:31 BRT 2013;Wed Jul 17 22:32:46 BRT 2013;0;
+rmm5t;strip_attributes;closed;Costa Shapiro;Wed Jun 05 13:00:07 BRT 2013;Mon Mar 24 09:44:51 BRT 2014;291;
+rmm5t;strip_attributes;closed;Leonardo Schlossmacher;Sun Apr 21 23:49:19 BRT 2013;Mon Apr 22 08:26:21 BRT 2013;0;
+rmm5t;strip_attributes;closed;Leonardo Schlossmacher;Sun Apr 21 20:38:14 BRT 2013;Sun Apr 21 21:44:37 BRT 2013;0;
+rmm5t;strip_attributes;closed;Aaron Gibralter;Tue Mar 12 02:14:52 BRT 2013;Wed Mar 13 11:19:53 BRT 2013;1;
+rmm5t;strip_attributes;closed;Will Mernagh;Thu Mar 07 21:10:59 BRT 2013;Fri Mar 08 12:47:42 BRT 2013;0;
+rmm5t;strip_attributes;closed;Will Mernagh;Wed Mar 06 15:57:35 BRT 2013;Fri Mar 08 11:24:25 BRT 2013;1;
+rmm5t;strip_attributes;closed;Henare Degan;Wed Feb 06 19:40:17 BRST 2013;Wed Feb 06 20:06:31 BRST 2013;0;
+rmm5t;strip_attributes;closed;MoneyBird;Tue Apr 03 08:34:48 BRT 2012;Wed Feb 06 19:50:09 BRST 2013;309;
+rmm5t;strip_attributes;closed;Maxim Kashchenko;Tue Mar 20 19:03:06 BRT 2012;Fri Jan 25 14:17:39 BRST 2013;310;
+rmm5t;strip_attributes;closed;Marcelo Silveira;Fri Oct 28 15:29:27 BRST 2011;Fri Oct 28 18:30:21 BRST 2011;0;
+rmm5t;strip_attributes;closed;Jeff Casimir;Sun Aug 14 22:26:47 BRT 2011;Sun Aug 14 23:34:47 BRT 2011;0;
+rmm5t;strip_attributes;closed;David Murrell;Wed Mar 10 14:16:04 BRT 2010;Thu Mar 11 10:46:27 BRT 2010;0;
+
+
+
+raggi;github_post_receive_server;closed;Brian Gonzalez;Fri Sep 27 13:21:50 BRT 2013;Fri Sep 27 13:35:41 BRT 2013;0;
+raggi;github_post_receive_server;closed;Jackson Cray;Wed Apr 24 19:01:38 BRT 2013;Sat Sep 07 22:48:12 BRT 2013;136;
+raggi;github_post_receive_server;closed;Christopher Rutter;Sun Dec 30 17:27:32 BRST 2012;Sat Sep 07 22:48:31 BRT 2013;251;
+raggi;github_post_receive_server;closed;Ash Caire;Fri Apr 20 01:35:10 BRT 2012;Sat Sep 07 22:49:18 BRT 2013;505;
+raggi;github_post_receive_server;closed;Gun.io Robot;Fri Oct 21 10:49:37 BRST 2011;Sat Sep 07 22:49:00 BRT 2013;687;
+
+
+
+github-archive;albino;open;Mirth Hickford;Wed May 09 15:43:37 BRT 2012;null;1255;
+github-archive;albino;open;Madhur Ahuja;Mon Mar 05 12:03:47 BRT 2012;null;1320;
+github-archive;albino;open;Madhur Ahuja;Mon Mar 05 12:01:00 BRT 2012;null;1320;
+github-archive;albino;open;Kristijan Sedlak;Thu Jan 26 10:00:36 BRST 2012;null;1359;
+github-archive;albino;closed;Mislav Marohni?;Sat Oct 08 14:06:03 BRT 2011;Mon Nov 14 10:42:11 BRST 2011;36;
+github-archive;albino;open;Stefan Liebenberg;Wed Aug 31 05:00:59 BRT 2011;null;1507;
+github-archive;albino;open;Austin;Mon Jul 18 00:07:32 BRT 2011;null;1551;
+github-archive;albino;closed;Austin;Sat Jul 16 03:57:37 BRT 2011;Mon Jul 18 00:04:55 BRT 2011;1;
+github-archive;albino;closed;Bruno Michel;Mon Mar 21 14:53:14 BRT 2011;Wed Apr 27 18:44:02 BRT 2011;37;
+github-archive;albino;closed;Adam McDonald;Wed Feb 02 00:25:28 BRST 2011;Sun Mar 06 07:49:18 BRT 2011;32;
+github-archive;albino;closed;Bruno Michel;Sun Jan 16 10:44:40 BRST 2011;Sun Mar 06 00:25:13 BRT 2011;48;
+github-archive;albino;closed;Mr. Big Cat;Tue Jan 11 13:56:32 BRST 2011;Tue Jan 11 23:40:57 BRST 2011;0;
+github-archive;albino;closed;Nathan Youngman;Fri Nov 26 05:55:23 BRST 2010;Sat Mar 05 23:50:25 BRT 2011;99;
+github-archive;albino;closed;Henrik Nyh;Fri Apr 24 02:58:22 BRT 2009;Sun Mar 06 00:23:14 BRT 2011;680;
+
+
+github-archive;jquery-hotkeys;closed;Ryan McCue;Wed Dec 29 02:38:29 BRST 2010;Sat Jun 25 16:19:50 BRT 2011;178;
+
+github-archive;jquery-relatize_date;closed;Brandon Keepers;Mon Mar 23 20:51:29 BRT 2015;Tue Mar 24 10:06:29 BRT 2015;0;
+github-archive;jquery-relatize_date;closed;Mark Ferlatte;Mon May 14 16:46:08 BRT 2012;Tue Mar 24 10:07:54 BRT 2015;1043;
+github-archive;jquery-relatize_date;closed;Tokuhiro Matsuno;Tue Nov 29 17:37:35 BRST 2011;Sat Nov 22 16:09:16 BRST 2014;1088;
+github-archive;jquery-relatize_date;closed;Nick Berardi;Mon May 23 14:22:35 BRT 2011;Tue Mar 24 10:08:08 BRT 2015;1400;
+github-archive;jquery-relatize_date;closed;Jérémy Lecour;Tue Apr 05 09:44:54 BRT 2011;Tue Mar 24 10:08:16 BRT 2015;1449;
+
+
+
+
+
+carlosbrando;autotest-notification;closed;Pavel Argentov;Wed Jan 25 06:49:41 BRST 2012;Wed Jan 25 09:18:09 BRST 2012;0;
+carlosbrando;autotest-notification;closed;Pavel Argentov;Tue Jan 24 10:24:01 BRST 2012;Tue Jan 24 10:25:49 BRST 2012;0;
+carlosbrando;autotest-notification;closed;Pavel Argentov;Tue Jan 24 07:59:26 BRST 2012;Tue Jan 24 09:11:22 BRST 2012;0;
+carlosbrando;autotest-notification;open;Carlos Diógenes;Wed Jan 04 10:07:37 BRST 2012;null;1381;
+carlosbrando;autotest-notification;open;Carlos Diógenes;Wed Jan 04 08:54:55 BRST 2012;null;1381;
+carlosbrando;autotest-notification;closed;null;Fri Aug 19 20:50:17 BRT 2011;Fri Aug 19 22:02:12 BRT 2011;0;
+carlosbrando;autotest-notification;closed;Rodrigo Urubatan Ferreira Jardim;Fri Aug 19 10:19:04 BRT 2011;Fri Aug 19 14:38:07 BRT 2011;0;
+carlosbrando;autotest-notification;closed;Georgeo Rocco;Mon Aug 15 00:22:38 BRT 2011;Fri Aug 19 14:41:59 BRT 2011;4;
+carlosbrando;autotest-notification;closed;null;Sun Aug 14 04:51:17 BRT 2011;Fri Aug 19 20:50:28 BRT 2011;5;
+carlosbrando;autotest-notification;closed;null;Sat Jun 11 10:47:42 BRT 2011;Fri Aug 19 14:43:16 BRT 2011;69;
+carlosbrando;autotest-notification;closed;Patrick Aikens;Mon Apr 25 19:12:32 BRT 2011;Mon Apr 25 21:05:14 BRT 2011;0;
+carlosbrando;autotest-notification;closed;Patrick Aikens;Mon Apr 25 18:36:37 BRT 2011;Mon Apr 25 19:15:45 BRT 2011;0;
+carlosbrando;autotest-notification;open;Patrick Aikens;Mon Apr 25 18:20:14 BRT 2011;null;1635;
+carlosbrando;autotest-notification;closed;null;Sat Mar 05 08:55:13 BRT 2011;Sat Mar 05 09:32:10 BRT 2011;0;
+carlosbrando;autotest-notification;closed;Micah Elliott;Mon Dec 06 20:04:01 BRST 2010;Wed Dec 22 18:56:56 BRST 2010;15;
+carlosbrando;autotest-notification;open;Felix Hanley;Thu Nov 04 00:58:28 BRST 2010;null;1807;
+carlosbrando;autotest-notification;closed;Marcello Rocha;Fri Oct 08 12:23:50 BRT 2010;Wed Dec 22 19:18:18 BRST 2010;75;
+carlosbrando;autotest-notification;open;null;Wed Aug 04 07:26:19 BRT 2010;null;1899;
+carlosbrando;autotest-notification;open;Johannes Barre;Sat Jul 31 18:08:38 BRT 2010;null;1903;
+carlosbrando;autotest-notification;closed;Niels Meersschaert;Mon Apr 05 18:00:44 BRT 2010;Tue Apr 06 00:43:20 BRT 2010;0;
+carlosbrando;autotest-notification;closed;Michael Grosser;Thu Feb 25 17:46:51 BRT 2010;Thu Feb 25 23:03:20 BRT 2010;0;
+
+
+
+psychs;cocoaoniguruma;closed;David Catteeuw;Sat Apr 04 09:53:48 BRT 2015;Sat Apr 04 12:05:15 BRT 2015;0;
+psychs;cocoaoniguruma;open;Michael Schmatz;Wed Aug 13 21:11:56 BRT 2014;null;428;
+psychs;cocoaoniguruma;closed;William Kent;Sat Apr 05 20:47:41 BRT 2014;Sat Apr 05 21:08:30 BRT 2014;0;
+psychs;cocoaoniguruma;open;Francis Chong;Sun Jan 26 10:11:26 BRST 2014;null;628;
+psychs;cocoaoniguruma;closed;Akihiro Noguchi;Tue Apr 03 06:29:07 BRT 2012;Tue Apr 03 11:43:46 BRT 2012;0;
+psychs;cocoaoniguruma;closed;Brian Olsen;Thu Aug 11 20:55:41 BRT 2011;Thu Aug 11 20:58:35 BRT 2011;0;
+psychs;cocoaoniguruma;closed;Michael Tindal;Thu May 19 18:02:28 BRT 2011;Thu May 19 18:10:45 BRT 2011;0;
+psychs;cocoaoniguruma;closed;Michael Tindal;Fri May 06 14:49:20 BRT 2011;Sat May 07 05:08:59 BRT 2011;0;
+psychs;cocoaoniguruma;closed;Brian Olsen;Wed Jan 19 00:07:39 BRST 2011;Tue Feb 08 00:08:38 BRST 2011;20;
+
+
+
+
+naoya;mapreduce-lite;open;Gun.io Robot;Thu Oct 27 03:14:18 BRST 2011;null;1450;
+
+
+
+
+mislav;dotfiles;open;Caleb Maclennan;Fri Jul 31 04:02:50 BRT 2015;null;77;
+mislav;dotfiles;closed;Tom Zellman;Mon Mar 30 12:18:50 BRT 2015;Mon Mar 30 12:53:21 BRT 2015;0;
+mislav;dotfiles;open;null;Sat Sep 06 18:20:08 BRT 2014;null;405;
+mislav;dotfiles;open;Blie Arkansol;Wed Aug 06 23:14:19 BRT 2014;null;435;
+mislav;dotfiles;closed;JP Richardson;Mon Mar 10 10:25:57 BRT 2014;Tue Mar 11 05:54:14 BRT 2014;0;
+mislav;dotfiles;closed;Timothy Reen;Sun Feb 02 11:24:09 BRST 2014;Sun Feb 02 11:37:30 BRST 2014;0;
+mislav;dotfiles;closed;Sebastian Gräßl;Sun Jan 05 09:35:12 BRST 2014;Mon Jan 06 16:49:17 BRST 2014;1;
+mislav;dotfiles;closed;Harry Lee;Thu Dec 19 07:58:30 BRST 2013;Thu Dec 19 10:05:50 BRST 2013;0;
+mislav;dotfiles;closed;Greg Stallings;Mon Nov 18 15:31:00 BRST 2013;Thu Dec 19 10:15:01 BRST 2013;30;
+mislav;dotfiles;closed;null;Fri Aug 09 14:13:10 BRT 2013;Wed Aug 14 19:02:36 BRT 2013;5;
+mislav;dotfiles;closed;Hrvoje Šimi?;Tue Jun 04 17:33:05 BRT 2013;Fri Jun 07 11:36:02 BRT 2013;2;
+
+
+penso;actionmailer_x509;open;null;Wed Jun 29 17:57:35 BRT 2011;null;1570;
+penso;actionmailer_x509;open;null;Wed Jun 29 05:31:58 BRT 2011;null;1570;
+
+alx;pressmark;closed;Shelby DeNike;Thu Dec 23 17:06:15 BRST 2010;Fri Dec 24 20:20:00 BRST 2010;1;
+
+duritong;puppet-munin;closed;Marco Nenciarini;Thu Apr 16 04:52:06 BRT 2015;Sun Apr 19 11:07:23 BRT 2015;3;
+duritong;puppet-munin;closed;Jasper Lievisse Adriaanse;Sat Sep 13 12:15:57 BRT 2014;Fri Jan 09 11:56:16 BRST 2015;117;
+duritong;puppet-munin;closed;Julien Pivotto;Tue Sep 02 03:04:36 BRT 2014;Wed Sep 03 04:23:02 BRT 2014;1;
+duritong;puppet-munin;closed;Deleted user;Wed Aug 20 11:06:47 BRT 2014;Sat Sep 13 00:35:29 BRT 2014;23;
+duritong;puppet-munin;closed;Jasper Lievisse Adriaanse;Wed Aug 13 05:41:50 BRT 2014;Sat Sep 13 00:12:28 BRT 2014;30;
+duritong;puppet-munin;closed;Jasper Lievisse Adriaanse;Wed Aug 13 05:37:52 BRT 2014;Sat Sep 13 00:18:52 BRT 2014;30;
+duritong;puppet-munin;closed;Jasper Lievisse Adriaanse;Wed Aug 13 05:33:11 BRT 2014;Wed Sep 03 05:06:45 BRT 2014;20;
+duritong;puppet-munin;closed;Jasper Lievisse Adriaanse;Wed Aug 13 05:29:31 BRT 2014;Sat Sep 13 00:11:08 BRT 2014;30;
+duritong;puppet-munin;closed;Jasper Lievisse Adriaanse;Sun Aug 10 17:08:37 BRT 2014;Tue Aug 12 04:40:00 BRT 2014;1;
+duritong;puppet-munin;closed;usox;Sat Jun 28 07:04:33 BRT 2014;Fri Aug 08 10:03:24 BRT 2014;41;
+duritong;puppet-munin;open;Gaetan Allart;Fri Jun 27 05:15:26 BRT 2014;null;476;
+duritong;puppet-munin;closed;Christian Hofstaedtler;Thu Jun 12 19:27:19 BRT 2014;Fri Jun 13 07:34:17 BRT 2014;0;
+duritong;puppet-munin;closed;Antonio Verni;Wed Jun 11 19:46:02 BRT 2014;Fri Jun 13 06:24:17 BRT 2014;1;
+duritong;puppet-munin;closed;null;Tue May 20 08:50:47 BRT 2014;Sat Sep 13 00:36:13 BRT 2014;115;
+duritong;puppet-munin;closed;Marco Nenciarini;Thu Mar 20 07:52:10 BRT 2014;Thu Mar 20 10:09:38 BRT 2014;0;
+duritong;puppet-munin;closed;Marco Nenciarini;Mon Feb 17 13:18:47 BRT 2014;Fri Mar 14 06:01:38 BRT 2014;24;
+duritong;puppet-munin;closed;Marco Nenciarini;Mon Feb 17 06:59:43 BRT 2014;Mon Feb 17 17:25:51 BRT 2014;0;
+duritong;puppet-munin;closed;Marco Nenciarini;Fri Feb 14 20:10:46 BRST 2014;Mon Feb 17 17:28:59 BRT 2014;2;
+duritong;puppet-munin;closed;null;Fri Jan 31 06:59:22 BRST 2014;Mon Feb 03 11:59:28 BRST 2014;3;
+duritong;puppet-munin;closed;Ewoud Kohl van Wijngaarden;Wed Nov 20 11:36:22 BRST 2013;Sat Jan 25 12:22:19 BRST 2014;66;
+duritong;puppet-munin;closed;Ewoud Kohl van Wijngaarden;Wed Nov 20 11:17:04 BRST 2013;Sat Jan 25 12:21:34 BRST 2014;66;
+duritong;puppet-munin;closed;Tomas Barton;Mon Nov 18 19:29:42 BRST 2013;Tue Nov 19 05:37:18 BRST 2013;0;
+duritong;puppet-munin;closed;Davy Verstappen;Sun Nov 03 09:24:54 BRST 2013;Sun Nov 03 15:33:40 BRST 2013;0;
+duritong;puppet-munin;closed;Ewoud Kohl van Wijngaarden;Fri Oct 25 10:56:14 BRST 2013;Sun Nov 03 15:31:29 BRST 2013;9;
+duritong;puppet-munin;closed;Tomas Barton;Mon Oct 14 06:26:02 BRT 2013;Tue Oct 15 05:06:52 BRT 2013;0;
+duritong;puppet-munin;closed;Tomas Barton;Sun Oct 13 15:59:44 BRT 2013;Mon Oct 14 03:52:12 BRT 2013;0;
+duritong;puppet-munin;closed;Kondrashov Ilia;Sat Oct 05 14:04:25 BRT 2013;Sat Oct 05 16:57:36 BRT 2013;0;
+duritong;puppet-munin;closed;Kondrashov Ilia;Sat Oct 05 14:01:01 BRT 2013;Sun Oct 06 15:43:47 BRT 2013;1;
+duritong;puppet-munin;closed;Tomas Barton;Fri Sep 27 12:22:59 BRT 2013;Sun Sep 29 11:02:39 BRT 2013;1;
+duritong;puppet-munin;closed;Tomas Barton;Thu Sep 19 06:37:51 BRT 2013;Sun Sep 29 11:17:16 BRT 2013;10;
+duritong;puppet-munin;closed;Tomas Barton;Sat Sep 07 05:25:26 BRT 2013;Thu Sep 19 06:25:41 BRT 2013;12;
+duritong;puppet-munin;closed;Tomas Barton;Tue Sep 03 18:42:48 BRT 2013;Thu Sep 05 11:18:03 BRT 2013;1;
+duritong;puppet-munin;closed;Tomas Barton;Wed Aug 21 12:39:55 BRT 2013;Sun Aug 25 08:04:28 BRT 2013;3;
+duritong;puppet-munin;closed;Eric Badger;Mon Aug 19 20:26:46 BRT 2013;Tue Aug 20 05:43:06 BRT 2013;0;
+duritong;puppet-munin;closed;Kamil Winczek;Wed Jul 17 12:37:42 BRT 2013;Wed Jul 17 13:57:53 BRT 2013;0;
+duritong;puppet-munin;closed;null;Mon Jun 24 11:22:22 BRT 2013;Sun Jun 30 17:22:27 BRT 2013;6;
+duritong;puppet-munin;closed;Ewoud Kohl van Wijngaarden;Mon Jun 03 09:26:13 BRT 2013;Mon Jun 03 17:40:40 BRT 2013;0;
+duritong;puppet-munin;closed;Ewoud Kohl van Wijngaarden;Mon May 06 13:15:11 BRT 2013;Sun Aug 25 08:01:08 BRT 2013;110;
+duritong;puppet-munin;closed;Ewoud Kohl van Wijngaarden;Mon May 06 12:31:55 BRT 2013;Mon May 27 17:57:59 BRT 2013;21;
+duritong;puppet-munin;closed;Sander Hoentjen;Mon Mar 25 15:08:15 BRT 2013;Mon Mar 25 15:45:51 BRT 2013;0;
+duritong;puppet-munin;closed;Sander Hoentjen;Mon Mar 25 10:49:44 BRT 2013;Mon Mar 25 14:13:01 BRT 2013;0;
+duritong;puppet-munin;closed;Sander Hoentjen;Mon Mar 18 11:02:34 BRT 2013;Mon Mar 18 11:35:57 BRT 2013;0;
+duritong;puppet-munin;closed;Markus Heberling;Thu Jan 24 17:58:53 BRST 2013;Fri Jan 25 07:43:48 BRST 2013;0;
+duritong;puppet-munin;closed;Markus Heberling;Thu Jan 24 17:44:00 BRST 2013;Fri Jan 25 07:58:40 BRST 2013;0;
+duritong;puppet-munin;closed;Evan Stachowiak;Sat Dec 15 23:08:07 BRST 2012;Sat Jan 19 10:06:00 BRST 2013;34;
+duritong;puppet-munin;closed;Christian G. Warden;Fri Feb 03 00:22:16 BRST 2012;Tue Apr 10 09:57:07 BRT 2012;67;
+duritong;puppet-munin;closed;Christian G. Warden;Fri Feb 03 00:16:55 BRST 2012;Tue Apr 10 09:59:20 BRT 2012;67;
+duritong;puppet-munin;closed;Christian G. Warden;Fri Feb 03 00:11:28 BRST 2012;Tue Apr 10 09:47:19 BRT 2012;67;
+duritong;puppet-munin;closed;Benjamin Kubota;Tue May 31 06:25:53 BRT 2011;Sun Jun 05 10:32:56 BRT 2011;5;
+
+jkriss;monomic;closed;Jono Brandel;Thu Aug 05 05:24:54 BRT 2010;Thu Aug 05 09:55:07 BRT 2010;0;
+
+
+
+
+
+ctagg;flickr;closed;Stephen Tiberius Schor;Sun Dec 26 16:32:55 BRST 2010;Fri Dec 31 16:37:50 BRST 2010;5;
+ctagg;flickr;closed;David Lynam;Tue Jun 16 08:01:49 BRT 2009;Tue Jun 16 08:38:34 BRT 2009;0;
+ctagg;flickr;closed;Chris Taggart;Tue May 12 05:47:11 BRT 2009;Sat Jan 01 00:39:38 BRST 2011;598;
+
+rmm5t;dotfiles;closed;null;Fri Mar 20 20:40:00 BRT 2015;Fri Mar 20 21:26:33 BRT 2015;0;
+rmm5t;dotfiles;closed;John Turek;Tue Apr 08 15:31:20 BRT 2014;Tue Apr 08 18:04:46 BRT 2014;0;
+rmm5t;dotfiles;closed;Ryan McGeary;Sun Jan 20 13:32:24 BRST 2013;Sun Aug 04 15:20:43 BRT 2013;196;
+rmm5t;dotfiles;closed;Ryan McGeary;Sun Jan 20 13:31:16 BRST 2013;Sun Aug 04 15:22:05 BRT 2013;196;
+rmm5t;dotfiles;closed;George Armhold;Sat Oct 13 09:55:57 BRT 2012;Sun Jan 20 13:30:31 BRST 2013;99;
+rmm5t;dotfiles;closed;foyo23;Wed Mar 07 11:15:56 BRT 2012;Wed Mar 07 12:37:38 BRT 2012;0;
+
+
+
+
+puls;tournament-director;open;Jonah Greenthal;Sun Jun 01 14:57:14 BRT 2014;null;502;
+puls;tournament-director;open;Jonah Greenthal;Wed May 14 15:55:51 BRT 2014;null;520;
+puls;tournament-director;closed;Jonah Greenthal;Wed May 14 15:53:55 BRT 2014;Sun Jun 01 15:42:03 BRT 2014;17;
+puls;tournament-director;open;Jonah Greenthal;Wed Apr 23 13:01:23 BRT 2014;null;541;
+puls;tournament-director;open;Jonah Greenthal;Wed Apr 23 00:42:45 BRT 2014;null;541;
+puls;tournament-director;open;Jonah Greenthal;Wed Apr 23 00:41:23 BRT 2014;null;541;
+puls;tournament-director;open;Jonah Greenthal;Wed Apr 23 00:40:41 BRT 2014;null;541;
+puls;tournament-director;open;Jonah Greenthal;Wed Apr 23 00:39:53 BRT 2014;null;541;
+puls;tournament-director;open;Jonah Greenthal;Wed Apr 23 00:31:22 BRT 2014;null;541;
+puls;tournament-director;open;Jonah Greenthal;Wed Apr 23 00:29:57 BRT 2014;null;541;
+puls;tournament-director;open;Jonah Greenthal;Wed Apr 23 00:28:56 BRT 2014;null;541;
+puls;tournament-director;open;Jonah Greenthal;Wed Apr 23 00:27:54 BRT 2014;null;541;
+puls;tournament-director;open;Jonah Greenthal;Wed Apr 23 00:26:54 BRT 2014;null;541;
+puls;tournament-director;closed;Jonah Greenthal;Wed Apr 23 00:25:49 BRT 2014;Fri May 09 21:45:13 BRT 2014;16;
+puls;tournament-director;closed;Jonah Greenthal;Wed Apr 23 00:25:13 BRT 2014;Fri May 09 21:45:07 BRT 2014;16;
+puls;tournament-director;closed;Jonah Greenthal;Wed Apr 23 00:25:05 BRT 2014;Fri May 09 21:45:01 BRT 2014;16;
+puls;tournament-director;open;Jonah Greenthal;Wed Apr 23 00:24:56 BRT 2014;null;541;
+puls;tournament-director;closed;Cannon Matthews;Sat Jul 09 00:36:19 BRT 2011;Wed Jul 13 17:51:58 BRT 2011;4;
+puls;tournament-director;open;Jim Puls;Sun May 30 10:19:20 BRT 2010;null;1965;
+puls;tournament-director;open;Jim Puls;Fri May 28 22:00:05 BRT 2010;null;1966;
+puls;tournament-director;open;Jim Puls;Fri May 28 21:39:11 BRT 2010;null;1966;
+puls;tournament-director;open;Jim Puls;Fri May 28 21:39:04 BRT 2010;null;1966;
+puls;tournament-director;open;Jim Puls;Fri May 28 21:38:57 BRT 2010;null;1966;
+puls;tournament-director;open;Jim Puls;Fri May 28 21:04:16 BRT 2010;null;1967;
+puls;tournament-director;open;Jim Puls;Fri May 28 21:04:09 BRT 2010;null;1967;
+
+mk;reports_as_sparkline;closed;Marco Otte-Witte;Sat Mar 06 09:16:30 BRT 2010;Wed Mar 24 12:10:09 BRT 2010;18;
+
+
+marc-lorber;oregano;open;null;Sat Mar 22 05:11:40 BRT 2014;null;573;
+marc-lorber;oregano;open;José San Juan;Wed Nov 06 16:51:23 BRST 2013;null;709;
+marc-lorber;oregano;open;null;Sun Apr 07 19:31:58 BRT 2013;null;922;
+marc-lorber;oregano;open;null;Sun Apr 07 19:28:41 BRT 2013;null;922;
+marc-lorber;oregano;closed;NightmaresSeller;Sun Feb 24 10:30:35 BRT 2013;Sun Feb 24 10:32:14 BRT 2013;0;
+marc-lorber;oregano;open;Bernhard Schuster;Sun Feb 03 06:22:55 BRST 2013;null;985;
+marc-lorber;oregano;open;Alexander von Gluck IV;Tue Jan 22 18:52:57 BRST 2013;null;997;
+marc-lorber;oregano;open;Bernhard Schuster;Sun Jan 20 20:01:09 BRST 2013;null;999;
+marc-lorber;oregano;open;Johann Glaser;Wed Jan 16 20:37:08 BRST 2013;null;1003;
+marc-lorber;oregano;open;Johann Glaser;Wed Jan 16 20:33:00 BRST 2013;null;1003;
+marc-lorber;oregano;open;Johann Glaser;Wed Jan 16 20:29:25 BRST 2013;null;1003;
+marc-lorber;oregano;open;Johann Glaser;Wed Jan 16 20:24:15 BRST 2013;null;1003;
+marc-lorber;oregano;open;Johann Glaser;Wed Jan 16 20:19:25 BRST 2013;null;1003;
+marc-lorber;oregano;open;Johann Glaser;Wed Jan 16 20:17:45 BRST 2013;null;1003;
+marc-lorber;oregano;open;Johann Glaser;Wed Jan 16 20:13:39 BRST 2013;null;1003;
+marc-lorber;oregano;open;Johann Glaser;Wed Jan 16 20:11:15 BRST 2013;null;1003;
+marc-lorber;oregano;open;Johann Glaser;Wed Jan 16 20:10:26 BRST 2013;null;1003;
+marc-lorber;oregano;open;Johann Glaser;Wed Jan 16 20:09:07 BRST 2013;null;1003;
+marc-lorber;oregano;open;Johann Glaser;Wed Jan 16 20:08:04 BRST 2013;null;1003;
+marc-lorber;oregano;open;Ptolom;Wed Dec 05 14:30:44 BRST 2012;null;1045;
+marc-lorber;oregano;open;Andrzej;Mon Jan 16 14:32:54 BRST 2012;null;1369;
+
+
+
+
+
+TekNoLogic;teknicolor;closed;null;Tue Dec 07 20:09:28 BRST 2010;Tue Dec 07 20:31:02 BRST 2010;0;
+TekNoLogic;teknicolor;closed;null;Sun Jun 27 01:35:40 BRT 2010;Sun Jun 27 04:47:39 BRT 2010;0;
+TekNoLogic;teknicolor;closed;null;Tue May 18 23:35:27 BRT 2010;Wed May 19 09:29:02 BRT 2010;0;
+TekNoLogic;teknicolor;closed;Michael Knight;Mon Dec 28 15:14:43 BRST 2009;Sat Apr 16 19:36:31 BRT 2011;474;
+TekNoLogic;teknicolor;closed;null;Mon Aug 17 11:41:30 BRT 2009;Thu Aug 20 22:31:43 BRT 2009;3;
+TekNoLogic;teknicolor;closed;Benjamin Staneck;Sat Apr 18 20:19:57 BRT 2009;Wed Jun 24 18:17:43 BRT 2009;66;
+
+
+
+
+
+markcatley;responds_to_parent;closed;Eric Chapweske;Thu Jun 27 01:44:13 BRT 2013;Sat Sep 14 18:51:09 BRT 2013;79;
+markcatley;responds_to_parent;closed;null;Thu May 16 18:39:14 BRT 2013;Thu May 16 19:09:16 BRT 2013;0;
+markcatley;responds_to_parent;closed;Michael Grosser;Thu Aug 09 18:13:58 BRT 2012;Tue May 07 00:13:55 BRT 2013;270;
+markcatley;responds_to_parent;closed;Michael Grosser;Thu Aug 09 17:19:59 BRT 2012;Thu Aug 09 18:50:14 BRT 2012;0;
+markcatley;responds_to_parent;closed;Michael Grosser;Thu Aug 09 17:19:26 BRT 2012;Sun Sep 15 00:46:59 BRT 2013;401;
+markcatley;responds_to_parent;open;Jason Rust;Thu Mar 01 15:57:07 BRT 2012;null;1324;
+markcatley;responds_to_parent;open;chris;Sat May 01 02:33:03 BRT 2010;null;1994;
+
+
+technomancy;dotfiles;closed;Deleted user;Tue Apr 30 17:00:27 BRT 2013;Tue Apr 30 17:39:56 BRT 2013;0;
+
+
+zerowidth;iphone_data;closed;Prateek Chauhan;Thu Aug 22 00:51:18 BRT 2013;Fri Aug 23 13:02:01 BRT 2013;1;
+
+gerhard;glz_custom_fields;open;null;Thu Aug 01 17:44:41 BRT 2013;null;806;
+gerhard;glz_custom_fields;closed;null;Tue Jan 22 11:39:26 BRST 2013;Fri Jul 26 21:57:04 BRT 2013;185;
+gerhard;glz_custom_fields;closed;Dale Chapman;Fri Oct 12 13:08:16 BRT 2012;Fri Jul 26 21:57:33 BRT 2013;287;
+gerhard;glz_custom_fields;closed;Phil Wareham;Tue Sep 18 08:36:09 BRT 2012;Tue Sep 18 18:58:13 BRT 2012;0;
+gerhard;glz_custom_fields;closed;null;Mon Sep 17 20:41:40 BRT 2012;Sat Jul 27 08:42:06 BRT 2013;312;
+gerhard;glz_custom_fields;closed;null;Sun Nov 29 10:33:16 BRST 2009;Sun Nov 29 17:03:16 BRST 2009;0;
+
+
+

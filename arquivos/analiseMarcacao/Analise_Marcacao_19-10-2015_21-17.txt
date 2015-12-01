@@ -1,0 +1,495 @@
+
+________________||||Repositório: ttime Cont: 3725||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: flowdle Cont: 3726||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: thinking-sphinx Cont: 3727||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: pioneer-robot-remote-controller Cont: 3728||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: primehosting Cont: 3729||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: scripts Cont: 3730||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: imdb Cont: 3731||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: ggplot2 Cont: 3732||||_________________________
+Listas de Labels:
+Tipo MarcaçãoLABELNome Label: DOC ; Quantidade: 12
+Tipo MarcaçãoLABELNome Label: FEATURE ; Quantidade: 2
+Tipo MarcaçãoLABELNome Label: ON HOLD ; Quantidade: 2
+Tipo MarcaçãoLABELNome Label: BUG ; Quantidade: 124
+Tipo MarcaçãoLABELNome Label: WEB ; Quantidade: 6
+Listas de Milestones:
+Nome Milestone: v1.1.0 ; Quantidade: 8
+Nome Milestone: v1.0.0 ; Quantidade: 5
+Nome Milestone: 0.9.3.1 ; Quantidade: 9
+Nome Milestone: 0.10 ; Quantidade: 18
+Nome Milestone: 0.9.3 ; Quantidade: 46
+Nome Milestone: new-feature ; Quantidade: 54
+Nome Milestone: 0.9.2 ; Quantidade: 56
+Nome Milestone: bug-fix ; Quantidade: 17
+Nome Milestone: major-change ; Quantidade: 5
+Nome Milestone: 0.9.1 ; Quantidade: 46
+Nome Milestone: blue-sky ; Quantidade: 13
+Nome Milestone: 0.9 ; Quantidade: 88
+
+________________||||Repositório: tdigester Cont: 3733||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: p2news Cont: 3734||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: mongrel Cont: 3735||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: rextral Cont: 3736||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: sig Cont: 3737||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: save_or_raise Cont: 3738||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: ruby-doctest-tmbundle Cont: 3739||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: pcb-plugins Cont: 3740||||_________________________
+Listas de Labels:
+Tipo MarcaçãoLABELNome Label: BUG ; Quantidade: 2
+Listas de Milestones:
+Nome Milestone: 0.0.3 ; Quantidade: 2
+
+________________||||Repositório: dotfiles Cont: 3741||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: han-converter Cont: 3742||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: http_log_reader Cont: 3743||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: pyvmg Cont: 3744||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: cups-usbbackend Cont: 3745||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: blog Cont: 3746||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: pars Cont: 3747||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: siffd Cont: 3748||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: nagoro Cont: 3749||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: ri_outputter Cont: 3750||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: atmelprojects Cont: 3751||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: intel Cont: 3752||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: bf Cont: 3753||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: puppet-virtual Cont: 3754||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: cran2deb Cont: 3755||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: iverilog Cont: 3756||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: active_merchant Cont: 3757||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: scaffold-resource-matrix Cont: 3758||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: sqlpilot Cont: 3759||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: cheepcheep Cont: 3760||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: rubigraph Cont: 3761||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: validates_existence Cont: 3762||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: php-mvc-router Cont: 3763||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: planet Cont: 3764||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: tillsammans Cont: 3765||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: test-more-behaviours Cont: 3766||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: livepipe-ui Cont: 3767||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: communityengine Cont: 3768||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: liberty_alabama Cont: 3769||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: render_with Cont: 3770||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: markdown_fu Cont: 3771||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: backgroundrb_merb Cont: 3772||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: bruse Cont: 3773||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: cocoa-programming-with-nu Cont: 3774||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: primehosting Cont: 3775||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: rolling_with_rails_tutorial Cont: 3776||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: agree2-client Cont: 3777||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: entropy-oscillator Cont: 3778||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: blind-chameleon Cont: 3779||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: merb-core Cont: 3780||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: rolling_with_rails_tutorial Cont: 3781||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: rbot-plugins Cont: 3782||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: el4r Cont: 3783||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: myminiblog Cont: 3784||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: arora Cont: 3785||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: freshbooks.rb Cont: 3786||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: github-gem Cont: 3787||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: mofo Cont: 3788||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: github-tmbundle Cont: 3789||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: teldra_prime Cont: 3790||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: puppet Cont: 3791||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: func Cont: 3792||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: curator Cont: 3793||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: sinatra Cont: 3794||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: dotfiles Cont: 3795||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: powncefs Cont: 3796||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: nanitabe Cont: 3797||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: ostream Cont: 3798||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: bsdtrafstats Cont: 3799||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: git-support-vim Cont: 3800||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: config-files Cont: 3801||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: kulu Cont: 3802||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: merb-more Cont: 3803||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: muxtape-snatcher Cont: 3804||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: raising_finders Cont: 3805||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: valar Cont: 3806||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: webby Cont: 3807||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: github-tmbundle Cont: 3808||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: jquery-round-corners Cont: 3809||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: kittokittokitto Cont: 3810||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: scriptaculous Cont: 3811||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: rex Cont: 3812||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: servicegen Cont: 3813||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: merb-todolist Cont: 3814||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: swiff-prototype Cont: 3815||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: blooxm Cont: 3816||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: bash-completion-extras Cont: 3817||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: backpack-journal Cont: 3818||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: simpleattractor Cont: 3819||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: output_catcher Cont: 3820||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: bind-dlz-on-rails Cont: 3821||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: ruby_kml Cont: 3822||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: arthurmcneil Cont: 3823||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: test Cont: 3824||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: acts_as_confirmable Cont: 3825||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: kwe_generator Cont: 3826||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: zencart-1.3.8-danish Cont: 3827||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: twilight-emacs Cont: 3828||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: joeh-template Cont: 3829||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: utilities Cont: 3830||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: hibernate-memcached Cont: 3831||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: csv-to-sql Cont: 3832||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: arora Cont: 3833||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: mephisto-erb-templates-plugin Cont: 3834||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: mephisto-haml-templates-plugin Cont: 3835||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: caboo.se-sample-app-v3 Cont: 3836||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: nikiwiki Cont: 3837||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: my-app Cont: 3838||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: gedit-rails-extensions Cont: 3839||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: web-thermometer Cont: 3840||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: towers Cont: 3841||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: merb-core Cont: 3842||||_________________________
+Listas de Labels:
+Listas de Milestones:
+
+________________||||Repositório: merb-plugins Cont: 3843||||_________________________
+Listas de Labels:
+Listas de Milestones:

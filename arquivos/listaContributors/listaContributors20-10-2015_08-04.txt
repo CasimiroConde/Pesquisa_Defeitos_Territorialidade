@@ -1,0 +1,26 @@
+
+granth;rake-examine;granth;Grant Hollingworth;User;DEVELOPER;true;false;Tue May 27 21:15:10 BRT 2008
+
+cnk;in_place_editing_unsafe;cnk;Cynthia Kiser;User;DEVELOPER;true;false;Wed May 28 03:09:56 BRT 2008
+cnk;in_place_editing_unsafe;redinger;Christopher;User;DEVELOPER;true;false;Tue Apr 29 16:19:22 BRT 2008
+
+
+timloo0710;spree;schof;Sean Schofield;User;DEVELOPER;true;false;Mon Feb 25 15:23:50 BRT 2008
+
+TekNoLogic;instantiation;tekkub;Tekkub;User;DEVELOPER;true;false;Tue May 27 22:32:13 BRT 2008
+
+petertodd;alternate-pace.elec;petertodd;Peter Todd;User;DEVELOPER;true;false;Sat May 24 16:59:19 BRT 2008
+
+petertodd;alternate-pace.firm;petertodd;Peter Todd;User;DEVELOPER;true;false;Sat May 24 16:59:19 BRT 2008
+
+neshmi;super_simple_cms;neshmi;Matthew Vincent;User;DEVELOPER;true;false;Wed May 28 00:26:32 BRT 2008
+
+texel;diet_hacker;texel;Leigh Caplan;User;DEVELOPER;true;false;Wed May 28 00:22:53 BRT 2008
+
+schacon;asgit;schacon;Scott Chacon;User;DEVELOPER;true;false;Sat Mar 29 12:29:13 BRT 2008
+
+bkyle;emacs;bkyle;Bryan Kyle;User;DEVELOPER;true;false;Wed May 28 12:30:38 BRT 2008
+
+avdi;rack_base_uri;avdi;Avdi Grimm;User;DEVELOPER;true;false;Wed May 28 00:33:25 BRT 2008
+
+aggieben;cl-slimtimer;aggieben;Ben Collins;User;DEVELOPER;true;false;Tue May 27 21:14:00 BRT 2008
