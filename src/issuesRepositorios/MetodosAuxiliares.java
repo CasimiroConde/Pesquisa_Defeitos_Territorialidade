@@ -8,7 +8,6 @@ import marcacoesIssues.MarcacaoIssue;
 import marcacoesIssues.MetodosAuxiliaresLabel;
 import marcacoesIssues.TipoMarcacao;
 
-import org.eclipse.egit.github.core.Issue;
 import org.eclipse.egit.github.core.Label;
 
 public class MetodosAuxiliares {
@@ -72,7 +71,7 @@ public class MetodosAuxiliares {
 					MetodosAuxiliaresLabel.insereMarcacaoMilestoneConsolidado(marcacoes, m);
 			}
 		} catch (NullPointerException n){
-			System.out.println("Análise de Marcação pulada!");
+			System.out.println("Anï¿½lise de Marcaï¿½ï¿½o pulada!");
 		}
 	}
 	

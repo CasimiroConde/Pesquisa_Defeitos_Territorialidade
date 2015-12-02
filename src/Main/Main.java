@@ -1,40 +1,22 @@
 package Main;
 
-import marcacoesIssues.LabelConsolidado;
-import marcacoesIssues.MarcacaoIssue;
-import marcacoesIssues.MetodosAuxiliaresLabel;
-import issuesRepositorios.MetodosAuxiliares;
 import issuesRepositorios.Repositorio;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
-import java.sql.Date;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
 
 import leituraEscrita.ConsolidadorDeArquivos;
 import leituraEscrita.Reader;
-import leituraEscrita.Writer;
-import marcacoesIssues.TipoMarcacao;
+import marcacoesIssues.LabelConsolidado;
 
-import org.eclipse.egit.github.core.Issue;
-import org.eclipse.egit.github.core.Repository;
-import org.eclipse.egit.github.core.RepositoryCommit;
 import org.eclipse.egit.github.core.client.GitHubClient;
 import org.eclipse.egit.github.core.client.NoSuchPageException;
-import org.eclipse.egit.github.core.client.PageIterator;
 import org.eclipse.egit.github.core.client.RequestException;
 import org.eclipse.egit.github.core.service.CommitService;
 import org.eclipse.egit.github.core.service.IssueService;
-import org.eclipse.egit.github.core.service.RepositoryService;
 import org.eclipse.egit.github.core.service.UserService;
 
 
@@ -69,7 +51,7 @@ public class Main {
 		double totalPorcentualIssuesBugFechadosCommitTotal = 0.0;
 		int cont = 0;
 		
-		//Autentica Cliente e inicializa serviços
+		//Autentica Cliente e inicializa serviï¿½os
 		GitHubClient client = new GitHubClient();
 		client.setOAuth2Token("ce6462789d56de70b8f5bee6cce6a6fa95379eb1");
 		CommitService commitService = new CommitService(client);
@@ -79,8 +61,8 @@ public class Main {
 	
 		ArrayList<LabelConsolidado> consolidadoLabel= Reader.geraListaConsolidadaLabels();
 		System.out.println("Consolidado Inicializado!!!");
-		//Inicializa Repositórios
-		//ArrayList<Repositorio> repositorios = Reader.inicializaListaRepositórios(client, TAMANHO_AMOSTRA);
+		//Inicializa Repositï¿½rios
+		//ArrayList<Repositorio> repositorios = Reader.inicializaListaRepositï¿½rios(client, TAMANHO_AMOSTRA);
 		//ArrayList<Repositorio> repositorios = Reader.executeListaSimples(client, TAMANHO_AMOSTRA);
 		//ArrayList<MarcacaoIssue> marcacoes = new ArrayList<MarcacaoIssue>();
 				
@@ -121,7 +103,7 @@ public class Main {
 			//Writer.printConteudoCSV(r, cont);
 			//Writer.printConteudoRepositorioIssuesCSV(r, cont, client);
 			//Writer.printContributors(r);
-			//System.out.println("Encerrado Repositório: " + r.getUserName() +"/" + r.getRepositoryName());
+			//System.out.println("Encerrado Repositï¿½rio: " + r.getUserName() +"/" + r.getRepositoryName());
 			
 			//Writer.printAnaliseMarcacaoIssue(nomeArquivoMarcacaoAnalitico, r, cont);
 			//cont++;
