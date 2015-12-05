@@ -2,12 +2,14 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/Casimiro/Downloads/Ferramentas/Eclipse/json-lib-2.4-jdk15.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Casimiro/Downloads/Ferramentas/Eclipse/org.eclipse.egit.github.core-2.1.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Casimiro/Downloads/Ferramentas/Eclipse/eclipse-jee-luna-R-win32-x86_64/eclipse/lombok.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/gson"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="C:/Users/Casimiro/Downloads/Ferramentas/SonarQube/sonar-runner-dist-2.4/sonar-runner-2.4/lib/sonar-runner-dist-2.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Casimiro/Downloads/Ferramentas/Joda Time/joda-time-2.4-dist/joda-time-2.4/joda-time-2.4.jar"/>
+	<classpathentry kind="lib" path="JARs/gson-2.2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="JARs/gson-2.2.4-sources.jar"/>
+	<classpathentry kind="lib" path="JARs/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="JARs/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="JARs/org.eclipse.egit.github.core-2.1.5.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/lombok.jar"/>
+	<classpathentry kind="lib" path="JARs/joda-time-2.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

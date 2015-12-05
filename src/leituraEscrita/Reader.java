@@ -1,8 +1,5 @@
 package leituraEscrita;
 
-import marcacoesIssues.LabelConsolidado;
-import marcacoesIssues.AgrupadorMarcacao;
-import marcacoesIssues.MarcacaoIssue;
 import issuesRepositorios.MetodosAuxiliares;
 import issuesRepositorios.Repositorio;
 
@@ -17,8 +14,11 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+import marcacoesIssues.AgrupadorMarcacao;
+import marcacoesIssues.LabelConsolidado;
+import marcacoesIssues.MarcacaoIssue;
+
 import org.eclipse.egit.github.core.Repository;
-import org.eclipse.egit.github.core.RepositoryCommit;
 import org.eclipse.egit.github.core.client.GitHubClient;
 import org.eclipse.egit.github.core.client.NoSuchPageException;
 import org.eclipse.egit.github.core.client.PageIterator;
@@ -27,9 +27,6 @@ import org.eclipse.egit.github.core.service.CommitService;
 import org.eclipse.egit.github.core.service.IssueService;
 import org.eclipse.egit.github.core.service.RepositoryService;
 import org.eclipse.egit.github.core.service.UserService;
-
-import com.sun.org.apache.xalan.internal.xsltc.compiler.Parser;
-import com.sun.xml.internal.ws.org.objectweb.asm.Label;
 
 
 public class Reader {
@@ -40,7 +37,7 @@ public class Reader {
 
 	/**
 	 * Executa a leitura do arquivo, testando cada uma das tags para identificar 
-	 * qual o tipo de informação que erá lida.
+	 * qual o tipo de informaï¿½ï¿½o que erï¿½ lida.
 	 * @throws IOException 
 	 * @throws InterruptedException 
 	 */
@@ -123,7 +120,7 @@ public class Reader {
 		return repositorios;
 	}*/
 	
-	public static ArrayList<Repositorio> inicializaListaRepositórios(GitHubClient client, int TAMANAHO_LISTA) throws IOException, RequestException, InterruptedException {
+	public static ArrayList<Repositorio> inicializaListaRepositorios(GitHubClient client, int TAMANAHO_LISTA) throws IOException, RequestException, InterruptedException {
 		ArrayList<Repositorio> repositorios = new ArrayList<Repositorio>();
 		StringBuilder buffer = new StringBuilder();
 		RepositoryService repositoryService = new RepositoryService(client);
@@ -156,23 +153,23 @@ public class Reader {
 							}
 					    	if((cont % 100) == 0){
 					    			Writer.escreveArquivo(criaNome(cont), buffer);
-					    			System.out.println("Repositórios Inicializados! Lista de " + cont);
+					    			System.out.println("Repositï¿½rios Inicializados! Lista de " + cont);
 					    	}
 				    	}						
 		    		}
 													
 			}catch (NoSuchPageException e ){
 				//Writer.criaArquivo(criaNome(cont), buffer);
-				System.out.println("Repositórios Inicializados! Máximo de Requisições Alcançada, tentaremos novamente em 10 min");
+				System.out.println("Repositï¿½rios Inicializados! Mï¿½ximo de Requisiï¿½ï¿½es Alcanï¿½ada, tentaremos novamente em 10 min");
 				Thread.sleep(600 * 1000);
 				//return repositorios;		
 					
 			} catch (RequestException e){
 				if(e.getStatus() == 403){
 					if(e.getMessage().equals("Repository access blocked (403)")){
-						System.out.println("Acesso bloqueado ao Repositório");
+						System.out.println("Acesso bloqueado ao Repositï¿½rio");
 					} else {
-					System.out.println("Repositórios Inicializados! Máximo de Requisições Alcançada, tentaremos novamente em 10 min" + " Erro: " + e.getStatus() + "-" + e.getMessage());
+					System.out.println("Repositï¿½rios Inicializados! Mï¿½ximo de Requisiï¿½ï¿½es Alcanï¿½ada, tentaremos novamente em 10 min" + " Erro: " + e.getStatus() + "-" + e.getMessage());
 					Thread.sleep(600 * 1000);
 					}
 				}
@@ -210,7 +207,7 @@ public class Reader {
 	private static void incluiRepositorio(StringBuilder buffer, ArrayList<Repositorio> repositorios, Repositorio repo)
 			throws IOException, RequestException {
 		repositorios.add(repo);
-		Writer.printRepositórios(buffer, repo);
+		Writer.printRepositorios(buffer, repo);
 	}
 	
 	private static String criaNome(int cont){
