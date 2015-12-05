@@ -8,29 +8,27 @@ datafilter = subset(mydata, Nissue != 0)
 wilcox.test(mydata$IdadeSemana, mydata$Nissue, correct=FALSE)
 
 #BoxPlot
-boxplot(IdadeSemana ~ ContemIssue, data=mydata, main="Semana X Issues",
-		xlab= "Issues", ylab="Semana",ylim=c(350,450))
+boxplot(IdadeSemana ~ ContemIssue, data=mydata, main="Semana X Issues", ylab="Semana",ylim=c(350,450))
 
 #########Tamanho X numero de Issues
 wilcox.test(mydata$KB, mydata$Nissue, correct=FALSE)
 
 #BoxPlot
-boxplot(KB ~ ContemIssue, data=mydata, main="Kilobites X Issues",
-		xlab= "Issues", ylab="Kilobytes",log="y")
+boxplot(KB ~ ContemIssue, data=mydata, main="Kilobites X Issues", ylab="Kilobytes",log="y")
 
 #########Tamanho Equipe X numero de Issues
 wilcox.test(mydata$Contributors, mydata$NIssues, correct=FALSE)
 
 #BoxPlot
 boxplot(ContributorsAjustado ~ ContemIssue, data=mydata, main="ContributorsX Issues",
-		xlab= "Issues", ylab="Contributors", log= "y")
+	ylab="Contributors", log= "y")
 
 #########Numero de Followers X numero de Issues
 wilcox.test(mydata$Followers, mydata$Nissue, correct=FALSE)
 
 #BoxPlot
 boxplot(FollowersAjustado ~ ContemIssue, data=mydata, main="Followers X Issues",
-		xlab= "Issues", ylab="Followers", log = "y")
+	ylab="Followers", log = "y")
 
 
 ############RQ2
