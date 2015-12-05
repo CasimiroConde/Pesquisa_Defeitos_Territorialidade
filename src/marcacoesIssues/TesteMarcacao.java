@@ -1,16 +1,11 @@
 package marcacoesIssues;
 
-import static org.junit.Assert.*;
-import issuesRepositorios.Repositorio;
-
 import java.io.IOException;
 import java.util.ArrayList;
 
 import leituraEscrita.Reader;
-import leituraEscrita.Writer;
 
 import org.eclipse.egit.github.core.client.GitHubClient;
-import org.eclipse.egit.github.core.client.RequestException;
 import org.eclipse.egit.github.core.service.IssueService;
 import org.junit.Test;
 

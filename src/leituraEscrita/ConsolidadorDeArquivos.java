@@ -2,15 +2,14 @@ package leituraEscrita;
 
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Scanner;
 
 public class ConsolidadorDeArquivos {
 
-	final static String PASTA = "C:/Users/Casimiro/git/Territorialidade/arquivos/Arquivos utilização R/futuro/arquivos originais/Marcação/Maquina Facul";
-	final static String CONSOLIDADO = "C:/Users/Casimiro/git/Territorialidade/arquivos/Arquivos utilização R/futuro/Consolidado/MarcacaoConsolidado.txt";
+	final static String PASTA = "C:/Users/Casimiro/git/Territorialidade/arquivos/Arquivos utilizaï¿½ï¿½o R/futuro/arquivos originais/Marcaï¿½ï¿½o/Maquina Facul";
+	final static String CONSOLIDADO = "C:/Users/Casimiro/git/Territorialidade/arquivos/Arquivos utilizaï¿½ï¿½o R/futuro/Consolidado/MarcacaoConsolidado.txt";
 	
 	public static void consolidador() throws IOException{
 		
@@ -51,9 +50,6 @@ public class ConsolidadorDeArquivos {
 	}
 
 	private static void incluiLocArquivoConsolidado(int loc) {
-		// TODO Auto-generated method stub
-		
+		// TODO Auto-generated method stub	
 	}
-	
-	
 }

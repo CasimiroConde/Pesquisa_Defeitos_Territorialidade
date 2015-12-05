@@ -4,7 +4,6 @@ import java.util.Date;
 
 import lombok.Data;
 
-import org.eclipse.egit.github.core.Contributor;
 import org.eclipse.egit.github.core.User;
 
 public @Data class Contributors {
@@ -13,7 +12,7 @@ public @Data class Contributors {
 	private String login;
 	private TipoContributor tipoAjustado;
 	private String type;
-	private Date dataPrimeiraInteração;
+	private Date dataPrimeiraInteracao;
 	private boolean isDeveloper;
 	private boolean isReporter;
 	
@@ -22,18 +21,18 @@ public @Data class Contributors {
 		this.login = user.getLogin();
 		this.type = user.getType();
 		this.tipoAjustado = null;
-		this.dataPrimeiraInteração = null;
+		this.dataPrimeiraInteracao = null;
 		this.isDeveloper = false;
 		this.isReporter = false;
 	}
 	
-	public void incluiDataPrimeiraInteração(Date data, TipoContributor tipo){
-		if(this.dataPrimeiraInteração == null){
-			this.dataPrimeiraInteração = data;
+	public void incluiDataPrimeiraInteracao(Date data, TipoContributor tipo){
+		if(this.dataPrimeiraInteracao == null){
+			this.dataPrimeiraInteracao = data;
 			this.tipoAjustado = tipo;
 		}
-		else if(this.dataPrimeiraInteração.after(data)){
-			this.dataPrimeiraInteração = data;
+		else if(this.dataPrimeiraInteracao.after(data)){
+			this.dataPrimeiraInteracao = data;
 			this.tipoAjustado = tipo;
 		}
 		

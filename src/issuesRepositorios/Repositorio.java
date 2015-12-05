@@ -1,7 +1,6 @@
 package issuesRepositorios;
 
 import java.io.File;
-import java.io.FileReader;
 import java.io.IOException;
 import java.net.ConnectException;
 import java.util.ArrayList;
@@ -11,18 +10,21 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import org.eclipse.egit.github.core.Commit;
-import org.eclipse.egit.github.core.CommitStatus;
+import leituraEscrita.Reader;
+import leituraEscrita.Writer;
+import lombok.Data;
+import marcacoesIssues.LabelConsolidado;
+import marcacoesIssues.MarcacaoIssue;
+import marcacoesIssues.MetodosAuxiliaresLabel;
+import marcacoesIssues.TipoMarcacao;
+
 import org.eclipse.egit.github.core.Contributor;
 import org.eclipse.egit.github.core.IRepositoryIdProvider;
 import org.eclipse.egit.github.core.Issue;
 import org.eclipse.egit.github.core.Label;
-import org.eclipse.egit.github.core.Language;
-import org.eclipse.egit.github.core.Milestone;
 import org.eclipse.egit.github.core.Repository;
 import org.eclipse.egit.github.core.RepositoryCommit;
 import org.eclipse.egit.github.core.RepositoryId;
-import org.eclipse.egit.github.core.Team;
 import org.eclipse.egit.github.core.User;
 import org.eclipse.egit.github.core.client.GitHubClient;
 import org.eclipse.egit.github.core.client.NoSuchPageException;
@@ -31,23 +33,13 @@ import org.eclipse.egit.github.core.client.RequestException;
 import org.eclipse.egit.github.core.service.CommitService;
 import org.eclipse.egit.github.core.service.IssueService;
 import org.eclipse.egit.github.core.service.RepositoryService;
-import org.eclipse.egit.github.core.service.TeamService;
 import org.eclipse.egit.github.core.service.UserService;
 import org.eclipse.egit.github.core.service.WatcherService;
 import org.joda.time.DateTime;
 import org.joda.time.Days;
 
-import com.sun.xml.internal.bind.v2.runtime.InlineBinaryTransducer;
-
 import Contributors.Contributors;
 import Contributors.TipoContributor;
-import leituraEscrita.Reader;
-import leituraEscrita.Writer;
-import lombok.Data;
-import marcacoesIssues.LabelConsolidado;
-import marcacoesIssues.MarcacaoIssue;
-import marcacoesIssues.TipoMarcacao;
-import marcacoesIssues.MetodosAuxiliaresLabel;
 
 public @Data class Repositorio {
 	
@@ -100,10 +92,10 @@ public @Data class Repositorio {
 				this.coletaIssues(issueService);
 				finished = true;
 			} catch (NoSuchPageException e) {
-				System.out.println("Carregando Repositório!! Repositório: " + this.getRepositoryName());
+				System.out.println("Carregando Repositï¿½rio!! Repositï¿½rio: " + this.getRepositoryName());
 				Thread.sleep(600 * 1000);
 			} catch (RequestException e) {
-				System.out.println("Repositório não acessado!! Repositório: " + this.getRepositoryName());
+				System.out.println("Repositï¿½rio nï¿½o acessado!! Repositï¿½rio: " + this.getRepositoryName());
 				this.setRepositoryName("Vazio");
 				finished = true;
 			}
@@ -152,15 +144,15 @@ public @Data class Repositorio {
 				this.numeroIssues = this.getIssues().size();
 				finished = true;
 			} catch (NoSuchPageException e) {
-				System.out.println("Carregando Repositório!! Aguardando Request Limit!! Repositório: " + this.getRepositoryName() + " Erro: " + e.getMessage());
+				System.out.println("Carregando Repositï¿½rio!! Aguardando Request Limit!! Repositï¿½rio: " + this.getRepositoryName() + " Erro: " + e.getMessage());
 				Thread.sleep(600 * 1000);
 			} catch (RequestException e) {
 				if(e.getStatus() == 403){
-					System.out.println("Carregando Repositório!! Aguardando Request Limit!! Repositório: " + this.getRepositoryName() + " Erro: " + e.getStatus() + "-" + e.getMessage());
+					System.out.println("Carregando Repositï¿½rio!! Aguardando Request Limit!! Repositï¿½rio: " + this.getRepositoryName() + " Erro: " + e.getStatus() + "-" + e.getMessage());
 					Thread.sleep(600 * 1000);
 				} else {
 					this.repositoryName = "Vazio";
-					System.out.println("Repositório não acessado!! Repositório: " + this.getRepositoryName() + " Exception:" + e.getMessage());
+					System.out.println("Repositï¿½rio nï¿½o acessado!! Repositï¿½rio: " + this.getRepositoryName() + " Exception:" + e.getMessage());
 					finished = true;
 				}
 			}
@@ -199,7 +191,7 @@ public @Data class Repositorio {
 		    	}		    
 			    encerrado = true;
 			} catch (NoSuchPageException e ){
-				System.out.println("Coleta Issue!! Repositório: " + this.getRepositoryName());
+				System.out.println("Coleta Issue!! Repositï¿½rio: " + this.getRepositoryName());
 				Thread.sleep(600 * 1000);			
 			}
 		}
@@ -211,7 +203,7 @@ public @Data class Repositorio {
 			User user = userService.getUser(issue.getUser().getLogin());
 			this.incluiContributorAjustado(user, issue.getCreatedAt(), TipoContributor.REPORTER);
 		} catch (NullPointerException n){
-			System.out.println("Usuário não encontrado");
+			System.out.println("Usuï¿½rio nï¿½o encontrado");
 		}
 	}
 	
@@ -231,7 +223,7 @@ public @Data class Repositorio {
 				int indiceUltimoCommit = commitsRepositorio.lastIndexOf(commitsRepositorio);
 
 			} catch (IOException e) {
-				System.out.println("Coletando Colaboradores! Máximo de Requisições Alcançada, tentaremos novamente em 10 min");
+				System.out.println("Coletando Colaboradores! Mï¿½ximo de Requisiï¿½ï¿½es Alcanï¿½ada, tentaremos novamente em 10 min");
 				Thread.sleep(600 * 1000);
 			}
 		}
@@ -306,12 +298,12 @@ public @Data class Repositorio {
 				encerrado = true;
 			} catch (NoSuchPageException n){
 				//Writer.criaArquivo(criaNome(cont), buffer);
-				System.out.println("Defeitos Corrigidos! Máximo de Requisições Alcançada, tentaremos novamente em 10 min");
+				System.out.println("Defeitos Corrigidos! Mï¿½ximo de Requisiï¿½ï¿½es Alcanï¿½ada, tentaremos novamente em 10 min");
 				Thread.sleep(600 * 1000);
 				//return repositorios;		
 			
 			}catch(RequestException r){
-				System.out.println("Defeitos Corrigidos! Máximo de Requisições Alcançada, tentaremos novamente em 10 min");
+				System.out.println("Defeitos Corrigidos! Mï¿½ximo de Requisiï¿½ï¿½es Alcanï¿½ada, tentaremos novamente em 10 min");
 				Thread.sleep(600 * 1000);
 			}
 		}
@@ -334,7 +326,7 @@ public @Data class Repositorio {
 		
 		String nomePasta = this.userName+"-"+this.repositoryName;
 		
-		String caminhoArmazenamento = "C://Users//Casimiro//Documents//Casimiro Conde//Aulas//Mestrado//Seminário de Acompanhamento Discente 2//Territorialidade//Commits//"+nomePasta;
+		String caminhoArmazenamento = "C://Users//Casimiro//Documents//Casimiro Conde//Aulas//Mestrado//Seminï¿½rio de Acompanhamento Discente 2//Territorialidade//Commits//"+nomePasta;
 		
 	
 		File pasta = new File (caminhoArmazenamento);
@@ -377,7 +369,7 @@ public @Data class Repositorio {
 					encerrado = true;
 				} catch (NoSuchPageException n){
 					//Writer.criaArquivo(criaNome(cont), buffer);
-					System.out.println("Defeitos Corrigidos! Máximo de Requisições Alcançada, tentaremos novamente em 10 min");
+					System.out.println("Defeitos Corrigidos! Mï¿½ximo de Requisiï¿½ï¿½es Alcanï¿½ada, tentaremos novamente em 10 min");
 					Thread.sleep(600 * 1000);
 					//return repositorios;		
 				
@@ -401,13 +393,13 @@ public @Data class Repositorio {
 						if(i.getNumber() == Integer.parseInt(numeroIssue))
 							return true;
 					}
-					System.out.println("Não achou Issue: " + numeroIssue);
+					System.out.println("Nï¿½o achou Issue: " + numeroIssue);
 					return false;
 	
 			}
 			return false;
 		} catch (NumberFormatException n){
-			System.out.println("Erro ao buscar o número: " + numeroIssue);
+			System.out.println("Erro ao buscar o nï¿½mero: " + numeroIssue);
 			return false;
 		}
 		
@@ -436,10 +428,10 @@ public @Data class Repositorio {
 							i++;
 						}catch(RequestException r){
 							if(r.getStatus() == 403){
-								System.out.println("Downloado de Commit aguardando Request!! Repositório: " + this.getRepositoryName());
+								System.out.println("Downloado de Commit aguardando Request!! Repositï¿½rio: " + this.getRepositoryName());
 								Thread.sleep(600 * 1000);					
 							}else{
-								System.out.println("Download de Commit Encerrado!! Repositório: " + this.getRepositoryName());
+								System.out.println("Download de Commit Encerrado!! Repositï¿½rio: " + this.getRepositoryName());
 								encerrado = true;
 								i++;
 							}
@@ -447,24 +439,24 @@ public @Data class Repositorio {
 					}
 				}	
 			}else{
-					Writer.armazenaCommits(this.getUserName(), this.getRepositoryName(), "0","Não Existe Commit");
+					Writer.armazenaCommits(this.getUserName(), this.getRepositoryName(), "0","Nï¿½o Existe Commit");
 			}
 		} catch (NoSuchPageException n){
 			//Writer.criaArquivo(criaNome(cont), buffer);
-			System.out.println("Download de Commit! Máximo de Requisições Alcançada, tentaremos novamente em 10 min");
+			System.out.println("Download de Commit! Mï¿½ximo de Requisiï¿½ï¿½es Alcanï¿½ada, tentaremos novamente em 10 min");
 			Thread.sleep(600 * 1000);
 			//return repositorios;		
 		
 		}catch(RequestException r){
 			if(r.getStatus() == 403){
-				System.out.println("Downloado de Commit aguardando Request!! Repositório: " + this.getRepositoryName());
+				System.out.println("Downloado de Commit aguardando Request!! Repositï¿½rio: " + this.getRepositoryName());
 				Thread.sleep(600 * 1000);					
 			}else{
-				System.out.println("Download de Commit Encerrado!! Repositório: " + this.getRepositoryName());
+				System.out.println("Download de Commit Encerrado!! Repositï¿½rio: " + this.getRepositoryName());
 			}
 			
 		} catch (ConnectException c){
-			System.out.println("Download de Commit! Conexão interrompida, tentaremos novamente em 1 min!!  Repositório: " + this.getRepositoryName());
+			System.out.println("Download de Commit! Conexï¿½o interrompida, tentaremos novamente em 1 min!!  Repositï¿½rio: " + this.getRepositoryName());
 			Thread.sleep(60 * 1000);
 		}
 	}
@@ -475,9 +467,9 @@ public @Data class Repositorio {
 			User user = userService.getUser(c.getCommitter().getLogin());
 			incluiContributorAjustado(user ,c.getCommit().getAuthor().getDate() , TipoContributor.DEVELOPER);
 		}catch(NullPointerException n){
-			System.out.println("Usuário não encontrado");
+			System.out.println("Usuï¿½rio nï¿½o encontrado");
 		} catch(IllegalArgumentException e){
-			System.out.println("Usuário não encontrado");
+			System.out.println("Usuï¿½rio nï¿½o encontrado");
 		}
 	}
 	
@@ -525,7 +517,7 @@ public @Data class Repositorio {
 				System.out.println(c.getName());
 			}
 		} catch (IOException e) {
-			System.out.println("Coletando Colaboradores! Máximo de Requisições Alcançada, tentaremos novamente em 10 min");
+			System.out.println("Coletando Colaboradores! Mï¿½ximo de Requisiï¿½ï¿½es Alcanï¿½ada, tentaremos novamente em 10 min");
 			Thread.sleep(600 * 1000);
 		}
 		
@@ -553,10 +545,10 @@ public @Data class Repositorio {
 	
 	public void incluiContributorAjustado(User user, Date date, TipoContributor tipo){
 		if(existeContributorAjustado(user)){
-			pegaContributorAjustado(user).incluiDataPrimeiraInteração(date, tipo);
+			pegaContributorAjustado(user).incluiDataPrimeiraInteracao(date, tipo);
 		} else {
 			Contributors contributor = new Contributors(user);
-			contributor.incluiDataPrimeiraInteração(date, tipo);
+			contributor.incluiDataPrimeiraInteracao(date, tipo);
 			this.getContributorsAjustado().add(contributor);
 		}
 	}
