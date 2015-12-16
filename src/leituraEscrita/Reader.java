@@ -245,48 +245,31 @@ public class Reader {
 		return consolidado;
 	}
 	
-	public static void consolidaLoc (String arquivo){
-		String pastaOrigem = "F:/Saidas";
-		File pastaGeral = new File (pastaOrigem);
-		File [] pastas = pastaGeral.listFiles();
-		for(File p : pastas){
-			if(p != null){
-				File [] files = p.listFiles();
-				for(File f : files){
-					if(f.getName() == "loc.txt"){
-						int loc = retiraLoc(f);
-					}
-				}
-			}
-		}
-		
-	}
 
-	public static int retiraLoc(File f) {
-		int loc = 0;
+
+	public static String retiraLoc(File f) {
 		int contValue = 0;
 		try {
 			String texto = retornaConteudo(f);
 			int index = texto.indexOf("SUM");
-			String [] linhaLoc = texto.substring(index).split("\\W");
-			
-			for(String l : linhaLoc){
-				if(!l.equals("")){
-					contValue++;
-					if(contValue == 4){
-						return Integer.parseInt(l);
+			if(index > 0){
+				String [] linhaLoc = texto.substring(index).split("\\W");
+				
+				for(String l : linhaLoc){
+					if(!l.equals("")){
+						contValue++;
+						if(contValue == 4){
+							return l;
+						}
 					}
 				}
 			}
-			
-			
-			
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
-		return loc;
+		return "NA";
 	}
 	
 

@@ -285,4 +285,13 @@ public static void printContributors(Repositorio repositorio) throws IOException
 	
 }
 
+public static void arquivoConsolidado(String arquivoConsolidado, String linha) throws IOException {
+	StringBuilder buffer = new StringBuilder();
+	
+	buffer.append(linha);
+	buffer.append(System.getProperty("line.separator"));
+	
+	escreveArquivo(arquivoConsolidado, buffer);
+}
+
 }

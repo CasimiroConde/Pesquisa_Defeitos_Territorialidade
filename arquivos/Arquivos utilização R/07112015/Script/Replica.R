@@ -1,4 +1,4 @@
-mydata = read.csv2("C:/Users/Casimiro/git/Territorialidade/arquivos/Arquivos utilização R/07112015/Repositorios.csv")
+mydata = read.csv2("C:/Users/Casimiro/git/Territorialidade/arquivos/Arquivos utilização R/07112015/RepositoriosLoc.csv")
 
 datafilter = subset(mydata, Nissue != 0)
 
@@ -15,6 +15,14 @@ wilcox.test(mydata$KB, mydata$Nissue, correct=FALSE)
 
 #BoxPlot
 boxplot(KB ~ ContemIssue, data=mydata, main="Kilobites X Issues", ylab="Kilobytes",log="y")
+
+#########Loc X numero de Issues
+wilcox.test(mydata$Loc, mydata$Nissue, correct=FALSE)
+
+#BoxPlot
+boxplot(Loc ~ ContemIssue, data=mydata, main="Loc  X Issues", ylab="Kilobytes",log="y")
+
+
 
 #########Tamanho Equipe X numero de Issues
 wilcox.test(mydata$Contributors, mydata$NIssues, correct=FALSE)
@@ -41,12 +49,27 @@ mydataissue
 mean(mydata$IssueXMB)
 boxplot(mydata$IssueXMBAjustado, horizontal=TRUE)
 
+#Number Issues / Loc
+mean(mydata$IssueXKLoc)
+median(mydata$IssueXKLocAjustado)
+boxplot(mydata$IssueXKLocAjustado,log="x", horizontal=TRUE)
+
+
+
 #Correlacao Spearman
 cor.test(mydata$MB, mydata$Nissue, method="spearman")
 
 #Scatterplot Kilobytes X NIssues
 plot(Nissue ~ MB, data=mydata, log="xy")
 abline(lm(mydata$Nissue ~ mydata$MB))
+
+#Correlacao Spearman Loc
+cor.test(mydata$Loc, mydata$Nissue, method="spearman")
+
+#Scatterplot Loc X NIssues
+plot(Nissue ~ Loc, data=mydata, log="xy")
+abline(lm(mydata$Nissue ~ mydata$Loc))
+
 
 ############RQ3
 

@@ -35,6 +35,10 @@ public class Main {
 	static String nomeArquivoContributors =  "C:/Users/Casimiro/git/Territorialidade/arquivos/listaContributors/listaContributors"+ dateFormat.format(cal.getTime()) +".txt";	
 	static String pastaLoc = "F:/Saidas";
 	
+	
+	static String arquivoOrigem = "C:/Users/Casimiro/git/Territorialidade/arquivos/Arquivos utilização R/07112015/Repositorios.csv";
+	static String arquivoConsolidado = "C:/Users/Casimiro/git/Territorialidade/arquivos/Arquivos utilização R/07112015/RepositoriosLoc.csv";
+	
 	static int TAMANHO_AMOSTRA = 9999;
 	static int INICIO = 5518;
 	
@@ -69,7 +73,7 @@ public class Main {
 		//***********Reader.executeListaComAnalise(client, TAMANHO_AMOSTRA, INICIO, consolidadoLabel, marcacoes);
 		
 		//ConsolidadorDeArquivos.consolidador();
-		ConsolidadorDeArquivos.consolidaLoc(pastaLoc);
+		ConsolidadorDeArquivos.consolidaLocDeArquivoOrigem(pastaLoc, arquivoOrigem, arquivoConsolidado);
 		
 		
 		
