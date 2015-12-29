@@ -274,7 +274,7 @@ public static void printContributors(Repositorio repositorio) throws IOException
 		buffer.append(repositorio.getUserName() + ";" + repositorio.getRepositoryName() + ";");
 		buffer.append(c.getLogin() + ";");
 		buffer.append(c.getNome() + ";");
-		buffer.append(c.getType() + ";");
+		buffer.append(c.getEmail() + ";");
 		buffer.append(c.getTipoAjustado() + ";");
 		buffer.append(c.isDeveloper() + ";");
 		buffer.append(c.isReporter() + ";");

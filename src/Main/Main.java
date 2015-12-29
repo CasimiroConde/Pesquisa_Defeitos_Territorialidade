@@ -11,6 +11,7 @@ import java.util.Calendar;
 import leituraEscrita.ConsolidadorDeArquivos;
 import leituraEscrita.Reader;
 import marcacoesIssues.LabelConsolidado;
+import marcacoesIssues.MarcacaoIssue;
 
 import org.eclipse.egit.github.core.client.GitHubClient;
 import org.eclipse.egit.github.core.client.NoSuchPageException;
@@ -39,8 +40,8 @@ public class Main {
 	static String arquivoOrigem = "C:/Users/Casimiro/git/Territorialidade/arquivos/Arquivos utilização R/07112015/Repositorios.csv";
 	static String arquivoConsolidado = "C:/Users/Casimiro/git/Territorialidade/arquivos/Arquivos utilização R/07112015/RepositoriosLoc.csv";
 	
-	static int TAMANHO_AMOSTRA = 9999;
-	static int INICIO = 5518;
+	static int TAMANHO_AMOSTRA = 1;
+	static int INICIO = -1;
 	
 	public static void main(String[] args) throws IOException, RequestException, NoSuchPageException, InterruptedException {
 		
@@ -57,7 +58,7 @@ public class Main {
 		
 		//Autentica Cliente e inicializa serviï¿½os
 		GitHubClient client = new GitHubClient();
-		client.setOAuth2Token("668e5ea312fb17429e51f12809451ec8882f7ef1");
+		client.setOAuth2Token("03bde8b64f4a8b43cdd15067cdf3a3306300a597");
 		CommitService commitService = new CommitService(client);
 		IssueService issueService = new IssueService(client);
 		UserService userService = new UserService(client);
@@ -68,12 +69,12 @@ public class Main {
 		//Inicializa Repositï¿½rios
 		//ArrayList<Repositorio> repositorios = Reader.inicializaListaRepositï¿½rios(client, TAMANHO_AMOSTRA);
 		//ArrayList<Repositorio> repositorios = Reader.executeListaSimples(client, TAMANHO_AMOSTRA);
-		//ArrayList<MarcacaoIssue> marcacoes = new ArrayList<MarcacaoIssue>();
+		ArrayList<MarcacaoIssue> marcacoes = new ArrayList<MarcacaoIssue>();
 				
-		//***********Reader.executeListaComAnalise(client, TAMANHO_AMOSTRA, INICIO, consolidadoLabel, marcacoes);
+		Reader.executeListaComAnalise(client, TAMANHO_AMOSTRA, INICIO, consolidadoLabel, marcacoes);
 		
 		//ConsolidadorDeArquivos.consolidador();
-		ConsolidadorDeArquivos.consolidaLocDeArquivoOrigem(pastaLoc, arquivoOrigem, arquivoConsolidado);
+		//ConsolidadorDeArquivos.consolidaLocDeArquivoOrigem(pastaLoc, arquivoOrigem, arquivoConsolidado);
 		
 		
 		

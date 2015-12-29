@@ -201,7 +201,7 @@ public @Data class Repositorio {
 			throws IOException {
 		try{
 			User user = userService.getUser(issue.getUser().getLogin());
-			this.incluiContributorAjustado(user, issue.getCreatedAt(), TipoContributor.REPORTER);
+			this.incluiContributorAjustado(user.getEmail(), user.getName(), user.getLogin(), issue.getCreatedAt(), TipoContributor.REPORTER);
 		} catch (NullPointerException n){
 			System.out.println("Usu�rio n�o encontrado");
 		}
@@ -465,7 +465,7 @@ public @Data class Repositorio {
 			RepositoryCommit c) throws IOException {
 		try{
 			User user = userService.getUser(c.getCommitter().getLogin());
-			incluiContributorAjustado(user ,c.getCommit().getAuthor().getDate() , TipoContributor.DEVELOPER);
+			incluiContributorAjustado(user.getEmail(), user.getName(), user.getLogin() ,c.getCommit().getAuthor().getDate() , TipoContributor.DEVELOPER);
 		}catch(NullPointerException n){
 			System.out.println("Usu�rio n�o encontrado");
 		} catch(IllegalArgumentException e){
@@ -523,31 +523,35 @@ public @Data class Repositorio {
 		
 	}
 	
-	public boolean existeContributorAjustado(User user){
+	public boolean existeContributorAjustado(String email){
 		if(this.getContributorsAjustado().isEmpty())
 			return false;
 		
 		for(Contributors c : this.getContributorsAjustado()){
-			if(c.getLogin().equals(user.getLogin())){
-				return true;
+			if(c.getEmail() != null){
+				if(c.getEmail().equals(email)){
+					return true;
+				}
 			}
 		}
 		return false;
 	}
-	public Contributors pegaContributorAjustado(User user){
+	public Contributors pegaContributorAjustado(String email){
 		for(Contributors c : this.getContributorsAjustado()){
-			if(c.getLogin().equals(user.getLogin())){
-				return c;
+			if(c.getEmail() != null){
+				if(c.getEmail().equals(email)){
+					return c;
+				}
 			}
 		}
 		return null;
 	}
 	
-	public void incluiContributorAjustado(User user, Date date, TipoContributor tipo){
-		if(existeContributorAjustado(user)){
-			pegaContributorAjustado(user).incluiDataPrimeiraInteracao(date, tipo);
+	public void incluiContributorAjustado(String email, String name, String login, Date date, TipoContributor tipo){
+		if(existeContributorAjustado(email)){
+			pegaContributorAjustado(email).incluiDataPrimeiraInteracao(date, tipo);
 		} else {
-			Contributors contributor = new Contributors(user);
+			Contributors contributor = new Contributors(email, name, login);
 			contributor.incluiDataPrimeiraInteracao(date, tipo);
 			this.getContributorsAjustado().add(contributor);
 		}

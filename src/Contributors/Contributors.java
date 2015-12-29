@@ -11,16 +11,16 @@ public @Data class Contributors {
 	private String nome;
 	private String login;
 	private TipoContributor tipoAjustado;
-	private String type;
 	private Date dataPrimeiraInteracao;
+	private String email;
 	private boolean isDeveloper;
 	private boolean isReporter;
 	
-	public Contributors(User user){
-		this.nome = user.getName();
-		this.login = user.getLogin();
-		this.type = user.getType();
+	public Contributors(String email, String name, String login){
+		this.nome = name;
+		this.login = login;
 		this.tipoAjustado = null;
+		this.email = email;
 		this.dataPrimeiraInteracao = null;
 		this.isDeveloper = false;
 		this.isReporter = false;
