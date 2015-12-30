@@ -16,6 +16,7 @@ import marcacoesIssues.MarcacaoIssue;
 import marcacoesIssues.TipoMarcacao;
 
 import org.eclipse.egit.github.core.Issue;
+import org.eclipse.egit.github.core.Label;
 import org.eclipse.egit.github.core.User;
 import org.eclipse.egit.github.core.client.GitHubClient;
 import org.eclipse.egit.github.core.client.RequestException;
@@ -38,7 +39,8 @@ public class Writer {
 	static String nomeArquivoMarcacaoConsolidado =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseMarcacao/Consolidado/Analise_Marcacao_Consolidado_"+ dateFormat.format(cal.getTime()) +".txt";	
 	static String nomeArquivoListaIssue =  "C:/Users/Casimiro/git/Territorialidade/arquivos/listaIssue/listaIssue"+ dateFormat.format(cal.getTime()) +".txt";	
 	static String nomeArquivoContributors =  "C:/Users/Casimiro/git/Territorialidade/arquivos/listaContributors/listaContributors"+ dateFormat.format(cal.getTime()) +".txt";	
-
+	static String nomeArquivoMarcacaoPorIssueLabel =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseMarcacao/PorIssue/Analise_Marcacao_Por_Issue_Label"+ dateFormat.format(cal.getTime()) +".txt";	
+	static String nomeArquivoMarcacaoPorIssueMilestone =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseMarcacao/PorIssue/Analise_Marcacao_Por_Issue_Milestone"+ dateFormat.format(cal.getTime()) +".txt";	
 	
 	
 	
@@ -137,8 +139,14 @@ public static void printConteudoRepositorioIssuesCSV(Repositorio repositorio, in
 						buffer.append(user.getName() + ";");
 						buffer.append(i.getCreatedAt()+ ";");
 						buffer.append(i.getClosedAt()+ ";");
+						buffer.append(i.getTitle() + ";");
+						buffer.append(i.getComments() + ";");
+						buffer.append(i.getBodyText() + ";");
+						buffer.append(i.getUpdatedAt() + ";");
 						buffer.append(repositorio.calculaTimeToFixIssue(i) + ";");
 						buffer.append(System.getProperty("line.separator"));
+						printMarcacoesPorIssueLabel(i, nomeArquivoMarcacaoPorIssueLabel);
+						printMarcacoesPorIssueMilestone(i, nomeArquivoMarcacaoPorIssueMilestone);
 						finished = true;
 					}catch(RequestException e) {
 						if(e.getStatus() == 403){
@@ -155,6 +163,43 @@ public static void printConteudoRepositorioIssuesCSV(Repositorio repositorio, in
 	}		
 	escreveArquivo(nomeArquivoListaIssue, buffer);
 	
+}
+
+private static void printMarcacoesPorIssueMilestone(Issue i,
+		String nomeArquivoMarcacaoPorIssueMilestone2) throws IOException {
+	StringBuilder buffer = new StringBuilder();
+	if(i.getMilestone() != null){
+		buffer.append(i.getId() + ";");
+		buffer.append(i.getNumber() + ";");
+		buffer.append("MILESTONE;");
+		buffer.append(i.getMilestone().getNumber() + ";");
+		buffer.append(i.getMilestone().getDescription() + ";");
+		buffer.append(i.getMilestone().getOpenIssues() + ";");
+		buffer.append(i.getMilestone().getClosedIssues() + ";");
+		buffer.append(i.getMilestone().getDueOn() + ";");
+		buffer.append(i.getMilestone().getState() + ";");
+		buffer.append(i.getMilestone().getTitle() + ";");
+		buffer.append(i.getMilestone().getCreatedAt() + ";");
+		buffer.append(i.getMilestone().getCreator() + ";");
+		buffer.append(System.getProperty("line.separator"));
+	
+		escreveArquivo(nomeArquivoMarcacaoPorIssueMilestone2, buffer); 
+	}
+}
+
+private static void printMarcacoesPorIssueLabel(Issue i,
+		String nomeArquivoMarcacaoPorIssue2) throws IOException {
+	StringBuilder buffer = new StringBuilder();
+	
+	for(Label l : i.getLabels()){
+		buffer.append(i.getId() + ";");
+		buffer.append(i.getNumber() + ";");
+		buffer.append("LABEL;");
+		buffer.append(l.getName() + ";");
+		buffer.append(l.getColor() + ";");
+		buffer.append(System.getProperty("line.separator"));
+	}
+	escreveArquivo(nomeArquivoMarcacaoPorIssue2, buffer); 
 }
 
 public static void printConteudoTodosRepositoriosCSV(int totalOpenIssue, int totalClosedIssue, int totalOpenIssueBug, int totalClosedIssueBug, int totalContadorIssuesCorrigidosCommits, int totalContadorIssuesBugCorrigidosCommits, double totalPorcentualIssuesFechadosCommit, double totalPorcentualIssuesBugFechadosCommit, double totalPorcentualIssuesBugFechadosCommitTotal) throws IOException{
@@ -211,7 +256,7 @@ public static void printConteudoTodosRepositoriosCSV(int totalOpenIssue, int tot
 			buffer.append("Listas de Labels:" + System.getProperty("line.separator"));
 			for(MarcacaoIssue m : repositorio.getMarcacaoIssue()){
 				if(m.getTipo().equals(TipoMarcacao.LABEL)){
-					buffer.append("Tipo Marca��o" + m.getTipo() + "Nome Label: " + m.getNome() + " ; Quantidade: " + m.getQuantidade() + System.getProperty("line.separator"));
+					buffer.append("Tipo Marcacao" + m.getTipo() + "Nome Label: " + m.getNome() + " ; Quantidade: " + m.getQuantidade() + System.getProperty("line.separator"));
 				}
 			}
 			

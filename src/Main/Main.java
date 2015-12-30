@@ -58,7 +58,7 @@ public class Main {
 		
 		//Autentica Cliente e inicializa servi�os
 		GitHubClient client = new GitHubClient();
-		client.setOAuth2Token("03bde8b64f4a8b43cdd15067cdf3a3306300a597");
+		client.setOAuth2Token("3e99d4aacfc05993923f4869600fe8ee71670149");
 		CommitService commitService = new CommitService(client);
 		IssueService issueService = new IssueService(client);
 		UserService userService = new UserService(client);
