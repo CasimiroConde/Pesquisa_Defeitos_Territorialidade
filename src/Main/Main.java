@@ -27,18 +27,18 @@ public class Main {
 	static Calendar cal = Calendar.getInstance();
 	
 	static Repositorio[] r = new Repositorio[20];
-	static String nomeArquivoAnalise =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseRepo/saida_" + dateFormat.format(cal.getTime())+ ".txt";	
-	static String nomeArquivoAnaliseCSV =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseRepo/saida_" + dateFormat.format(cal.getTime())+ ".csv";	
-	static String nomeArquivoAnaliseCSVConsolidado =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseRepoConsolidado/saida_" + dateFormat.format(cal.getTime())+ "_Consolidado"+ ".csv";	
-	static String nomeArquivoMarcacaoAnalitico =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseMarcacao/Analise_Marcacao_" + dateFormat.format(cal.getTime())+ ".txt";	
-	static String nomeArquivoMarcacaoConsolidado =  "C:/Users/Casimiro/git/Territorialidade/arquivos/analiseMarcacao/Consolidado/Analise_Marcacao_Consolidado_"+ dateFormat.format(cal.getTime()) +".txt";	
-	static String nomeArquivoListaIssue =  "C:/Users/Casimiro/git/Territorialidade/arquivos/listaIssue/listaIssue"+ dateFormat.format(cal.getTime()) +".txt";	
-	static String nomeArquivoContributors =  "C:/Users/Casimiro/git/Territorialidade/arquivos/listaContributors/listaContributors"+ dateFormat.format(cal.getTime()) +".txt";	
+	static String nomeArquivoAnalise =  "//arquivos//analiseRepo//saida_" + dateFormat.format(cal.getTime())+ ".txt";	
+	static String nomeArquivoAnaliseCSV =  "//arquivos//analiseRepo//saida_" + dateFormat.format(cal.getTime())+ ".csv";	
+	static String nomeArquivoAnaliseCSVConsolidado =  "//arquivos//analiseRepoConsolidado//saida_" + dateFormat.format(cal.getTime())+ "_Consolidado"+ ".csv";	
+	static String nomeArquivoMarcacaoAnalitico =  "//arquivos//analiseMarcacao//Analise_Marcacao_" + dateFormat.format(cal.getTime())+ ".txt";	
+	static String nomeArquivoMarcacaoConsolidado =  "//arquivos//analiseMarcacao//Consolidado//Analise_Marcacao_Consolidado_"+ dateFormat.format(cal.getTime()) +".txt";	
+	static String nomeArquivoListaIssue =  "//arquivos//listaIssue//listaIssue"+ dateFormat.format(cal.getTime()) +".txt";	
+	static String nomeArquivoContributors =  "//arquivos//listaContributors//listaContributors"+ dateFormat.format(cal.getTime()) +".txt";	
 	static String pastaLoc = "F:/Saidas";
 	
 	
-	static String arquivoOrigem = "C:/Users/Casimiro/git/Territorialidade/arquivos/Arquivos utilização R/07112015/Repositorios.csv";
-	static String arquivoConsolidado = "C:/Users/Casimiro/git/Territorialidade/arquivos/Arquivos utilização R/07112015/RepositoriosLoc.csv";
+	static String arquivoOrigemInclusaoLoc = "//arquivos//Arquivos utilização R//07112015//Repositorios.csv";
+	static String arquivoConsolidadoInclusaoLoc = "//arquivos//Arquivos utilização R//07112015//RepositoriosLoc.csv";
 	
 	static int TAMANHO_AMOSTRA = 1;
 	static int INICIO = -1;
@@ -58,7 +58,7 @@ public class Main {
 		
 		//Autentica Cliente e inicializa serviï¿½os
 		GitHubClient client = new GitHubClient();
-		client.setOAuth2Token("3e99d4aacfc05993923f4869600fe8ee71670149");
+		client.setOAuth2Token("06e499d3cc44343fc04ecdda45463ca62efedec6");
 		CommitService commitService = new CommitService(client);
 		IssueService issueService = new IssueService(client);
 		UserService userService = new UserService(client);

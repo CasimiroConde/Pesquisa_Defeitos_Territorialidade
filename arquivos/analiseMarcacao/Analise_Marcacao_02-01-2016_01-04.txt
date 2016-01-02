@@ -1,0 +1,6 @@
+
+________________||||Reposit�rio: grit Cont: 0||||_________________________
+Listas de Labels:
+Tipo MarcacaoLABELNome Label: BUG ; Quantidade: 4
+Tipo MarcacaoLABELNome Label: FEATURE ; Quantidade: 1
+Listas de Milestones:

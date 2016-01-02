@@ -523,23 +523,23 @@ public @Data class Repositorio {
 		
 	}
 	
-	public boolean existeContributorAjustado(String email){
+	public boolean existeContributorAjustado(String login){
 		if(this.getContributorsAjustado().isEmpty())
 			return false;
 		
 		for(Contributors c : this.getContributorsAjustado()){
-			if(c.getEmail() != null){
-				if(c.getEmail().equals(email)){
+			if(c.getLogin() != null){
+				if(c.getLogin().equals(login)){
 					return true;
 				}
 			}
 		}
 		return false;
 	}
-	public Contributors pegaContributorAjustado(String email){
+	public Contributors pegaContributorAjustado(String login){
 		for(Contributors c : this.getContributorsAjustado()){
-			if(c.getEmail() != null){
-				if(c.getEmail().equals(email)){
+			if(c.getLogin() != null){
+				if(c.getLogin().equals(login)){
 					return c;
 				}
 			}
@@ -548,11 +548,11 @@ public @Data class Repositorio {
 	}
 	
 	public void incluiContributorAjustado(String email, String name, String login, Date date, TipoContributor tipo){
-		if(existeContributorAjustado(email)){
-			pegaContributorAjustado(email).incluiDataPrimeiraInteracao(date, tipo);
+		if(existeContributorAjustado(login)){
+			pegaContributorAjustado(login).ajusteTipiicacao(date, tipo);
 		} else {
 			Contributors contributor = new Contributors(email, name, login);
-			contributor.incluiDataPrimeiraInteracao(date, tipo);
+			contributor.ajusteTipiicacao(date, tipo);
 			this.getContributorsAjustado().add(contributor);
 		}
 	}

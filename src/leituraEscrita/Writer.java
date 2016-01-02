@@ -11,6 +11,7 @@ import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.Date;
 
 import marcacoesIssues.MarcacaoIssue;
 import marcacoesIssues.TipoMarcacao;
@@ -21,6 +22,7 @@ import org.eclipse.egit.github.core.User;
 import org.eclipse.egit.github.core.client.GitHubClient;
 import org.eclipse.egit.github.core.client.RequestException;
 import org.eclipse.egit.github.core.service.UserService;
+import org.joda.time.DateTime;
 
 import Contributors.Contributors;
 
@@ -136,6 +138,7 @@ public static void printConteudoRepositorioIssuesCSV(Repositorio repositorio, in
 						UserService userService = new UserService(client);
 						User user = userService.getUser(i.getUser().getLogin());
 						buffer.append(i.getId() + ";");
+						buffer.append(i.getNumber() + ";");
 						buffer.append(user.getName() + ";");
 						buffer.append(i.getCreatedAt()+ ";");
 						buffer.append(i.getClosedAt()+ ";");
@@ -145,8 +148,8 @@ public static void printConteudoRepositorioIssuesCSV(Repositorio repositorio, in
 						buffer.append(i.getUpdatedAt() + ";");
 						buffer.append(repositorio.calculaTimeToFixIssue(i) + ";");
 						buffer.append(System.getProperty("line.separator"));
-						printMarcacoesPorIssueLabel(i, nomeArquivoMarcacaoPorIssueLabel);
-						printMarcacoesPorIssueMilestone(i, nomeArquivoMarcacaoPorIssueMilestone);
+						printMarcacoesPorIssueLabel(repositorio.getUserName(), repositorio.getRepositoryName(), i, nomeArquivoMarcacaoPorIssueLabel);
+						printMarcacoesPorIssueMilestone(repositorio.getUserName(), repositorio.getRepositoryName(), i, nomeArquivoMarcacaoPorIssueMilestone);
 						finished = true;
 					}catch(RequestException e) {
 						if(e.getStatus() == 403){
@@ -165,10 +168,12 @@ public static void printConteudoRepositorioIssuesCSV(Repositorio repositorio, in
 	
 }
 
-private static void printMarcacoesPorIssueMilestone(Issue i,
+private static void printMarcacoesPorIssueMilestone(String userName, String repositoryName, Issue i,
 		String nomeArquivoMarcacaoPorIssueMilestone2) throws IOException {
 	StringBuilder buffer = new StringBuilder();
 	if(i.getMilestone() != null){
+		buffer.append(userName + ";");
+		buffer.append(repositoryName + ";");
 		buffer.append(i.getId() + ";");
 		buffer.append(i.getNumber() + ";");
 		buffer.append("MILESTONE;");
@@ -187,11 +192,13 @@ private static void printMarcacoesPorIssueMilestone(Issue i,
 	}
 }
 
-private static void printMarcacoesPorIssueLabel(Issue i,
+private static void printMarcacoesPorIssueLabel(String userName, String repositoryName, Issue i,
 		String nomeArquivoMarcacaoPorIssue2) throws IOException {
 	StringBuilder buffer = new StringBuilder();
 	
 	for(Label l : i.getLabels()){
+		buffer.append(userName + ";");
+		buffer.append(repositoryName + ";");
 		buffer.append(i.getId() + ";");
 		buffer.append(i.getNumber() + ";");
 		buffer.append("LABEL;");

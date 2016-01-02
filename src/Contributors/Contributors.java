@@ -26,20 +26,23 @@ public @Data class Contributors {
 		this.isReporter = false;
 	}
 	
-	public void incluiDataPrimeiraInteracao(Date data, TipoContributor tipo){
+	public void ajusteTipiicacao(Date data, TipoContributor tipo){
 		if(this.dataPrimeiraInteracao == null){
 			this.dataPrimeiraInteracao = data;
 			this.tipoAjustado = tipo;
 		}
 		else if(this.dataPrimeiraInteracao.after(data)){
 			this.dataPrimeiraInteracao = data;
-			this.tipoAjustado = tipo;
 		}
 		
 		if(tipo.equals(TipoContributor.REPORTER)){
 			this.isReporter = true;
 		} else if (tipo.equals(TipoContributor.DEVELOPER)){
 			this.isDeveloper = true;
+		}
+		
+		if(this.isDeveloper){
+			this.setTipoAjustado(TipoContributor.DEVELOPER);
 		}
 		
 	}
