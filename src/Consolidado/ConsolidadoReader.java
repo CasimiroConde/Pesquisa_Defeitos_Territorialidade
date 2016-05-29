@@ -6,9 +6,11 @@ import java.io.IOException;
 import java.io.Reader;
 import java.io.StringReader;
 
+import consolidadoWriter.ListaRepositorioConsolidado;
+
 /**
  * Classe que representa um leitor de arquivos de entradas consolidadas
- * 
+ *
  * @author marciobarros
  */
 public class ConsolidadoReader
@@ -16,7 +18,7 @@ public class ConsolidadoReader
 	/**
 	 * Carrega uma lista de entradas consolidadas a partir de um arquivo
 	 */
-	public ListaEntradaConsolidado loadFromFile(String filename) throws IOException
+	public ListaRepositorioConsolidado loadFromFile(String filename) throws IOException
 	{
 		return loadFromReader(new FileReader(filename));
 	}
@@ -24,7 +26,7 @@ public class ConsolidadoReader
 	/**
 	 * Carrega uma lista de entradas consolidadas a partir de uma string
 	 */
-	public ListaEntradaConsolidado loadFromString(String content) throws IOException
+	public ListaRepositorioConsolidado loadFromString(String content) throws IOException
 	{
 		return loadFromReader(new StringReader(content));
 	}
@@ -32,47 +34,47 @@ public class ConsolidadoReader
 	/**
 	 * Carrega o conteudo de uma lista de entradas consolidadas
 	 */
-	private ListaEntradaConsolidado loadFromReader(Reader reader) throws IOException
+	private ListaRepositorioConsolidado loadFromReader(Reader reader) throws IOException
 	{
 		BufferedReader br = new BufferedReader(reader);
-		ListaEntradaConsolidado lista = new ListaEntradaConsolidado();
-	
+		ListaRepositorioConsolidado lista = new ListaRepositorioConsolidado();
+
 		try
 		{
 			String line = br.readLine();
-			
+
 			if (line != null)
 				line = br.readLine();
 
 			while (line != null)
 			{
-				EntradaConsolidado entrada = loadConsolidatedEntry(line);
-				
+				RepositorioConsolidado entrada = loadConsolidatedEntry(line);
+
 				if (entrada != null)
 					lista.add(entrada);
-				
+
 				line = br.readLine();
 			}
-		} 
+		}
 		finally
 		{
 			br.close();
 		}
-		
+
 		return lista;
 	}
 
 	/**
 	 * Carrega uma linha do arquivo de entradas consolidadas
 	 */
-	private EntradaConsolidado loadConsolidatedEntry(String line)
+	private RepositorioConsolidado loadConsolidatedEntry(String line)
 	{
 		String[] tokens = line.split(";");
-		
+
 		if (tokens.length < 22)
 			return null;
-		
-		EntradaConsolidado entrada = new EntradaConsolidado();
+
+		RepositorioConsolidado entrada = new RepositorioConsolidado();
 		entrada.setIndice(converteInteiro(tokens[0]));
 		entrada.setUsuario(tokens[1]);
 		entrada.setRepositorio(tokens[2]);
@@ -95,7 +97,7 @@ public class ConsolidadoReader
 		entrada.setForks(converteInteiro(tokens[19]));
 		entrada.setWatchers(converteInteiro(tokens[20]));
 		entrada.setSizeInKilobytes(converteInteiro(tokens[21]));
-		return entrada;		
+		return entrada;
 	}
 
 	/**

@@ -4,6 +4,8 @@ import java.util.ArrayList;
 
 import org.eclipse.egit.github.core.Issue;
 import org.eclipse.egit.github.core.Label;
+import org.joda.time.DateTime;
+import org.joda.time.Days;
 
 public class MetodosAuxiliaresLabel {
 	public static void insereMarcacaoMilestoneRepositorio(ArrayList<MarcacaoIssue> marcacaoIssue, Issue issue) {
@@ -55,6 +57,7 @@ public class MetodosAuxiliaresLabel {
 			String labelNormatizada = normatizaLabel(labels, l.getName().trim());
 			if(marcacaoIssue.isEmpty()){
 				MarcacaoIssue marcacao = new MarcacaoIssue(labelNormatizada, TipoMarcacao.LABEL);
+				marcacao.incrementaTimeToFix(Days.daysBetween(new DateTime(issue.getCreatedAt()),new DateTime(issue.getClosedAt())).getDays());
 				marcacaoIssue.add(marcacao);
 			} else {
 				boolean incrementadoLabel = false;
@@ -62,12 +65,14 @@ public class MetodosAuxiliaresLabel {
 					if(m.getTipo() == TipoMarcacao.LABEL){
 						if(m.getNome().equals(labelNormatizada)){	
 							m.incrementaContador();
+							m.incrementaTimeToFix(Days.daysBetween(new DateTime(issue.getCreatedAt()),new DateTime(issue.getClosedAt())).getDays());
 							incrementadoLabel = true;
 						}
 					}
 				}
 				if(!incrementadoLabel){
 					MarcacaoIssue marcacao = new MarcacaoIssue(labelNormatizada, TipoMarcacao.LABEL);
+					marcacao.incrementaTimeToFix(Days.daysBetween(new DateTime(issue.getCreatedAt()),new DateTime(issue.getClosedAt())).getDays());
 					marcacaoIssue.add(marcacao);
 				}
 			}
@@ -79,7 +84,8 @@ public class MetodosAuxiliaresLabel {
 			for(MarcacaoIssue mi : marcacaoRepositorio){
 				String labelNormatizada = normatizaLabel(labels, mi.getNome());
 				if(marcacaoIssue.isEmpty()){
-					MarcacaoIssue marcacao = new MarcacaoIssue(labelNormatizada, TipoMarcacao.LABEL);
+					MarcacaoIssue marcacao = new MarcacaoIssue(labelNormatizada, TipoMarcacao.LABEL, mi.getQuantidade());
+					marcacao.incrementaTimeToFix(mi.getTimeToFix());
 					marcacaoIssue.add(marcacao);
 				} else {
 					boolean incrementadoLabel = false;
@@ -87,12 +93,14 @@ public class MetodosAuxiliaresLabel {
 						if(m.getTipo() == TipoMarcacao.LABEL){
 							if(m.getNome().equals(labelNormatizada)){	
 								m.acrescentaNumeroContador(mi.getQuantidade());
+								m.incrementaTimeToFix(mi.getTimeToFix());
 								incrementadoLabel = true;
 							}
 						}
 					}
 					if(!incrementadoLabel){
 						MarcacaoIssue marcacao = new MarcacaoIssue(labelNormatizada, TipoMarcacao.LABEL);
+						marcacao.incrementaTimeToFix(mi.getTimeToFix());
 						marcacaoIssue.add(marcacao);
 					}
 				}

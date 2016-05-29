@@ -3,7 +3,7 @@ package Contributors;
 import lombok.Getter;
 
 public enum TipoContributor {
-	REPORTER("reporter"), DEVELOPER("milestone");
+	REPORTER("reporter"), DEVELOPER("developer");
 	
 	private @Getter String nome;
 

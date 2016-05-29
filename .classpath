@@ -10,6 +10,6 @@
 	<classpathentry kind="lib" path="JARs/json-lib-2.4-jdk15.jar"/>
 	<classpathentry kind="lib" path="JARs/org.eclipse.egit.github.core-2.1.5.jar"/>
 	<classpathentry kind="lib" path="JARs/joda-time-2.4.jar"/>
-	<classpathentry kind="lib" path="JARs/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/lombok.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

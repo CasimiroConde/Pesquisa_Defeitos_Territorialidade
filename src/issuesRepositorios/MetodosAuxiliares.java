@@ -10,6 +10,8 @@ import marcacoesIssues.TipoMarcacao;
 
 import org.eclipse.egit.github.core.Label;
 
+import Consolidado.LabelsIssueConsolidado;
+
 public class MetodosAuxiliares {
 	
 	public static boolean ePalavraChave(String mensagem){
@@ -73,6 +75,15 @@ public class MetodosAuxiliares {
 		} catch (NullPointerException n){
 			System.out.println("An�lise de Marca��o pulada!");
 		}
+	}
+
+	public static boolean eBug(ArrayList<LabelsIssueConsolidado> labels) {
+
+		for(LabelsIssueConsolidado l : labels){
+			if(l.getLabel().toLowerCase().equals("bug"))
+			return true;
+		}
+		return false;
 	}
 	
 } 

@@ -6,8 +6,8 @@ import java.io.IOException;
 
 import org.junit.Test;
 
+import consolidadoWriter.ListaRepositorioConsolidado;
 import Consolidado.ConsolidadoReader;
-import Consolidado.ListaEntradaConsolidado;
 
 public class TestConsolidadoReader
 {
@@ -28,7 +28,7 @@ public class TestConsolidadoReader
 	@Test
 	public void testSimples() throws IOException
 	{
-		ListaEntradaConsolidado lista = new ConsolidadoReader().loadFromString(EXEMPLOS);
+		ListaRepositorioConsolidado lista = new ConsolidadoReader().loadFromString(EXEMPLOS);
 		assertEquals(11, lista.size());
 		
 		assertEquals("mojombo", lista.get(0).getUsuario());
